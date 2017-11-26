@@ -9,7 +9,7 @@ Note d'intention
 Résumé
 ------
 
-*Turing test* est une œuvre théâtrale où sont conviées plusieurs techniques et pratiques artistiques.
+*Turing Test* est une œuvre théâtrale où sont conviées plusieurs techniques et pratiques artistiques.
 
 La magie
 --------
