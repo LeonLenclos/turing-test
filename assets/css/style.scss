@@ -8,6 +8,14 @@ h1.title {
   font-size : 16px;
 }
 
+.markdown-body h1 {
+    text-align : center;
+}
+.markdown-body h2 {
+    font-size: 20px;
+    color: #000;
+}
+
 .tagline, footer {
   font-size: 12px;
 }
@@ -22,6 +30,6 @@ a {
 }
 
 a:hover {
-  color : #808080;
+  background-color : #696969;
   text-decoration : none;
 }
