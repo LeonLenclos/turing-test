@@ -42,6 +42,6 @@ Au départ un important travail de programmation permet à Alan de soutenir une 
 Citation
 --------
 
-"Un robot est conçu comme un esclave et un esclave finit toujours par se révolter."
+>  Un robot est conçu comme un esclave et un esclave finit toujours par se révolter.
 
 
