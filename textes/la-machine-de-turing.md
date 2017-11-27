@@ -1,4 +1,4 @@
-LA MACHINE DE TURING
+La machine de Turing
 ====================
 
 Type
@@ -11,7 +11,7 @@ Retour sur le concept de machine de Turing et sur le contexte de son invention.
 
 Citation
 --------
- "We may compare a man in the process of computing a real number to a machine ... "
+ > We may compare a man in the process of computing a real number to a machine...
  
  [Alan Turing](http://www.thocp.net/biographies/papers/turing_oncomputablenumbers_1936.pdf)
 
