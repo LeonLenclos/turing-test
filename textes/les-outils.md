@@ -9,6 +9,8 @@ Note d'intention
 Résumé
 ------
 
+Reflexion sur la nature des outils que nous uttilisons pour produire des son et des images.
+
 S'emparer de ses outils
 -----------------------
 
