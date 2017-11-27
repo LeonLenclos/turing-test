@@ -3,11 +3,12 @@ La machine de Turing
 
 Type
 ----
-Texte theorique
+Texte théorique
 
 Résumé
 ------
-Retour sur le concept de machine de Turing et sur le contexte de son invention.
+Retour sur le concept de machine de Turing, sur le contexte de son invention et sur certains liens entre informatique et mathématiques.
+
 
 Citation
 --------
