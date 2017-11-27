@@ -13,7 +13,7 @@ L'ensemble des textes consultable à cette adresse sont placés sous [licence li
 Sommaire
 --------
 
--  [Présentation du projet de création](presentation-du-projet-de-creation.md) - Intentions, motivations, hypothèses de recherche
+-  [Présentation du projet de création](presentation-du-projet-de-creation.md) - Intentions, motivations, hypothèses de recherche.
 -  [Pratiques croisées](pratiques-croisees.md) - Turing Test est une œuvre théâtrale où sont conviées plusieurs techniques et pratiques artistiques.
 -  [Programme un humain](programme-un-humain.md) - Un jeu où un humain devient un robot.
 -  [Éthique](ethique.md) - Rapide aperçu des questions ethiques que posent l'avénement de l'intelligence artificielle.
