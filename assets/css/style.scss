@@ -4,9 +4,18 @@
 @import "{{ site.theme }}";
 
 .title {
-  font-family : inherit;
+  font-family: Arial, Arial, Helvetica, sans-serif;
 }
 
 body {
   background : #fff;
+}
+
+a {
+  color : #696969;
+  font-weight : bold;
+}
+
+a:hover {
+  color : #808080;
 }
