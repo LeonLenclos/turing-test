@@ -8,6 +8,10 @@ h1.title {
   font-size : 16px;
 }
 
+nav {
+  text-align : center;
+}
+
 .markdown-body h1 {
     text-align : center;
 }
@@ -32,4 +36,5 @@ a {
 a:hover {
   background-color : #696969;
   text-decoration : none;
+  color : #fff;
 }
