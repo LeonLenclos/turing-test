@@ -32,9 +32,19 @@ Rédaction
 
 Alors d'abord je propose qu'on écrive tout en [Markdown](https://fr.wikipedia.org/wiki/Markdown) c'est un moyen très simple de faire de l'ultra simple mise en page très légèrement. En plus c'est très bien pris en charge par Github. sur le site que les gens visiteront ce sera transformé en html avec une belle mise en page.
 
-Vous trouverez facilement les détails de comment ça s'uttilise. En attendant ce document est écrit en markdown donc ça vous donne une idée. Vous voyez des titres de premier niveau, des titres de deuxième niveau, des liens, etc. Vous remarquerez qu'on laisse une ligne vide entre chaque ellements et paragraphes.
+Vous trouverez facilement les détails de comment ça s'uttilise. En attendant ce document est écrit en markdown, cliquez sur "Raw" ou sur le petit crayon pour vous donner une idée. Vous voyez des titres de premier niveau, des titres de deuxième niveau, des liens, etc. Vous remarquerez qu'on laisse une ligne vide entre chaque ellements et paragraphes.
 
-Je vous propose qu'on définisse un standard pour les fichiers. regardez les textes que j'ai déjà rentré, si ça vous convient on fait comme ça pour tous les textes.
+     Titre
+     =====
+
+     Titre de second niveau
+     ----------------------
+
+     [Lien](http://adresse.du.lien)
+     
+     Un simple paragraphe.
+
+Je vous propose qu'on définisse un standard pour les fichiers. regardez [les textes que j'ai déjà rentrés](https://github.com/LeonLenclos/turing-test/tree/master/textes), si ça vous convient on fait comme ça pour tous les textes.
 
 Modifier un fichier
 -------------------
@@ -55,17 +65,17 @@ Si on est pas sûr de son commit on peut creer une nouvelle branche en cochant "
 Branch
 ------
 
-on choisi un nom pour sa branche, dans le bouton, "commit" s'est transformé en "propose", on clic
+on choisi un nom pour sa branche. dans le bouton, "commit" s'est transformé en "propose", on clic
 
-on se retrouve sur une page un peu compliquée, une nouvelle branche a étée crée on vous propose de faire maintenant une pull request : dire aux autres : peux-ton faire que mes modifaction rejoignent la branche principale. Vous pouvez le faire maintenant, ou plus tard si vous n'avez pas fini vos modifs.
+on se retrouve sur une page un peu compliquée, une nouvelle branche a étée crée on vous propose de faire maintenant une pull request : dire aux autres : "peux-ton faire que mes modifaction rejoignent la branche principale ?". Vous pouvez le faire maintenant, ou plus tard si vous n'avez pas fini vos modifs.
 
-retournez sur la page principale du repo on voit au dessus des fichiers un menu déroulant "Branch:master" vous pouvez visitez la branche que vous venez de créer en cliquant la dessus.
+retournez sur la page principale du repo on voit au dessus des fichiers un menu déroulant "Branch:master" vous pouvez visitez la branche que vous venez de créer en cliquant là-dessus.
 
 si vous n'avez pas encore fait la pull request, il y a un bouton "compare & pull request"
 
 retournez sur la page principale du repo on voit que l'on est depuis tout à l'heure dans l'onglet "code"
 
-l'onglet "Pull request" permet de voir les pull request en cours. Quand on clic sur une pull request on peut la commenter pour en discuter. on peut cliquer sur "merge" pour fusioner avec la branch master. on nous proose ensuite "Delete branch" bien de le faire si on a plus besoin de la branch
+l'onglet "Pull request" permet de voir les pull request en cours. Quand on clic sur une pull request on peut la commenter pour en discuter. on peut cliquer sur "merge" pour fusioner avec la branch master, on nous propose ensuite "Delete branch", c'est bien de le faire si on a plus besoin de la branch
 
 
 Autres
