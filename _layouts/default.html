@@ -23,7 +23,7 @@
       <h1 class="title">{{ site.title | default: site.github.repository_name }}</h1>
     </header>
     <div id="container">
-      <!-- peut etre du texte ici -->
+      <a href="https://leonlenclos.github.io/turing-test/textes/">Retour au sommaire</a> - <a href="http://cienokill.fr/">Visiter le site de la Cie Nokill</a> - <a href="{{ site.github.repository_url }}">Retrouver ces textes sur Github</a>
       <div id="main" role="main">
         <div>
         </div>
@@ -33,13 +33,8 @@
       </div>
     </div>
     <footer>
-      <a href="{{ site.github.repository_url }}">Voir {{ site.title | default: site.github.repository_name }} sur GitHub</a>
-    </footer>
-  </div>
-  <div class="current-section">
-    <a href="#top">Scroll to top</a>
-    <a href="{{ site.github.tar_url }}" class="tar">tar</a><a href="{{ site.github.zip_url }}" class="zip">zip</a><a href="" class="code">source code</a>
-    <p class="name"></p>
+      <!-- mettre un lien vers la license -->
+   </footer>
   </div>
 
   {% if site.google_analytics %}
