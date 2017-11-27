@@ -9,6 +9,8 @@ Texte théorique
 Résumé
 ------
 
+Rapide aperçu des questions ethiques que posent l'avénement de l'intelligence artificielle
+
 Les valeurs de l'intelligence artificielle
 ------------------------------------------
 
@@ -31,6 +33,7 @@ Il n'y a aucune raison de craindre les machines pour ce qu'elle sont. L'I.A. ne 
 Toute son œuvre va ensuite consister à mettre ses trois lois à l'épreuve de ces scénarios de romans et de nouvelles ce qui l'amènera à les compléter et les enrichir. La question est de savoir si un procédé littéraire aussi réussit soit-il peut s'avérer pertinent dans la réalité et si cette démarche de limitation matérielle des robots à travers des lois simplistes ne pourrait s'avérer contreproductive et finalement dangereuse pour l'humanité.
 
 Science fiction vs. réalité, humanisme vs. Transhumanisme
+---------------------------------------------------------
 
 Certains observateurs constatent un assèchement de la créativité en matière de science fiction probablement du au fait de l'accélération technologique. On peut en effet constater que plusieurs concepts inventés pas les auteurs au siècle dernier sont sortis du champ de la fiction pour s'inscrire dans notre réalité et que les projections les plus folles sur l'avenir de l'humanité sont faites aujourd'hui moins par des écrivains que par des chefs d'entreprise ou des ingénieurs.
 
