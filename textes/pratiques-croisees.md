@@ -28,4 +28,4 @@ Sur la scène, Le cinéma conserve son identité. Les films diffusés pendant le
 La musique
 ----------
 
-La bande son du spectacle est une suite d'improvisation de musique électronique interprétée par Bertrand et Fabien sur des dispositifs analogiques (synthétiseurs  modulaires) et numériques (Pure data). Elle apparait soit en association avec les animations créées par Léon avec son logiciel Ognon, soit de manière libre pendant le spectacle.
+La bande son du spectacle est une suite d'improvisations de musique électronique interprétée par Bertrand et Fabien sur des dispositifs analogiques (synthétiseurs  modulaires) et numériques (Pure data). Elle apparait soit en association avec les animations créées par Léon avec son logiciel Ognon, soit de manière libre pendant le spectacle.
