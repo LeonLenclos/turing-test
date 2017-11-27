@@ -26,11 +26,6 @@
       <p class="tagline">{{ site.description | default: site.github.project_tagline }}</p>
       <div id="main" role="main">
         <div>
-          {% if site.show_downloads %}
-          <a href="{{ site.github.tar_url }}" class="download-button tar"><span>Download</span></a>
-          <a href="{{ site.github.zip_url }}" class="download-button zip"><span>Download</span></a>
-          {% endif %}
-          <a href="{{ site.github.repository_url }}" class="code">View {{ site.title | default: site.github.repository_name }} on GitHub</a>
         </div>
         <article class="markdown-body">
           {{ content }}
@@ -38,7 +33,7 @@
       </div>
     </div>
     <footer>
-      <a href="{{ site.github.repository_url }}" class="code">Voir {{ site.title | default: site.github.repository_name }} sur GitHub</a>
+      <a href="{{ site.github.repository_url }}">Voir {{ site.title | default: site.github.repository_name }} sur GitHub</a>
     </footer>
   </div>
   <div class="current-section">
