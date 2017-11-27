@@ -31,8 +31,7 @@ On commence par mettre des coefficients au hasard et on teste l'algorithme. Malh
 
 Un enfant n'aura besoin que de quelques images pour identifier définitivement un chat sur une photo, mais dans certains cas il en faudra plusieurs millions à l'algorithme pour un résultat aussi fiable. Une des contraintes de cette méthode est donc d'obtenir suffisamment d'exemples annotés en amont de l'apprentissage. On comprend pourquoi Facebook est un leader dans ce domaine de recherche car ses ingénieurs peuvent nourrir leurs algorithmes des milliards d'images annotées et postées par les internautes sur leur réseau social.
 
-Ce qui est singulier dans cet apprentissage, c'est que l'ajustement des paramètres synaptiques reste opaque même pour le concepteur de l'algorithme. On comprend pourquoi l'algorithme, au fur et à mesure de l'apprentissage, a fixé telles valeurs plutôt que d'autres, mais on ne sait ni modéliser à priori ni anticiper cet ajustement, il nous dépasse. L'algorithme d'apprentissage ne peut pas nous expliquer sa façon de penser. C'est une quasi boite noire dont le fonctionnement échappe à son créateur ce qui représente une vraie rupture dans l'évolution de l'intelligence artificielle.
-
+Ce qui est singulier dans cet apprentissage, c'est que l'ajustement des paramètres synaptiques reste opaque même pour le concepteur de l'algorithme. On comprend pourquoi l'algorithme, à chaque étape de l'apprentissage, a fixé telles valeurs plutôt que d'autres, mais on ne sait pas modéliser à priori l'évolution de ces ajustement, il nous dépasse. L'algorithme d'apprentissage ne peut pas nous expliquer sa façon de penser. C'est une quasi boite noire dont le fonctionnement échappe à son créateur ce qui représente une vraie rupture dans l'évolution de l'intelligence artificielle.
 
 L'apprentissage non supervisé ou prédictif
 ------------------------------------------
