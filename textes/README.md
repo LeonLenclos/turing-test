@@ -13,4 +13,4 @@ Sommaire
 -  [Pratiques croisées](pratiques-croisees.md) - Turing Test est une œuvre théâtrale où sont conviées plusieurs techniques et pratiques artistiques.
 -  [Programme un humain](programme-un-humain.md) - Un jeu où un humain devient un robot.
 -  [Éthique](ethique.md) - Rapide aperçu des questions ethiques que posent l'avénement de l'intelligence artificielle.
--  [Antropomorphisme](antropomorphisme.md) - RComment notre tendance naturelle à l'antropomorphisme pervertit notre relation aux robots.
+-  [Antropomorphisme](antropomorphisme.md) - Comment notre tendance naturelle à l'antropomorphisme pervertit notre relation aux robots.
