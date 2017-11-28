@@ -39,13 +39,15 @@ a {
   font-weight : bold;
 }
 
-img {
-  width: auto;
-  height: auto;
-}
-
 a:hover {
   background-color : #696969;
   text-decoration : none;
   color : #fff;
+}
+
+.markdown-body img {
+  max-width : auto;
+  width: auto;
+  height: auto;
+  margin: auto;
 }
