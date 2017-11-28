@@ -48,6 +48,8 @@ Une machine de Turing ne pourra jamais faire cela. Au premier abord on se dit qu
 
  Si j'ouvre le programme "calculatrice" sur mon ordinateur portable, que je tape 2+2 et que je met ensuite un coup de masse sur l'ordinateur, j'aurais beau appuyer sur la touche égale, l'ordinateur a peut de chance de me donner la bonne réponse.
 
+![](../ressources/dessin10.png)
+
 La notion de calcul
 -------------------
 
@@ -84,6 +86,8 @@ Gödel tira 1951 une conclusion de ces théorèmes d'incomplétude : Soit il exi
 En 1933, A.Tarski s'appuya sur les résultats de Gödel pour énoncer un théorème aux conséquences surpenantes : On ne peut établir la vérité des énoncés d'un langage formel à l'intérieur de ce langage. 
 Une de ces conséquences est que le [paradoxe du menteur](https://fr.wikipedia.org/wiki/Paradoxe_du_menteur) est résolu puisqu'on montre qu'il n'a en fait aucun sens.
 On a souvent l'impression que si notre esprit n'était rien d'autre que le résultat de l'exécution d'un algorithme, cela casserait en quelque sorte le charme et le mystère de l'esprit. On s'imagine effrayés qu'il serait alors possibles de modifier cet algorithme pour l'améliorer et créer ainsi un esprit qui dépasse l'esprit humain. Seulement d'après le théorèmes de Tarski, si notre cerveau est effectivement une machine de Turing, il nous serait impossible en un certain sens d'avoir du recul par rapport à notre algorithme-esprit. Si notre sens de ce qui est vrai (comme le fait que 2+2=4) est géré par un algorithme, on ne saura jamais si c'est effectivement vrai et pourquoi c'est vrai. Si notre esprit est un algorithme, soit on est incapables de le connaitre, soit le connaitre ne nous servirait à rien car on ne pourrait rien en dire de plus que ce que nous poussait à croire cet algorithme quant nous ne le connaissions pas.
+
+![](../ressources/dessin11.png)
 
 Conclusion
 ----------
