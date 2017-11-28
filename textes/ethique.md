@@ -9,7 +9,7 @@ Texte théorique
 Résumé
 ------
 
-Rapide aperçu des questions ethiques que posent l'avénement de l'intelligence artificielle
+Rapide aperçu des questions ethiques que posent l'avénement de l'intelligence artificielle.
 
 Les valeurs de l'intelligence artificielle
 ------------------------------------------
@@ -36,9 +36,9 @@ Toute son œuvre va ensuite consister à mettre ses trois lois à l'épreuve de 
 Science fiction vs. réalité, humanisme vs. Transhumanisme
 ---------------------------------------------------------
 
-On note un interet croissant pour l'intelligence artificielle depuis le début des années 2010. Les chercheurs, les actionnaires, les entrepreneurs, les artistes et le public s'emballent sans que l'on puisse vraiment savoir qui influence qui. Des periodes simmilaires sont identifiables dans le passée, notamment durant les années 80 et au début des années 60.
+On note un interet croissant pour l'intelligence artificielle depuis le début des années 2010. Les chercheurs, les actionnaires, les entrepreneurs, les artistes et le public s'emballent sans que l'on puisse vraiment savoir qui influence qui. Des periodes similaires sont identifiables dans le passé, notamment durant les années 80 et au début des années 60.
 
-On a vu des concepts de sciences fictions délirants prendre la couleur du quotidien et à l'inverse des scientifiques aguéris rater monumentalement leur prédictions. Mais les prophéties technologique, qu'elles décrivent un avenir apocalyptique ou edenique continuent de nous fasciner et influent beaucoup l'imaginaire collectif.
+On a vu des concepts de sciences fictions délirants prendre la couleur du quotidien et à l'inverse des scientifiques aguéris rater monumentalement leur prédictions. Mais les prophéties technologique, qu'elles décrivent un avenir apocalyptique ou edenique continuent de nous fasciner et influent beaucoup sur l'imaginaire collectif.
 
 Certains de ces prophèttes sont, en plus, sur-médiatisés. Comme c'est le cas des pompiers pyromanes que sont Elon Musk (Space X,Tesla) et Ray Kurzweil (Google) qui, en même temps qu'ils prônent la singularité, une accélération de la recherche en matière d'I.A. et de biotechnologie, prédisent que ces innovations vont conduire à la fin de l'humanité. Pour eux, la seule solution pour y échapper est non pas de cohabiter avec l'I.A. mais de fusionner avec elle pour éviter qu'elle nous domine. C'est le rêve du trans-humanisme, de l'homme augmenté avec, entre autre, de l'électronique implantée dans le cerveau pour bénéficier du pouvoir de l'intelligence artificielle. L'étape suivante est le post-humanisme où le corps disparait et le cerveau est téléchargé dans une machine, une façon simple d'accéder à l'immortalité.
 
