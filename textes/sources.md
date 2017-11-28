@@ -24,7 +24,7 @@ Vidéo
 -   [Un ingénieur brutalise un robot chaz Boston Dynamics](https://www.youtube.com/watch?v=rVlhMGQgDkY)
 -   [Une machine construite au 18e sciecle dit "Papa" et "Maman"](https://www.youtube.com/watch?v=k_YUB_S6Gpo)
 -   [Une conférence de Yann LeCun, Jean Ponce et Alexandre Cadain à l'école normale supérieure sur les fictions et réalités des futurs de l'intelligence artificielle (3/10/2016)](https://www.youtube.com/watch?v=9ajwtKWH8ng)
--   [Une vidéo de vulgarisation sur le deep learning / Chaine Science étonnante](https://www.youtube.com/watch?v=trWrEWfhTVg)
+-   [Une vidéo de vulgarisation sur le deep learning sur la Chaine Science étonnante](https://www.youtube.com/watch?v=trWrEWfhTVg)
 -   [La leçon inaugurale de Yann Le Cun au Collège de France](http://www.college-de-france.fr/site/yann-lecun/inaugural-lecture-2016-02-04-18h00.htm)
 
 Documents, publications
