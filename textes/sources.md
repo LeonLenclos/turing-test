@@ -11,13 +11,18 @@ Résumé
 
 Ensemble de liens en rapport avec l'intelligence artificelle
 
-Documents
----------
+Documents, publications
+-----------------------
 
 -   [perspectives sur l'anthropomorphisme et la déshumanisation (Adam Waytz, Nicholas Epley, and John T. Cacioppo / Harvard University and University of Chicago)](http://faculty.chicagobooth.edu/nicholas.epley/waytzepleycacioppocdips.pdf)
 
 Sites
 -----
+
+Article de presse
+-----------------
+
+-   [article du magazine SCIENCE sur la révolution I.A.](http://www.sciencemag.org/news/2017/07/ai-revolution-science)
 
 Radio
 -----
@@ -28,3 +33,5 @@ Vidéo
 -----
 
 -   [Un ingénieur brutalise un robot chaz Boston Dynamics](https://www.youtube.com/watch?v=rVlhMGQgDkY)
+-   [Une machine construite au 18e sciecle dit "Papa" et "Maman"](https://www.youtube.com/watch?v=k_YUB_S6Gpo)
+-   [Une conférence de Yann LeCun, Jean Ponce et Alexandre Cadain à l'école normale supérieure sur les fictions et réalités des futurs de l'intelligence artificielle (3/10/2016)](https://www.youtube.com/watch?v=9ajwtKWH8ng)
