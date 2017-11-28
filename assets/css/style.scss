@@ -49,9 +49,11 @@ a:hover {
   max-width : none;
   width: auto;
   height: auto;
+  display: inline;
 }
 
 
 .markdown-body p img {
   text-align: center;
+  overflow: hidden;
 }
