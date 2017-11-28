@@ -18,6 +18,8 @@ Quelques années après la mort du grand illusionniste et fabricant d’automate
 
 Cette proposition théâtrale où la magie s'exprime sous toutes ses formes, des plus concrètes au plus poétiques, est une source d'inspiration pour notre spectacle Turing test. En fabriquant des séquences d'images et des films en direct, en interagissant avec des robots, héritiers des automates de Robert Houdin, en nous servant de l'illusion pour donner vie à nos machines et poser ainsi un regard distancié sur les progrès de la science et sur les perspectives qui en découlent pour l'humanité, nous nous inscrivons dans la tradition de ces magiciens innovants et géniaux que furent Houdin et Méliès.
 
+![](../ressources/dessin0.png)
+
 Le cinéma
 ---------
 
