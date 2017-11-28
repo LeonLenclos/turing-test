@@ -27,6 +27,8 @@ Quand on a peur on tremble, on transpire, on cri on ecarquille les yeux. peu imp
 
 Je n'ai d'ailleur pas besoin de connaitre la raison d'etre de ce comportement pour savoir que c'est de la peur. Après rien ne m'emppêche d'essayer de le deviner, c'est marrant de faire des suppositions sur les raisons d'être des comportements. Je peut supposer par exemple que grace à ce comportement, l'animal est obligé de réspirer par la bouche et il a ainsi un débit de réspiration plus grand qui permet à son organisme d'être mieux allimenté en oxygène et d'être ainsi plus apte à réagir au danger.
 
+![](../ressources/dessin6.png)
+
 La théorie de l'évolution
 -------------------------
 
