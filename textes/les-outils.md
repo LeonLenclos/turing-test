@@ -24,6 +24,8 @@ Si l'uttilisation de logiciels libre (open source) est importante pour certains 
 
 Dans Turing Test, les machines, programmes et instruments que nous uttilisons dans les phases de production de dessin-animé et de musique sont assez different mais témoignent d'une sensibilité que nous partageons à propos de la question de l'outil.
 
+![](../ressources/dessin12.png)
+
 Fabien et Pure Data
 --------------------
 
