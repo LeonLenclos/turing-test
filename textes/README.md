@@ -4,7 +4,7 @@ Turing Test
 Que vais-je trouver ici ?
 -------------------------
 
-L'ensemble des textes consultable à cette adresse sont placés sous [licence libre restrictive](https://creativecommons.org/licenses/by-nc-sa/4.0/) et constituent à la fois :
+L'ensemble des textes consultable ici sont placés sous [licence libre restrictive](https://creativecommons.org/licenses/by-nc-sa/4.0/) et constituent à la fois :
 -  un socle théorique à notre réflexion sur l'intelligence artificielle, 
 -  une forme alternative d'écriture du spectacle constituée d'un corpus de textes qui apparaîtront ou non dans la version finale,
 -  un moyen de proposer aux spectateurs "d'aller plus loin" ou de retrouver des références liées au spectacle,
