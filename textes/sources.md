@@ -32,7 +32,7 @@ Documents, publications
 
 -   [perspectives sur l'anthropomorphisme et la déshumanisation (Adam Waytz, Nicholas Epley, and John T. Cacioppo / Harvard University and University of Chicago)](http://faculty.chicagobooth.edu/nicholas.epley/waytzepleycacioppocdips.pdf)
 
-Article de presse
+Articles de presse
 -----------------
 
 -   [article du magazine SCIENCE sur la révolution I.A.](http://www.sciencemag.org/news/2017/07/ai-revolution-science)
