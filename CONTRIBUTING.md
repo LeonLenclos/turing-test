@@ -6,7 +6,7 @@ Les regles de rédaction ne sont pas à suivre à la lettre, juste quand c'est p
 Conventions d'écriture
 ----------------------
 
--   Un lien dans un texte doit apporter une information supplementaire, pas une information nécessaire a la conmpréhension du texte
+-   Un lien dans un texte doit apporter une information supplementaire, ou citer une source, pas une information nécessaire a la conmpréhension du texte
 
 Architecture du git
 -------------------
