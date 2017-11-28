@@ -25,6 +25,8 @@ Une machine de Turing est une machine idéale composée :
 -  d'un nombre fini d'états dans lesquels peut se trouver la machine
 -  d'une table de transition qui dicte à la machine, étape par étape, ce que doit faire la tête et dans quel état doit passer la machine en fonction de l'état et du symbole lus à l'étape précédente.
 
+![](../ressources/dessin9.png)
+
 Propriétés
 ----------
 -  Finitude
