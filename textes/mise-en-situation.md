@@ -1,10 +1,7 @@
 Hypothèse de mise en situation
 ==============================
 
-
-Type
-----
-
+ ## Type
 
 Note d'intention
 
