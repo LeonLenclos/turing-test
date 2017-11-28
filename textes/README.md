@@ -15,11 +15,14 @@ Sommaire
 
 -  [Présentation du projet de création](presentation-du-projet-de-creation.md) - Intentions, motivations, hypothèses de recherche.
 -  [Pratiques croisées](pratiques-croisees.md) - Turing Test est une œuvre théâtrale où sont conviées plusieurs techniques et pratiques artistiques.
+-  [Mise en situation](mise-en-situation.md) - Trois chercheurs dans un laboratoire éduquent une intelligence artificielle et font du cinéma.
+-  [Alan](alan.md) - Alan est un chatbot, un robot spécialisé dans la communication verbale, conçu pour donner l'illusion d'être conscient.
 -  [Programme un humain](programme-un-humain.md) - Un jeu où un humain devient un robot.
 -  [Éthique](ethique.md) - Rapide aperçu des questions ethiques que posent l'avénement de l'intelligence artificielle.
+-  [Machines, émotions et darwinisme](machines-emotions-et-darwinisme.md) - Reflexions sur la nature des émotions et leur origine dans le but de répondre à la question "Les machines peuvent-elles ressentir des émotions"
 -  [Antropomorphisme](antropomorphisme.md) - Comment notre tendance naturelle à l'antropomorphisme pervertit notre relation aux robots.
 -  [La machine de Turing](la-machine-de-turing.md) - Retour sur le concept de machine de Turing, sur le contexte de son invention et sur certains liens entre informatique et mathématiques.
 -  [Les outils](les-outils.md) - Reflexion sur la nature des outils que nous uttilisons pour produire des son et des images.
--  [Alan](alan.md) - Alan est un chatbot, un robot spécialisé dans la communication verbale, conçu pour donner l'illusion d'être conscient.
+-  [robots sur scène](robots-sur-scene.md) - Liste de robots dont la probabilité qu'ils apparaissent sur scène est non-nulle
 -  [Machine Learning](machine-learning.md) - Etat des lieux du domaine de l'Intelligence Artificielle que l'on appelle le machine learning ou l'apprentissage automatique.
 -  [Sources](sources.md) - Ensemble de liens en rapport avec l'intelligence artificelle.
