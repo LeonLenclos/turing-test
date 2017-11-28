@@ -71,6 +71,8 @@ Au final la peur me permet comme pour l'ordinateur de vivre plus longtemps. Mais
 
 Néamoins, il n'est pas impossible de faire subir la selection naturelle à des machines. Car, on l'a vu, le principe de base de la sellection naturelle a quelquechose de très algorythmique.
 
+![](../ressources/dessin7.png)
+
 Heteroptera : l'algorythme darwiniste
 --------------------------------------
 
