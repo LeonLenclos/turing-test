@@ -9,7 +9,7 @@ Idée de scène
 Résumé
 ------
 
-Comment notre tendance naturelle à l'antropomorphisme pervertit notre relation aux robots
+Comment notre tendance naturelle à l'antropomorphisme pervertit notre relation aux robots.
 
 Le test du carton
 -----------------
