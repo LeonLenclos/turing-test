@@ -3,7 +3,7 @@ Liste de robots
 Type
 ----
 
-Robot
+Liste
 
 Résumé
 ------
@@ -24,3 +24,4 @@ En construction dans le labo
 -   Robot qui fait le ménage sur scène
 -   Robot qui marche
 -   Robot qui aplaudit.
+-   [Robot un peu incontrolable (chatbot autoapprenant accessible au public)](https://github.com/LeonLenclos/turing-test/blob/master/textes/alan.md)
