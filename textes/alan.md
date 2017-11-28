@@ -21,6 +21,8 @@ A la date suivante Alan a un peu changé. Comme nous.
 
 A une époque où la frontière entre le monde virtuel et l'IRL (la [vraie vie](https://fr.wikipedia.org/wiki/Vraie_vie)) est de plus en plus [difficile à tracer](https://books.google.ca/books?id=VwJ4xsYHboYC&pg=PA533&lpg=PA533&dq=%22Social+Relationships+and+Identity+Online+and+Offline%22&source=bl&ots=bpBvupth9B&sig=2JeW2bC5x0yakE8JZNXGNCobemY&hl=en&sa=X&ei=0l5CUaaxDdPE4AO-_IHACg&ved=0CDgQ6AEwAQ#v=onepage&q=%22Social%20Relationships%20and%20Identity%20Online%20and%20Offline%22&f=false), Alan incarne l'irruption du numérique dans le quotidien tout autant que le décloisonnement du spectacle. Une oeuvre n'est jamais définitivement enfermée dans un temps et un lieu. La communication qui est faite autour d'une performance ainsi que les discussions et les réactions qu'elle suscitent en font partie intégrante. Alan participe à cet étalement du spectacle dans l'espace-temps, il est éveillé sur scène avant et après le spectacle, il peut participer aux discussion, aux débats et même aider à évacuer les gens si jamais l'alarme incendie vient interrompre le spectacle.
 
+![](../ressources/dessin1.png)
+
 Spécificités
 ------------
 
@@ -43,5 +45,7 @@ Citation
 --------
 
 >  Un robot est conçu comme un esclave et un esclave finit toujours par se révolter.
+
+![](../ressources/dessin4.png)
 
 
