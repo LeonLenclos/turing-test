@@ -46,14 +46,12 @@ a:hover {
 }
 
 .markdown-body img {
-  max-width : none;
-  width: auto;
-  height: auto;
-  display: inline;
+    max-width: none;
+    display: block;
+    margin: auto;
 }
 
 
-.markdown-body p img {
-  text-align: center;
+.markdown-body p {
   overflow: hidden;
 }
