@@ -46,8 +46,12 @@ a:hover {
 }
 
 .markdown-body img {
-  max-width : auto;
+  max-width : none;
   width: auto;
   height: auto;
-  margin: auto;
+}
+
+
+.markdown-body p img {
+  text-align: center;
 }
