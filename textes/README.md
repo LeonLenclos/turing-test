@@ -23,6 +23,6 @@ Sommaire
 -  [Antropomorphisme](antropomorphisme.md) - Comment notre tendance naturelle à l'antropomorphisme pervertit notre relation aux robots.
 -  [La machine de Turing](la-machine-de-turing.md) - Retour sur le concept de machine de Turing, sur le contexte de son invention et sur certains liens entre informatique et mathématiques.
 -  [Les outils](les-outils.md) - Reflexion sur la nature des outils que nous uttilisons pour produire des son et des images.
--  [robots sur scène](robots-sur-scene.md) - Liste de robots dont la probabilité qu'ils apparaissent sur scène est non-nulle
+-  [Robots sur scène](robots-sur-scene.md) - Liste de robots dont la probabilité qu'ils apparaissent sur scène est non-nulle
 -  [Machine Learning](machine-learning.md) - Etat des lieux du domaine de l'Intelligence Artificielle que l'on appelle le machine learning ou l'apprentissage automatique.
 -  [Sources](sources.md) - Ensemble de liens en rapport avec l'intelligence artificelle.
