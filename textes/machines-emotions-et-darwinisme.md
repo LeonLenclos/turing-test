@@ -56,7 +56,7 @@ Je peux faire pareil avec ma peur à moi, humain. Certains comportements sont fa
 -   Quand j'ai peur je sens mauvais, peut-être le prédateur aura moins envie de me manger.
 -   Quand j'ai peur je transpire, utile pour refroidir un organisme en surchauffe.
 
-D'autres comportements sont plus compliqués à expliquer : Quand j'ai peur je peux être paralysé, mes cheuveux peuvent devenir blancs, je peux me faire pipi dessus, voir caca dessus, quand j'ai peur je tremble. Personne n'est parfait.
+D'autres comportements sont plus compliqués à expliquer : Quand j'ai peur je peux être paralysé, mes cheuveux peuvent devenir blancs, je peux me faire pipi dessus, voir caca dessus, quand j'ai peur je tremble. Personne n'est parfait et la sélection naturelle n'est pas la seule chose qui fait ce que je suis.
 
 L'ordinateur émotif
 -------------------
