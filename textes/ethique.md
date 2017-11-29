@@ -14,7 +14,9 @@ Rapide aperçu des questions ethiques que posent l'avénement de l'intelligence 
 Les valeurs de l'intelligence artificielle
 ------------------------------------------
 
-Dans [un entretien avec Etienne Klein](https://www.franceculture.fr/emissions/la-conversation-scientifique/lintelligence-peut-elle-devenir-artificielle), Yann Le Cun pose le problème des dangers pour L'humanité d'une I.A. qui aurait des émotions, des objectifs, des motivations, des désirs et serait capables de prendre des décisions. Il propose cette solution : " Il faudra entrainer la fonction objectif de la machine de telle manière à ce que ses pulsions et ses valeurs soient alignées sur les valeurs humaines…." 
+Dans [un entretien avec Etienne Klein](https://www.franceculture.fr/emissions/la-conversation-scientifique/lintelligence-peut-elle-devenir-artificielle), Yann Le Cun pose le problème des dangers pour L'humanité d'une I.A. qui aurait des émotions, des objectifs, des motivations, des désirs et serait capables de prendre des décisions. Il propose cette solution :
+
+>  Il faudra entrainer la fonction objectif de la machine de telle manière à ce que ses pulsions et ses valeurs soient alignées sur les valeurs humaines….
 
 Le problème est que les valeurs humaines universelles dont parle Yann le Cun n'existent pas et n'existeront jamais tant qu'il y aura des hommes et des femmes sur la terre. On peut même affirmer qu'une humanité où tous les individus partageraient rigoureusement les mêmes valeurs ne serait composée que de robots. Je ne partage pas les valeurs de Marc Zuckerberg. Tu ne partages pas celles de Donald Trump. Il ne partage pas celles de Kim Jong Un. Nous trois partageons beaucoup de valeurs mais pas toutes. 
 
