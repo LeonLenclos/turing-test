@@ -45,4 +45,4 @@ Citation
 
 ![](../ressources/dessin4.png)
 
-
+Continuer la lecture : [**Des machines qui parlent**](des-machines-qui-parlent.md)
