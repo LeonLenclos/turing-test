@@ -31,7 +31,7 @@ Vidéo
 -   [Une série de vidéos de Science4All sur l'intelligence artificielle et le machine learning](https://www.youtube.com/playlist?list=PLtzmb84AoqRTl0m1b82gVLcGU38miqdrC)
 
 ### Divers
--   [Un ingénieur brutalise un robot chaz Boston Dynamics](https://www.youtube.com/watch?v=rVlhMGQgDkY)
+-   [Un ingénieur brutalise un robot chez Boston Dynamics](https://www.youtube.com/watch?v=rVlhMGQgDkY)
 -   [Une machine construite au 18e siècle dit "Papa" et "Maman"](https://www.youtube.com/watch?v=k_YUB_S6Gpo)
 -   [Un algorithme de tri exécuté par des danseurs folkloriques](https://www.youtube.com/watch?v=3San3uKKHgg)
 -   [Le théorème de l'arrêt expliqué en images (en)](https://www.youtube.com/watch?v=92WHN-pAFCs)
