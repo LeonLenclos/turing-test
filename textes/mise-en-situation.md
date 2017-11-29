@@ -22,3 +22,5 @@ C'est avec Alan, le chatbot du labo que les échanges verbaux sont les plus nomb
 Les passages où les trois scientifiques fabriquent des films d'animation en direct ponctuent l'action, sans justification, comme quand les gens se mettent à danser sans raison dans une comédie musicale. 
 
 ![](../ressources/dessin3.png)
+
+Continuer la lecture : [**Alan**](alan.md)
