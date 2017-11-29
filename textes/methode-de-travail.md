@@ -36,6 +36,7 @@ Ces textes constituent l'ecriture du spectacle. Ce ne sont pas les ellements d'u
 
 Ça ne veut pas dire que tout ce que l'on peut lire dans ce corpus apparaitra explicitement sur scène. Au moment ou j'écris ces mots, il n'y a encore que très peu de ces textes qui sont déstinés à être joués ou récités. Mais tout sera là, au moins discrettement, des paragraphes de théorie cachées dans une réplique, dans le design d'un robot. Des scènes abandonnées dans la mémoire d'Alan.
 
+---------------------------------------------------------------------------------------------------------------------------
 
 *Le Pad, premier lieu pour la co-ecriture de Turing Test. Chaque personne est représenté par une couleur*
 
