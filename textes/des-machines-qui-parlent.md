@@ -18,7 +18,7 @@ On appel "bot" un robot immatériel : L'équivalent informatique des robots méc
 
 "bot" comme "robot" ne désignent pas forcement des machines personnifiées. Un robot-mixeur, par exemple, ne fais pas référence a un humain. Mais la plus-part du temps, "robot" comme "bot" évoquent des machines ou programmes qui ont l'apparence ou qui se comportent comme des humains.
 
-Un "chatterbot" ou "chatbot" c'est un bot qui peut avoir une conversation.
+Un "chatterbot" ou "chatbot" c'est un bot qui peut soutenir une conversation.
 
 ChatBots Mythiques
 -----------------
