@@ -8,6 +8,7 @@ Robot
 
 Résumé
 ------
+
 Alan est un chatbot, un robot spécialisé dans la communication verbale, conçu pour donner l'illusion d'être conscient. 
 
 Alan
