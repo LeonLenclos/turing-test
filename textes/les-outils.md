@@ -51,3 +51,9 @@ Bertrand et le Synthé Modulaire
 -------------------------------
 
 Mon synthétiseur modulaire est un objet physique composé de modules élémentaires (générateur de sons, générateur de notes, filtres, ampli, mélangeur, etc) que l'on connecte entre eux avec des câbles pour créer de la musique électronique. L'intérêt de cet instrument réside dans le fait que l'on peut personnaliser le choix des modules, les relier de façon totalement libre et obtenir ainsi un instrument unique propre à générer des textures sonores originales. Ce principe permet à des milliers de petits fabricants de proposer sur le marché des modules singuliers et permet aux musiciens de s'affranchir des grands groupes industriels qui ont tendance à formater le design sonore de leurs synthétiseurs pour des raisons commerciales (Roland, Korg, Yamaha, Akay, Kurzweil, Moog, etc… ). Un des premiers modules dont j'ai fait l'acquisition s'appelle TURING MACHINE. Il est fabriquée par Tom Whitwell de Music Thing. L'intérêt de ce module est qu'il génère de façon pseudo-aléatoire des notes et des rythmes en fonctions de contraintes établies par l'interprète : degré d'aléatoire, influence cyclique, etc. Ce module m'a ouvert la porte de la musique générative. Le synthétiseur modulaire acquiert alors une sorte d'autonomie créative et produit une forme musicale non-déterministe qui s'invente perpétuellement et ne peut être répétée. Une forme primaire d'intelligence musicale ?
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+*Deux capture d'écran du logiciel Pure Data*
+![](../ressources/cde-pd1.png)
+![](../ressources/cde-pd2.png)
