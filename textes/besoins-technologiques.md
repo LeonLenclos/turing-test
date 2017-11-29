@@ -15,13 +15,13 @@ Alan
 ---------
 Alan est un agent conversationnel qui échange sur scène avec les comédiens pendant le spectacle. En dehors de la scène, il est accessible au public via le site de la compagnie. Ses domaines de compétence : L'intelligence artificielle, la conscience de soi, le spectacle vivant.
 
-Besoin logiciel :
+Besoins logiciel :
 -  Un logiciel de reconnaissance vocale.
 -  Un logiciel de Chatbot. (question/réponse, apprentissage, etc)
 -  Un logiciel de synthèse vocale
 -  Une base de données
 
-Besoin matériel :
+Besoins matériel :
 -  Un ordinateur dédié.
 -  Un écran.
 -  Un micro + préampli + carte son.
@@ -50,10 +50,10 @@ Autres robots
 -------------
 Différentes créatures artificielles mono-tâches
 
-Besoin logiciel :
+Besoins logiciel :
 -  Logiciel de commande
 
-Besoin matériel :
+Besoins matériel :
 -  Arduino ou raspberry
 -  Servo-moteurs
 -  Diverses transmissions mécaniques
@@ -69,11 +69,11 @@ Ognon
 -----
 Ognon est un logiciel de dessin animé 2D développé en Python.
 
-Besoin logiciel :
+Besoins logiciel :
 -  Amélioration et adaptation du logiciel Ognon
 -  Développement de l'interface avec Pure Data
 
-Besoin matériel :
+Besoins matériel :
 -  Un ordinateur dédié.
 -  Une tablette Cintic
 
@@ -86,7 +86,7 @@ Pure Data
 ---------
 Pure Data un logiciel libre utilisé pour créer de la musique
 
-Besoin matériel :
+Besoins matériel :
 -  Un ordinateur dédié + carte son.
 -  Une pédale d'effet
 
@@ -96,7 +96,7 @@ Synthétiseur modulaire
 ----------------
 Outil de création musicale
 
-Besoin matériel :
+Besoins matériel :
 -  Interface midi
 -  Modules additionnels
 
