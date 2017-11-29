@@ -9,7 +9,7 @@ Liens
 Résumé
 ------
 
-Ensemble de liens en rapport avec l'intelligence artificelle
+Ensemble de liens en rapport avec l'intelligence artificielle
 
 
 Radio
@@ -32,9 +32,9 @@ Vidéo
 
 ### Divers
 -   [Un ingénieur brutalise un robot chaz Boston Dynamics](https://www.youtube.com/watch?v=rVlhMGQgDkY)
--   [Une machine construite au 18e sciecle dit "Papa" et "Maman"](https://www.youtube.com/watch?v=k_YUB_S6Gpo)
--   [Un algorythme de tri éxécuté par des danseurs folkloriques](https://www.youtube.com/watch?v=3San3uKKHgg)
--   [Le théorème de l'arret expliqué en images (en)](https://www.youtube.com/watch?v=92WHN-pAFCs)
+-   [Une machine construite au 18e siècle dit "Papa" et "Maman"](https://www.youtube.com/watch?v=k_YUB_S6Gpo)
+-   [Un algorithme de tri exécuté par des danseurs folkloriques](https://www.youtube.com/watch?v=3San3uKKHgg)
+-   [Le théorème de l'arrêt expliqué en images (en)](https://www.youtube.com/watch?v=92WHN-pAFCs)
 
 Documents, publications
 -----------------------
