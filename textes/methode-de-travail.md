@@ -42,3 +42,4 @@ Ces textes constituent l'écriture du spectacle. Ce ne sont pas les éléments d
 
 ![Le Pad, premier lieu d'écriture de Turing Test](../ressources/cde-pad.png)
 
+Continuer la lecture : [**Les outils**](les-outils.md)
