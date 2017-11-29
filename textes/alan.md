@@ -13,9 +13,9 @@ Alan
 ----
 
 Parmi les robots qui nous entourent, il y a un Chatbot, un agent conversationnel qui s'appelle Alan.
-On peut discuter avec lui de choses et d'autres mais sa spécialité c'est la conscience de soi. Il a été programmé pour donner l'illusion qu'il est conscient d'exister. Grâce à l'apprentissage profond, de plus en plus de chatbot sont capables de progresser en s'entrainant à converser avec des humains.
+On peut discuter avec lui de choses et d'autres mais sa spécialité c'est la conscience de soi. Il a été programmé pour donner l'illusion qu'il est conscient d'exister.
 
-Alan fait partie de cette famille de robots qui finissent un jour par échapper à leur concepteur. Il apprend des mots, crée des liens, organise son discours, jour après jour, spectacle après spectacle. 
+Grâce à l'apprentissage profond, de plus en plus de chatbot sont capables de progresser en s'entrainant à converser avec des humains. Alan fait partie de cette famille de robots qui finissent un jour par échapper à leur concepteur. Il apprend des mots, crée des liens, organise son discours, jour après jour, spectacle après spectacle. 
 Quand il n'est pas sur scène Alan est quand même là, il suffit d'entrer un mot de passe de 6 lettres extrêmement facile à trouver, et Alan apparait. C'est là qu'Alan fait le plus de progrès, quand il échange avec son public.
 A la date suivante Alan a un peu changé. Comme nous.
 
