@@ -85,3 +85,5 @@ Alors on voit bien que c'est limité : Le mieux que ces insectes pourront faire 
 Jamais ces insectes ne pourront faire autre chose que ce que les règles de leur monde leur permettent de faire. Et les règles de leur monde sont plutôt limitées, je les ai presque décrites entièrement en un paragraphe, le programme qui les énonce précisément tient en une centaine de lignes de code. Mais il ne faut pas se moquer d'eux. Nous non plus nous ne pourrons jamais faire plus que ce que les règles de notre monde nous permettent de faire.
 
 La plus grande différence entre nous et ces insectes, c'est qu'ils ont atteint en 5 minutes le stade ultime de l'évolution : Dans leur monde, ils sont parfaits. Alors que nous dans le notre...
+
+Continuer la lecture : [**La machine de Turing**](la-machine-de-turing.md)
