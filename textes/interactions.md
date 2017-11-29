@@ -9,7 +9,7 @@ Idée de scène
 Résumé
 ------
 
-Descriptions de quelques interactions entre les comédiens et leurs machines.
+Description de quelques interactions entre les comédiens et leurs machines.
 
 Le robot qui a de la répartie
 -----------------------------
@@ -35,14 +35,14 @@ Deux comédiens sont chacun devant une table avec 7 objets de différentes taill
 Le face à face
 ---------------
 
-Un comédien utilise un robot-marteau. Il y a un bouton sur le robot. Lorsqu'on appuie dessus, le robot donne un coup de marteau 50cm devant lui. Le comédien essaye de planter un clou avec ce robot. Puis il amène un autre robot quasiment identique au premier et place les deux robots face à face. Il appuie sur le bouton du premier robot, celui-ci donne alors un coup de marteau 50cm devant lui : sur le bouton de l'autre robot qui donne a son tour un coup de marteau sur le bouton du premier et ainsi de suite. Le comédien observe ces deux robots s'actionner mutuellement.
+Un comédien utilise un robot-marteau. Il y a un bouton sur le robot. Lorsqu'on appuie dessus, le robot donne un coup de marteau 50cm devant lui. Le comédien essaye de planter un clou avec ce robot. Puis il amène un autre robot quasiment identique au premier et place les deux robots face à face. Il appuie sur le bouton du premier robot, celui-ci donne alors un coup de marteau 50cm devant lui : sur le bouton de l'autre robot qui donne à son tour un coup de marteau sur le bouton du premier et ainsi de suite. Le comédien observe ces deux robots s'actionner mutuellement.
 
 Le bon public
 -------------
 
-Le robot étonné est un robot entièrement mécanique. Lorsqu'on pose un objet suffisamment lourd dans ces mains, le poids de l'objet actionne un mécanisme qui fait que le robot lève la tête, ouvre grand les yeux et la bouche et lève les sourcils. Lorsqu'un comédien montre une de ses inventions à Alan ou à un autre comédien et qu'il est déçu par leur réaction, il peut toujours se consoler en allant la montrer au robot étonné ou au robot qui a du goût.
+Le robot étonné est un robot entièrement mécanique. Lorsqu'on pose un objet suffisamment lourd dans ses mains, le poids de l'objet actionne un mécanisme qui fait que le robot lève la tête, ouvre grand les yeux et la bouche et lève les sourcils. Lorsqu'un comédien montre une de ses inventions à Alan ou à un autre comédien et qu'il est déçu par leur réaction, il peut toujours se consoler en allant la montrer au robot étonné ou au robot qui a du goût.
 
-Le robot qui a du goût est un robot qui donne son avis sur des choses qu'il voit ou entend lorsqu'on lui demande ce qu'il en pense. Il lui arrive aussi de donner son avis lorsqu'on ne lui a rien demandé. Ses avis sont toujours positifs voir excessivement dithyrambique.
+Le robot qui a du goût est un robot qui donne son avis sur des choses qu'il voit ou entend lorsqu'on lui demande ce qu'il en pense. Il lui arrive aussi de donner son avis lorsqu'on ne lui a rien demandé. Ses avis sont toujours positifs voire excessivement dithyrambiques.
 
 La partie de dames
 ------------------
