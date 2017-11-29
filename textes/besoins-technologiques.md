@@ -29,7 +29,7 @@ Besoin matériel :
 Particularités : 
 -  Il reconnait la voix de celui des trois comédiens qui lui parle.
 -  Il est opérationnel en ligne et hors ligne quand le spectacle est joué sans connexion internet.
--  Son interface est suffisamment accessible pour permettre aux trois auteurs de l'administrer.(apprentissage, mise à jour de la libraire, censure, etc…)
+-  Son interface est suffisamment accessible pour permettre aux trois auteurs de l'administrer (apprentissage, mise à jour de la libraire, censure, etc…).
 
 Solutions envisagées :
 -  Partenariat avec L'IRIT
