@@ -9,8 +9,7 @@ historique
 Résumé
 ------
 
-Rapide aperçu de l'histoire des chatbots et de la synthèse vocale
-
+Rapide aperçu de l'histoire des chatbots qui sera complété au fil de la création.
 
 C'est quoi un chatbot ?
 ---------------------
@@ -26,23 +25,24 @@ ChatBots Mythiques
 
 -   [Eliza](http://eliza.levillage.org/index.html) (1966)
 
-    Parfois consideré comme le premier chatbot, imite une psychothérapeute il parait que beaucoup de gens se sont fait avoir, se sont attaché à Eliza comme à un humain.
+    Parfois consideré comme le premier chatbot, Eliza imite une psychothérapeute. On dit que beaucoup de gens se sont pris au jeu au point de vraiment s'attacher à Eliza comme à un humain. Ça nous dit deux chose :
     
-    ça  nous dit deux chose :
-    
-     1-   Des gens aiment bien qu'on fasse semblant de  les écouter (car c'est spécifiquement ce pourquoi Eliza est programmé)
-     2-   On a tendance à voir un comportement humain dans des programme informatique, Antropomorphisme, Effet eliza
+     1-   Des gens aiment bien qu'on fasse semblant de  les écouter (car c'est spécifiquement ce pourquoi Eliza est programmée).
+     2-   On a tendance à voir un comportement humain dans des programme informatique (on parle parfois de l'Effet Eliza)
 
 -   Parry (1972) le chatbot parano.
 
-    Son aventage pour le test de turing est qu'il a une fausse personnalité. Et  surtout qu'il est fou donc on peu faire passer son manque de cohérence  pour sa maladie et pas une faiblesse de son algorythme.
+    Son aventage pour le test de turing est qu'il a une personnalité. Et sa personnalité c'est d'être fou, donc on peu faire passer son manque de cohérence pour une conséquence de sa maladie et pas une faiblesse de son algorythme.
 
--   A.L.I.C.E. On peut entendre dire que c'est la premiere AI a passert le test de turing mais bon entre nous...
-le  mec qui a fait ça s'appelle Richard Wallas et c'est marrant car son  idée c'est que plutot que de faire un programme qui annalyse les  questions et tente de trouver la reponse attendue, il a juste rentré des  dixaines de milliers de questions classique que l'on pose à un chat-bot  et leur réponse. L'efficiacité d'ALICE ne vient pas du génie  informatique de l'auteur mais juste de sa patience et de sa capacité à  écrire des dialogues cools.
+-   [Dialector](http://dialector.poptronics.fr/) (1988) ecrit par le cinéaste Chris Marker, premier appropriation notable du concept de chatbot par un artiste
 
--   Clipy C'est le nom du trombone d'aide de  microsofft word 1996 - 2007  (un très mauvais robot) mais pas mal ancré dans l'imaginaire collectif  de l'informatique.
+-   [A.L.I.C.E.](http://sheepridge.pandorabots.com/pandora/talk?botid=b69b8d517e345aba&skin=custom_iframe) (1995)
 
--   [Dialector](http://dialector.poptronics.fr/), le Chatbot ecrit par l'artiste Chris Marker  !
+    Ce chatbot a été créé par Richard Wallas. Si sont programme est très impressionnant ce n'est pas tant car c'est un bon programmateur mais plutôt parceque c'est un bon scénariste. Il a rentré des dixaines de milliers de questions que l'on pose habituellement à un chat-bot et leur réponse.
 
--   Un exemple assez connu est Tay, le chatbot  de microsoft (2016) qui devait apprendre de ses conversations avec les  internautes. Ils se sont fait troller en masse et au bout de 24h, le chatbot  a été supprimé (par microsoft) car il sortait des trucs comme "Bush did  9/11 and Hitler would have done a better job than the monkey we have  got now. Donald Trump is the only hope we've got" ou ''Fuck my robot  pussy daddy I'm such a naughty robot."
+-   Clippy (1997) le trombone qui parle de Microsoft Office. Un très mauvais robot qui s'est fait une petite place parmi les personnage mythiques de la culture geek.
+
+-   Tay (2016) le chatbot trop influencable.
+
+    Créé par microsoft, Tay devait apprendre de ses conversations avec les internautes. Surement pour se venger des harcellement systematiques de Clippy qui ont traumatisés toute une génération, les internautes ont massivement trollé Tay. Au bout de 24h, le chatbot a été supprimé (par microsoft) car il disait des phrases comme "Bush did 9/11 and Hitler would have done a better job than the monkey we have got now. Donald Trump is the only hope we've got" ou encore "Fuck my robot pussy daddy I'm such a naughty robot."
 
