@@ -32,3 +32,5 @@ Amélioration possible :
 -  quand tu seras face à un précipice
    -  si tu es en train de marcher, tu t'arrêteras
    -  si tu es immobile, tu resteras immobile.
+
+Continuer la lecture : [**Éthique**](ethique.md)
