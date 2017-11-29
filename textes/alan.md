@@ -33,7 +33,7 @@ Spécificités
 -  Alan est conscient de ses faiblesses, il assume quand il ne comprend pas.
 -  Alan a envie d'apprendre, il demande parfois à son interlocuteur quelle aurait été une bonne réponse à sa question.
 -  Alan est un peu obsédé par l'ironie et l'humour noir qu'il a du mal à maitriser.
--  Alan a une peur folle des paradoxes. Leur simple mention lui fait perdre temporairement tous ses moyens.
+-  Alan a une peur bleue des paradoxes. Leur simple mention lui fait perdre temporairement tous ses moyens.
 
 
 Au départ un important travail de programmation permet à Alan de soutenir une conversation avec les chercheurs sur les sujets centraux du spectacle: Intelligence artificielle, singularité technologique, vie de Alan Turing ...
