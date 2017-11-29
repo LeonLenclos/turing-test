@@ -13,7 +13,7 @@ Présentation des besoins technologiques clairement identifiés. D'autres appara
 
 Alan
 ---------
-Alan est un agent conversationnel qui échange sur scène avec les comédiens pendant le spectacle. En dehors de la scène, il est accessible au public via le site de la compagnie. Ses domaines de compétance : L'intelligence artificielle, la conscience de soi, le spectacle vivant.
+Alan est un agent conversationnel qui échange sur scène avec les comédiens pendant le spectacle. En dehors de la scène, il est accessible au public via le site de la compagnie. Ses domaines de compétence : L'intelligence artificielle, la conscience de soi, le spectacle vivant.
 
 Besoin logiciel :
 -  Un logiciel de reconnaissance vocale.
@@ -40,7 +40,7 @@ Hypothèse d'extention :
 Solutions envisagées :
 -  Partenariat avec L'IRIT
 -  Accès aux technologies du laboratoire.
--  Une ou deux résidences d'une semaine au laboratoire pour échanges, conception et formation. 
+-  Une ou deux résidences d'une à deux semaines au laboratoire pour échanges, conception et formation. 
 -  Définition du projet, intégration et mise au point, formation sur la maintenance et l'administration.
 -  Un étudiant en Master à l'IRIT détaché sur le projet.
 
@@ -48,7 +48,7 @@ Solutions envisagées :
 
 Autres robots
 -------------
-Différentes créatures artificielles mono tache
+Différentes créatures artificielles mono-tache
 
 Besoin logiciel :
 -  Logiciel de commande
@@ -67,7 +67,7 @@ Solutions envisagées :
 
 Ognon
 -----
-Ognon est un logiciel de dessin animé 2D développé en python.
+Ognon est un logiciel de dessin animé 2D développé en Python.
 
 Besoin logiciel :
 -  Amélioration et adaptation du logiciel Ognon
