@@ -35,6 +35,7 @@ Particularités :
 Hypothèse d'extention :
 -  Alan peut aussi faire de la reconnaissance visuelle.
 -  Alan est équipé d'une caméra.
+-  Alan est bilingue (ou plus).
 
 Solutions envisagées :
 -  Partenariat avec L'IRIT
