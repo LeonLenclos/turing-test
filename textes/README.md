@@ -21,12 +21,12 @@ Sommaire
 -  [Antropomorphisme](antropomorphisme.md) - Comment notre tendance naturelle à l'antropomorphisme pervertit notre relation aux robots.
 -  [Programme un humain](programme-un-humain.md) - Un jeu où un humain devient un robot.
 -  [Interactions](interactions.md) - Descriptions de quelques interactions entre les comédiens et leurs machines.
--  [Éthique](ethique.md) - Rapide aperçu des questions ethiques que posent l'avénement de l'intelligence artificielle.
--  [Machines, émotions et darwinisme](machines-emotions-et-darwinisme.md) - Reflexions sur la nature des émotions et leur origine dans le but de répondre à la question "Les machines peuvent-elles ressentir des émotions"
+-  [Éthique](ethique.md) - Rapide aperçu des questions éthiques que pose l'avènement de l'intelligence artificielle.
+-  [Machines, émotions et darwinisme](machines-emotions-et-darwinisme.md) - Réflexions sur la nature des émotions et leur origine dans le but de répondre à la question "Les machines peuvent-elles ressentir des émotions?".
 -  [La machine de Turing](la-machine-de-turing.md) - Retour sur le concept de machine de Turing, sur le contexte de son invention et sur certains liens entre informatique et mathématiques.
 -  [Machine Learning](machine-learning.md) - Etat des lieux du domaine de l'Intelligence Artificielle que l'on appelle le machine learning ou l'apprentissage automatique.
--  [Robots sur scène](robots-sur-scene.md) - Liste de robots dont la probabilité qu'ils apparaissent sur scène est non-nulle.
--  [Methode de travail](methode-de-travail.md) - Comment nous écrivons.
--  [Les outils](les-outils.md) - Reflexion sur la nature des outils que nous uttilisons pour produire des son et des images.
+-  [Robots sur scène](robots-sur-scene.md) - Liste de robots dont la probabilité qu'ils apparaissent sur scène est non nulle.
+-  [Méthode de travail](méthode-de-travail.md) - Comment nous écrivons.
+-  [Les outils](les-outils.md) - Réflexion sur la nature des outils que nous utilisons pour produire des sons et des images.
 -  [Besoins technologiques](besoins-technologiques.md) - Présentation des besoins technologiques clairement identifiés. D'autres apparaitront au fil des résidences.
--  [Sources](sources.md) - Ensemble de liens en rapport avec l'intelligence artificelle.
+-  [Sources](sources.md) - Ensemble de liens en rapport avec l'Intelligence Artificielle.
