@@ -32,6 +32,8 @@ L'Idée est de ne pas concevoir une forme trop précise sans être d'abord préc
 -   Des débats entre deux ou trois de nous trois sur des sujets de discorde
 -   D'autres choses encore (comme n'importe quoi)
 
+![](../ressources/cde-pad.png)
+
 Ces textes constituent l'ecriture du spectacle. Ce ne sont pas les ellements d'un dossier de diffusion. Ce n'est pas un travail préparatif. Ce corpus de texte en évolution continue **c'est** le spectacle, c'est *Turing test*. Au même titre que le texte d'une pièce de théâtre classique **est** la pièce.
 
 Ça ne veut pas dire que tout ce que l'on peut lire dans ce corpus apparaitra explicitement sur scène. Au moment ou j'écris ces mots, il n'y a encore que très peu de ces textes qui sont déstinés à être joués ou récités. Mais tout sera là, au moins discrettement, des paragraphes de théorie cachées dans une réplique, dans le design d'un robot. Des scènes abandonnées dans la mémoire d'Alan.
