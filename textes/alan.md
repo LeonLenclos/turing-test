@@ -12,7 +12,7 @@ Alan est un chatbot, un robot spécialisé dans la communication verbale, conçu
 Alan
 ----
 
-Parmi les robots qui nous entourent, il y a un Chatbot, un agent conversationnel qui s'appelle Alan, en hommage à Alan Turing.
+Parmi les robots qui nous entourent, il y a un Chatbot, un agent conversationnel qui s'appelle Alan.
 On peut discuter avec lui de choses et d'autres mais sa spécialité c'est la conscience de soi. Il a été programmé pour donner l'illusion qu'il est conscient d'exister. Grâce à l'apprentissage profond, de plus en plus de chatbot sont capables de progresser en s'entrainant à converser avec des humains.
 
 Alan fait partie de cette famille de robots qui finissent un jour par échapper à leur concepteur. Il apprend des mots, crée des liens, organise son discours, jour après jour, spectacle après spectacle. 
