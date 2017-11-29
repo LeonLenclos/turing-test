@@ -23,6 +23,7 @@ Besoin logiciel :
 
 Besoin matériel :
 -  Un ordinateur dédié.
+-  Un écran.
 -  Un micro + preampli + carte son.
 -  Un ampli + haut parleur.
 
