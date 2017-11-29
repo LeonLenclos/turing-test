@@ -13,7 +13,7 @@ Présentation des besoins technologiques clairement identifiés. D'autres appara
 
 Alan
 ---------
-Alan est un agent conversationnel qui échange sur scène avec les comédiens pendant le spectacle. En dehors du spectacle, il est accessible au public via le site de la compagnie. Ses domaines de compétance : L'intelligence artificielle, la conscience de soi, le spectacle vivant.
+Alan est un agent conversationnel qui échange sur scène avec les comédiens pendant le spectacle. En dehors de la scène, il est accessible au public via le site de la compagnie. Ses domaines de compétance : L'intelligence artificielle, la conscience de soi, le spectacle vivant.
 
 Besoin logiciel :
 -  Un logiciel de reconnaissance vocale.
