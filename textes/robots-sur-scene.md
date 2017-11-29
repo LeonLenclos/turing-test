@@ -20,8 +20,8 @@ En construction dans le labo
 -   Robot Poete Markovien
 -   Robot bipolaire
 -   Robot qui perd aux échecs.
--   Robot mauvais joueur. Il envoit tout valser quand il perd
+-   Robot mauvais joueur. Il envoie tout valser quand il perd
 -   Robot qui fait le ménage sur scène
 -   Robot qui marche
--   Robot qui aplaudit.
--   [Robot un peu incontrolable (chatbot auto-apprenant accessible au public)](../textes/alan.md)
+-   Robot qui applaudit.
+-   [Robot un peu incontrôlable (chatbot auto-apprenant accessible au public)](../textes/alan.md)
