@@ -47,3 +47,4 @@ ChatBots Mythiques
 
     Créé par Microsoft, Tay devait apprendre de ses conversations avec les internautes. Sûrement pour se venger des harcèlements systématiques de Clippy qui ont traumatisé toute une génération, les internautes ont massivement trollé Tay. Au bout de 24h, le chatbot a été supprimé (par Microsoft) car il disait des phrases comme "Bush did 9/11 and Hitler would have done a better job than the monkey we have got now. Donald Trump is the only hope we've got" ou encore "Fuck my robot pussy daddy I'm such a naughty robot."
 
+Continuer la lecture : [**Robots sur scène**](robots-sur-scene.md)
