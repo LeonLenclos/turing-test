@@ -32,6 +32,10 @@ Particularités :
 -  Il est opérationnel en ligne et hors ligne quand le spectacle est joué sans connexion internet.
 -  Son interface est suffisamment accessible pour permettre aux trois auteurs de l'administrer (apprentissage, mise à jour de la libraire, censure, etc…).
 
+Hypothèse d'extention :
+-  Alan peut aussi faire de la reconnaissance visuelle.
+-  Alan est équipé d'une caméra.
+
 Solutions envisagées :
 -  Partenariat avec L'IRIT
 -  Accès aux technologies du laboratoire.
