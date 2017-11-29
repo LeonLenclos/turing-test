@@ -17,22 +17,22 @@ Alan est un agent conversationnel qui échange sur scène avec les comédiens pe
 
 Besoin logiciel :
 -  Un logiciel de reconnaissance vocale.
--  Un logiciel de Chatbot. (question/réponse, apprentissage, etc…)
+-  Un logiciel de Chatbot. (question/réponse, apprentissage, etc)
 -  Un logiciel de synthèse vocale
 -  Une base de données
 
 Besoin matériel :
 -  Un ordinateur dédié.
 -  Un écran.
--  Un micro + preampli + carte son.
--  Un ampli + haut parleur.
+-  Un micro + préampli + carte son.
+-  Un ampli + haut-parleur.
 
 Particularités : 
 -  Il reconnait la voix de celui des trois comédiens qui lui parle.
 -  Il est opérationnel en ligne et hors ligne quand le spectacle est joué sans connexion internet.
--  Son interface est suffisamment accessible pour permettre aux trois auteurs de l'administrer (apprentissage, mise à jour de la libraire, censure, etc…).
+-  Son interface est suffisamment accessible pour permettre aux trois auteurs de l'administrer (apprentissage, mise à jour de la libraire, censure, etc.).
 
-Hypothèse d'extention :
+Hypothèses d'extension :
 -  Alan peut aussi faire de la reconnaissance visuelle.
 -  Alan est équipé d'une caméra.
 -  Alan est bilingue (ou plus).
@@ -48,7 +48,7 @@ Solutions envisagées :
 
 Autres robots
 -------------
-Différentes créatures artificielles mono-tache
+Différentes créatures artificielles mono-tâches
 
 Besoin logiciel :
 -  Logiciel de commande
@@ -56,7 +56,7 @@ Besoin logiciel :
 Besoin matériel :
 -  Arduino ou raspberry
 -  Servo-moteurs
--  Divers transmissions mécaniques
+-  Diverses transmissions mécaniques
 
 Solutions envisagées :
 -  Recherche partenaire robotique
@@ -71,11 +71,11 @@ Ognon est un logiciel de dessin animé 2D développé en Python.
 
 Besoin logiciel :
 -  Amélioration et adaptation du logiciel Ognon
--  Développement de l'Interface avec Pure Data
+-  Développement de l'interface avec Pure Data
 
 Besoin matériel :
 -  Un ordinateur dédié.
--  Un tablette Cintic
+-  Une tablette Cintic
 
 Solutions envisagées :
 -  Embauche d'un développeur
@@ -92,7 +92,7 @@ Besoin matériel :
 
 ------------------------------------------------
 
-Synthé modulaire
+Synthétiseur modulaire
 ----------------
 Outil de création musicale
 
