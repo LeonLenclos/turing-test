@@ -100,4 +100,6 @@ Les résultats mathématiques évoqués dans la dernière section invitent à un
 
 Pourtant l'autoréférence n'est pas paradoxale en soi. Lorsqu'un juge dit "je vous condamne", il vous condamne et il dit qu'il vous condamne tout à la fois et cela n'a rien de paradoxal. Nul n'a besoin de dire je vois un arbre pour le voir, le juge lui ne condamne que s'il dit qu'il condamne et inversement. De la même manière je peux dire que le mot "court" est court, il y a une autoréférence mais ça ne pose aucun problème. L'informatique utilise sans arrêt des programmes qui font appel à eux-mêmes, les algorithmes récursifs. Ce que nous dit le théorème de Tarski c'est qu'il y a une autoréférence qui est interdite, qui n'a pas de sens : celle qui exprime sa propre vérité. On a pourtant parfois l'impression que dans le domaine de l'I.A., on nous vend le dépassement de l'homme par l'homme, l'avènement d'un homme 2.0 que l'homme 1.0 aurait réussi à créer ?
 
-C'est là une chose qu'il est bon d'avoir en tête lorsqu'on cherche à créer de nos mains des êtres artificiels : si vous êtes sûr d'avoir créé une machine fiable, alors vous lui êtes forcément supérieur, car elle ne peut se rendre compte de sa propre fiabilité. 
+C'est là une chose qu'il est bon d'avoir en tête lorsqu'on cherche à créer de nos mains des êtres artificiels : si vous êtes sûr d'avoir créé une machine fiable, alors vous lui êtes forcément supérieur, car elle ne peut se rendre compte de sa propre fiabilité.
+
+Continuer la lecture : [**Machine Learning**](machine-learning.md)
