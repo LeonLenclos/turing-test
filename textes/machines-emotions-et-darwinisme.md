@@ -32,7 +32,7 @@ Je n'ai d'ailleur pas besoin de connaitre la raison d'etre de ce comportement po
 La théorie de l'évolution
 -------------------------
 
-À ce niveau, je dois faire un petit point sur la théorie de l'évolution. J'ai vu un sondage au quel seulement 40% des gens avaient répondus qu'il etaient évolutionniste les 60% qui restent, ou bien ils pensent que le monde a été créé en une semaine, ou bien ils ne se sont jamais posé la question. Alors attention, je dis pas qu'il faut suivre Darwin à la lettre, il a fait des erreurs comme tout le monde, et chacun crois ce qu'il veut bien sûr. Mais croire que le monde a été créé en 7 jours c'est tellement triste ! Encore si cette histoire était plus amusante que la théorie de l'évolution d'accord, mais même pas ! la théorie de l'évolution est mille fois plus fascinante.
+À ce niveau, je dois faire un petit point sur la théorie de l'évolution. J'ai vu un sondage auquel seulement 40% des gens avaient répondus qu'il etaient évolutionniste les 60% qui restent, ou bien ils pensent que le monde a été créé en une semaine, ou bien ils ne se sont jamais posés la question. Alors attention, je dis pas qu'il faut suivre Darwin à la lettre, il a fait des erreurs comme tout le monde, et chacun croit ce qu'il veut bien sûr. Mais croire que le monde a été créé en 7 jours c'est tellement triste ! Encore si cette histoire était plus amusante que la théorie de l'évolution d'accord, mais même pas ! la théorie de l'évolution est mille fois plus fascinante.
 
 En gros l'idée de base c'est la sellection naturelle. Et pour qu'il y ait selection naturelle il faut trois ellements :
 1-   la variation : le fait que les enfants d'un individu ne soit pas exactement pareil que l'individu
