@@ -24,4 +24,4 @@ Derrière  ce projet, il y a le questionnement lié au progrès récent de l'int
 
 Personne  ne peut répondre à ces questions et prédire dans quelle mesure et dans  quel sens l'I.A. va bouleverser l'humanité car tout se joue et s'écrit en ce moment à une vitesse folle. Mais il nous semble important que la  réflexion sur le sujet ne se limite pas aux prises de parole des experts  ou aux projections des industriels. En portant cette problématique au théâtre, notre ambition est d'inciter le public à s'interroger sur les  enjeux liés aux progrès de l'I.A. à envisager d'autre perspectives, d'autres angles pour appréhender ce sujet et à se sentir légitime pour participer au débat.
 
- Continuer la lecture : [**Pratiques croisées** >>>](pratiques-croisees.md)
+ Continuer la lecture : [**Pratiques croisées** >>>](pratiques-croisees.html)
