@@ -11,15 +11,6 @@ Résumé
 
 *Turing Test* est une œuvre théâtrale où sont conviées plusieurs techniques et pratiques artistiques.
 
-La magie
---------
-
-Quelques années après la mort du grand illusionniste et fabricant d’automates Robert Houdin, Georges Méliès rachète son théâtre pour y créer ses soirées fantastiques. Sa mise en scène mélange science et illusion, musique et humour, automates et prestidigitation. Dès 1896, il introduit son kinétographe qui lui permet de projeter des séances de vues animées. Le public est médusé devant cette invention et devant les trucages et les effets spéciaux dont il devient rapidement le spécialiste. Dès lors, grâce à Méliès, magie et cinématographe s'enrichissent mutuellement. Sur ses tournages, Méliès exploite tout son savoir faire d'illusionniste pour produire des images improbables qu'il projette ensuite sur la scène de son théâtre. C’est pour lui le début d’une période de grande créativité, pendant laquelle il réalisera près de 600 films. Grâce à son génie poétique, il ne cessera de proposer à son public une vision romantique et décalée de la science. (le voyage dans la lune, Le voyage à travers l'impossible,…)
-
-Cette proposition théâtrale où la magie s'exprime sous toutes ses formes, des plus concrètes au plus poétiques, est une source d'inspiration pour notre spectacle Turing test. En fabriquant des séquences d'images et des films en direct, en interagissant avec des robots, héritiers des automates de Robert Houdin, en nous servant de l'illusion pour donner vie à nos machines et poser ainsi un regard distancié sur les progrès de la science et sur les perspectives qui en découlent pour l'humanité, nous nous inscrivons dans la tradition de ces magiciens innovants et géniaux que furent Houdin et Méliès.
-
-![](../ressources/dessin0.png)
-
 Le cinéma
 ---------
 
@@ -31,3 +22,12 @@ La musique
 ----------
 
 La bande son du spectacle est une suite d'improvisations de musique électronique interprétée par Bertrand et Fabien sur des dispositifs analogiques (synthétiseurs  modulaires) et numériques (Pure data). Elle apparait soit en association avec les animations créées par Léon avec son logiciel Ognon, soit de manière libre pendant le spectacle.
+
+La magie
+--------
+
+Quelques années après la mort du grand illusionniste et fabricant d’automates Robert Houdin, Georges Méliès rachète son théâtre pour y créer ses soirées fantastiques. Sa mise en scène mélange science et illusion, musique et humour, automates et prestidigitation. Dès 1896, il introduit son kinétographe qui lui permet de projeter des séances de vues animées. Le public est médusé devant cette invention et devant les trucages et les effets spéciaux dont il devient rapidement le spécialiste. Dès lors, grâce à Méliès, magie et cinématographe s'enrichissent mutuellement. Sur ses tournages, Méliès exploite tout son savoir faire d'illusionniste pour produire des images improbables qu'il projette ensuite sur la scène de son théâtre. C’est pour lui le début d’une période de grande créativité, pendant laquelle il réalisera près de 600 films. Grâce à son génie poétique, il ne cessera de proposer à son public une vision romantique et décalée de la science. (le voyage dans la lune, Le voyage à travers l'impossible,…)
+
+Cette proposition théâtrale où la magie s'exprime sous toutes ses formes, des plus concrètes au plus poétiques, est une source d'inspiration pour notre spectacle Turing test. En fabriquant des séquences d'images et des films en direct, en interagissant avec des robots, héritiers des automates de Robert Houdin, en nous servant de l'illusion pour donner vie à nos machines et poser ainsi un regard distancié sur les progrès de la science et sur les perspectives qui en découlent pour l'humanité, nous nous inscrivons dans la tradition de ces magiciens innovants et géniaux que furent Houdin et Méliès.
+
+![](../ressources/dessin0.png)
