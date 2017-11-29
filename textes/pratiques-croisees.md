@@ -14,9 +14,9 @@ Résumé
 Le cinéma
 ---------
 
-Léon dessine sur une tablette graphique reliée à son logiciel Ognon. Les traits apparaissent progressivement sur l'écran et se combinent pour donner vie à des formes qui se mettent en mouvement. De part et d'autre de Léon, Bertrand et Fabien composent des sons et des musiques synchrones avec les images. Le résultat est un film d'animation qui raconte une histoire d'intelligence artificielle, d'humains et de robots. Pendant quelques minutes le spectateur est au cinéma et en même temps dans le studio ou le film se construit en temps réel. Une fiction dans la fiction qui capte son attention, l'emmène dans une autre dimension et l'invite à imaginer différemment son rapport à l'intelligence artificielle.
+Léon dessine sur une tablette graphique reliée à son logiciel Ognon. Les traits apparaissent progressivement sur l'écran et se combinent pour donner vie à des formes qui se mettent en mouvement. De part et d'autre de Léon, Bertrand et Fabien composent des sons et des musiques synchrones avec les images. Le résultat est un film d'animation qui raconte une histoire d'intelligence artificielle, d'humains et de robots. Pendant quelques minutes le spectateur est au cinéma et en même temps dans le studio où le film se construit en temps réel. Une fiction dans la fiction qui capte son attention, l'emmène dans une autre dimension et l'invite à imaginer différemment son rapport à l'intelligence artificielle.
 
-Sur la scène, e cinéma conserve son identité. Les films diffusés pendant le spectacle sont perçus comme des courts métrages, œuvres homogènes et résolument cinématographiques dans leur relation au sens, au temps et à l’espace. Autrement dit, des histoires avec un début et une fin, projetées sur un écran.
+Sur la scène, le cinéma conserve son identité. Les films diffusés pendant le spectacle sont perçus comme des courts métrages, œuvres homogènes et résolument cinématographiques dans leur relation au sens, au temps et à l’espace. Autrement dit, des histoires avec un début et une fin, projetées sur un écran.
 
 La musique
 ----------
