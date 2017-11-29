@@ -1,10 +1,10 @@
-Methode de travail
-==================
+Besoins technologiques
+======================
 
 Type
 ----
 
-Besoins technologiques
+liste
 
 Résumé
 ------
@@ -16,20 +16,20 @@ Alan
 Alan est un agent conversationnel qui échange sur scène avec les comédiens pendant le spectacle. En dehors du spectacle, il est accessible au public via le site de la compagnie. Ses domaines de compétance : L'intelligence artificielle, la conscience de soi, le spectacle vivant.
 
 Besoin logiciel :
--  un logiciel de reconnaissance vocale.
--  un logiciel de Chatbot. (question/réponse, apprentissage, etc…)
--  un logiciel de synthèse vocale
--  une base de données
+-  Un logiciel de reconnaissance vocale.
+-  Un logiciel de Chatbot. (question/réponse, apprentissage, etc…)
+-  Un logiciel de synthèse vocale
+-  Une base de données
 
 Besoin matériel :
 -  Un ordinateur dédié.
--  un micro + preampli + carte son.
--  un ampli + haut parleur.
+-  Un micro + preampli + carte son.
+-  Un ampli + haut parleur.
 
 Particularités : 
 -  Il reconnait la voix de celui des trois comédiens qui lui parle.
 -  Il est opérationnel en ligne et hors ligne quand le spectacle est joué sans connexion internet.
---  Son interface est suffisamment accessible pour permettre aux trois auteurs de l'administrer.(apprentissage, mise à jour de la libraire, censure, etc…)
+-  Son interface est suffisamment accessible pour permettre aux trois auteurs de l'administrer.(apprentissage, mise à jour de la libraire, censure, etc…)
 
 Solutions envisagées :
 -  Partenariat avec L'IRIT
@@ -42,10 +42,10 @@ Solutions envisagées :
 
 Autres robots
 -------------
-différentes créatures artificielles mono tache
+Différentes créatures artificielles mono tache
 
 Besoin logiciel :
--  logiciel de commande
+-  Logiciel de commande
 
 Besoin matériel :
 -  Arduino ou raspberry
@@ -55,7 +55,7 @@ Besoin matériel :
 Solutions envisagées :
 -  Recherche partenaire robotique
 -  Embauche d'un développeur
--   embauche d'un constructeur
+-  Embauche d'un constructeur mécanicien
 
 ------------------------------------------------
 
@@ -88,8 +88,8 @@ Besoin matériel :
 
 Synthé modulaire
 ----------------
-outil de création musicale
+Outil de création musicale
 
 Besoin matériel :
--  interface midi
--  modules additionnels
+-  Interface midi
+-  Modules additionnels
