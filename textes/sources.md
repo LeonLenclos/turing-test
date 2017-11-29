@@ -36,15 +36,17 @@ Vidéo
 -   [Un algorithme de tri exécuté par des danseurs folkloriques](https://www.youtube.com/watch?v=3San3uKKHgg)
 -   [Le théorème de l'arrêt expliqué en images (en)](https://www.youtube.com/watch?v=92WHN-pAFCs)
 
-Documents, publications
------------------------
+Documents, publications, articles de recherche
+----------------------------------------------
 
--   [perspectives sur l'anthropomorphisme et la déshumanisation (Adam Waytz, Nicholas Epley, and John T. Cacioppo / Harvard University and University of Chicago)](http://faculty.chicagobooth.edu/nicholas.epley/waytzepleycacioppocdips.pdf)
+-   [Perspectives sur l'anthropomorphisme et la déshumanisation (Adam Waytz, Nicholas Epley, and John T. Cacioppo / Harvard University and University of Chicago)](http://faculty.chicagobooth.edu/nicholas.epley/waytzepleycacioppocdips.pdf)
+-   [Some basic theorems on the foundations of mathematics and their implications. Texte de 1951 de K.Gödel explorant les liens entre des questions de fondements des mathématiques et le problème esprit\machine, introduction de Gorge Boolos](http://www.partiallyexaminedlife.com/wp-content/uploads/Godel-Basic-Theorems-and-Their-Implications-1.pdf)
+-   [Computing machinery and intelligence. Article de 1950 de A.Turing dans lequel il introduit le test de Turing, "the imitation game" dans l'article.](http://loebner.net/Prizef/TuringArticle.html)
 
 Articles de presse
 -----------------
 
--   [article du magazine SCIENCE sur la révolution I.A.](http://www.sciencemag.org/news/2017/07/ai-revolution-science)
+-   [Article du magazine SCIENCE sur la révolution I.A.](http://www.sciencemag.org/news/2017/07/ai-revolution-science)
 
 Sites
 -----
