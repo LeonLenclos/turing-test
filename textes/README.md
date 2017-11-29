@@ -19,8 +19,8 @@ Sommaire
 -  [Alan](alan.md) - Alan est un chatbot, un robot spécialisé dans la communication verbale, conçu pour donner l'illusion d'être conscient.
 -  [Des machines qui parlent](des-machines-qui-parlent.md) - Rapide aperçu de l'histoire des chatbots qui sera complétée au fil de la création.
 -  [Robots sur scène](robots-sur-scene.md) - Liste de robots dont la probabilité qu'ils apparaissent sur scène est non-nulle.
--  [Antropomorphisme](antropomorphisme.md) - Comment notre tendance naturelle à l'antropomorphisme pervertit notre relation aux robots.
 -  [Interactions](interactions.md) - Descriptions de quelques interactions entre les comédiens et leurs machines.
+-  [Antropomorphisme](antropomorphisme.md) - Comment notre tendance naturelle à l'antropomorphisme pervertit notre relation aux robots.
 -  [Programme un humain](programme-un-humain.md) - Un jeu où un humain devient un robot.
 -  [Éthique](ethique.md) - Rapide aperçu des questions ethiques que posent l'avénement de l'intelligence artificielle.
 -  [Machines, émotions et darwinisme](machines-emotions-et-darwinisme.md) - Reflexions sur la nature des émotions et leur origine dans le but de répondre à la question "Les machines peuvent-elles ressentir des émotions"
