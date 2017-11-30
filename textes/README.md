@@ -12,7 +12,7 @@ L'ensemble des textes consultables ici est placé sous [licence libre restrictiv
 
 Sommaire
 --------
-
+-  [Methode de travail](methode-de-travail.md) - Comment nous écrivons.
 -  [Présentation du projet de création](presentation-du-projet-de-creation.md) - Intentions, motivations, hypothèses de recherche.
 -  [Pratiques croisées](pratiques-croisees.md) - Turing Test est une œuvre théâtrale où sont conviées plusieurs techniques et pratiques artistiques.
 -  [Mise en situation](mise-en-situation.md) - Trois chercheurs dans un laboratoire éduquent une intelligence artificielle et font du cinéma.
@@ -26,7 +26,6 @@ Sommaire
 -  [Machines, émotions et darwinisme](machines-emotions-et-darwinisme.md) - Reflexions sur la nature des émotions et leur origine dans le but de répondre à la question "Les machines peuvent-elles ressentir des émotions"
 -  [La machine de Turing](la-machine-de-turing.md) - Retour sur le concept de machine de Turing, sur le contexte de son invention et sur certains liens entre informatique et mathématiques.
 -  [Machine Learning](machine-learning.md) - Etat des lieux du domaine de l'intelligence artificielle que l'on appelle le machine learning ou l'apprentissage automatique.
--  [Methode de travail](methode-de-travail.md) - Comment nous écrivons.
 -  [Les outils](les-outils.md) - Réflexion sur la nature des outils que nous utilisons pour produire des sons et des images.
 -  [Besoins technologiques](besoins-technologiques.md) - Présentation des besoins technologiques clairement identifiés. D'autres apparaitront au fil des résidences.
 -  [Sources](sources.md) - Ensemble de liens en rapport avec l'intelligence artificielle.
