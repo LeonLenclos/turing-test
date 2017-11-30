@@ -50,4 +50,4 @@ Finalement, pour les humains le sens commun se manifeste surtout quand on voit q
 
 Les  chercheurs qui travaillent dans ce domaine sont convaincus que ces  formes d'intelligence artificielle basées sur un apprentissage  prédictif seront capables de rivaliser avec les hommes dans tous les domaines de l'intelligence. Yann Le Cun, sommité mondiale de l'I.A.  affirme que ces machines auront des émotions, des objectifs, des motivations, des désirs et seront capables de prendre des décisions.
 
-Continuer la lecture : [**Méthode de travail**](methode-de-travail.md)
+Continuer la lecture : [**Les outils**](les-outils.md)
