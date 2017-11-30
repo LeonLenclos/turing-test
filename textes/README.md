@@ -29,4 +29,4 @@ Sommaire
 -  [Methode de travail](methode-de-travail.md) - Comment nous écrivons.
 -  [Les outils](les-outils.md) - Réflexion sur la nature des outils que nous utilisons pour produire des sons et des images.
 -  [Besoins technologiques](besoins-technologiques.md) - Présentation des besoins technologiques clairement identifiés. D'autres apparaitront au fil des résidences.
--  [Sources](sources.md) - Ensemble de liens en rapport avec l'intelligence artificelle.
+-  [Sources](sources.md) - Ensemble de liens en rapport avec l'intelligence artificielle.
