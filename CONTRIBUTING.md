@@ -11,7 +11,7 @@ Conventions d'écriture
 Architecture du git
 -------------------
 
--   on uttilise pas d'accent ni de majuscule ni d'espace dans le nom des fichiers on favorise les tirets du milieu pour remplacer les espaces
+-   on utilise pas d'accent ni de majuscule ni d'espace dans le nom des fichiers on favorise les tirets du milieu pour remplacer les espaces
 -   on place tous les textes dans textes/ et tous les autres documents dans ressources/
 
 Architecture des textes
