@@ -26,4 +26,6 @@ En construction dans le labo
 -   Robot qui applaudit
 -   [Robot un peu incontrôlable (chatbot auto-apprenant accessible au public)](../textes/alan.md)
 
+---
+
 Continuer la lecture : [**Interactions**](interactions.md)

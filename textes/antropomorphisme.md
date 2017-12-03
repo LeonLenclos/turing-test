@@ -25,4 +25,6 @@ Le carton subit encore un coup et commence à gémir, à pousser des cris de dou
 
 ![](../ressources/dessin8.png)
 
+---
+
 Continuer la lecture : [**Programme un humain**](programme-un-humain.md)

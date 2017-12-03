@@ -100,4 +100,6 @@ Besoins matériel :
 -  Interface midi
 -  Modules additionnels
 
+---
+
 Continuer la lecture : [**Sources**](sources.md)

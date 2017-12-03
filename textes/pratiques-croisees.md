@@ -32,4 +32,6 @@ Cette proposition théâtrale où la magie s'exprime sous toutes ses formes, des
 
 ![](../ressources/dessin0.png)
 
+---
+
 Continuer la lecture : [**Mise en situation**](mise-en-situation.md)

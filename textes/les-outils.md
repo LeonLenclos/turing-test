@@ -58,4 +58,6 @@ Mon synthétiseur modulaire est un objet physique composé de modules élémenta
 ![](../ressources/cde-pd1.jpg)
 ![](../ressources/cde-pd2.jpg)
 
+---
+
 Continuer la lecture : [**Besoins technologiques**](besoins-technologiques.md)

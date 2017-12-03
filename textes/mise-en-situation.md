@@ -23,4 +23,6 @@ Les passages où les trois scientifiques fabriquent des films d'animation en dir
 
 ![](../ressources/dessin3.png)
 
+---
+
 Continuer la lecture : [**Alan**](alan.md)

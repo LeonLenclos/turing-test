@@ -102,4 +102,6 @@ Pourtant l'autoréférence n'est pas paradoxale en soi. Lorsqu'un juge dit "je v
 
 C'est là une chose qu'il est bon d'avoir en tête lorsqu'on cherche à créer de nos mains des êtres artificiels : si vous êtes sûr d'avoir créé une machine fiable, alors vous lui êtes forcément supérieur, car elle ne peut se rendre compte de sa propre fiabilité.
 
+---
+
 Continuer la lecture : [**Machine Learning**](machine-learning.md)

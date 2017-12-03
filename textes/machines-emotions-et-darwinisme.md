@@ -86,4 +86,6 @@ Jamais ces insectes ne pourront faire autre chose que ce que les règles de leur
 
 La plus grande différence entre nous et ces insectes, c'est qu'ils ont atteint en 5 minutes le stade ultime de l'évolution : Dans leur monde, ils sont parfaits. Alors que nous dans le notre...
 
+---
+
 Continuer la lecture : [**La machine de Turing**](la-machine-de-turing.md)
