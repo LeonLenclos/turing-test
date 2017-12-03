@@ -9,7 +9,7 @@ Texte théorique
 Résumé
 ------
 
-Etat des lieux du domaine de l'Intelligence Artificielle qu'on appelle le machine learning ou l'apprentissage automatique.
+Etat des lieux d'un des domaines de l'Intelligence Artificielle qu'on appelle le machine learning ou l'apprentissage automatique.
 
 Trouver le chat
 ----------------
