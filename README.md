@@ -1,3 +1,5 @@
+<p class="github-pages-ignore">Vous pouzez retrouver le contenu de ce dépôt à cette adresse : <a href="http://turing-test.cienokill.fr">turing-test.cienokill.fr</a> pour une lecture plus agréable</p>
+
 # turing-test
 
 Turing Test est un projet de création théâtrale de Fabien Carbo-Gil, Bertrand Lenclos et Léon Lenclos de la Cie Nokill qui traite du rapport que l'humain entretient avec les machines qu'il a créées.
