@@ -13,10 +13,26 @@ nav {
   padding-top : 20px;
   color : #fff;
 }
-nav a{
-  color : #fff;
-}
+nav a {
+	color:#fff;
+  text-decoration:none;
 
+}
+a:hover {
+	border : 1px solid #fff;
+	padding: 1px;
+	margin: -2px;
+	text-decoration:none;
+	color:#fff;
+}
+a:active {
+	background-color:#fff;
+	border : 1px solid #fff;
+	padding: 1px;
+	margin: -2px;
+	text-decoration:none;
+	color:#000;
+}
 .markdown-body h1 {
   text-align : center;
   padding-top : 30px;
@@ -35,16 +51,25 @@ body {
 }
 
 a {
-  color : #808080;
-  font-weight : bold;
-}
+	color:#047;
+  	text-decoration:none;
 
+}
 a:hover {
-  background-color : #696969;
-  text-decoration : none;
-  color : #fff;
+	border : 1px solid #047;
+	padding: 1px;
+	margin: -2px;
+	text-decoration:none;
+	color:#047;
 }
-
+a:active {
+	background-color:#047;
+	border : 1px solid #047;
+	padding: 1px;
+	margin: -2px;
+	text-decoration:none;
+	color:#fff;
+}
 .markdown-body img {
     max-width: 100%;
     display: block;
