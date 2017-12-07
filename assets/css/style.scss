@@ -19,14 +19,14 @@ nav a, h1.title a {
 	text-decoration:none;
 	margin:20px;
 }
-nav a:hover, h1.title a {
+nav a:hover, h1.title a:hover {
 	border:1px solid #fff;
 	padding:1px;
 	margin:18px;
 	text-decoration:none;
 	color:#fff
 }
-nav a:activ, h1.title ae {
+nav a:active, h1.title a:active {
 	background-color:#fff;
 	border:1px solid #fff;
 	padding:1px;
