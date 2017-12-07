@@ -80,3 +80,28 @@ a:active {
 .markdown-body p {
   overflow: hidden;
 }
+
+.markdown-body pre.lines {
+  display: none;
+}
+
+.markdown-body pre {
+  padding : 20px;
+  background: #002939
+}
+
+#container {
+  background-image: none;
+  background-color:  #002939;
+  border : 1px solid #002939;
+  box-shadow: 0 5px 20px #000;
+
+}
+
+.markdown-body h1, .markdown-body h2, .markdown-body h3, .markdown-body h4 {
+  color: #002939;
+}
+
+body {
+  background: url("../images/pattern.png");
+}
