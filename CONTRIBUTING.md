@@ -79,10 +79,10 @@ Uttilisation du markdown
     [texte](nom-du-fichier.md)
     [texte](http://site.internet.com)
     
-    on peut aussi faire un lien vers un chapitre special :
+    on peut aussi faire un lien vers un chapitre particulier :
     [texte](nom-du-fichier.md#nom-du-chapitre-en-minuscule-avec-des-tirets)
     
-exemple : [pure data](les-outils.html#fabien-et-pure-data) `[pure data](les-outils.html#fabien-et-pure-data))`
+exemple de lien vers un chapitre particulier : [pure data](les-outils.html#fabien-et-pure-data) `[pure data](les-outils.html#fabien-et-pure-data))`
     
     
 ### rappel sur les titres
