@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 
-h1.title {
+h1.title a {
   font-family: Arial, Arial, Helvetica;
   font-size : 16px;
   color:#fff;
@@ -121,7 +121,7 @@ footer a, footer a:hover {
 	height:100px;
 }
 @keyframes button {
-    from {background-color: #fff; font-size:16px; color #047;}
+    from {background-color: #fff; font-size:16px; color : #047;}
     to {background-color: #047; font-size:18px; color : #fff;}
 }
 .turing-button:hover {
