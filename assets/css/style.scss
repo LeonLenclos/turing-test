@@ -6,32 +6,33 @@
 h1.title {
   font-family: Arial, Arial, Helvetica;
   font-size : 16px;
+  color:#fff;
 }
 
 nav {
-  text-align : center;
-  padding-top : 20px;
-  color : #fff;
+	text-align:center;
+	padding-top:20px;
+	color:#fff
 }
 nav a {
 	color:#fff;
-  text-decoration:none;
-
-}
-a:hover {
-	border : 1px solid #fff;
-	padding: 1px;
-	margin: -2px;
 	text-decoration:none;
-	color:#fff;
+	margin:20px;
 }
-a:active {
+nav a:hover {
+	border:1px solid #fff;
+	padding:1px;
+	margin:18px;
+	text-decoration:none;
+	color:#fff
+}
+nav a:active {
 	background-color:#fff;
-	border : 1px solid #fff;
-	padding: 1px;
-	margin: -2px;
+	border:1px solid #fff;
+	padding:1px;
+	margin:18px;
 	text-decoration:none;
-	color:#000;
+	color:#000
 }
 .markdown-body h1 {
   text-align : center;
@@ -86,22 +87,27 @@ a:active {
 }
 
 .markdown-body pre {
-  padding : 20px;
-  background: #002939
+	padding:20px;
+	background:#001929
 }
-
 #container {
-  background-image: none;
-  background-color:  #002939;
-  border : 1px solid #002939;
-  box-shadow: 0 5px 20px #000;
-
+	background-image:none;
+	background-color:#001929;
+	border:0;
+	box-shadow:0 5px 20px #000;
+	max-width:800px;
+	
 }
 
-.markdown-body h1, .markdown-body h2, .markdown-body h3, .markdown-body h4 {
-  color: #002939;
+.wrapper {
+	width:800px;
+	margin:auto;
+	
 }
-
+.markdown-body h1,.markdown-body h2,.markdown-body h3,.markdown-body h4 {
+	color:#002939
+}
 body {
-  background: url("../images/pattern.png");
+	font-size: 16px;
+	background:url("../images/pattern.png")
 }
