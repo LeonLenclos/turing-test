@@ -1,8 +1,8 @@
 Liste de robots
 ========
+
 Type
 ----
-
 Liste
 
 Résumé
