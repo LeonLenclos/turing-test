@@ -114,7 +114,7 @@ exemple : [pure data](les-outils.html#fabien-et-pure-data) `[pure data](les-outi
  
  Pour des grosses portions de code on met quatres espaces au debut de chaque ligne.
  
- **Je propose qu'on uttilise aussi ça pour les extraits de spectacle qui sont ecrit comme une piece de théâtre** cf [ici](Interactions.html#le-robot-qui-a-de-la-r%C3%A9partie)
+ **Je propose qu'on uttilise aussi ça pour les extraits de spectacle qui sont ecrit comme une piece de théâtre** cf [ici](Interactions.md#le-robot-qui-a-de-la-r%C3%A9partie)
  
      texte normal
      
