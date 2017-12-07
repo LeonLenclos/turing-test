@@ -11,6 +11,7 @@ Les textes que vous trouverez ici constituent à la fois :
 -  Un outil de communication pour les professionnels ou les institutions qui voudraient plus de matière que ce que le [dossier de présentation](http://cienokill.fr/wp-content/uploads/2017/11/TURING-TEST.pdf) propose.
 
 Choisissez un texte dans le sommaire ou cliquez sur ce bouton pour une explication plus précise de notre méthode de travail :
+
 <a class="turing-button" href="textes/">Lire un premier texte</a>
 
 L'ensemble de ces textes est placé sous [License Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
