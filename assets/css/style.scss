@@ -43,14 +43,6 @@ nav a:active {
     color: #000;
 }
 
-.tagline, footer {
-  font-size: 12px;
-}
-
-body {
-  background : #fff;
-}
-
 a {
 	color:#047;
   	text-decoration:none;
@@ -117,3 +109,25 @@ footer {
 	padding-top:50px;
 	color:#fff;
 }
+footer a, footer a:hover {
+	color:#09B;
+}
+.button-turing {
+	display:block;
+	margin:auto;
+	padding:5px;
+	border: 1px solid #047;
+	width:300px;
+	height:100px;
+}
+@keyframes button {
+    from {background-color: #fff; font-size:16px; color #047;}
+    to {background-color: #047; font-size:18px; color : #fff;}
+}
+.button-turing:hover {
+    animation-name: button;
+    animation-duration: 2s;
+    background-color: #047;
+	font-size:18px;
+	color : #fff}
+	
