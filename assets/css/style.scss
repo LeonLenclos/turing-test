@@ -116,18 +116,53 @@ footer a, footer a:hover {
 	display:block;
 	margin:auto;
 	padding:5px;
-	border: 1px solid #047;
+	border:1px solid #047;
 	width:300px;
-	height:100px;
+	height:auto;
+	text-align: center;
+	margin-top: 30px; 
+	margin-bottom: 30px; 
+
 }
 @keyframes button {
-    from {background-color: #fff; font-size:16px; color : #047;}
-    to {background-color: #047; font-size:18px; color : #fff;}
+	from {
+		background-color:#fff;
+		color:#047
+	}
+	to {
+		background-color:#047;
+		color:#fff
+	}
 }
 .turing-button:hover {
-    animation-name: button;
-    animation-duration: 2s;
-    background-color: #047;
-	font-size:18px;
-	color : #fff}
-	
+	animation-name:button;
+	animation-duration:1s;
+	background-color:#047;
+	color:#fff;
+	display:block;
+	margin:auto;
+	padding:5px;
+	border:1px solid #047;
+	width:300px;
+	height:auto;
+	text-align: center;
+	margin-top: 30px; 
+	margin-bottom: 30px; 
+
+
+}
+.turing-button:active {
+	background-color:#025;
+	color:#fff;
+	display:block;
+	margin:auto;
+	padding:5px;
+	border:1px solid #025;
+	width:300px;
+	height:auto;
+	text-align: center;
+	margin-top: 30px; 
+	margin-bottom: 30px; 
+
+
+}
