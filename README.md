@@ -4,4 +4,4 @@ Turing Test est un projet de création théâtrale de Fabien Carbo-Gil, Bertrand
 
 Le spectalce est actuellement en cours de création. Nous avons décidé de rendre le processus de création ouvert. Vous trouverez ici les textes que nous sommes en train d'écrire, les idées qui germent, le spectacle qui jours après jours prend forme.
 
-<a class="turing-button" href="ressources/bouton.png">Commencer la lecture</a>
+<a class="turing-button" href="textes/">Commencer la lecture</a>
