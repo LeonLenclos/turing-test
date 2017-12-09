@@ -1,4 +1,4 @@
-<p class="github-pages-ignore">Vous pouzez retrouver le contenu de ce dépôt à cette adresse : <a href="http://turing-test.cienokill.fr">turing-test.cienokill.fr</a> pour une lecture plus agréable</p>
+<p class="github-pages-ignore">Vous pouvez retrouver le contenu de ce dépôt à cette adresse : <a href="http://turing-test.cienokill.fr">turing-test.cienokill.fr</a> pour une lecture plus agréable</p>
 
 # Turing Test
 
