@@ -50,3 +50,8 @@ L'humour d'Alan
     BERTRAND : Je ne sais pas. Je ne connais pas quelque chose qui soit 100% drôle.
     ALAN : C'est triste.
     BERTRAND : Un peu.
+
+
+---
+
+Continuer la lecture : [**Des machines qui parlent**](des-machines-qui-parlent.md)
