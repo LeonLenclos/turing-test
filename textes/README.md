@@ -23,6 +23,7 @@ Sommaire
 -  [Pratiques croisées](pratiques-croisees.md) - Turing Test est une œuvre théâtrale où sont conviées plusieurs techniques et pratiques artistiques.
 -  [Mise en situation](mise-en-situation.md) - Trois chercheurs dans un laboratoire éduquent une intelligence artificielle et font du cinéma.
 -  [Alan](alan.md) - Alan est un chatbot, un robot spécialisé dans la communication verbale, conçu pour donner l'illusion d'être conscient.
+-  [Conversation avec Alan 1](conversation-avec-alan-1.md) - Alan aime faire rire, mais c'est pas facile.
 -  [Des machines qui parlent](des-machines-qui-parlent.md) - Rapide aperçu de l'histoire des chatbots qui sera complétée au fil de la création.
 -  [Robots sur scène](robots-sur-scene.md) - Liste de robots dont la probabilité qu'ils apparaissent sur scène est non-nulle.
 -  [Interactions](interactions.md) - Descriptions de quelques interactions entre les comédiens et leurs machines.
