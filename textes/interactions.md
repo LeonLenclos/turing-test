@@ -18,14 +18,29 @@ Le comédien discute avec un robot. Le robot est en bois, assez rudimentaire, en
 
 Exemple de dialogue :
 
-    Humain : Est-ce que tu es intelligent ?
-    Robot : Est-ce que tu es intelligent ?
-    Humain : Euh... Je crois. Au moins un peu.
-    Robot : ...
-    Humain : Tu ne penses pas que je suis intelligent ?
-    Robot : Tu ne penses pas je suis intelligent ?
-    Humain : Tu l'es plus que tu ne le laisses croire.
-    Robot : ...
+        HUMAIN
+    Est-ce que tu es intelligent ?
+    
+        ROBOT
+    Est-ce que tu es intelligent ?
+    
+        HUMAIN
+    Euh... Je crois. Au moins un peu.
+    
+        ROBOT
+    ...
+    
+        HUMAIN
+    Tu ne penses pas que je suis intelligent ?
+    
+        ROBOT
+    Tu ne penses pas je suis intelligent ?
+    
+        HUMAIN
+    Tu l'es plus que tu ne le laisses croire.
+    
+        ROBOT
+    ...
 
 Le concours de tri
 ------------------
