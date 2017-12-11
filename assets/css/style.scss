@@ -90,8 +90,14 @@ a:active {
 .markdown-body pre {
 	padding:20px;
 	background:#001929;
-	margin:5px auto
+	margin:5px auto;
+	white-space: auto;
 }
+
+.markdown-body code {
+	white-space: auto;
+}
+
 #container {
 	background-image:none;
 	background-color:#001929;
