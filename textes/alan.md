@@ -47,4 +47,4 @@ Citation
 
 ---
 
-Continuer la lecture : [**Des machines qui parlent**](des-machines-qui-parlent.md)
+Continuer la lecture : [**conversation avec alan 1**](conversation-avec-alan-1.md)
