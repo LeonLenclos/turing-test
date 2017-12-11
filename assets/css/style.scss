@@ -15,7 +15,8 @@ nav {
 nav a,h1.title a {
 	color:#fff;
 	text-decoration:none;
-	margin:20px
+	margin:20px;
+	white-space: nowrap
 }
 nav a:hover,h1.title a:hover {
 	border:1px solid #fff;
@@ -80,6 +81,9 @@ a:active {
 .markdown-body p {
 	overflow:hidden
 }
+.markdown-body li p {
+	pqdding-left : 2px; /*prevent link border bug in list*/
+}
 .markdown-body pre.lines {
 	display:none
 }
@@ -96,7 +100,8 @@ a:active {
 	max-width:800px
 }
 .wrapper {
-	width:800px;
+	width:100%;
+	max-width:800px;
 	margin:auto
 }
 .markdown-body h1,.markdown-body h2,.markdown-body h3,.markdown-body h4 {
