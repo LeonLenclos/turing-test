@@ -9,7 +9,7 @@ Texte théorique
 Résumé
 ------
 
-Etat des lieux d'un des domaines de l'Intelligence Artificielle qu'on appelle le machine learning ou l'apprentissage automatique.
+Exemples d'apprentissage automatique ou comment une machine peut évoluer en s'entrainant. 
 
 Trouver le chat
 ----------------
