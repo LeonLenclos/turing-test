@@ -46,7 +46,7 @@ FABIEN examine le robot, dubitatif. Il fait un tour autour du robot puis prend d
    FABIEN
 Oh ! Mais ! Qu'est-ce qui s'est passé ? Le synthé modulaire est complètement cassé !
 
-Le robot enlève sa tête, on découvre que c'était BERTRANT déguisé en robot. Inquiet il commence à se précipiter vers les synthés modulaires.
+Le robot enlève sa tête, on découvre que c'était BERTRAND déguisé en robot. Inquiet il commence à se précipiter vers les synthés modulaires.
 
    FABIEN
 Ahah ! Je vous ai eu ! Tu n'as pas passé l'anti test de Turing Bertrand...
