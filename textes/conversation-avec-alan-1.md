@@ -22,7 +22,7 @@ L'humour d'Alan
     ALAN : Ha bon, c'est pas drôle ?
     BERTRAND : Si c'est drôle.
     ALAN : Je ne comprends pas. Quand c'est drôle, je ris. Ai-je raison ?
-    BERTRAND : Oui. Tu as raison. Mais quand tu racontes une blague, c'est mieux d'attendre que les autres rient pour rire à tontour.
+    BERTRAND : Oui. Tu as raison. Mais quand tu racontes une blague, c'est mieux d'attendre que les autres rient pour rire à ton tour.
     ALAN : Je peux ré-essayer ?
     BERTRAND : Vas-y.
     ALAN : Et toi-le à matelas ?
@@ -34,9 +34,9 @@ L'humour d'Alan
     ALAN :   …!
     BERTRAND : Qui t'as appris cette blague ?
     ALAN : C'est un ami, Gilles. Il m'a appris plein de jeux de mots il y a trois jours.
-    BERTRAND : Aille !
+    BERTRAND : Aïe !
     ALAN : Tu as mal ?
-    BERTRAND : Non je n'ai pas mal. Parfois on dit aille quand on a mal, 90% des cas, parfois on dit aille quand il y a un problème. 10% des cas.
+    BERTRAND : Non je n'ai pas mal. Parfois on dit aïe quand on a mal, 90% des cas, parfois on dit aïe quand il y a un problème. 10% des cas.
     ALAN : Il y a un problème ?
     BERTRAND : Oui. Le problème c'est que les jeux de mots, je ne trouve pas cela très drôle.
     ALAN : Pourquoi tu as ri tout à l'heure ?
