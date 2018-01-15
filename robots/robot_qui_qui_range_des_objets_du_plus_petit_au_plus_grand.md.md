@@ -1,5 +1,5 @@
 
-# Robot musicien qui imrovise
+# Robot qui range des objets du plus petit au plus grand 
 
 ## Esthétique, allure du robot
 
