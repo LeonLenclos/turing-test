@@ -1,9 +1,10 @@
-- Nom du robot
 
-- Esthétique, allure du robot
+# Robot musicien qui imrovise
 
-- Matériaux envisagés
+## Esthétique, allure du robot
 
-- Hypothèses de construction, description technique
+## Matériaux envisagés
 
-- Moment envisagé pour la construction
+## Hypothèses de construction, description technique
+
+## Moment envisagé pour la construction
