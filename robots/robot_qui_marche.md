@@ -1,4 +1,3 @@
-
 # Robot qui marche
 
 ## Esthétique, allure du robot
