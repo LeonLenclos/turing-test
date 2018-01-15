@@ -1,5 +1,5 @@
 
-# Robot musicien qui imrovise
+# Robot mauvais joueur
 
 ## Esthétique, allure du robot
 
