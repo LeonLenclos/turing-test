@@ -10,17 +10,8 @@ class Alan(ChatBot):
             output_adapter='chatterbot.output.TerminalAdapter',
             database='./database.sqlite3')
 
-        pass
-
     def status(self):
         return "Alan v1.0.0 version ultra beta"
-
-    def talk(self, message):
-        if message == quit:
-            return "Ciao !\n[quit]"
-        else:
-            return self.get_response(message)
-            # return "Désolé je ne comprends rien à ce que tu me dis..."
 
 if __name__ == '__main__':
 
@@ -35,7 +26,7 @@ if __name__ == '__main__':
 
     while True:
         try:
-            message = alan.get_response(None)
+            alan.get_response(None)
 
         except(KeyboardInterrupt, EOFError, SystemExit):
             break
