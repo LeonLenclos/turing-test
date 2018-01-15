@@ -1,6 +1,7 @@
-# Robot qui perds aux échecs
+# Robot qui perds aux jeux
 
 Ou aux dames ???
+Est ce que ce serait pas plus simple de lui faire jouer au puissance 4, le nombre d'actions possibles à chaque tour étant peu nombreuses les mêmes
 
 ## Esthétique, allure du robot
 
