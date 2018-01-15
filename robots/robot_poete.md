@@ -1,5 +1,5 @@
 
-# Robot poete
+# Robot poète
 
 ## Esthétique, allure du robot
 
