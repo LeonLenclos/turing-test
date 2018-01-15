@@ -1,5 +1,5 @@
 
-# Robot musicien qui imrovise
+# Robot bipolaire
 
 ## Esthétique, allure du robot
 
