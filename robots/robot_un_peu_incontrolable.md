@@ -1,5 +1,5 @@
 
-# Robot musicien qui imrovise
+# Robot un peu incontrolable
 
 ## Esthétique, allure du robot
 
