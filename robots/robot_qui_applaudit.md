@@ -1,5 +1,5 @@
 
-# Robot musicien qui imrovise
+# Robot qui applaudit
 
 ## Esthétique, allure du robot
 
