@@ -1,4 +1,4 @@
-Ici seront listés touts les robots, il y a un fichier texte par robot décrivant : 
+Ici seront listés touts les robots, il y a un fichier texte par robot décrivant :
 
 - Le nom du robot
 - Esthétique, allure du robot
