@@ -4,6 +4,8 @@
 ## Esthétique, allure du robot
 Je pense que contrairement aux autres robots, on n'est pas obligés d'éviter à tout prix l'anthropomorphisme pour Alan puisque c'est un robot qui a pour vocation à avoir une certaine "présence", bien sur on peut incarner cette présence de bien des manières.
 
+Je pense qu'il faut que son "visage", la partie que l'on regarde quand on lui parle, soit à la même hauteur que le notre.
+
 ## Matériaux envisagés
 
 
