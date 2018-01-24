@@ -47,18 +47,20 @@ Voila un exemple de code Arduino qui allume une led quant un piezzo capte un cou
 
    This example code is in the public domain.
 
- */
-
 
 // these constants won't change:
 const int ledPin = 13;      // led connected to digital pin 13
+
 const int knockSensor = A0; // the piezo is connected to analog pin 0
+
 const int threshold = 100;  // threshold value to decide when the detected sound is a knock or not
+
 
 
 // these variables will change:
 int sensorReading = 0;      // variable to store the value read from the sensor pin
 int ledState = LOW;         // variable used to store the last LED status, to toggle the light
+
 
 void setup() {
   pinMode(ledPin, OUTPUT); // declare the ledPin as as OUTPUT
@@ -70,7 +72,9 @@ void loop() {
   sensorReading = analogRead(knockSensor);
 
   // if the sensor reading is greater than the threshold:
+  
   //Ici on peut imaginer plusieurs conditions if, chacune correspondant à une gamme d'intensités différente qui joueraient des enregistrements de cris de plus en plus forts.
+  
   if (sensorReading >= threshold) {
     // toggle the status of the ledPin:
     //Ici modifier pour lire l'échantillon lié à l'intensité détectée
