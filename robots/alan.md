@@ -10,16 +10,19 @@ Je pense qu'il faut que son "visage", la partie que l'on regarde quand on lui pa
 
 
 ## Hypothèses de construction, description technique
-Utilisation de Chatterbot commandé depuis le langage Python (Entrée sorties = textes).
+### Hardware
+Pour exécuter Alan, j'ai discuté avec des gens du Fablab LFO qui est à la friche et comme la reconnaissance vocale et la synthèse sont des programmes assez lourds, il vaut mieu partir sur un raspberry pi que sur un Aduino. De plus les raspberry tournent sous python contrairement aux arduinos qui fonctionnent en C. Il faudrait donc relier le raspberry pi à internet pour qu'il actualise son programme en fonction de ce que sa version miroir qui apprend sur internet (là il y aura quelques défis techniques).
+### Software
+Parti logiciel : Chatterbot commandé depuis le langage Python (Entrée sorties = textes).
 Pour l'instant nous éclaircissons le fonctionnement et les possibilités de chatterbot pour pouvoir réfléchir à une stratégie de programmation qui respecte au maximum un certain nombre de contraintes (à compléter):
 
 - Pouvoir être accessible sur internet pour apprendre du public.
 - Garder un accés pas trop complexe à l'intérieur du progamme pour pouvoir controler l'évolution de Alan voire le "censurer". L'idéal serait de pouvoir le controler vocalement, de modifier l'indice de pertinence en faisant une remarque orale à Alan.
-- Pouvoir basculer dans un mode spectacle plus controlé, si possible à l'oral (par exemple : "le spectacle commence" et "c'est fini le spectacle").
+- Pouvoir basculer dans un mode spectacle plus controlé, si possible à l'oral (par exemple : "le spectacle commence" et "c'est fini le spectacle"). (possibilité de bloquer l'apprentissage pendant le spectacle https://chatterbot.readthedocs.io/en/stable/examples.html#read-only-mode )
 - Savoir reconnaitre le rire (conversion audio vers texte)
 - aprentissage :
     - tout au long des conversations, il garde en mémoire les Nouveaus mots, les manières de parler.
-    - on peut aussi lui apprendre des choses directement (par exemple : "Un chien est un animal")
+    - on peut aussi lui apprendre des choses directement (par exemple : "Un chien est un animal") (via une liste de conversations écrites https://chatterbot.readthedocs.io/en/stable/training.html#training-via-list-data )
 
 
 Travailler avec l'IRIT pour la conversion audio vers texte et puis pour la synthèse vocale.
