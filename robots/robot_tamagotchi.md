@@ -3,7 +3,7 @@
 
 ## Esthétique, allure du robot
 
-Un simple écran avec un bouton au dessus : nourrir. Un poisson très pixellisé s'affiche à l'écran, en temps normal il bouge de manière aléatoire dans l'écran-bocal. Quand il est nourri, une animation est lancée. Il peut recevoir des messages de pure data pour nager en rythme avec le groove ! Quand il 
+Un simple écran avec un bouton au dessus : nourrir. Un poisson très pixellisé s'affiche à l'écran, en temps normal il bouge de manière aléatoire dans l'écran-bocal. Quand il est nourri, une animation est lancée. Il peut recevoir des messages de pure data pour nager en rythme avec le groove !
 
 
 ## Mise en scène
