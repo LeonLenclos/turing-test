@@ -29,7 +29,7 @@ Je pense que le programme est à deux endroits :
 - dans le robot
 - sur un serveur
 
-Lorsqu'on joue le spectacle on télécharge la version la plus récente de la base de donnée d'Alan. à la fin du spectacle la base de donnée a encore évolué, on la met en ligne à la place de l'ancienne.
+Lorsqu'on joue le spectacle on télécharge la version la plus récente de la base de donnée d'Alan. A la fin du spectacle la base de donnée a encore évolué, on la met en ligne à la place de l'ancienne. Cela implique que lorsque le programme vient d'être versé dans le robot, toute apprentissage qui se fera entre le moment ou on met le programme dans le robot et le moment où le programme est mis à jour sur internet à partir de l'apprentissage du robot, sera perdu (puisque pendant ce temps là en gros l'apprentissage se fait via le robot et non via internet). Peut être que la version internet peut basculer en mode "read only" et discuter sans apprendre avec les internautes tant que Alan est en spectacle. Quant le spectacle est fini, il peut de nouveau être attentif aux internautes et apprendre d'eux. Il me (Fabien) semble vraiment que c'est la solution la moins compliquée et de plus ça donne une unicité à Alan qui ne peut pas coplétement être à deux endroits en même temps.
 
 Je ne sais pas comment on travail en python sur internet, je me renseignerai, je crois qu'il y a des solutions.
 
