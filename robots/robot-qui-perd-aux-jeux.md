@@ -1,7 +1,7 @@
 # Robot qui perds aux jeux
 
 Ou aux dames ???
-Est ce que ce serait pas plus simple de lui faire jouer au puissance 4, le nombre d'actions possibles à chaque tour étant peu nombreuses les mêmes
+Est ce que ce serait pas plus simple de lui faire jouer au puissance 4, le nombre d'actions possibles à chaque tour étant peu nombreuses et toujours les mêmes quelque soit l'état du jeu (à part si une colonne de pions est remplie, ce qui pourrait être une erreur qu'il commet stupidement)
 
 ## Esthétique, allure du robot
 
