@@ -21,7 +21,7 @@ Alan pourrait être en même temps son propre rangement. Concu en deux parties, 
 
 Pour exécuter Alan, j'ai discuté avec des gens du Fablab LFO qui est à la friche et comme la reconnaissance vocale et la synthèse sont des programmes assez lourds, il vaut mieu partir sur un raspberry pi que sur un Aduino. De plus les raspberry tournent sous python contrairement aux arduinos qui fonctionnent en C.
 
-Bertrand : On peut même envisager une unitée centrale type PC intégrée à la partie basse. En effet, si Alan doit évoluer vers des version plus gourmandes en ressources il faut partir tout de suite avec un système puissant et évolutifs (ports PCI
+Bertrand : On peut même envisager une unitée centrale type PC intégrée à la partie basse. En effet, si Alan doit évoluer vers des version plus gourmandes en ressources il faut partir tout de suite avec un système puissant et évolutif (ports PCI E).
 
 #### Et sur internet ?
 
