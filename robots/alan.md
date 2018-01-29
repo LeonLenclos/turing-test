@@ -17,11 +17,11 @@ Je pense qu'il faut que son "visage", la partie que l'on regarde quand on lui pa
 
 ### Hardware
 
-#### Quel ordinateur ?
+#### Quel ordinateur ?
 
 Pour exécuter Alan, j'ai discuté avec des gens du Fablab LFO qui est à la friche et comme la reconnaissance vocale et la synthèse sont des programmes assez lourds, il vaut mieu partir sur un raspberry pi que sur un Aduino. De plus les raspberry tournent sous python contrairement aux arduinos qui fonctionnent en C.
 
-#### Et sur internet ?
+#### Et sur internet ?
 
 Alan doit pouvoir marcher hors-ligne. Pour les endroits ou on joue sans connexion. Il doit donc être autonome sur ce niveau là.
 
