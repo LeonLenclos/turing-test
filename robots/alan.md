@@ -5,21 +5,23 @@
 
 Je pense que contrairement aux autres robots, on n'est pas obligés d'éviter à tout prix l'anthropomorphisme pour Alan puisque c'est un robot qui a pour vocation à avoir une certaine "présence", bien sur on peut incarner cette présence de bien des manières.
 
-Je pense qu'il faut que son "visage", la partie que l'on regarde quand on lui parle, soit à la même hauteur que le notre.
+Il faut que son "visage", la partie que l'on regarde quand on lui parle, soit à la même hauteur que le notre.
 
 
 
 ## Matériaux envisagés
-
+Du fait de sa taille et des équipements hébergés (écran, unité centrale, haut parleur,...) il faut imaginer une structure à base de matériaux solides : aluminium et bois. Pour l'habillage et les formes, du plastique.
 
 ## Hypothèses de construction, description technique
-
+Alan pourrait être en même temps son propre rangement. Concu en deux parties, la partie haute pourrait se ranger retournée dans la partie basse comme un couvercle de flight-case. 
 
 ### Hardware
 
 #### Quel ordinateur ?
 
 Pour exécuter Alan, j'ai discuté avec des gens du Fablab LFO qui est à la friche et comme la reconnaissance vocale et la synthèse sont des programmes assez lourds, il vaut mieu partir sur un raspberry pi que sur un Aduino. De plus les raspberry tournent sous python contrairement aux arduinos qui fonctionnent en C.
+
+Bertrand : On peut même envisager une unitée centrale type PC intégrée à la partie basse. En effet, si Alan doit évoluer vers des version plus gourmandes en ressources il faut partir tout de suite avec un système puissant et évolutifs (ports PCI
 
 #### Et sur internet ?
 
