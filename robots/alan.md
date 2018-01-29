@@ -68,9 +68,9 @@ N'étant pas du tout familier de ces technologies, je me pose des questions conc
 
 Methode de travail proposée :
 
- 1- Ecrire des discussions possible avec Alan. Des discussions très simples et voir ce que ça implique comme compétences.
+ 1. Ecrire des discussions possible avec Alan. Des discussions très simples et voir ce que ça implique comme compétences.
 
- 2- Essayer de programmer ces compétences. C'est à dire, rendre les discussions en questions possible
+ 2. Essayer de programmer ces compétences. C'est à dire, rendre les discussions en questions possible
 
 Par exemple :
 
@@ -86,9 +86,9 @@ Par exemple :
 #### compétences impliquées :
 
 
-   1- Je sais dire bonjour quand on me dit bonjour
-   2- Je sais répondre à une question de type "Sais-tu ce que c'est ..."
-   3- Je remarque quand on me pose deux fois la même questions.
+   1. Je sais dire bonjour quand on me dit bonjour
+   2. Je sais répondre à une question de type "Sais-tu ce que c'est ..."
+   3. Je remarque quand on me pose deux fois la même questions.
 
 plusieurs possibilités :
 
