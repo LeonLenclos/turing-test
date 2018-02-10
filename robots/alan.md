@@ -115,22 +115,22 @@ Il faut ensuite coder tout ça. Plus on a été précis dans la description lit�
 
 Il faut aussi des stratégie de programmation pour que tout ça soit bien rangé. Que ça ne devienne pas un gros bordel avec plein de fonctionnalités dans tous les sens. Voici quelques trucs à faire auquels j'ai pensé en lisant la doc :
 
-_ Logic adaptator : Je suppose que multilogic adaptator est actif par défaut, le déclarer quand même au cas ou.
-_ Au niveau des corpus, faire un petit programme qui nous permette d'intégrer beaucoup de texte brut d'un coup (En redécoupant les phrases, en effaçant la mise en page). Une partie de ce progamme peut être réutilisée pour faire un preprocessor qui modifie l'entrée (enleve espaces ou accents par exemple.
-_ Commencer à chercher des corpus.
-_ Revoir et intégrer le french corpus de chatterbot. $
-_ Crééer un premier logic adaptator qui serait un best match adaptator avec un corpus de proverbes
+- Logic adaptator : Je suppose que multilogic adaptator est actif par défaut, le déclarer quand même au cas ou.
+- Au niveau des corpus, faire un petit programme qui nous permette d'intégrer beaucoup de texte brut d'un coup (En redécoupant les phrases, en effaçant la mise en page). Une partie de ce progamme peut être réutilisée pour faire un preprocessor qui modifie l'entrée (enleve espaces ou accents par exemple.
+- Commencer à chercher des corpus.
+- Revoir et intégrer le french corpus de chatterbot. $
+- Crééer un premier logic adaptator qui serait un best match adaptator avec un corpus de proverbes
 
 Des points de doc ( https://media.readthedocs.org/pdf/chatterbot/stable/chatterbot.pdf ) a commencer à regarder :
 
 
-_ 4.7.3.4 : permet de n'activer un logic adaptator que si un mot clé est présent dans l'entrée.
-_ 4.7.3.5 : permet d'aller chercher des informations à l'extérieur du bot et de les intégrer dans la réponse (météo ou encore état des autres robots s'ils sont connectés à Alan)
-_ 4.7.7.1 Répondre que l'on ne comprend pas quand l'indice de pertinence est au-dessous d'un seuil
-_ 4.7.8 Si la phrase prédéfinié  est détectée, une réponse prédéfini est automatiquement donnée. (Par ex aux réponses qui est ton maitre ou qui est ton créateur, Alan sera condamné à donner toujours la même réponse, il ne pourra pas modifier sa réaction à ces questions.
-_ 4.11 filtres : à creuser, les filtres permettent de filtrer les réponses retournés (n'accepter une réponse que si elle contient un des mots d'une liste par exemple ou bien que si elle n'a pas été prononcée récemment ...)
-_ 4.15.4 stopwords removal
-_ 4.18.2 comment mettre le chatbot en ligne
+- 4.7.3.4 : permet de n'activer un logic adaptator que si un mot clé est présent dans l'entrée.
+- 4.7.3.5 : permet d'aller chercher des informations à l'extérieur du bot et de les intégrer dans la réponse (météo ou encore état des autres robots s'ils sont connectés à Alan)
+- 4.7.7.1 Répondre que l'on ne comprend pas quand l'indice de pertinence est au-dessous d'un seuil
+- 4.7.8 Si la phrase prédéfinié  est détectée, une réponse prédéfini est automatiquement donnée. (Par ex aux réponses qui est ton maitre ou qui est ton créateur, Alan sera condamné à donner toujours la même réponse, il ne pourra pas modifier sa réaction à ces questions.
+- 4.11 filtres : à creuser, les filtres permettent de filtrer les réponses retournés (n'accepter une réponse que si elle contient un des mots d'une liste par exemple ou bien que si elle n'a pas été prononcée récemment ...)
+- 4.15.4 stopwords removal
+- 4.18.2 comment mettre le chatbot en ligne
 
 
 ## Moment envisagé pour la construction
