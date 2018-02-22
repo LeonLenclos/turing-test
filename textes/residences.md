@@ -10,27 +10,22 @@ Les différentes résidences prévues et leur contenu
 
 ## Résidences prévues
 
-### Auditorium - janvier 18
+### Graulhet - fevrier, mars 18
+
+#### Objectif
+
+Préparation des résidences de mars
+
+### IRIT - mars 18
+
+Premier temps long de travail sur Alan
 
 #### Objectifs
 
-- Préparer La présentation du projet à Région en scène.
-
-#### Résultats
-
-- Connexion établie entre le synthé modulaire, le ms20, puredata et ognon
-- Premières idées d'animations qui emmergent
-- Création d'une présentation-performance de 10 minutes, effectuée à Région en Scène.
-
-### IRIT - fevrier, mars 18
-
-#### Objectifs
-
-Concevoir la partie software des chatbots avec une priorité donnée à Alan
-
-- Alan (agent conversationnels + reconnaissance vocale + synthèse vocale)
-- Poete Markovien
-- Bot Einstein
+- Creer l'interface audio vers Alan et Alan vers audio
+- Ecrire scénarios (dialogues) pour Alan
+- Avancer sur l'architecture d'Alan et sur les logics adapters
+- V1 d'Alan en fin de résidence
 
 ### Usinotopie - mars 18
 
@@ -45,6 +40,12 @@ Concevoir la partie software des chatbots avec une priorité donnée à Alan
 - Robot qui a du Goût
 - Robot qui souffre
 - Robot taciturne
+
+### IRIT - mai 18
+
+#### Objectifs
+
+- travails avec stagiaires sur la partie deep learning
 
 ## Résidences à prévoir
 
@@ -65,3 +66,17 @@ Collaboration envisagée : Simon de Orama
 #### Objectifs
 
 Revoir l'architecture du logiciel pour en faire un outil plus puissant plus hackable mieux documenté
+
+## Résidences passées
+
+### Auditorium - janvier 18
+
+#### Objectifs
+
+- Préparer La présentation du projet à Région en scène.
+
+#### Résultats
+
+- Connexion établie entre le synthé modulaire, le ms20, puredata et ognon
+- Premières idées d'animations qui emmergent
+- Création d'une présentation-performance de 10 minutes, effectuée à Région en Scène.
