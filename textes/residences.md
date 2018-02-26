@@ -29,6 +29,46 @@ Premier temps long de travail sur Alan
 
 ### Usinotopie - mars 18
 
+#### Matériel
+
+##### outillage
+- pistolet à colle
+- Caisse outil rouge
+- caisse Bleue
+- caisse electronique
+- Kit Soudure
+- caisse mèche + huile
+
+##### Matériaux
+- 6 verins pneumatiques avec flexible
+- feuille et chute plastazote
+- mousse diverses
+- Selection recup Métal
+- selection recup bois
+- selection recup plastique
+- caisse Vis + tige filetée
+
+##### Electronic devices
+
+###### Fab  
+- Pads electroniques+ Trigger
+- Ordi Windows + Ordi Linux + Alim + Carte son
+- SQ1 + Block
+- composants divers
+
+###### Léon
+- Think Pad
+- Cintik
+- Arduino
+- Caméra
+
+###### Bertrand
+- selection micros
+- selection caméra
+- 2 Vidéoproj + 2 écrans + valise mélangeur + Sac cable
+- Modulaires
+- Diff + console + cables
+
 #### Objectifs
 
 (on pourra peut-être pas tout faire ?) 
