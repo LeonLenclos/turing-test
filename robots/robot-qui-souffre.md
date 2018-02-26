@@ -8,12 +8,21 @@ Une boite en carton. Simple.
 C'est tout...
 Une simple boite en carton.
 
+Dans l'hypothèse où un dessin est réalisé par Léon à chaque représentation sur le carton, il faut réfléchir à une solution durable (Craft collé ? )
+
+Comme le carton doit recevoir des chocs, il faut éviter qu'il se désagrège et que l'électronique embarquée se détériore. On peut pour cela envisager une structure alu légère.
+
+La souffrance du robot peut être aussi induite par des soubresauts ou des tremblements qui pourrait être obtenus avec un moteur entrainant un disque dont le centre de gravité est décentré.
+
 ## Matériaux envisagés
 
+- profilés alu
 - Du carton
 - Un module arduino
 - Un micro contact
-- Un haut parleur
+- Un ampli et un haut parleur
+- un moteur
+- des accumlateurs
 
 ###Modularité
 - il y a une sortie son, si on veut le brancher sur autre chose que le haut parleur intégré
