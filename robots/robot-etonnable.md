@@ -11,7 +11,7 @@ Buste
 
 Robot entièrement mécanique, le mécanisme fait que lorsqu'un objet est posé sur le plateau, les traits de son visage se modifient pour qu'il ait l'air étonné.
 
-![](../ressources/robot-etonne-2.jpg)
+![](../ressources/robot-etonne-2.jpg=250x)
 ![](../ressources/robot-etonne-1.jpg)
 ![](../ressources/robot-etonne-3.jpg)
 
