@@ -42,6 +42,7 @@ Documents, publications, articles de recherche
 -   [Perspectives sur l'anthropomorphisme et la déshumanisation (Adam Waytz, Nicholas Epley, and John T. Cacioppo / Harvard University and University of Chicago)](http://faculty.chicagobooth.edu/nicholas.epley/waytzepleycacioppocdips.pdf)
 -   [Some basic theorems on the foundations of mathematics and their implications. Texte de 1951 de K.Gödel explorant les liens entre des questions de fondements des mathématiques et le problème esprit\machine, introduction de Gorge Boolos](http://www.partiallyexaminedlife.com/wp-content/uploads/Godel-Basic-Theorems-and-Their-Implications-1.pdf)
 -   [Computing machinery and intelligence. Article de 1950 de A.Turing dans lequel il introduit le test de Turing, "the imitation game" dans l'article.](http://loebner.net/Prizef/TuringArticle.html)
+-   [On Computable Numbers, with an Application to the Entscheidungsproblem. Article de 1936 de A.Turinng dans lequel il définis ce qu'est une machine de Turing, "computing machines" dans l'article](http://www.thocp.net/biographies/papers/turing_oncomputablenumbers_1936.pdf)
 
 Articles de presse
 -----------------
