@@ -72,13 +72,19 @@ Premier temps long de travail sur Alan
 - sac EX1 complet + pied
 - ordi ber tablete
 
-###### achat
+##### divers
+
+- livres
+- néons
+
+##### achat
 - fer alu visserie meches
 - décapeur thermique
 - 6 verins pneumatiques
 - flexibles/raccord pneumatiques
 - plan de travail (CP anti dérapant)
 - carton
+
 
 #### Objectifs
 
