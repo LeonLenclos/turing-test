@@ -40,7 +40,6 @@ Premier temps long de travail sur Alan
 - caisse mèche + huile
 
 ##### Matériaux
-- 6 verins pneumatiques avec flexible
 - feuille et chute plastazote
 - mousse diverses
 - Selection recup Métal
@@ -55,19 +54,31 @@ Premier temps long de travail sur Alan
 - Ordi Windows + Ordi Linux + Alim + Carte son
 - SQ1 + Block
 - composants divers
+- carton pad/cable
 
 ###### Léon
 - Think Pad
 - Cintik
-- Arduino
-- Caméra
+- flight électronique (Caméra,arduino,moniteur
 
 ###### Bertrand
-- selection micros
+- selection micros (HF sm58 neuman)
 - selection caméra
 - 2 Vidéoproj + 2 écrans + valise mélangeur + Sac cable
 - Modulaires
 - Diff + console + cables
+- valise mélangeur
+- selection cables
+- sac EX1 complet + pied
+- ordi ber tablete
+
+###### achat
+- fer alu visserie meches
+- décapeur thermique
+- 6 verins pneumatiques
+- flexibles/raccord pneumatiques
+- plan de travail (CP anti dérapant)
+- carton
 
 #### Objectifs
 
