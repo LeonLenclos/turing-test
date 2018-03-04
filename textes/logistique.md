@@ -2,7 +2,7 @@
 
 ## Type
 
-Organisation de la création :  planning résidences, transports, listes de matériel, achats.
+Organisation de la création :  planning résidences, transports et régie, listes de matériel, achats.
 
 ## Résumé
 
@@ -22,15 +22,52 @@ Ce qu'il faut savoir pour être au bon endroit au bon moment et ne rien oublier.
 - MJC Rodez (12) du 29 avril au 10 mai 2019. restitution probable le vendredi 10 mai 2019 dans l'après-midi.
 - Théâtre d'Auch (32) du 13 au 24 mai 2019. restitutions probable le vendredi 24 mai 2019 dans l'après-midi.
 - Graines de rue (87) - Théâtre Gérard Philipe à Bessines (87) avec Première prévue le  vendredi 7 juin 2019 à Bessines.
-- La grainerie (31) - à caler en automne 2019. Reprise.
+- La Grainerie (31) - à caler en automne 2019. Reprise.
 
 ## transport résidences
 
 ### IRIT (31) - du 5 au 9 mars 2018
 
+- Fabien, Bertrand et Léon arrivent et repartent en train.
+- Bertrand loge à l'Hôtel Le Capitole 10 Rue Rivals 31000 Toulouse du 5 au 8
+- Fabien et Léon logent chez des amis.
+- 5 déjeunés et 10 métros pris en charge pour chacun par l'IRIT.
+- à noter RV à 15h mercredi 7 mars avec Germinal et centres culturels Toulouse. Lieu : 12 rue du Fg Bonnefoy Toulouse.
+- à noter RV à 18h30 jeudi 8 avec léon, Bertrand et Aurélie Vinq. lieu : à fixer).
+- à noter RV à 10h jeudi 8 avec Claire et Michael Vo. lieu :à l'IRIT ( à confirmer)
+- caler l'achat des verins (lundi 19h30 dans Toulouse ?)
+
+### Usinotopie (31), du 12 au 23 mars 2018. Restitution le 23 mars à 19h
+
+- Bertrand arrive en Dacia
+- Fabien et Léon en train. Trajet Toulouse/Villemur : à préciser
+- logement et repas sur place pris en charge par la Cie
+- à noter : organiser et communiquer sur la restitution le 23 mars à 19h.
+
 ## Liste matériel résidences
 
 ### IRIT (31) - du 5 au 9 mars 2018
+
+###### Fab  
+
+- Ordi Windows + Ordi Linux + Alim + Carte son
+
+###### Léon
+
+- Think Pad
+
+###### Bertrand
+
+- selection micros (HF sm58 neuman, cable et bonette)
+- EOS 550D
+- ordi ber, ordi Envol, tablete
+
+##### divers
+
+- Livres Turing test
+- Com Cie Nokill
+
+### Usinotopie (31), du 12 au 23 mars 2018. Restitution le 23 mars à 19h
 
 #### Matériel
 
