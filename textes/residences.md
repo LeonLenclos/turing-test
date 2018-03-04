@@ -8,15 +8,27 @@ Organisation
 
 Les différentes résidences prévues et leur contenu
 
-## Résidences prévues
+## Programme des Résidences
 
-### Graulhet - fevrier, mars 18
+### Auditorium - janvier 18
+
+#### Objectifs
+
+- Préparer La présentation du projet à Région en scène.
+
+#### Résultats
+
+- Connexion établie entre le synthé modulaire, le ms20, puredata et ognon
+- Premières idées d'animations qui emmergent, premières improvisayions musicales.
+- Création d'une présentation-performance de 10 minutes, effectuée à Région en Scène.
+
+### Graulhet - du 28 fevrier au 2 mars 2018
 
 #### Objectif
 
 Préparation des résidences de mars
 
-### IRIT - mars 18
+### IRIT - du 5 au 9 mars 2018
 
 Premier temps long de travail sur Alan
 
@@ -28,63 +40,6 @@ Premier temps long de travail sur Alan
 - V1 d'Alan en fin de résidence
 
 ### Usinotopie - mars 18
-
-#### Matériel
-
-##### outillage
-- pistolet à colle
-- Caisse outil rouge
-- caisse Bleue
-- caisse electronique
-- Kit Soudure
-- caisse mèche + huile
-
-##### Matériaux
-- feuille et chute plastazote
-- mousse diverses
-- Selection recup Métal
-- selection recup bois
-- selection recup plastique
-- caisse Vis + tige filetée
-
-##### Electronic devices
-
-###### Fab  
-- Pads electroniques+ Trigger
-- Ordi Windows + Ordi Linux + Alim + Carte son
-- SQ1 + Block
-- composants divers
-- carton pad/cable
-
-###### Léon
-- Think Pad
-- Cintik
-- flight électronique (Caméra,arduino,moniteur
-
-###### Bertrand
-- selection micros (HF sm58 neuman)
-- selection caméra
-- 2 Vidéoproj + 2 écrans + valise mélangeur + Sac cable
-- Modulaires
-- Diff + console + cables
-- valise mélangeur
-- selection cables
-- sac EX1 complet + pied
-- ordi ber tablete
-
-##### divers
-
-- livres
-- néons
-
-##### achat
-- fer alu visserie meches
-- décapeur thermique
-- 6 verins pneumatiques
-- flexibles/raccord pneumatiques
-- plan de travail (CP anti dérapant)
-- carton
-
 
 #### Objectifs
 
@@ -123,17 +78,3 @@ Collaboration envisagée : Simon de Orama
 #### Objectifs
 
 Revoir l'architecture du logiciel pour en faire un outil plus puissant plus hackable mieux documenté
-
-## Résidences passées
-
-### Auditorium - janvier 18
-
-#### Objectifs
-
-- Préparer La présentation du projet à Région en scène.
-
-#### Résultats
-
-- Connexion établie entre le synthé modulaire, le ms20, puredata et ognon
-- Premières idées d'animations qui emmergent
-- Création d'une présentation-performance de 10 minutes, effectuée à Région en Scène.
