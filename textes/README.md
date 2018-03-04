@@ -18,7 +18,7 @@ L'ensemble de ces textes est placé sous [License Creative Commons BY-NC-SA 4.0]
 
 Sommaire
 --------
--  [Methode de travail](methode-de-travail.md) - Comment nous écrivons.
+-  [Méthode de travail](methode-de-travail.md) - Comment nous écrivons.
 -  [Présentation du projet de création](presentation-du-projet-de-creation.md) - Intentions, motivations, hypothèses de recherche.
 -  [Pratiques croisées](pratiques-croisees.md) - Turing Test est une œuvre théâtrale où sont conviées plusieurs techniques et pratiques artistiques.
 -  [Mise en situation](mise-en-situation.md) - Trois chercheurs dans un laboratoire éduquent une intelligence artificielle et font du cinéma.
@@ -27,10 +27,12 @@ Sommaire
 -  [Conversation avec Alan 1](conversation-avec-alan-1.md) - Alan aime faire rire, mais c'est pas facile.
 -  [Des machines qui parlent](des-machines-qui-parlent.md) - Rapide aperçu de l'histoire des chatbots qui sera complétée au fil de la création.
 -  [Robots sur scène](robots-sur-scene.md) - Liste de robots dont la probabilité qu'ils apparaissent sur scène est non-nulle.
+-  [Esthétique](esthetique.md) - Choix esthétiques concernant les robots du laboratoire.
 -  [La machine à café](la-machine-a-cafe.md) - Souvenir de la farce qu'une machine à café m'a fait subir.
 -  [Interactions](interactions.md) - Descriptions de quelques interactions entre les comédiens et leurs machines.
 -  [Antropomorphisme](antropomorphisme.md) - Comment notre tendance naturelle à l'antropomorphisme pervertit notre relation aux robots.
 -  [Programme un humain](programme-un-humain.md) - Un jeu où un humain devient un robot.
+-  [Le nouveau robot](le-nouveau-robot.md) - Un robot inconnu entre en scène.
 -  [Éthique](ethique.md) - Rapide aperçu des questions ethiques que pose l'avénement de l'intelligence artificielle.
 -  [Machines, émotions et darwinisme](machines-emotions-et-darwinisme.md) - Reflexions sur la nature des émotions et leur origine dans le but de répondre à la question "Les machines peuvent-elles ressentir des émotions"
 -  [La machine de Turing](la-machine-de-turing.md) - Retour sur le concept de machine de Turing, sur le contexte de son invention et sur certains liens entre informatique et mathématiques.
