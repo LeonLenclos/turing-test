@@ -41,7 +41,8 @@ Ce qu'il faut savoir pour être au bon endroit au bon moment et ne rien oublier.
 
 - Bertrand arrive en Dacia
 - Fabien et Léon en train. Trajet Toulouse/Villemur : à préciser
-- logement et repas sur place pris en charge par la Cie
+- logement et repas sur place
+- repas pris en charge par la Cie
 - à noter : organiser et communiquer sur la restitution le 23 mars à 19h.
 
 ## Liste matériel résidences
