@@ -32,6 +32,7 @@ Ce qu'il faut savoir pour être au bon endroit au bon moment et ne rien oublier.
 - Bertrand loge à l'Hôtel Le Capitole 10 Rue Rivals 31000 Toulouse du 5 au 8
 - Fabien et Léon logent chez des amis.
 - 5 déjeuners et 10 métros pris en charge pour chacun par l'IRIT.
+- à noter RV à 9h mercredi 7 mars test reco vocale
 - à noter RV à 15h mercredi 7 mars avec Germinal et centres culturels Toulouse. Lieu : 12 rue du Fg Bonnefoy Toulouse.
 - à noter RV à partir de 17h mercredi 7 mars  avec léon, Bertrand et Aurélie Vinq. lieu : à fixer).
 - à noter RV à 10h jeudi 8 avec Claire et Michael Vo. lieu :à l'IRIT ( à confirmer)
