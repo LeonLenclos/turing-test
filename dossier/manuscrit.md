@@ -84,7 +84,7 @@ ChatBots Mythiques
 
     Son avantage pour le test de Turing est qu'il a une personnalité. Et sa personnalité c'est d'être fou, donc on peut faire passer son manque de cohérence pour une conséquence de sa maladie et pas une faiblesse de son algorithme.
 
--   [Dialector](http://dialector.poptronics.fr/) (1988) écrit par le cinéaste Chris Marker, premier appropriation notable du concept de chatbot par un artiste
+-   [Dialector](http://dialector.poptronics.fr/) (1988) écrit par le cinéaste Chris Marker, première appropriation notable du concept de chatbot par un artiste
 
 -   [A.L.I.C.E.](http://sheepridge.pandorabots.com/pandora/talk?botid=b69b8d517e345aba&skin=custom_iframe) (1995)
 
