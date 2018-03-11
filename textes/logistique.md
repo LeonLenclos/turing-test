@@ -40,10 +40,9 @@ Ce qu'il faut savoir pour être au bon endroit au bon moment et ne rien oublier.
 
 ### Usinotopie (31), du 12 au 23 mars 2018. Restitution le 23 mars à 19h
 
-- Bertrand arrive en Dacia
-- Fabien et Léon en train. Trajet Toulouse/Villemur : à préciser
+- Fabien, Bertrand et Léon arrivent en Dacia
 - logement et repas sur place
-- repas pris en charge par la Cie
+- repas soir pris en charge par la Cie
 - à noter : organiser et communiquer sur la restitution le 23 mars à 19h.
 
 ## Liste matériel résidences
@@ -78,14 +77,14 @@ Ce qu'il faut savoir pour être au bon endroit au bon moment et ne rien oublier.
 - Caisse outil rouge
 - caisse Bleue
 - caisse electronique
-- Kit Soudure
+- Masque Léon
 - caisse mèche + huile
 
 ##### Matériaux
 - feuille et chute plastazote
 - mousse diverses
 - Selection recup Métal
-- selection recup bois
+- **selection recup bois**
 - selection recup plastique
 - caisse Vis + tige filetée
 
@@ -106,12 +105,11 @@ Ce qu'il faut savoir pour être au bon endroit au bon moment et ne rien oublier.
 ###### Bertrand
 - selection micros (HF sm58 neuman)
 - selection caméra
-- 2 Vidéoproj + 2 écrans + valise mélangeur + Sac cable
+- 1 Vidéoproj + 1 écrans + Sac cable
 - Modulaires
 - Diff + console + cables
-- valise mélangeur
 - selection cables
-- sac EX1 complet + pied
+- sac 550D + pied
 - ordi ber tablete
 
 ##### divers
@@ -124,8 +122,8 @@ Ce qu'il faut savoir pour être au bon endroit au bon moment et ne rien oublier.
 ### IRIT (31) - du 5 au 9 mars 2018
 
 ##### achat
-- fer alu visserie meches
-- décapeur thermique
+- **fer alu visserie meches**
+- **décapeur thermique**
 - 6 verins pneumatiques
 - flexibles/raccord pneumatiques
 - plan de travail (CP anti dérapant)
