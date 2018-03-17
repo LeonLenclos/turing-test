@@ -9,8 +9,15 @@ Résumé
 ------
 Liste de robots dont la probabilité qu'ils apparaissent sur scène est non-nulle
 
-En construction dans le labo
-----------------------------
+Robots nommés
+--------------
+
+- [Alan](../robots/alan.md)
+- [Otto](../robots/otto.md)
+- [Foot](../robots/foot.md)
+
+Robots en projet
+----------------
 
 -   Robot musicien qui improvise
 -   Robot qui souffre

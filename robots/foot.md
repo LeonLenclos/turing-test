@@ -1,4 +1,6 @@
-# Robot qui souffre
+# Foot
+
+Foot, le Robot qui souffre.
 
 [évoqué ici](../textes/anthropomorphisme.md)
 
@@ -24,7 +26,7 @@ La souffrance du robot peut être aussi induite par des soubresauts ou des tremb
 - un moteur
 - des accumlateurs
 
-###Modularité
+### Modularité
 - il y a une sortie son, si on veut le brancher sur autre chose que le haut parleur intégré
 - il y a une entrée qui doit etre un signal standard du spectacle et qui signifie "on me frappe à telle intensité"
 
