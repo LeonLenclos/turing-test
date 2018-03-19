@@ -3,37 +3,24 @@
 
 ## Esthétique, allure du robot
 
-Je pense que contrairement aux autres robots, on n'est pas obligés d'éviter à tout prix l'anthropomorphisme pour Alan puisque c'est un robot qui a pour vocation à avoir une certaine "présence", bien sur on peut incarner cette présence de bien des manières.
-
-Il faut que son "visage", la partie que l'on regarde quand on lui parle, soit à la même hauteur que le notre.
-
+En phase de prototypage à l'usinotopie.
 
 
 ## Matériaux envisagés
 Du fait de sa taille et des équipements hébergés (écran, unité centrale, haut parleur,...) il faut imaginer une structure à base de matériaux solides : aluminium et bois. Pour l'habillage et les formes, du plastique.
 
 ## Hypothèses de construction, description technique
-Alan pourrait être en même temps son propre rangement. Concu en deux parties, la partie haute pourrait se ranger retournée dans la partie basse comme un couvercle de flight-case. 
+Alan sera en même temps son propre rangement. Conçu en deux parties, la partie haute pourrait se ranger retournée dans la partie basse comme un couvercle de flight-case. 
 
 ### Hardware
 
 #### Quel ordinateur ?
 
-Pour exécuter Alan, j'ai discuté avec des gens du Fablab LFO qui est à la friche et comme la reconnaissance vocale et la synthèse sont des programmes assez lourds, il vaut mieu partir sur un raspberry pi que sur un Aduino. De plus les raspberry tournent sous python contrairement aux arduinos qui fonctionnent en C.
-
-Bertrand : On peut même envisager une unitée centrale type PC intégrée à la partie basse. En effet, si Alan doit évoluer vers des version plus gourmandes en ressources il faut partir tout de suite avec un système puissant et évolutif (ports PCI E).
+Pour l'instant ordinateur mac pour profiter de sa synthèse vocale en attendant de trouver une solution opérationelle sous linux.
 
 #### Et sur internet ?
 
-Alan doit pouvoir marcher hors-ligne. Pour les endroits ou on joue sans connexion. Il doit donc être autonome sur ce niveau là.
-
-Je pense que le programme est à deux endroits :
-- dans le robot
-- sur un serveur
-
-Lorsqu'on joue le spectacle on télécharge la version la plus récente de la base de donnée d'Alan. A la fin du spectacle la base de donnée a encore évolué, on la met en ligne à la place de l'ancienne. Cela implique que lorsque le programme vient d'être versé dans le robot, toute apprentissage qui se fera entre le moment ou on met le programme dans le robot et le moment où le programme est mis à jour sur internet à partir de l'apprentissage du robot, sera perdu (puisque pendant ce temps là en gros l'apprentissage se fait via le robot et non via internet). Peut être que la version internet peut basculer en mode "read only" et discuter sans apprendre avec les internautes tant que Alan est en spectacle. Quant le spectacle est fini, il peut de nouveau être attentif aux internautes et apprendre d'eux. Il me (Fabien) semble vraiment que c'est la solution la moins compliquée et de plus ça donne une unicité à Alan qui ne peut pas coplétement être à deux endroits en même temps.
-
-Je ne sais pas comment on travail en python sur internet, je me renseignerai, je crois qu'il y a des solutions.
+Le [code d'Alan est en ligne ici] (https://github.com/LeonLenclos/alan), il sera rendu disponible en ligne lorsque sa première phase de développement sera terminée. Lorsqu'il partira avec la compagnie pour un spectacle, il sera téléchargé sur u ordinateur et rendu indisponible en ligne. A notre retour, le code en ligne sera remplacé par le code situé dans l'ordinateur que nous auront emportés, pour qu'Alan se souvienne de chaque expérience scénique lorsqu'il est de nouveau rendu disponible en ligne.
 
 
 ### Software
@@ -50,7 +37,7 @@ Pour l'instant nous éclaircissons le fonctionnement et les possibilités de cha
 - Savoir reconnaitre le rire (conversion audio vers texte)
 - aprentissage :
     - tout au long des conversations, il garde en mémoire les Nouveaus mots, les manières de parler.
-    - on peut aussi lui apprendre des choses directement (par exemple : "Un chien est un animal") (via une liste de conversations écrites https://chatterbot.readthedocs.io/en/stable/training.html#training-via-list-data )
+    - on peut aussi lui apprendre des choses directement (par exemple : "Un chien est un animal") 
 
 #### Partie son (i/o)
 
