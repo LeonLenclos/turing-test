@@ -1,5 +1,6 @@
-# Robot Tamagotchi
+# Robot animal de compagnie
 
+Un peu en référence aux [tamagochis](https://fr.wikipedia.org/wiki/Tamagotchi).
 
 ## Esthétique, allure du robot
 

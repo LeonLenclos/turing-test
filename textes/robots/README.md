@@ -5,35 +5,33 @@ D'ici, on peut accéder aux fiches des robots du laboratoire. Il y a aussi une l
 
 Les intelligences-machines (robots) de notre laboratoire ont des noms en quatre lettres, comme les RER. Ceux qui n'ont pas encore de nom sont désignés par leur fonction principale.
 
-Robots nommés
---------------
+Les Robots
+----------
 
 - [Alan](alan.md)
 - [Otto](otto.md)
 - [Foot](foot.md)
+- [Luna](luna.md)
+- Jimi
+- Cubi
+- Matt
+- [Robots marionnette](robots-marionnette.md)
+- [Robots musiciens](robots-musiciens.md)
+- [Robot qui range](robot-qui-range.md)
+- [Robot qui a du goût](robot-qui-a-du-gout.md)
+- [Robot paresseux](robot-paresseux.md)
+- [Robot Poète](robot-poete.md)
+- [Robot qui perd aux jeux](robot-qui-perd-aux-jeux.md)
+- [Robot qui fait le ménage](robot-qui-fait-le-menage.md)
+- [Robot qui applaudit](robot-qui-applaudit.md)
+- [Robot animal de compagnie](robot-animal-de-compagnie.md)
+- Robot qui marche
 
-Robots en projet
-----------------
 
--   Robot musicien qui improvise
--   Robot qui souffre
--   Robot qui range des objets du plus grand au plus petit
--   Robot qui a du goût
--   Robot paresseux
--   Robot Poète Markovien
--   Robot bipolaire
--   Robot qui perd aux échecs
--   Robot mauvais joueur. Il envoie tout valser quand il perd
--   Robot qui fait le ménage sur scène
--   Robot qui marche
--   Robot qui applaudit
--   [Robot un peu incontrôlable (chatbot auto-apprenant accessible au public)](../textes/alan.md)
+Rédaction des fiches
+---------------------
 
----
-
-Continuer la lecture : [**Interactions**](interactions.md)
-
-Ici seront listés touts les robots, il y a un fichier texte par robot décrivant :
+Il y a un fichier texte par robot décrivant :
 
 - Le nom du robot
 - Esthétique, allure du robot
