@@ -16,7 +16,7 @@ Robots nommés
 - [Otto](../robots/otto.md)
 - [Foot](../robots/foot.md)
 - [Luna](../robots/luna.md)
-- [Robots musiciens](../robots-musiciens.md)
+- [Robots musiciens](../robots/robots-musiciens.md)
 
 Robots en projet
 ----------------
