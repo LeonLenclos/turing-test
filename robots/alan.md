@@ -1,124 +1,65 @@
-
-# Alan
-
-## Esthétique, allure du robot
-
-En phase de prototypage à l'usinotopie.
+# Alan v1.0.1
 
 
-## Matériaux envisagés
-Du fait de sa taille et des équipements hébergés (écran, unité centrale, haut parleur,...) il faut imaginer une structure à base de matériaux solides : aluminium et bois. Pour l'habillage et les formes, du plastique.
 
-## Hypothèses de construction, description technique
-Alan sera en même temps son propre rangement. Conçu en deux parties, la partie haute pourrait se ranger retournée dans la partie basse comme un couvercle de flight-case. 
+[Le dépôt github de Alan](https://github.com/LeonLenclos/alan) est consacré au code source d'alan.
 
-### Hardware
+Les consignes d'écritures pour le développement d'Alan sont dans le fichier `brain/README.md` présent dans ce dépôt github. Cete page sert aux visiteurs et aux consignes d'installation.
 
-#### Quel ordinateur ?
+## Description
 
-Pour l'instant ordinateur mac pour profiter de sa synthèse vocale en attendant de trouver une solution opérationelle sous linux.
+Alan est un agent conversationel en cours de développement créé pour le spectacle [Turing Test](https://github.com/LeonLenclos/turing-test) avec la collaboration de l'[IRIT](https://www.irit.fr/) (Institut de Recherche en Informatique de Toulouse) et plus particulièrement des équipes de recherche SAMoVA et MELODI. C'est un robot spécialisé dans la communication verbale, conçu pour donner l'illusion d'être conscient.
+On peut discuter avec lui de choses et d'autres mais sa spécialité c'est la conscience de soi. Il a été programmé pour donner l'illusion qu'il est conscient d'exister.
 
-#### Et sur internet ?
+Grâce à l'apprentissage profond, de plus en plus de chatbots sont capables de progresser en s'entrainant à converser avec des humains. Alan fait partie de cette famille de robots qui finissent un jour par échapper à leur concepteur. Il apprend des mots, crée des liens, organise son discours, jour après jour, spectacle après spectacle. 
+Quand il n'est pas sur scène, Alan est quand même là, sur le site de la compagnie, disponible pour parler avec le premier venu. C'est là qu'Alan fait le plus de progrès, quand il échange avec son public.
+A la date suivante, Alan a un peu changé. Comme nous.
 
-Le [code d'Alan est en ligne ici] (https://github.com/LeonLenclos/alan), il sera rendu disponible en ligne lorsque sa première phase de développement sera terminée. Lorsqu'il partira avec la compagnie pour un spectacle, il sera téléchargé sur u ordinateur et rendu indisponible en ligne. A notre retour, le code en ligne sera remplacé par le code situé dans l'ordinateur que nous auront emportés, pour qu'Alan se souvienne de chaque expérience scénique lorsqu'il est de nouveau rendu disponible en ligne.
+A une époque où la frontière entre le monde virtuel et l'IRL (la [vraie vie](https://fr.wikipedia.org/wiki/Vraie_vie)) est de plus en plus [difficile à tracer](https://books.google.ca/books?id=VwJ4xsYHboYC&pg=PA533&lpg=PA533&dq=%22Social+Relationships+and+Identity+Online+and+Offline%22&source=bl&ots=bpBvupth9B&sig=2JeW2bC5x0yakE8JZNXGNCobemY&hl=en&sa=X&ei=0l5CUaaxDdPE4AO-_IHACg&ved=0CDgQ6AEwAQ#v=onepage&q=%22Social%20Relationships%20and%20Identity%20Online%20and%20Offline%22&f=false), Alan incarne l'irruption du numérique dans le quotidien tout autant que le décloisonnement du spectacle. Une oeuvre n'est jamais définitivement enfermée dans un temps et un lieu. La communication qui est faite autour d'une performance ainsi que les discussions et les réactions qu'elle suscite en font partie intégrante. Alan participe à cet étalement du spectacle dans l'espace-temps. Il est éveillé sur scène, avant et après le spectacle, il peut participer aux discussions, aux débats et même aider à évacuer les gens si jamais l'alarme incendie vient à sonner.
 
-
-### Software
-
-#### Partie cerveau
-
-Parti logiciel : programme qui tourne sous python avec le module chatterbot (Entrée sorties = textes).
-
-Pour l'instant nous éclaircissons le fonctionnement et les possibilités de chatterbot pour pouvoir réfléchir à une stratégie de programmation qui respecte au maximum un certain nombre de contraintes (à compléter):
-
-- Pouvoir être accessible sur internet pour apprendre du public.
-- Garder un accés pas trop complexe à l'intérieur du progamme pour pouvoir controler l'évolution de Alan voire le "censurer". L'idéal serait de pouvoir le controler vocalement, de modifier l'indice de pertinence en faisant une remarque orale à Alan.
-- Pouvoir basculer dans un mode spectacle plus controlé, si possible à l'oral (par exemple : "le spectacle commence" et "c'est fini le spectacle"). (possibilité de bloquer l'apprentissage pendant le spectacle https://chatterbot.readthedocs.io/en/stable/examples.html#read-only-mode )
-- Savoir reconnaitre le rire (conversion audio vers texte)
-- aprentissage :
-    - tout au long des conversations, il garde en mémoire les Nouveaus mots, les manières de parler.
-    - on peut aussi lui apprendre des choses directement (par exemple : "Un chien est un animal") 
-
-#### Partie son (i/o)
-
-Travailler avec l'IRIT pour la conversion audio vers texte et puis pour la synthèse vocale.
-
-Questions liés à la compréhension et à l'expression vocale:
-N'étant pas du tout familier de ces technologies, je me pose des questions concernant :
-
-- Possibilité de reconnaitre la voix
-- Possibilité de reconnaitre une question à l'intonnation. ("Tu es content." / "Tu es content ?")
-- Possibilité d'identifier un rire
-
-- Possibilité de dire des "hum...", des "OH !", des "ah ah ah !"
-- Possibilité de faire des pauses
-
-### Méthode
-
-Methode de travail proposée :
-
- 1. Ecrire des discussions possible avec Alan. Des discussions très simples et voir ce que ça implique comme compétences.
-
- 2. Essayer de programmer ces compétences. C'est à dire, rendre les discussions en questions possible
-
-Par exemple :
-
-#### discussion :
-
-    - Salut Alan.
-    - Salut.
-    - Sais tu ce que c'est un tournevis.
-    - Oui, c'est un outil.
-    - Sais tu ce que c'est un tournevis.
-    - Tu m'as déjà posé cette question.
-
-#### compétences impliquées :
+![](../ressources/dessin1.png)
 
 
-   1. Je sais dire bonjour quand on me dit bonjour
-   2. Je sais répondre à une question de type "Sais-tu ce que c'est ..."
-   3. Je remarque quand on me pose deux fois la même questions.
+## Fonctionnement
 
-plusieurs possibilités :
+L'architecture d'Alan est basé sur le module python [chatterbot](https://github.com/gunthercox/ChatterBot). Le programme d'Alan est ainsi composé de modules, des bouts de programmes qui répondent à des taches précises :
+- Des modules servant à générer en fonction d'un texte entré par l'utilisateur une réponse sous forme de texte en fonction et un indice de confiance. Il sont appelés des LogicAdapter.
+- Un module servant à gérer la reconnaissance vocale (conversion voix vers texte) sera un InputAdapter
+- Un module servant à gérer la synthèse vocale (conversion texte vers voix) sera un OutputAdapter
 
-Je sais dire bonjour quand on me dit bonjour.
+Lorsque l'utilisateur dis quelque-chose à Alan, certains logic adapters se mettront en marche et c'est la réponse de celui qui renverra l'indice de confiance le plus haut qui sera sélectionnée. Si tout les logic adapters ne se mettent pas en marche à chaque fois, c'est parce que certains ne sont conçus que pour répondre à un certain type de phrases. 
 
-- Possibilité 1 : J'ai appris à répondre "Salut." à celui qui me dit "Salut Alan"
-- Possibilité 2 : "Salut Alan." est dans ma liste de salutations. Je dois y répondre par une autre salutation.
+## Comment parler avec Alan
 
-Je sais répondre à une question de type "Sais-tu ce que c'est ..."
+**Version de python requise : Python 3.5**
 
-Possibilité : Je cherche si la chose est dans ma liste de concept. S'il y est, j'ai plusieurs solutions j'en choisis une au hasard parmis celle possible. Par exemple si je connais un concept équivalent je peux dire "[concept] c'est comme [concept équivalent]", si je connais la définition je peux dire "[concept] c'est [définition]", si je connais une famille de concept a laquelle il appartient je peux dire "[concept] c'est [concept parent]", etc. ()Ça implique de réfléchir à une classe Concept...)
+Le projet est encore en cours de développement, github est un outil adapté à ce contexte : il existe plusieurs "branches" qui sont des versions plus ou moins avancées d'Alan. Le Alan contenu dans la branche `master` doit normalement pouvoir fonctionner, il en est pour l'instant à la version 1. Il existe par exemple une branche développement sur laquelle nous travaillons et qui peut donc contenir un certain nombre de problèmes pas encores résolus. En attendant de pouvoir parler avec Alan sur internet vous pouvez suivre les indications suivantes pour installer Alan sur votre ordinateur ! Tout d'abord il vous faut télécharger ce dossier git en cliquant sur clone or download, puis rentrer les commandes suivantes dans le terminal depuis le dossier alan :
 
-Je remarque quand on me pose deux fois la même questions.
+ ```
+  $ pip install -r requirements.txt
+  $ python
+  >>> import nltk
+  >>> nltk.download("punkt")
+  >>> quit()
+  $ cd brain
+  $ ./alan.py
+  ```
 
-Je me souviens de ce qu'on m'as dit précédement. à chaque fois qu'on me dis un truc. Je regarde si on me l'a déjà dit. J'ai des phrases que je sors quand on viens de me le dire. J'ai des phrases que je sors quand on me l'as dit il y a pas longtemps. Et éventuellement j'ai des phrases que je sors parfois quand on me l'a dit il y a longtemps.
+### commandes spéciales
 
-Ces réponses sont en fonction de ce qu'on me dit. (c'est une question, c'est un ordre, etc.) Ça implique que je sois capable de classer ce qu'on me dit dans des catégories.
+Pour quitter
 
-#### Codage
+```
+ > ciao
+```
 
-Il faut ensuite coder tout ça. Plus on a été précis dans la description litéraire des algorithme (ci-dessus). Plus le travail de programmation sera facilité.
+Pour une annalyse des logic adapters en jeu dans la dernière réponse
 
-Il faut aussi des stratégie de programmation pour que tout ça soit bien rangé. Que ça ne devienne pas un gros bordel avec plein de fonctionnalités dans tous les sens. Voici quelques trucs à faire auquels j'ai pensé en lisant la doc :
+```
+ > info
+```
+Pour noter les deux dernières répliques dans la liste todo.md
 
-- Au niveau des corpus, faire un petit programme qui nous permette d'intégrer beaucoup de texte brut d'un coup (En redécoupant les phrases, en effaçant la mise en page). Une partie de ce progamme peut être réutilisée pour faire un preprocessor qui modifie l'entrée (enleve espaces ou accents par exemple. (Travail partiellement fait par nltk, se pensher sur le problème des accents)
-- Continuer à chercher des corpus (pour Einstein par exemple).
-- Intégrer (?) best match adaptator et training
-
-
-Des points de doc ( https://media.readthedocs.org/pdf/chatterbot/stable/chatterbot.pdf ) a commencer à regarder :
-
-
-- 4.7.3.4 : permet de n'activer un logic adaptator que si un mot clé est présent dans l'entrée.
-- 4.7.3.5 : permet d'aller chercher des informations à l'extérieur du bot et de les intégrer dans la réponse (météo ou encore état des autres robots s'ils sont connectés à Alan)
-- 4.7.7.1 Répondre que l'on ne comprend pas quand l'indice de pertinence est au-dessous d'un seuil (faire à travers rivescript)
-- 4.7.8 Si la phrase prédéfinié  est détectée, une réponse prédéfini est automatiquement donnée. (Par ex aux réponses qui est ton maitre ou qui est ton créateur, Alan sera condamné à donner toujours la même réponse, il ne pourra pas modifier sa réaction à ces questions. (faire à travers rivescript)
-- 4.11 filtres : à creuser, les filtres permettent de filtrer les réponses retournés (n'accepter une réponse que si elle contient un des mots d'une liste par exemple ou bien que si elle n'a pas été prononcée récemment ...)
-- 4.15.4 stopwords removal
-- 4.18.2 comment mettre le chatbot en ligne
-
-
-## Moment envisagé pour la construction
-
-Software à l'IRIT, Hardware à l'usinotopie.
+```
+ > todo
+```
