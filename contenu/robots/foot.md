@@ -2,7 +2,7 @@
 
 Foot, le Robot qui souffre.
 
-[évoqué ici](../textes/anthropomorphisme.md)
+[évoqué ici](../scenes/anthropomorphisme.md)
 
 ## Esthétique, allure du robot
 

@@ -22,6 +22,6 @@ L'enjeu est d'avoir un mouvement fluide lorsque l'on pose l'objet et lorsqu'on l
 Une première version a été construite à l'usinototpie.
 
 
-![](../ressources/robot-etonne-2.jpg)
-![](../ressources/robot-etonne-1.jpg)
-![](../ressources/robot-etonne-3.jpg)
+![](../../ressources/robot-etonne-2.jpg)
+![](../../ressources/robot-etonne-1.jpg)
+![](../../ressources/robot-etonne-3.jpg)

@@ -18,18 +18,18 @@ Dans [un entretien avec Etienne Klein](https://www.franceculture.fr/emissions/la
 
 >  Il faudra entrainer la fonction objectif de la machine de telle manière à ce que ses pulsions et ses valeurs soient alignées sur les valeurs humaines….
 
-Le problème est que les valeurs humaines universelles dont parle Yann le Cun n'existent pas et n'existeront jamais tant qu'il y aura des hommes et des femmes sur la Terre. On peut même affirmer qu'une humanité où tous les individus partageraient rigoureusement les mêmes valeurs ne serait composée que de robots. Je ne partage pas les valeurs de Marc Zuckerberg. Tu ne partages pas celles de Donald Trump. Il ne partage pas celles de Kim Jong Un. Nous trois partageons beaucoup de valeurs mais pas toutes. 
+Le problème est que les valeurs humaines universelles dont parle Yann le Cun n'existent pas et n'existeront jamais tant qu'il y aura des hommes et des femmes sur la Terre. On peut même affirmer qu'une humanité où tous les individus partageraient rigoureusement les mêmes valeurs ne serait composée que de robots. Je ne partage pas les valeurs de Marc Zuckerberg. Tu ne partages pas celles de Donald Trump. Il ne partage pas celles de Kim Jong Un. Nous trois partageons beaucoup de valeurs mais pas toutes.
 
 Yann Le Cun est dans une impasse théorique. "Les valeurs humaines" est un concept avec autant d'occurrences qu'il y a d'individus sur Terre et il est impossible de définir un ensemble de valeurs approuvées par toute l'humanité. Ce qui risque de se passer, c'est que les robots seront alignés sur les valeurs de leur créateur. Et comme l'I.A est aujourd'hui un business et que l'expérience nous montre que le business ne s'embarrasse pas trop des garanties fondamentales en matière d'éthique et de sécurité sanitaire, on peut douter que les robots œuvrent pour le bien du plus grand nombre.
 
-![](../ressources/dessin5.png)
+![](../../ressources/dessin5.png)
 
 Le droit des robots
 -------------------
 
 Il n'y a aucune raison de craindre les machines pour ce qu'elles sont. L'I.A. ne peut pas en vouloir à l'humanité. L'auteur de science-fiction Asimov s'énervait contre le syndrome de Frankenstein très présent dans la littérature du début du 20e siècle et qui voulait que systématiquement la créature se retourne contre son créateur. Mais pour rendre possible un univers fictionnel combinant humains et robots sympathiques, Asimov a été amené à formuler [trois lois](https://fr.wikipedia.org/wiki/Trois_lois_de_la_robotique) inscrites matériellement dans l'intelligence de ses robots :
 
-1.   un robot ne peut porter atteinte à un être humain ni, en restant passif, permettre qu'un être humain soit exposé au danger. 
+1.   un robot ne peut porter atteinte à un être humain ni, en restant passif, permettre qu'un être humain soit exposé au danger.
 2.   un robot doit obéir aux ordres qui lui sont donnés par un être humain, sauf si de tels ordres entrent en conflit avec la première loi
 3.   un robot doit protéger son existence tant que cette protection n'entre pas en conflit avec la première ou la deuxième loi.
 
@@ -48,4 +48,4 @@ Qui pourra bénéficier de ces technologies extrêmement coûteuses et énergivo
 
 ---
 
-Continuer la lecture : [**Machines, émotions et darwinisme**](machines-emotions-et-darwinisme.md)
+Continuer la lecture : [**Machines, émotions et darwinisme**](../textes/machines-emotions-et-darwinisme.md)

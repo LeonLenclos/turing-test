@@ -27,7 +27,7 @@ Besoins matériel :
 -  Un micro + préampli + carte son.
 -  Un ampli + haut-parleur.
 
-Particularités : 
+Particularités :
 -  Il reconnait la voix de celui des trois comédiens qui lui parle.
 -  Il est opérationnel en ligne et hors ligne quand le spectacle est joué sans connexion internet.
 -  Son interface est suffisamment accessible pour permettre aux trois auteurs de l'administrer (apprentissage, mise à jour de la librairie, censure, etc.).
@@ -40,7 +40,7 @@ Hypothèses d'extension :
 Solutions envisagées :
 -  Partenariat avec L'IRIT
 -  Accès aux technologies du laboratoire.
--  Une ou deux résidences d'une à deux semaines au laboratoire pour échanges, conception et formation. 
+-  Une ou deux résidences d'une à deux semaines au laboratoire pour échanges, conception et formation.
 -  Définition du projet, intégration et mise au point, formation sur la maintenance et l'administration.
 -  Un étudiant en Master à l'IRIT détaché sur le projet.
 
@@ -99,7 +99,3 @@ Outil de création musicale
 Besoins matériel :
 -  Interface midi
 -  Modules additionnels
-
----
-
-Continuer la lecture : [**Sources**](sources.md)

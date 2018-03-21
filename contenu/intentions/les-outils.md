@@ -24,7 +24,7 @@ Si l'utilisation de logiciels libres (open source) est importante pour certains 
 
 Dans Turing Test, les machines, programmes et instruments que nous utilisons dans les phases de production de dessin animé et de musique sont assez différents, mais témoignent d'une sensibilité que nous partageons à propos de la question de l'outil.
 
-![](../ressources/dessin12.png)
+![](../../ressources/dessin12.png)
 
 Fabien et Pure Data
 --------------------
@@ -55,9 +55,9 @@ Mon synthétiseur modulaire est un objet physique composé de modules élémenta
 -----------------------------------------------------------------------------------------------------------------------------
 
 *Deux capture d'écran du logiciel Pure Data*
-![](../ressources/cde-pd1.jpg)
-![](../ressources/cde-pd2.jpg)
+![](../../ressources/cde-pd1.jpg)
+![](../../ressources/cde-pd2.jpg)
 
 ---
 
-Continuer la lecture : [**Besoins technologiques**](besoins-technologiques.md)
+Continuer la lecture : [**Liste des besoins technologiques**](../organisation/besoins-technologiques.md)

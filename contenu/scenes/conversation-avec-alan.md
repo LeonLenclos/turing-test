@@ -1,15 +1,7 @@
-Conversation avec Alan 1
-========================
+Conversation avec Alan
+======================
 
-Type
-----
-
-Idée de scène
-
-Résumé
--------
-
-Alan aime faire rire, mais c'est pas facile.
+Alan aime faire rire, mais c'est pas facile. Une conversation avec Alan imaginée avant la v1.
 
 L'humour d'Alan
 ---------------
@@ -41,7 +33,7 @@ L'humour d'Alan
     BERTRAND : Oui. Le problème c'est que les jeux de mots, je ne trouve pas cela très drôle.
     ALAN : Pourquoi tu as ri tout à l'heure ?
     BERTRAND : Car ce qui était drôle, c'est que ça n'était pas drôle.
-    ALAN : … 
+    ALAN : …
     Une légère fumée sort de la tête d'Alan.
     BERTRAND : Oublie ce que je viens de te dire. Les jeux de mots c'est quand même un peu drôle.
     ALAN : combien drôle ?
@@ -51,7 +43,6 @@ L'humour d'Alan
     ALAN : C'est triste.
     BERTRAND : Un peu.
 
-
 ---
 
-Continuer la lecture : [**Des machines qui parlent**](des-machines-qui-parlent.md)
+Voir la fiche d'Alan : [Alan](../robots/alan.md)

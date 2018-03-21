@@ -9,8 +9,19 @@ Liens
 Résumé
 ------
 
-Ensemble de liens en rapport avec l'intelligence artificielle
+Liste de documents en rapport avec l'intelligence machine.
 
+
+Les livres qui nous accompagnent
+--------------------------------
+
+Dès que possible, lors de nos déplacements (résidences, présentations, ateliers,...) nous nous accompagons d'un certains nombre d'ouvrages. Nous ne les consultons presque jamais. Mais lorsque nous les ouvrons, ils savent nous donner le meilleur d'eux-même.
+
+- *Lettres à Alan Turing*, Réunies par Jean-Marc Lévy-Leblond - éd. Thierry Marchaise.
+- *Ferraille Science* - Les Requins Marteaux.
+- *Le grand livre des robots - 1. Prélude à Trantor*, Asimov - omnibus
+- *Robots Fouban*, Hervé Di Rosa, éditions R.L.D.
+- *Robots*, Jasia Reichardt - T&H (Prêt)
 
 Radio
 -----
@@ -55,5 +66,3 @@ Sites
 -   [Un site du CNRS dédié aux sciences du numérique, mathématiques et patrimoine informatique : L'ESPACE TURING](http://www.espace-turing.fr/Computer-Paper-Do-It-Yourself.html)
 -   [Le site de l'IRIT, Institut de Recherche en Informatique de Toulouse](https://www.irit.fr/)
 -   [Le site de la Cie Nokill](http://cienokill.fr/)
-
-Retourner au : [**Sommaire**](README.md)

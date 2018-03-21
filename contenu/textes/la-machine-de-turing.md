@@ -25,7 +25,7 @@ Une machine de Turing est une machine idéale composée :
 -  d'un nombre fini d'états dans lesquels peut se trouver la machine
 -  d'une table de transition qui dicte à la machine, étape par étape, ce que doit faire la tête et dans quel état doit passer la machine en fonction de l'état et du symbole lu à l'étape précédente.
 
-![](../ressources/dessin9.png)
+![](../../ressources/dessin9.png)
 
 Propriétés
 ----------
@@ -48,7 +48,7 @@ Une machine de Turing ne pourra jamais faire cela. Au premier abord on se dit qu
 
  Si j'ouvre le programme "calculatrice" sur mon ordinateur portable, que je tape 2+2 et que je mets ensuite un coup de masse sur l'ordinateur, j'aurai beau appuyer sur la touche égale, l'ordinateur a peu de chance de me donner la bonne réponse.
 
-![](../ressources/dessin10.png)
+![](../../ressources/dessin10.png)
 
 La notion de calcul
 -------------------
@@ -91,7 +91,7 @@ Une de ces conséquences est que le [paradoxe du menteur](https://fr.wikipedia.o
 
 On a souvent l'impression que si notre esprit n'était rien d'autre que le résultat de l'exécution d'un algorithme, cela casserait en quelque sorte le charme et le mystère de l'esprit. On s'imagine, effrayé, qu'il serait alors possible de modifier cet algorithme pour l'améliorer et créer ainsi un esprit qui dépasse l'esprit humain. Seulement d'après le théorème de Tarski, si notre cerveau est effectivement une machine de Turing, il nous serait impossible en un certain sens d'avoir du recul par rapport à notre algorithme-esprit. Si notre sens de ce qui est vrai (comme le fait que 2+2=4) est géré par un algorithme, on ne saura jamais si c'est effectivement vrai et pourquoi c'est vrai. Si notre esprit est un algorithme, soit on est incapable de le connaître, soit le connaître ne nous servirait à rien car on ne pourrait rien en dire de plus que ce que nous poussait à croire cet algorithme quand nous ne le connaissions pas.
 
-![](../ressources/dessin11.png)
+![](../../ressources/dessin11.png)
 
 Conclusion
 ----------

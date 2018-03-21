@@ -1,14 +1,6 @@
 Interactions
 ============
 
-Type
------
-
-Idée de scène
-
-Résumé
-------
-
 Description de quelques interactions entre les comédiens et leurs machines.
 
 Le robot qui a de la répartie
@@ -20,32 +12,37 @@ Exemple de dialogue :
 
         HUMAIN
     Est-ce que tu es intelligent ?
-    
+
         ROBOT
     Est-ce que tu es intelligent ?
-    
+
         HUMAIN
     Euh... Je crois. Au moins un peu.
-    
+
         ROBOT
     ...
-    
+
         HUMAIN
     Tu ne penses pas que je suis intelligent ?
-    
+
         ROBOT
     Tu ne penses pas je suis intelligent ?
-    
+
         HUMAIN
     Tu l'es plus que tu ne le laisses croire.
-    
+
         ROBOT
     ...
+
+Voir la fiche de Luna, le chatbot mécanique : [Luna](../robots/luna.md)
 
 Le concours de tri
 ------------------
 
 Deux comédiens sont chacun devant une table avec 7 objets de différentes tailles disposés dans le désordre. Ils doivent les remettre dans l'ordre. L'un suit un algorithme de tri réputé pour être performant. L'autre tri les objets en suivant son instinct d'humain.
+
+Voir la fiche du robot qui range : [Le robot qui range](../robots/robot-qui-range.md)
+
 
 Le face à face
 ---------------
@@ -59,11 +56,12 @@ Le robot étonné est un robot entièrement mécanique. Lorsqu'on pose un objet 
 
 Le robot qui a du goût est un robot qui donne son avis sur des choses qu'il voit ou entend lorsqu'on lui demande ce qu'il en pense. Il lui arrive aussi de donner son avis lorsqu'on ne lui a rien demandé. Ses avis sont toujours positifs voire excessivement dithyrambiques.
 
+Voir la fiche d'Otto, le robot étonnable : [Otto](../robots/otto.md)
+
+
 La partie de dames
 ------------------
 
 Un comédien joue aux dames avec un robot joueur de dames. Le robot n'est pas très au point et fait un peu n'importe quoi sur le plateau. Au début il se contente de faire des coups stratégiquement mauvais, mais très vite il se met à bouger les pièces de son adversaire. Le comédien reste calme et compréhensif, il essaye de jouer quand même. À la fin le robot fait violemment tomber le plateau. Le comédien quitte la table sans faire de commentaires.
 
----
-
-Continuer la lecture : [**Antropomorphisme**](antropomorphisme.md)
+Voir la fiche du robot qui perd aux jeux : [Le robot qui perd aux jeux](../robots/robot-qui-perd-aux-jeux.md)
