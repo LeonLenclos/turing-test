@@ -1,14 +1,6 @@
 Le nouveau robot
 ================
 
-Type
-----
-
-Idée de scène
-
-Résumé
-------
-
 Une scène dans laquelle Léon présente sa nouvelle invention à Fabien
 
 Anti test de Turing
