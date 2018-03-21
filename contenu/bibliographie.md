@@ -1,13 +1,6 @@
 Sources
 =======
 
-Type
-----
-
-Liens
-
-Résumé
-------
 
 Liste de documents en rapport avec l'intelligence machine.
 
