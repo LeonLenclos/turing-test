@@ -9,7 +9,7 @@ Texte théorique
 Résumé
 ------
 
-Exemples d'apprentissage automatique ou comment une machine peut évoluer en s'entrainant. 
+Exemples d'apprentissage automatique ou comment une machine peut évoluer en s'entrainant.
 
 Trouver le chat
 ----------------
@@ -33,7 +33,7 @@ Un enfant n'aura besoin que de quelques images pour identifier définitivement u
 
 Ce qui est singulier dans cet apprentissage, c'est que l'ajustement des paramètres synaptiques reste opaque même pour le concepteur de l'algorithme. On comprend pourquoi l'algorithme, à chaque étape de l'apprentissage, a fixé telles valeurs plutôt que d'autres, mais on ne sait pas modéliser a priori l'évolution de ces ajustements, il nous dépasse. L'algorithme d'apprentissage ne peut pas nous expliquer sa façon de penser. C'est une quasi-boite noire dont le fonctionnement échappe à son créateur ce qui représente une vraie rupture dans l'évolution de l'intelligence artificielle.
 
-![](../ressources/dessin13.png)
+![](../../ressources/dessin13.png)
 
 L'apprentissage non supervisé ou prédictif
 ------------------------------------------
@@ -44,12 +44,8 @@ En apprentissage non supervisé il n'y a pas d'objectif précis. La machine anal
 
 Sa propre structure va se modifier pour traiter efficacement une tache blanche au milieu d'un aplat bleu. Elle va en quelque sorte trouver ça normal ou habituel de voir ce genre d'images. Si on lui montre une photo avec des nuages roses ou carrés, elle saura que c'est quelque chose d'inhabituel.
 
-Cette méthode qui n'en est qu'à ses balbutiements permettrait à la machine d'acquérir du sens commun et une compréhension suffisante du monde pour en construire un modèle et prédire des actions simples. Par exemple avec une vidéo d'une enfant soufflant une bougie, anticiper que la bougie va s'éteindre. 
- 
-Finalement, pour les humains le sens commun se manifeste surtout quand on voit quelque chose qui choque ce sens commun. Si on regarde l'intérieur d'un chapeau vide et que l'on détourne quelques instants le regard, notre sens commun nous dit que le chapeau est toujours vide même si je ne le regarde plus. Par contre si un lapin sort tout d'un coup du chapeau, cela choque mon sens commun parce que cela ne correspond pas à mon modèle de la réalité, ce n'est pas ce que j'aurais prédit ! 
+Cette méthode qui n'en est qu'à ses balbutiements permettrait à la machine d'acquérir du sens commun et une compréhension suffisante du monde pour en construire un modèle et prédire des actions simples. Par exemple avec une vidéo d'une enfant soufflant une bougie, anticiper que la bougie va s'éteindre.
+
+Finalement, pour les humains le sens commun se manifeste surtout quand on voit quelque chose qui choque ce sens commun. Si on regarde l'intérieur d'un chapeau vide et que l'on détourne quelques instants le regard, notre sens commun nous dit que le chapeau est toujours vide même si je ne le regarde plus. Par contre si un lapin sort tout d'un coup du chapeau, cela choque mon sens commun parce que cela ne correspond pas à mon modèle de la réalité, ce n'est pas ce que j'aurais prédit !
 
 Les  chercheurs qui travaillent dans ce domaine sont convaincus que ces  formes d'intelligence artificielle basées sur un apprentissage  prédictif seront capables de rivaliser avec les hommes dans tous les domaines de l'intelligence. Certains affirment que ces machines auront des émotions, des objectifs, des motivations, des désirs et seront capables de prendre des décisions.
-
----
-
-Continuer la lecture : [**Les outils**](les-outils.md)

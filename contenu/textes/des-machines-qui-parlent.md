@@ -26,9 +26,9 @@ ChatBots Mythiques
 -   [Eliza](http://eliza.levillage.org/index.html) (1966)
 
     Parfois considérée comme le premier chatbot, Eliza imite une psychothérapeute. On dit que beaucoup de gens se sont pris au jeu au point de vraiment s'attacher à Eliza comme à un humain. Ça nous dit deux choses :
-    
+
      1-   Des gens aiment bien qu'on fasse semblant de les écouter (car c'est spécifiquement ce pour quoi Eliza est programmée).
-     
+
      2-   On a tendance à voir un comportement humain dans des programmes informatiques (on parle parfois de l'Effet Eliza)
 
 -   Parry (1972) le chatbot parano.
@@ -49,4 +49,4 @@ ChatBots Mythiques
 
 ---
 
-Continuer la lecture : [**Robots sur scène**](robots-sur-scene.md)
+Continuer la lecture : [**Les Robots**](../robots)

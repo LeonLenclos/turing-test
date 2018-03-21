@@ -6,7 +6,7 @@ Ba voilà moi je suis assez interessé à l'idée de marionnette et je me disais
 
 ## Esthétique, allure du robot
 
-![](../ressources/croquis-marionnette.jpg)
+![](../../ressources/croquis-marionnette.jpg)
 
 ## Matériaux envisagés
 
