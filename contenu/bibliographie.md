@@ -15,6 +15,7 @@ Dès que possible, lors de nos déplacements (résidences, présentations, ateli
 - *Le grand livre des robots - 1. Prélude à Trantor*, Asimov - omnibus
 - *Robots Fouban*, Hervé Di Rosa, éditions R.L.D.
 - *Robots*, Jasia Reichardt - T&H (Prêt)
+- *Dr Slump*, Akira Toriyama - Glénat (Prêt)
 
 Radio
 -----
