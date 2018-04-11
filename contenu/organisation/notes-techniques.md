@@ -10,10 +10,10 @@ On les range dans l'ordre de la plus courte à la plus longue focale.
 
 On peut regarder la taille de l'iris : Plus petit trou = Plus courte focale
 
-1.  . = très grand angle
-2.  ° = grand angle
-3.  o = longue focale
-4.  O = très longue focale
+1.  très grand angle = .
+2.  grand angle = °
+3.  longue focale = o
+4.  très longue focale = O
 
 Autres signes distinctifs :
 
