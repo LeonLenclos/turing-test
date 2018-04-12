@@ -24,6 +24,7 @@ Voici le déroulé de la sortie de résidene à Toulouse.
 - Fabien entre, percute accidentellement Foot.
 - Fabien joue avec Foot.
 - Fabien Parle avec Alan. Il le test sur son bouclier anti-paradoxe.
+- Léon regarde à l'interieur d'un quelqu'onque carton.
 - Bertrand mets en scène les petits gens assis.
 - Alan entre dans une boucle infinie
 - Léon propose de concevoir un programme pour estimer si, à priori, Alan va boucler.
