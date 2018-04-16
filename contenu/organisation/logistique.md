@@ -122,57 +122,57 @@ Ce qu'il faut savoir pour être au bon endroit au bon moment et ne rien oublier.
 ### MixArt Myris (31) du 9 au 14 avril 2018
 
 ###### Tables :
-4 plateaux tables
-12 barres longue
-8 barres courtes
-8 cremailleres
-16 montants
+- 4 plateaux tables
+- 12 barres longue
+- 8 barres courtes
+- 8 cremailleres
+- 16 montants
 
 ###### Décor :
-Ecran St jean
-paperboard + recharge
-tableau noir
-4 planches plastiques
-Cartons standards
-carton acessoirs (tokai)
+- Ecran St jean
+- paperboard + recharge
+- tableau noir
+- 4 planches plastiques
+- Cartons standards
+- carton acessoirs (tokai)
 
 ###### Musique :
-console sonosax
-valise modulaire 1
-valise modulaire 2
-Sac à dos brun
-MS20 and  co
-sac Vuitton fab (Pad+carte son)
-fly instruments
+- console sonosax
+- valise modulaire 1
+- valise modulaire 2
+- Sac à dos brun
+- MS20 and  co
+- sac Vuitton fab (Pad+carte son)
+- fly instruments
 
 ###### Image :
-cintik
-videoproj 1
-videoproj 2 + convertisseur
-valise lampe bijoute
-valise electronique
-sac photo chargeur
-Sac cables noir
-plastazote
-Worbla
-pieds manfroto
-sac scotch et cales
-sac cable audio/secteur/decimator
-carton matos art plastique
+- cintik
+- videoproj 1
+- videoproj 2 + convertisseur
+- valise lampe bijoute
+- valise electronique
+- sac photo chargeur
+- Sac cables noir
+- plastazote
+- Worbla
+- pieds manfroto
+- sac scotch et cales
+- sac cable audio/secteur/decimator
+- carton matos art plastique
 
 ###### Robot
-carton OTTO
-Foot
-Alan
-cafetière
+- carton OTTO
+- Foot
+- Alan
+- cafetière
 
 ###### Outils
-caisse bleue
-Makita
-caisse rouge
-décapeur
+- caisse bleue
+- Makita
+- caisse rouge
+- décapeur
 
 ###### Extra
-valise conf
+- valise conf
 
 
