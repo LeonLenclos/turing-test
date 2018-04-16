@@ -45,26 +45,28 @@ Ce qu'il faut savoir pour être au bon endroit au bon moment et ne rien oublier.
 - repas soir pris en charge par la Cie
 - à noter : organiser et communiquer sur la restitution le 23 mars à 19h.
 
+### Été de Vaour (81), du 2 au 6 avril 2018. Restitution le 6 avril à 18h30
+
+- Fabien, Bertrand et Léon arrivent et repartent en Dacia
+- Renfort camion Francis
+
+### MixArt Myris (31) du 9 au 14 avril 2018
+
+- Fabien, Bertrand et Léon arrivent et repartent en Dacia
+
+### IRIT (31) - 30 avril au 8 mai 2018
+
+- à Caler
+
 ## Liste matériel résidences
 
 ### IRIT (31) - du 5 au 9 mars 2018
 
-###### Fab  
-
 - Ordi Windows + Ordi Linux + Alim + Carte son
-
-###### Léon
-
 - Think Pad
-
-###### Bertrand
-
 - selection micros (HF sm58 neuman, cable et bonette)
 - EOS 550D
 - ordi ber, ordi Envol, tablete
-
-##### divers
-
 - Livres Turing test
 - Com Cie Nokill
 
@@ -113,18 +115,64 @@ Ce qu'il faut savoir pour être au bon endroit au bon moment et ne rien oublier.
 - ordi ber tablete
 
 ##### divers
-
 - livres
 - néons
 
-## achats résidences
+### Été de Vaour (81), du 2 au 6 avril 2018.
+### MixArt Myris (31) du 9 au 14 avril 2018
 
-### IRIT (31) - du 5 au 9 mars 2018
+###### Tables :
+4 plateaux tables
+12 barres longue
+8 barres courtes
+8 cremailleres
+16 montants
 
-##### achat
-- **fer alu visserie meches**
-- **décapeur thermique**
-- 6 verins pneumatiques
-- flexibles/raccord pneumatiques
-- plan de travail (CP anti dérapant)
-- carton
+###### Décor :
+Ecran St jean
+paperboard + recharge
+tableau noir
+4 planches plastiques
+Cartons standards
+carton acessoirs (tokai)
+
+###### Musique :
+console sonosax
+valise modulaire 1
+valise modulaire 2
+Sac à dos brun
+MS20 and  co
+sac Vuitton fab (Pad+carte son)
+fly instruments
+
+###### Image :
+cintik
+videoproj 1
+videoproj 2 + convertisseur
+valise lampe bijoute
+valise electronique
+sac photo chargeur
+Sac cables noir
+plastazote
+Worbla
+pieds manfroto
+sac scotch et cales
+sac cable audio/secteur/decimator
+carton matos art plastique
+
+###### Robot
+carton OTTO
+Foot
+Alan
+cafetière
+
+###### Outils
+caisse bleue
+Makita
+caisse rouge
+décapeur
+
+###### Extra
+valise conf
+
+
