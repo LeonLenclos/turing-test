@@ -181,9 +181,9 @@ Ce qu'il faut savoir pour être au bon endroit au bon moment et ne rien oublier.
 ### IRIT (31) - 30 avril au 8 mai 2018
 
 #### matos graulhet
-- Alan
+- Alan + enceinte
 - mac Envol + alim
 - cable VGA + cable hdmi + trousse rose
 - multiprise
-- paper board
+- paper board + recharge papier
 - carte son + mic + pied + cable
