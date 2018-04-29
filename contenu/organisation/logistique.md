@@ -175,4 +175,11 @@ Ce qu'il faut savoir pour être au bon endroit au bon moment et ne rien oublier.
 ###### Extra
 - valise conf
 
+IRIT (31) - 30 avril au 8 mai 2018
 
+- Alan
+- mac Envol + alim
+- cable VGA + cable hdmi + trousse rose
+- multiprise
+- paper board
+- carte son + mic + pied + cable
