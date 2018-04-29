@@ -56,7 +56,10 @@ Ce qu'il faut savoir pour être au bon endroit au bon moment et ne rien oublier.
 
 ### IRIT (31) - 30 avril au 8 mai 2018
 
-- à Caler
+Fabien et Léon arrivent et repartent en train.
+Bertrand en voiture
+Bertrand loge à l'Hôtel Le Capitole 10 Rue Rivals 31000 Toulouse
+Fabien et Léon logent chez des amis.
 
 ## Liste matériel résidences
 
