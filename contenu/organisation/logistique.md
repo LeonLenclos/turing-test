@@ -43,30 +43,30 @@ Ce qu'il faut savoir pour être au bon endroit au bon moment et ne rien oublier.
 - à noter RV à partir de 17h mercredi 7 mars  avec léon, Bertrand et Aurélie Vinq. lieu : à fixer).
 - à noter RV à 10h jeudi 8 avec Claire et Michael Vo. lieu :à l'IRIT ( à confirmer)
 - caler l'achat des verins (lundi 19h30 dans Toulouse ?)
-
+-------------------------------------
 ### Usinotopie (31), du 12 au 23 mars 2018. Restitution le 23 mars à 19h
 
 - Fabien, Bertrand et Léon arrivent en Dacia
 - logement et repas sur place
 - repas soir pris en charge par la Cie
 - à noter : organiser et communiquer sur la restitution le 23 mars à 19h.
-
+-------------------------------------
 ### Été de Vaour (81), du 2 au 6 avril 2018. Restitution le 6 avril à 18h30
 
 - Fabien, Bertrand et Léon arrivent et repartent en Dacia
 - Renfort camion Francis
-
+-------------------------------------
 ### MixArt Myris (31) du 9 au 14 avril 2018
 
 - Fabien, Bertrand et Léon arrivent et repartent en Dacia
-
+-------------------------------------
 ### IRIT (31) - 30 avril au 8 mai 2018
 
 - Fabien et Léon arrivent et repartent en train.
 - Bertrand en voiture
 - Bertrand loge à l'Hôtel Le Capitole 10 Rue Rivals 31000 Toulouse
 - Fabien et Léon logent chez des amis.
-
+-------------------------------------
 ## Liste matériel résidences
 
 ### IRIT (31) - du 5 au 9 mars 2018
@@ -78,7 +78,7 @@ Ce qu'il faut savoir pour être au bon endroit au bon moment et ne rien oublier.
 - ordi ber, ordi Envol, tablete
 - Livres Turing test
 - Com Cie Nokill
-
+-------------------------------------
 ### Usinotopie (31), du 12 au 23 mars 2018. Restitution le 23 mars à 19h
 
 #### Matériel
@@ -126,8 +126,9 @@ Ce qu'il faut savoir pour être au bon endroit au bon moment et ne rien oublier.
 ##### divers
 - livres
 - néons
-
+-------------------------------------
 ### Été de Vaour (81), du 2 au 6 avril 2018.
+-------------------------------------
 ### MixArt Myris (31) du 9 au 14 avril 2018
 
 ###### Tables :
@@ -183,7 +184,7 @@ Ce qu'il faut savoir pour être au bon endroit au bon moment et ne rien oublier.
 
 ###### Extra
 - valise conf
-
+-------------------------------------
 ### IRIT (31) - 30 avril au 8 mai 2018
 
 #### matos graulhet
