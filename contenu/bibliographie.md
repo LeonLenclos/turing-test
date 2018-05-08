@@ -14,6 +14,7 @@ Dès que possible, lors de nos déplacements (résidences, présentations, ateli
 - *Ferraille Science* - Les Requins Marteaux.
 - *Le grand livre des robots - 1. Prélude à Trantor*, Asimov - omnibus
 - *Robots Fouban*, Hervé Di Rosa, éditions R.L.D.
+- *Robots et avatars*, Jean-Claude Heudin - éd. Odile Jacob
 - *Robots*, Jasia Reichardt - T&H (Prêt)
 - *Dr Slump*, Akira Toriyama - Glénat (Prêt)
 
