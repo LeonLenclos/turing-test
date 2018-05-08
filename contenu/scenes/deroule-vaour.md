@@ -1,7 +1,7 @@
 Sortie de résidence à la Commanderier à Vaour - 6 Avril 2018
 ============================================================
 
-Voici le déroulé de la sortie de résidene à Vaour.
+Voici le déroulé de la sortie de résidence à Vaour.
 
 - Fabien dors au centre du plateau.
 - Alan présente la sortie de résidence.
@@ -15,7 +15,7 @@ Voici le déroulé de la sortie de résidene à Vaour.
 - Fabien fais le monologue sur la fonction de l'I.M. ultime.
 - Léon commence la sculpture en plastazote.
 - Tout le monde sort
-- **Intermède : La marche**
+- Intermède : La marche
 - Léon et Bertrand rentrent pendant que Fabien continu une nappe au MS20
 - Bertrand parle avec Alan. Il est question de son apprentissage.
 - Léon fini la sculpture.
@@ -25,7 +25,7 @@ Voici le déroulé de la sortie de résidene à Vaour.
 - Fabien propose Echo.
 - Léon test Echo sous le regard de Bertrand et Fabien
 - Tout le monde sort
-- **Intermède : Le méchant robot**
+- Intermède : Le méchant robot
 - Fabien entre, percute accidentellement Foot.
 - Fabien joue avec Foot.
 - Fabien Parle avec Alan. Il le test sur son bouclier anti-paradoxe.
