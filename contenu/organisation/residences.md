@@ -32,7 +32,7 @@ Les différentes résidences prévues et leur contenu
 
 ## Programme des Résidences
 
-### Auditorium de Graulhet (81) - du 2 au 5 Janvier 2018
+## Auditorium de Graulhet (81) - du 2 au 5 Janvier 2018
 
 #### Objectifs
 
@@ -44,7 +44,7 @@ Les différentes résidences prévues et leur contenu
 - Premières idées d'animations qui emmergent, premières improvisayions musicales.
 - Création d'une présentation-performance de 10 minutes, effectuée à Région en Scène, Rodez.
 
-### Graulhet - du 28 fevrier au 2 mars 2018
+## Graulhet - du 28 fevrier au 2 mars 2018
 
 #### Objectif
 
@@ -55,7 +55,7 @@ Les différentes résidences prévues et leur contenu
 - Git Alan
 - Arduino echo
 
-### IRIT Toulouse (31) - du 29 janvier au 2 février 2018
+## IRIT Toulouse (31) - du 29 janvier au 2 février 2018
 
 Premier temps long de travail sur Alan
 
@@ -71,7 +71,7 @@ Premier temps long de travail sur Alan
 - Alan V1 opérationnel
 - Pas de solution reco vocale convaincante
 
-### Usinotopie Villemur (31), du 12 au 23 mars 2018. Restitution le 23 mars à 19h
+## Usinotopie Villemur (31), du 12 au 23 mars 2018. Restitution le 23 mars à 19h
 
 #### Objectifs
 
@@ -89,7 +89,7 @@ Premier temps long de travail sur Alan
 - OTTO, ECHO, ALAN, FOOT, LUCI, MATT
 - Sortie de résidence le 23 mars 2018
 
-### Été de Vaour (81), du 2 au 6 avril 2018. Restitution le 6 avril à 18h30
+## Été de Vaour (81), du 2 au 6 avril 2018. Restitution le 6 avril à 18h30
 
 #### Objectifs
  
@@ -104,7 +104,7 @@ Premier temps long de travail sur Alan
 
  - Restitution Publique d'une continuité de 35 mn le 6 avril à 18h30 à la Commanderie des templiers
 
-### MixArt Myris Toulouse (31) du 9 au 14 avril 2018
+## MixArt Myris Toulouse (31) du 9 au 14 avril 2018
 
 #### Objectifs
  
@@ -118,7 +118,7 @@ Premier temps long de travail sur Alan
 
  - Restitution Publique d'une continuité de 50 mn le 14 avril à 21h30 à la Salle 2 Mixart Myrys
 
-###  IRIT Toulouse (31) - 30 avril au 7 mai 2018
+## IRIT Toulouse (31) - 30 avril au 7 mai 2018
 
 #### Objectifs
 
@@ -134,7 +134,7 @@ Premier temps long de travail sur Alan
 - Contact établi avec Michael Vo et Claire Mevolhon stagiaires de Philippe Muller
 - Rendez vous début juin pour les premiers essais
 
-### Mérou Palace Graulhet (81) - été 2018 à caler
+## Mérou Palace Graulhet (81) - été 2018 à caler
 
 #### Objectifs
 
@@ -145,7 +145,7 @@ Premier temps long de travail sur Alan
 
 #### Résultats
 
-### Paris (75) - été 2018 à caler
+## Paris (75) - été 2018 à caler
 
 #### Objectifs
 
@@ -155,7 +155,7 @@ Premier temps long de travail sur Alan
 
 #### Résultats
 
-### MixArt Myris Toulouse (31) du 10 au 14 septembre 2018. Soumis à commission. À confirmer.
+## MixArt Myris Toulouse (31) du 10 au 14 septembre 2018. Soumis à commission. À confirmer.
 
 #### Objectifs
 
@@ -166,7 +166,7 @@ Premier temps long de travail sur Alan
 
 #### Résultats
 
-### Théâtre des Augustins Montauban (82) - du 24 septembre au 28 septembre 2018
+## Théâtre des Augustins Montauban (82) - du 24 septembre au 28 septembre 2018
 
 #### Objectifs
 
@@ -179,7 +179,7 @@ Premier temps long de travail sur Alan
 
 #### Résultats
 
-### 104 - Paris (75) - du 1 AU 5 Octobre 2018 ou du 15 AU 18 Octobre 2018. Soumis à commission. À confirmer.
+## 104 - Paris (75) - du 1 AU 5 Octobre 2018 ou du 15 AU 18 Octobre 2018. Soumis à commission. À confirmer.
 
 #### Objectifs
 
@@ -189,7 +189,7 @@ Premier temps long de travail sur Alan
 
 #### Résultats
 
-### Graines de rue Bessines (87) - du 29 octobre au 10 novembre 2018
+## Graines de rue Bessines (87) - du 29 octobre au 10 novembre 2018
 
 #### Objectifs
 
@@ -203,7 +203,7 @@ Premier temps long de travail sur Alan
 
 #### Résultats
 
-### Quai des savoirs Toulouse (31) du 16 au 21 novembre 2018
+## Quai des savoirs Toulouse (31) du 16 au 21 novembre 2018
 
 #### Objectifs
 
@@ -212,7 +212,7 @@ Premier temps long de travail sur Alan
 
 #### Résultats
 
-### Graines de rue Bessines (87) - du 1 au 14 avril 2019
+## Graines de rue Bessines (87) - du 1 au 14 avril 2019
 
 #### Objectifs
 
@@ -226,19 +226,7 @@ Premier temps long de travail sur Alan
 
 #### Résultats
 
-### MJC Rodez (12) du 29 avril au 10 mai 2019. restitution probable le vendredi 10 mai 2019 dans l'après-midi.
-
-- Création Lumière
-- Création Son
-- Mise en scène
-- travail sur le jeu
-- répétition et préparation de la restitution
-
-#### Objectifs
-
-#### Résultats
-
-### Théâtre d'Auch (32) du 13 au 24 mai 2019. restitutions probable le vendredi 24 mai 2019 dans l'après-midi.
+## MJC Rodez (12) du 29 avril au 10 mai 2019. restitution probable le vendredi 10 mai 2019 dans l'après-midi.
 
 #### Objectifs
 
@@ -250,7 +238,19 @@ Premier temps long de travail sur Alan
 
 #### Résultats
 
-### Graines de rue Bessines (87) - Théâtre Gérard Philipe à Bessines (87) avec Première prévue le  vendredi 7 juin 2019 à Bessines.
+## Théâtre d'Auch (32) du 13 au 24 mai 2019. restitutions probable le vendredi 24 mai 2019 dans l'après-midi.
+
+#### Objectifs
+
+- Création Lumière
+- Création Son
+- Mise en scène
+- travail sur le jeu
+- répétition et préparation de la restitution
+
+#### Résultats
+
+## Graines de rue Bessines (87) - Théâtre Gérard Philipe à Bessines (87) avec Première prévue le  vendredi 7 juin 2019 à Bessines.
 
 #### Objectifs
 
@@ -260,7 +260,7 @@ Premier temps long de travail sur Alan
 
 #### Résultats
 
-### La Grainerie Toulouse (31) - à caler en automne 2019.
+## La Grainerie Toulouse (31) - à caler en automne 2019.
 
 #### Objectifs
 
