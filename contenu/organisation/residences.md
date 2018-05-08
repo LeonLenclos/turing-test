@@ -126,7 +126,7 @@ Premier temps long de travail sur Alan
  - Dessins et musique
  - répétition et préparation de la restitution
  
- #### Résultats
+#### Résultats
 
  - Restitution Publique d'une continuité de 50 mn le 14 avril à 21h30 à la Salle 2 Mixart Myrys
  
@@ -141,7 +141,7 @@ Premier temps long de travail sur Alan
 - Constitution d'un corpus de dialogues de films pour nourrir l'algoritme d'apprentissage
 - Travail sur ALAN V 1.2
 
- #### Résultats
+#### Résultats
 
 - ALAN V 1.2
 - Contact établi avec Tim van de Cuys
