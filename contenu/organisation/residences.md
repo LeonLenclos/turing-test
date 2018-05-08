@@ -21,8 +21,7 @@ Les différentes résidences prévues et leur contenu
 - Paris (75) - été 2018 à caler
 - MixArt Myris Toulouse (31) du 10 au 14 septembre 2018. Soumis à commission. À confirmer.
 - Théâtre des Augustins Montauban (82) - du 24 septembre au 28 septembre 2018
-- 104 - Paris (75) - DU 1 AU 5 Octobre 2018. Soumis à commission. À confirmer.
-- 104 - Paris (75) - DU 15 AU 18 Octobre 2018. Soumis à commission. À confirmer.
+- 104 - Paris (75) - du 1 AU 5 Octobre 2018 ou du 15 AU 18 Octobre 2018. Soumis à commission. À confirmer.
 - Graines de rue Bessines (87) - du 29 octobre au 10 novembre 2018
 - Quai des savoirs Toulouse (31) du 16 au 21 novembre 2018
 - Graines de rue Bessines (87) - du 1 au 14 avril 2019 
