@@ -22,8 +22,8 @@ Voici le déroulé de la sortie de résidence à Toulouse.
 - La marche (Dm, MS20, MORE18, pd2 muet)
 
 -------------------------------------------------------
-- leon et bertrand entrent
-- bertrand allume foot
+- Léon et Bertrand entrent
+- Bertrand allume foot
 - Léon demande à Alan de lui raconter une histoire. Léon sort.
 -------------------------------------------------------
 
