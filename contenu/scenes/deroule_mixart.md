@@ -16,20 +16,24 @@ Voici le déroulé de la sortie de résidence à Toulouse.
 - Bertrand fait des images avec les petits gens assis.
 - Fabien fait le monologue sur la fonction de l'I.M. ultime.
 - Léon commence la sculpture en plastazote.
-- les trois sortent.
+- Les trois sortent.
+
 ------------------------------------------------------
 
 - La marche (Dm, MS20, MORE18, pd2 muet)
 
 -------------------------------------------------------
+
 - Léon et Bertrand entrent
 - Bertrand allume foot
 - Léon demande à Alan de lui raconter une histoire. Léon sort.
+
 -------------------------------------------------------
 
 - impro les yeux
 
 ---------------------------------------------------------
+
 - Fabien entre, percute accidentellement Foot.
 - Fabien joue avec Foot.
 - Fabien Parle avec Alan. Il le teste sur son bouclier anti-paradoxe.
@@ -39,18 +43,22 @@ Voici le déroulé de la sortie de résidence à Toulouse.
 - Léon propose de concevoir un programme pour estimer si, à priori, Alan va boucler.
 - Bertrand quitte le labo
 - Fabien démontre le théorème de l'arrêt (de qui?) dans un chaos sonore et musical. Léon et Fabien sortent.
+
 -------------------------------------------------------
 
 - La danse des robots (puis changement de patch fab)
 
 ------------------------------------------------------
+
 - Bertrand se demande : Est ce qu'on a le droit ?
 - Bertrand fait jouer le singe
+
 -------------------------------------------------------
 
 - La Guerre
 
 --------------------------------------------------------
+
 - Léon entre et parle avec matt
 - Fabien fait des pâtes japonaises
 - Bertrand parle avec Alan. Il est question de son apprentissage.
@@ -61,6 +69,7 @@ Voici le déroulé de la sortie de résidence à Toulouse.
 - Fabien propose Echo.
 - Léon test Echo sous le regard de Bertrand et Fabien
 - Les trois chercheurs mangent des pâtes
+
 -------------------------------------------------------
 
 **Fin**
