@@ -161,6 +161,8 @@ Premier temps long de travail sur Alan
 
 #### Résultats
 
+N'a pas eu lieu
+
 ----------------------------------------------------------
 
 ### Paris (75) - été 2018 à caler
@@ -173,16 +175,22 @@ Premier temps long de travail sur Alan
 
 #### Résultats
 
+N'a pas eu lieu
+
 ----------------------------------------------------------
 
-### MixArt Myris Toulouse (31) du 10 au 14 septembre 2018. Soumis à commission. À confirmer.
+### MixArt Myris Toulouse (31) du 10 au 14 septembre 2018.
 
 #### Objectifs
 
-- Les robots
-- codage
-- musique et dessin
-- Le décor et les accessoires
+- Structure d'Alan
+- Robot joueur d'echec
+- Décors
+
+##### Secondaires
+
+- Autres robots
+- Alan Hardware
 
 #### Résultats
 
