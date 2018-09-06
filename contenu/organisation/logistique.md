@@ -184,6 +184,7 @@ Ce qu'il faut savoir pour être au bon endroit au bon moment et ne rien oublier.
 
 ###### Extra
 - valise conf
+
 -------------------------------------
 ### IRIT (31) - 30 avril au 8 mai 2018
 
@@ -194,3 +195,83 @@ Ce qu'il faut savoir pour être au bon endroit au bon moment et ne rien oublier.
 - multiprise
 - paper board + recharge papier
 - carte son + mic + pied + cable
+
+--------------------------------------
+### Mixart 10 septembre 2018
+
+#### secu
+
+- boite premier secour
+
+#### Achat
+
+- Sacs feraille x2 (~130cm de long)
+- Fly Alan
+- Feraille
+   - rond 25mm : 10x3m
+   - rond 20mm : 6x3m
+   - carré 30mm : 6x3m
+   - plat 25x5mm : 4x3m
+
+#### Matériel
+
+
+
+##### outillage
+- pistolet à colle
+- Caisse outil rouge
+- caisse Bleue
+- caisse electronique
+- Masque Léon
+- caisse mèche + huile
+
+##### Matériaux
+- feuille et chute plastazote & mousse diverses
+- Selection recup Métal
+- **selection recup bois** (gris)
+- selection recup plastique
+- caisse Vis + tige filetée
+- verrains + tubes
+- Barres d'aluminium
+- paliers + roulements
+- equerres
+- crochets
+
+##### electronique
+- arduino
+- electro-aimants
+
+##### divers
+- carter
+- malle 8
+- caisse bleu
+- planche decoupe + reglet
+
+##### Electronic devices
+
+###### Fab  
+- Pads electroniques+ Trigger
+- Ordi Windows + Ordi Linux + Alim + Carte son
+- SQ1 + Block
+- composants divers
+- carton pad/cable
+
+###### Léon
+- Think Pad
+- Cintik
+- flight électronique (Caméra,arduino,moniteur
+
+###### Bertrand
+- selection micros (HF sm58 neuman)
+- selection caméra
+- 1 Vidéoproj + 1 écrans + Sac cable
+- Modulaires
+- Diff + console + cables
+- selection cables
+- sac 550D + pied
+- ordi ber tablete
+
+##### divers
+- livres
+- néons
+-------------------------------------

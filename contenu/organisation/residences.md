@@ -102,34 +102,34 @@ Premier temps long de travail sur Alan
 ### Été de Vaour (81), du 2 au 6 avril 2018. Restitution le 6 avril à 18h30
 
 #### Objectifs
- 
+
  - Travail au plateau
  - hypothèse de scénographie
  - Improvisations
  - Ecriture de scène
  - Dessins et musique
  - répétition et préparation de la restitution
- 
+
 #### Résultats
 
  - Restitution Publique d'une continuité de 35 mn le 6 avril à 18h30 à la Commanderie des templiers
- 
+
 ----------------------------------------------------------
 
 ### MixArt Myris Toulouse (31) du 9 au 14 avril 2018
 
 #### Objectifs
- 
+
  - Travail au plateau
  - Improvisations
  - nouvelles scènes
  - Dessins et musique
  - répétition et préparation de la restitution
- 
+
 #### Résultats
 
  - Restitution Publique d'une continuité de 50 mn le 14 avril à 21h30 à la Salle 2 Mixart Myrys
- 
+
 ----------------------------------------------------------
 
 ### IRIT Toulouse (31) - 30 avril au 7 mai 2018
@@ -191,7 +191,7 @@ Un bras actionné par des pistons controlés par un opérateur caché. Le bras e
 
 - Décors
 Nous avons décidés d'un plan de scène en ce qui concerne les éléments qui délimitent l'espace de jeu, i.e. le laboratoire. Décrivons le dans le sens anti-horaire en commençant par devant de la scène :
-Le devant de la scène est un mur du laboratoire, matérialisé par la cuisine, ensuite coté cour le mur est matérialisé par des cartons, étagères etc... et par des pilones supportant des cables (pour cette résidence nous ferons avec des pieds de projecteurs). Ensuite vient le fond de scène avec en partant coté cour une toile de projection (projecteur placé en fond de scène) dont il faut fabriquer le chassis, à moins que l'on ne parvienne à modifier le carter qu'à récupéré Bertrand. Viennent ensuite nos trois tables séparés par deux pilones qui permettent aux cables de passer du haut de la toile de projection jusqu'à la porte située coté jardin des tables. Après les tables vient donc une porte va et vient en métal puis le mur de l'établi, une structure en métal sur laquelle sont fixés quelques planches pour poser les outils et quelques étagères (un plastique noir a été évoqué pour faire le fond de ce mur). Coté jardin vient ensuite la table de l'établi puis des pilones et des étagère pour avancer jusqu'au devant de scène. Il ne faut pas oublier que si le laboratoire fait 6m de large sur le devant de scène, il en fera nécessairement moins en fond de scène puisque les angles entre le fond de scène et les cotés ne sont pas de vrais angles droits mais des angles graves. Il a également été proposé de rendr solidaire tout le fond de scène, nottament en attachant par des crochets doubles les trois tables entre elles. Il nous faudra donc construire à Mix-art :
+Le devant de la scène est un mur du laboratoire, matérialisé par la cuisine, ensuite coté cour le mur est matérialisé par des cartons, étagères etc... et par des pilones supportant des cables (pour cette résidence nous ferons avec des pieds de projecteurs). Ensuite vient le fond de scène avec en partant coté cour une toile de projection (projecteur placé en fond de scène) dont il faut fabriquer le chassis, à moins que l'on ne parvienne à modifier le carter qu'à récupéré Bertrand. Viennent ensuite nos trois tables séparés par deux pilones qui permettent aux cables de passer du haut de la toile de projection jusqu'à la porte située coté jardin des tables. Après les tables vient donc une porte va et vient en métal puis le mur de l'établi, une structure en métal sur laquelle sont fixés quelques planches pour poser les outils et quelques étagères (un plastique noir a été évoqué pour faire le fond de ce mur). Coté jardin vient ensuite la table de l'établi puis des pilones et des étagère pour avancer jusqu'au devant de scène. Il ne faut pas oublier que si le laboratoire fait 8m d'ouverture sur le devant de scène, il en fera nécessairement moins en fond de scène puisque les angles entre le fond de scène et les cotés ne sont pas de vrais angles droits mais des angles graves. Il a également été proposé de rendre solidaire tout le fond de scène, notamment en attachant par des crochets doubles les trois tables entre elles. Il nous faudra donc construire à Mix-art :
 Le support de la Toile de projection
 La porte et sa structure
 Le mur de l'établi
@@ -330,5 +330,3 @@ Profiter du Tetalab pour assembler un hardware de fou-furieux pour Alan. Demande
 #### Résultats
 
 ----------------------------------------------------------
-
-
