@@ -13,6 +13,8 @@ Ce robot fait partie de la vie du labo, quelqu'un peut proposer de le mettre à 
 
 ## Matériaux envisagés
 
+Raspberry pi dédié avec matrix de led 32x32 (sûrement besoin de ce hat https://learn.adafruit.com/adafruit-rgb-matrix-plus-real-time-clock-hat-for-raspberry-pi/driving-matrices) + un bouton en haut (http://razzpisampler.oreilly.com/ch07.html)
+
 ## Hypothèses de construction, description technique
 
 ## Moment envisagé pour la construction
