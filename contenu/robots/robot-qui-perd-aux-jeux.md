@@ -9,7 +9,8 @@ Il n'est pas antropomorphe physiquement. C'est son comportement de mauvais perda
 
 ## Matériaux envisagés
 
-Il est controlé par arduino
+L'electro aimant est controlé par arduino (doc : http://wiki.seeedstudio.com/Grove-Electromagnet/ )
+
 
 ## Hypothèses de construction, description technique
 
