@@ -29,11 +29,11 @@ Plan au sol provisoire
 Intentions de lumière
 ---------------------
 
-![](../../ressources/intentionsdelumiere.png)
+![](../../ressources/intentionslumiere.png)
 
 
 Étape de travail à Myrys (septembre 2018)
 ------------------------------------------
 
-![](../../ressources/photodecorsmyrys1.png)
-![](../../ressources/photodecorsmyrys2.png)
+![](../../ressources/photodecorsmyrys1.jpg)
+![](../../ressources/photodecorsmyrys2.jpg)
