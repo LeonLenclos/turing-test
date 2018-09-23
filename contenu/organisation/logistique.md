@@ -166,7 +166,8 @@ Ce qu'il faut savoir pour être au bon endroit au bon moment et ne rien oublier.
 - Worbla
 - pieds manfroto
 - sac scotch et cales
-- sac cable audio/secteur/decimator
+- sac cable audio/secteur
+- decimator
 - carton matos art plastique
 
 ###### Robot
@@ -356,6 +357,7 @@ A faire Lundi 24 septembre matin, charger, récupérer visserie.
 - sac photo chargeur
 - Selection cables video
 - trousse rose
+- Decimator
 
 ###### Robot
 - Otto
