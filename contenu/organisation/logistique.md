@@ -278,7 +278,7 @@ Ce qu'il faut savoir pour être au bon endroit au bon moment et ne rien oublier.
 -------------------------------------
 
 Bertrand et Fabien arrivent en camion et prennent Léon au passage à Gaillac.
-A faire Lundi 24 septembre matin, charger, récupérer visserie
+A faire Lundi 24 septembre matin, charger, récupérer visserie.
 
 ##### outillage
 - pistolet à colle
@@ -287,6 +287,9 @@ A faire Lundi 24 septembre matin, charger, récupérer visserie
 - caisse electronique bleue
 - Masque Léon
 - planche decoupe + reglet
+- Kit soudure
+- Cales bois
+- new visserie
 
 ##### Matériaux
 - feuille et chute plastazote & mousse diverses
@@ -298,15 +301,9 @@ A faire Lundi 24 septembre matin, charger, récupérer visserie
 - electro-aimants
 - livres
 
-###### Fab  
-- Pads electroniques+ Trigger
-- Ordi Windows + Ordi Linux + Alim + Carte son
-- SQ1 + Block
-- composants divers
-- carton pad/cable
-- MS20 and  co
-- sac Vuitton fab (Pad+carte son)
-- fly instruments
+###### Fab 
+- Gros flight (Pads electroniques + Trigger)
+- Flight gris (SQ1 + Block + MS20 + jouet + cables)
 
 ###### Léon
 - Think Pad
@@ -314,14 +311,11 @@ A faire Lundi 24 septembre matin, charger, récupérer visserie
 - flight électronique (Caméra,arduino,moniteur)
 
 ###### Bertrand
-- selection micros (HF sm58 neuman)
-- selection caméra
-- 1 Vidéoproj + 1 écrans + Sac cable
 - Modulaires 1 et 2
-- Diff + console sonosax + cables
-- selection cables
+- Diff + console sonosax
+- selection cables +++
 - sac 550D + pied
-- ordi cie + tablete
+- ordi cie + tablette + alims
 
 ###### Decor :
 - 4 plateaux tables
@@ -333,26 +327,34 @@ A faire Lundi 24 septembre matin, charger, récupérer visserie
 - crochets
 - barres porte et ecran
 - porte
-
-
-###### Décor :
+- frigo
+- cafetiere + accessoires cuisines
 - Ecran St jean
 - paperboard + recharge
 - 4 planches plastiques
 - Cartons standards + renfoncé + scotch marron
-- carton acessoirs (tokai)
+- carton acessoires (tokai)
+- etiqueteuse 
+- persos assis
 
 ###### Video
 - cintik
 - videoproj pico
-- videoproj 2 + convertisseur
+- videoproj secour envol + convertisseur
+- videoproj 2
+- manfrotto
 - valise electronique
 - sac photo chargeur
 - Selection cables video
+- trousse rose
 
 ###### Robot
-- carton OTTO
+- Otto
+- echo
+- Turc
+- Jimi
 - Foot
 - Alan
-- cafetière
-
+- Matt
+- Lucy
+- café
