@@ -274,4 +274,86 @@ Ce qu'il faut savoir pour être au bon endroit au bon moment et ne rien oublier.
 ##### divers
 - livres
 - néons
+
+##- Théâtre des Augustins Montauban (82) - du 24 septembre au 28 septembre 2018
 -------------------------------------
+
+##### outillage
+- pistolet à colle
+- decapeur
+- male 8
+- caisse electronique bleue
+- Masque Léon
+- planche decoupe + reglet
+
+##### Matériaux
+- feuille et chute plastazote & mousse diverses
+
+##### electronique
+- arduino
+- electro-aimants
+
+##### Electronic devices
+
+###### Fab  
+- Pads electroniques+ Trigger
+- Ordi Windows + Ordi Linux + Alim + Carte son
+- SQ1 + Block
+- composants divers
+- carton pad/cable
+- MS20 and  co
+- sac Vuitton fab (Pad+carte son)
+- fly instruments
+
+###### Léon
+- Think Pad
+- Cintik
+- flight électronique (Caméra,arduino,moniteur)
+
+###### Bertrand
+- selection micros (HF sm58 neuman)
+- selection caméra
+- 1 Vidéoproj + 1 écrans + Sac cable
+- Modulaires 1 et 2
+- Diff + console sonosax + cables
+- selection cables
+- sac 550D + pied
+- ordi cie + tablete
+
+##### divers
+- livres
+- néons
+
+###### Decor :
+- 4 plateaux tables
+- 12 barres longues
+- 8 barres courtes
+- 8 cremailleres
+- 16 montants
+- 9 barres 3m
+- crochets
+- barres porte et ecran
+- porte
+
+
+###### Décor :
+- Ecran St jean
+- paperboard + recharge
+- 4 planches plastiques
+- Cartons standards + renfoncé + scotch marron
+- carton acessoirs (tokai)
+
+###### Video
+- cintik
+- videoproj pico
+- videoproj 2 + convertisseur
+- valise electronique
+- sac photo chargeur
+- Selection cables video
+
+###### Robot
+- carton OTTO
+- Foot
+- Alan
+- cafetière
+
