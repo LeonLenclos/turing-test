@@ -300,6 +300,8 @@ A faire Lundi 24 septembre matin, charger, récupérer visserie.
 - arduino
 - electro-aimants
 - livres
+- ecran iiYama
+- clavier usb
 
 ###### Fab 
 - Gros flight (Pads electroniques + Trigger)
