@@ -302,6 +302,8 @@ A faire Lundi 24 septembre matin, charger, récupérer visserie.
 - livres
 - ecran iiYama
 - clavier usb
+- enceintes Yamaha
+
 
 ###### Fab 
 - Gros flight (Pads electroniques + Trigger)
@@ -341,6 +343,8 @@ A faire Lundi 24 septembre matin, charger, récupérer visserie.
 - carton acessoires (tokai)
 - etiqueteuse 
 - persos assis
+- tapis de sol + duvet
+- casquette = casque + lunette
 
 ###### Video
 - cintik
