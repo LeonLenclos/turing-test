@@ -306,11 +306,14 @@ A faire Lundi 24 septembre matin, charger, récupérer visserie.
 ###### Fab 
 - Gros flight (Pads electroniques + Trigger)
 - Flight gris (SQ1 + Block + MS20 + jouet + cables)
+- PC + Raspberry Pi + clavier
 
 ###### Léon
 - Think Pad
 - Cintik
 - flight électronique (Caméra,arduino,moniteur)
+- Valise conf
+- Tube Mat
 
 ###### Bertrand
 - Modulaires 1 et 2
