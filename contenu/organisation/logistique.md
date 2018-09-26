@@ -17,19 +17,18 @@ Ce qu'il faut savoir pour être au bon endroit au bon moment et ne rien oublier.
 - Été de Vaour (81), du 2 au 6 avril 2018. Restitution le 6 avril à 18h30
 - MixArt Myris Toulouse (31) du 9 au 14 avril 2018. Restitution le 14 avril à 21h30
 - IRIT Toulouse (31) - 30 avril au 7 mai 2018
-- Mérou Palace Graulhet (81) - été 2018 à caler
-- Paris (75) - été 2018 à caler
-- MixArt Myris Toulouse (31) du 10 au 14 septembre 2018. Soumis à commission. À confirmer.
+- MixArt Myris Toulouse (31) du 10 au 14 septembre 2018.
 - Théâtre des Augustins Montauban (82) - du 24 septembre au 28 septembre 2018
-- 104 - Paris (75) - du 1 AU 5 Octobre 2018 ou du 15 AU 18 Octobre 2018. Soumis à commission. À confirmer.
+- 104 - Paris (75) - Dates à définir. Soumis à commission. À confirmer.
 - Graines de rue Bessines (87) - du 29 octobre au 10 novembre 2018
 - Quai des savoirs Toulouse (31) du 16 au 21 novembre 2018
 - Graines de rue Bessines (87) - du 1 au 14 avril 2019 
 - MJC Rodez (12) du 29 avril au 10 mai 2019. restitution probable le vendredi 10 mai 2019 dans l'après-midi.
 - Théâtre d'Auch (32) du 13 au 24 mai 2019. restitutions probable le vendredi 24 mai 2019 dans l'après-midi.
-- Graines de rue Bessines (87) - Théâtre Gérard Philipe à Bessines (87) avec Première prévue le  vendredi 7 juin 2019 à Bessines.
+- Graines de rue Bessines (87) - Théâtre Gérard Philipe à Bessines (87) avec Avant-Première prévue le  vendredi 7 juin 2019 à Bessines.
+- MIMA Mirepoix (09) , Aout 2019 - A caler
 - La Grainerie Toulouse (31) - à caler en automne 2019. Reprise.
-
+- Espace Bonnefoy Toulouse (31) - à caler en automne 2019. Reprise.
 ## transport résidences
 
 ### IRIT (31) - du 5 au 9 mars 2018
@@ -167,7 +166,8 @@ Ce qu'il faut savoir pour être au bon endroit au bon moment et ne rien oublier.
 - Worbla
 - pieds manfroto
 - sac scotch et cales
-- sac cable audio/secteur/decimator
+- sac cable audio/secteur
+- decimator
 - carton matos art plastique
 
 ###### Robot
@@ -274,4 +274,98 @@ Ce qu'il faut savoir pour être au bon endroit au bon moment et ne rien oublier.
 ##### divers
 - livres
 - néons
+
+##- Théâtre des Augustins Montauban (82) - du 24 septembre au 28 septembre 2018
 -------------------------------------
+
+Bertrand et Fabien arrivent en camion et prennent Léon au passage à Gaillac.
+A faire Lundi 24 septembre matin, charger, récupérer visserie.
+
+##### outillage
+- pistolet à colle
+- decapeur
+- male 8
+- caisse electronique bleue
+- Masque Léon
+- planche decoupe + reglet
+- Kit soudure
+- Cales bois
+- new visserie
+
+##### Matériaux
+- feuille et chute plastazote & mousse diverses
+
+##### Electronic devices
+
+###### Divers
+- arduino
+- electro-aimants
+- livres
+- ecran iiYama
+- clavier usb
+- enceintes Yamaha
+
+
+###### Fab 
+- Gros flight (Pads electroniques + Trigger)
+- Flight gris (SQ1 + Block + MS20 + jouet + cables)
+- PC + Raspberry Pi + clavier
+
+###### Léon
+- Think Pad
+- Cintik
+- flight électronique (Caméra,arduino,moniteur)
+- Valise conf
+- Tube Mat
+
+###### Bertrand
+- Modulaires 1 et 2
+- Diff + console sonosax
+- selection cables +++
+- sac 550D + pied
+- ordi cie + tablette + alims
+
+###### Decor :
+- 4 plateaux tables
+- 12 barres longues
+- 8 barres courtes
+- 8 cremailleres
+- 16 montants
+- 9 barres 3m
+- crochets
+- barres porte et ecran
+- porte
+- frigo
+- cafetiere + accessoires cuisines
+- Ecran St jean
+- paperboard + recharge
+- 4 planches plastiques
+- Cartons standards + renfoncé + scotch marron
+- carton acessoires (tokai)
+- etiqueteuse 
+- persos assis
+- tapis de sol + duvet
+- casquette = casque + lunette
+
+###### Video
+- cintik
+- videoproj pico
+- videoproj secour envol + convertisseur
+- videoproj 2
+- manfrotto
+- valise electronique
+- sac photo chargeur
+- Selection cables video
+- trousse rose
+- Decimator
+
+###### Robot
+- Otto
+- echo
+- Turc
+- Jimi
+- Foot
+- Alan
+- Matt
+- Lucy
+- café
