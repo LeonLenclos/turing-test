@@ -378,9 +378,7 @@ Retour le 8/11 déchargement en fin d'aprem.
 
 ##### outillage
 
-- servante rouge avec : meuleuse, sauteuse, scie métaux, boite de mèches
-- pistolet à colle
-- decapeur
+- servante rouge avec : meuleuse, sauteuse, scie métaux, boite de mèches, pistolet à colle, decapeur
 - male 8
 - caisse electronique bleue
 - Masque Léon
@@ -390,24 +388,28 @@ Retour le 8/11 déchargement en fin d'aprem.
 - new visserie
 
 ##### Matériaux
-- feuille et chute plastazote & mousse diverses
-- tube carre 30 pour écran (1 barre).
+- feuille et chute plastazote & mousse diverses (déjà commandés,à charger)
+- tube carre 30 pour écran - 1 barre (déjà commandés,à charger)
 - plat pour triangle étagère (à acheter)
-- embout de table plastique
-- aimant a coudre ?
-- tulle 4m x 3m (gobelin 2 chez teviloj)
+- embout de table plastique (déjà commandés,à charger)
+- aimant a coudre (à acheter)
+- tulle 4m x 3m (gobelin 2 chez teviloj)(à acheter)
 - crochet 34 (déjà commandés, livré Bessines)
+- plaque plastique noir (déjà commandés,à charger)
+- corniere protection tables (déjà commandés, livré Bessines)
 
 ##### Electronic devices
 
+
+
 ###### Divers
+- PC alan (déjà commandé, livré Bessines)
 - arduino
 - electro-aimants
 - livres
 - ecran iiYama
 - clavier usb
 - enceintes Yamaha
-
 
 ###### Fab 
 - Gros flight (Pads electroniques + Trigger)
@@ -451,11 +453,10 @@ Retour le 8/11 déchargement en fin d'aprem.
 - casquette = casque + lunette
 
 ###### Video
-- cintik
 - videoproj pico
-- videoproj secour envol + convertisseur
-- videoproj 2
-- manfrotto
+- videoproj secour envol avec raccord rca bnc
+- videoproj 2 + grand VGA
+- manfrotto x 1
 - valise electronique
 - sac photo chargeur
 - Selection cables video
