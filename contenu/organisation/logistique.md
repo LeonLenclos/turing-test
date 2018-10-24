@@ -369,3 +369,106 @@ A faire Lundi 24 septembre matin, charger, récupérer visserie.
 - Matt
 - Lucy
 - café
+
+##- Graines de rue / Bessines (87) - du 31 octobre au 8 novembre 2018
+-------------------------------------
+
+Léon, Bertrand et Fabien partent en camion le 31/10/18 après avoir chargé le camion
+Retour le 8/11 déchargement en fin d'aprem.
+
+##### outillage
+
+- servante rouge avec : meuleuse, sauteuse, scie métaux, boite de mèches
+- pistolet à colle
+- decapeur
+- male 8
+- caisse electronique bleue
+- Masque Léon
+- planche decoupe + reglet
+- Kit soudure
+- Cales bois
+- new visserie
+
+##### Matériaux
+- feuille et chute plastazote & mousse diverses
+- tube carre 30 pour écran (1 barre).
+- plat pour triangle étagère (à acheter)
+- embout de table plastique
+- aimant a coudre ?
+- tulle 4m x 3m (gobelin 2 chez teviloj)
+- crochet 34 (déjà commandés, livré Bessines)
+
+##### Electronic devices
+
+###### Divers
+- arduino
+- electro-aimants
+- livres
+- ecran iiYama
+- clavier usb
+- enceintes Yamaha
+
+
+###### Fab 
+- Gros flight (Pads electroniques + Trigger)
+- Flight gris (SQ1 + Block + MS20 + jouet + cables)
+- PC + Raspberry Pi + clavier
+
+###### Léon
+- Think Pad
+- Cintik
+- flight électronique (Caméra,arduino,moniteur)
+- Valise conf
+- Tube Mat
+
+###### Bertrand
+- Modulaires 1 et 2
+- Diff + console sonosax
+- selection cables +++
+- sac 550D + pied
+- ordi cie + tablette + alims
+
+###### Decor :
+- 4 plateaux tables
+- 12 barres longues
+- 8 barres courtes
+- 8 cremailleres
+- 16 montants
+- 9 barres 3m
+- crochets
+- barres porte et ecran
+- porte
+- frigo
+- cafetiere + accessoires cuisines
+- Ecran St jean
+- paperboard + recharge
+- 4 planches plastiques
+- Cartons standards + renfoncé + scotch marron
+- carton acessoires (tokai)
+- etiqueteuse 
+- persos assis
+- tapis de sol + duvet
+- casquette = casque + lunette
+
+###### Video
+- cintik
+- videoproj pico
+- videoproj secour envol + convertisseur
+- videoproj 2
+- manfrotto
+- valise electronique
+- sac photo chargeur
+- Selection cables video
+- trousse rose
+- Decimator
+
+###### Robot
+- Otto
+- echo
+- Turc
+- Jimi
+- Foot
+- Alan
+- Matt
+- Lucy
+- café
