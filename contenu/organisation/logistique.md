@@ -397,6 +397,7 @@ Retour le 8/11 déchargement en fin d'aprem.
 - crochet 34 (déjà commandés, livré Bessines)
 - plaque plastique noir (déjà commandés,à charger)
 - corniere protection tables (déjà commandés, livré Bessines)
+- cables audio
 
 ##### Electronic devices
 
