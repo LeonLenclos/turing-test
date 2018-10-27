@@ -376,8 +376,11 @@ A faire Lundi 24 septembre matin, charger, récupérer visserie.
 Léon, Bertrand et Fabien partent en camion le 31/10/18 après avoir chargé le camion
 Retour le 8/11 déchargement en fin d'aprem.
 
+
+
 ##### outillage
 
+- trousse 1ers secours
 - servante rouge avec : meuleuse, sauteuse, scie métaux, boite de mèches, pistolet à colle, decapeur
 - male 8
 - caisse electronique bleue
