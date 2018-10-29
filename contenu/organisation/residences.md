@@ -209,6 +209,8 @@ Profiter du Tetalab pour assembler un hardware de fou-furieux pour Alan. Demande
 
 #### Résultats
 
+Jimi a été bien avancé, Turc (le robot joueur d'echec) aussi. On ne s'est pas vraiment occupé de la structure d'Alan. Le décors à vraiment avancé. 
+
 ----------------------------------------------------------
 
 ### Théâtre des Augustins Montauban (82) - du 24 septembre au 28 septembre 2018
@@ -224,31 +226,36 @@ Profiter du Tetalab pour assembler un hardware de fou-furieux pour Alan. Demande
 
 #### Résultats
 
-----------------------------------------------------------
+Le fait d'avoir le décors nous a permis de travailler sur une mise en scène plus précise beaucoup basée sur des entrées et des sorties (par la porte)
 
-### 104 - Paris (75) - à Caler. Soumis à commission. À confirmer.
+On a introduit un peu d'adresse public. Et on a pas mal réduit les dialogues entre nous.
 
-#### Objectifs
-
-- Les robots
-- codage
-- musique et dessin
-
-#### Résultats
+Il y a eu une sortie de réésidence devant quelques personnes et une classe de primaire. Bons retours dans l'ensemble.
 
 ----------------------------------------------------------
+
 
 ### Graines de rue Bessines (87) - du 29 octobre au 10 novembre 2018
 
 #### Objectifs
 
-- Travail au plateau
-- Improvisations
-- nouvelles scènes
+- Peinture du décors
+- Travail sur le corps d'Alan (fin de la construction de la structure Alu + integration de l'ordinateur)
+     => Alan V2
+- Travail sur Daya (robot tamagochi)
+- Travail sur Turc
+- Finition Jimi
+- Réduire écran décors
+- Commander tulle et nouvel écran.
+- préparation quai des savoirs
+
+
+#### Objectifs secondaires
+
+- Travail de plateau
+- écriture (notament texte présentation du spectacle)
 - Mise en scène
-- travail sur le jeu
-- répétition et préparation de la restitution
-- Ateliers
+
 
 #### Résultats
 
@@ -264,6 +271,19 @@ Profiter du Tetalab pour assembler un hardware de fou-furieux pour Alan. Demande
 #### Résultats
 
 ----------------------------------------------------------
+
+
+### 104 - Paris (75) - à Caler. Soumis à commission. À confirmer.
+
+#### Objectifs
+
+- Les robots
+- codage
+- musique et dessin
+
+#### Résultats
+
+---------------------------------------------------------
 
 ### Graines de rue Bessines (87) - du 1 au 14 avril 2019
 
