@@ -125,9 +125,13 @@ Ce qu'il faut savoir pour être au bon endroit au bon moment et ne rien oublier.
 ##### divers
 - livres
 - néons
+
 -------------------------------------
+
 ### Été de Vaour (81), du 2 au 6 avril 2018.
+
 -------------------------------------
+
 ### MixArt Myris (31) du 9 au 14 avril 2018
 
 ###### Tables :
@@ -275,7 +279,7 @@ Ce qu'il faut savoir pour être au bon endroit au bon moment et ne rien oublier.
 - livres
 - néons
 
-##- Théâtre des Augustins Montauban (82) - du 24 septembre au 28 septembre 2018
+### Théâtre des Augustins Montauban (82) - du 24 septembre au 28 septembre 2018
 -------------------------------------
 
 Bertrand et Fabien arrivent en camion et prennent Léon au passage à Gaillac.
@@ -370,7 +374,7 @@ A faire Lundi 24 septembre matin, charger, récupérer visserie.
 - Lucy
 - café
 
-##- Graines de rue / Bessines (87) - du 31 octobre au 8 novembre 2018
+### Graines de rue / Bessines (87) - du 31 octobre au 8 novembre 2018
 -------------------------------------
 
 Léon, Bertrand et Fabien partent en camion le 31/10/18 après avoir chargé le camion
@@ -380,7 +384,6 @@ Retour le 8/11 déchargement en fin d'aprem.
 
 ##### outillage
 
-- trousse 1ers secours
 - servante rouge avec : meuleuse, sauteuse, scie métaux, boite de mèches, pistolet à colle, decapeur
 - male 8
 - caisse electronique bleue
@@ -389,8 +392,13 @@ Retour le 8/11 déchargement en fin d'aprem.
 - Kit soudure
 - Cales bois
 - new visserie
+- Materiel peinture (pinceaux + bâches)
+- Materiel sécu (gants, masques, casques)
+- trousse 1ers secours
+
 
 ##### Matériaux
+
 - feuille et chute plastazote & mousse diverses (déjà commandés,à charger)
 - tube carre 30 pour écran - 1 barre (déjà commandés,à charger)
 - plat pour triangle étagère (à acheter)
@@ -400,7 +408,8 @@ Retour le 8/11 déchargement en fin d'aprem.
 - crochet 34 (déjà commandés, livré Bessines)
 - plaque plastique noir (déjà commandés,à charger)
 - corniere protection tables (déjà commandés, livré Bessines)
-- cables audio
+- cables audio de couleur (à commander + à souder)
+- Peinture noire métal (+ peinture divers).
 
 ##### Electronic devices
 
@@ -414,25 +423,27 @@ Retour le 8/11 déchargement en fin d'aprem.
 - ecran iiYama
 - clavier usb
 - enceintes Yamaha
-
-###### Fab 
-- Gros flight (Pads electroniques + Trigger)
-- Flight gris (SQ1 + Block + MS20 + jouet + cables)
-- PC + Raspberry Pi + clavier
-
-###### Léon
-- Think Pad
 - Cintik
 - flight électronique (Caméra,arduino,moniteur)
 - Valise conf
-- Tube Mat
-
-###### Bertrand
+- Tube Matt
+- Gros flight (Pads electroniques + Trigger)
+- Flight gris (SQ1 + Block + MS20 + jouet + cables)
 - Modulaires 1 et 2
 - Diff + console sonosax
 - selection cables +++
 - sac 550D + pied
 - ordi cie + tablette + alims
+
+
+######  Chez Fab 
+- PC + Raspberry Pi + clavier
+
+###### Chez Léon
+- Think Pad
+- Pochette raspberry
+- Ecran 11.1 pouces (daya)
+
 
 ###### Decor :
 - 4 plateaux tables
