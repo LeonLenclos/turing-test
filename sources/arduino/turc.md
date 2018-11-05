@@ -1,0 +1,1 @@
+Turc est un robot joueur (d'échecs ou de morpion), ici on trouveras le code qui controle l'activation d'un électro-aimant via un bouton et l'allumage des 2 Leds (LED d'allumage, LED d'activation de l'électro-aimant)
