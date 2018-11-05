@@ -1,0 +1,1 @@
+Jimi est un robot qui joue de la guitare. Il ne sait jouer qu'une seule et même note. Il joue des motifs semi-aléatoires quand on appuie sur le bouton et s'arrête quand on rappuie. Il joue une note s'il reçoit un signal de gate.
