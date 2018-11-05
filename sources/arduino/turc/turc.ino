@@ -5,7 +5,7 @@ int LEDallumage = 3;
 int Bouton = 7;
 
 void setup() {
-    // initialisation des entrées sorties
+    // déclaration des entrées sorties
     pinMode(Electroaimant, OUTPUT);
     pinMode(LEDaimant, OUTPUT);
     pinMode(LEDallumage, OUTPUT);
