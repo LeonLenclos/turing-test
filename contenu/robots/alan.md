@@ -89,6 +89,7 @@ Pour noter les deux dernières répliques dans la liste todo.md
  > todo
 ```
 
+
 ## Améliorations envisagées
 
 Remplacement de l'écran et mise en ligne. Intégration et réglage du mode impro, débuggage général. Fabrication d'une housse pour pouvoir couvrir Alan. Intégration d'enceintes au hardware.
