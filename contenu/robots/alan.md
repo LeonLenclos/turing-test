@@ -1,6 +1,6 @@
 # Alan v1.2.1
 
-![](../../ressources/dessin1.png)
+![](../../ressources/alan.JPG)
 
 ## Description générale
 
@@ -17,6 +17,9 @@ A une époque où la frontière entre le monde virtuel et l'IRL (la [vraie vie](
 
 ## Allure
 Structure  d'aluminium qui se replie sur elle-même pour ne former qu'un parallélépipède rectangle qui se range facilement.
+
+
+![](../../ressources/alan_structure.png)
 
 Dans la structure sont fixés les éléments du hardware qui sont décrits dans la description technique.
 
@@ -88,7 +91,7 @@ Pour noter les deux dernières répliques dans la liste todo.md
 
 ## Améliorations envisagées
 
-Remplacement de l'écran et mise en ligne. Intégration et réglage du mode impro, débuggage général. Fabrication d'une housse pour pouvoir couvrir Alan.
+Remplacement de l'écran et mise en ligne. Intégration et réglage du mode impro, débuggage général. Fabrication d'une housse pour pouvoir couvrir Alan. Intégration d'enceintes au hardware.
 
 ## Moment envisagé pour la construction et/ou les améliorations
 
