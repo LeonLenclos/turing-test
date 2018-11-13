@@ -1,5 +1,7 @@
 # Alan v1.2.1
 
+![](../../ressources/dessin1.png)
+
 ## Description générale
 
 Alan est un agent conversationel en cours de développement créé pour le spectacle [Turing Test](https://github.com/LeonLenclos/turing-test) avec la collaboration de l'[IRIT](https://www.irit.fr/) (Institut de Recherche en Informatique de Toulouse) et plus particulièrement des équipes de recherche SAMoVA et MELODI. C'est un robot spécialisé dans la communication verbale, conçu pour donner l'illusion d'être conscient.
@@ -22,7 +24,7 @@ Dans la structure sont fixés les éléments du hardware qui sont décrits dans 
 
 Barres d'aluminium de section rectangulaire, matériel informatique.
 
-## Hypothèses de construction, description technique
+## Description technique
 
 ### Hardware
 Carte mère (avec le processeur et la carte grapique fixés dessus), refroidisseur, alimentation, boutons de façade et écran fixés dans la structure. 
@@ -31,7 +33,7 @@ Carte mère (avec le processeur et la carte grapique fixés dessus), refroidisse
 
 [Le dépôt github de Alan](https://github.com/LeonLenclos/alan) est consacré au code source d'alan.
 
-Les consignes d'écritures pour le développement d'Alan sont dans le fichier `brain/README.md` présent dans ce dépôt github. Cete page sert aux visiteurs et aux consignes d'installation.
+Les consignes d'écritures pour le développement d'Alan sont dans le fichier `brain/README.md` présent dans le dépôt github d'Alan. Cete page sert aux visiteurs et aux consignes d'installation.
 
 L'architecture d'Alan est basé sur le module python [chatterbot](https://github.com/gunthercox/ChatterBot). Le programme d'Alan est ainsi composé de modules, des bouts de programmes qui répondent à des taches précises :
 - Des modules servant à générer en fonction d'un texte entré par l'utilisateur une réponse sous forme de texte en fonction et un indice de confiance. Il sont appelés des LogicAdapter.
