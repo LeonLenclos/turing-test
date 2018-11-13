@@ -10,7 +10,9 @@ Alan est capable de progresser en s'entrainant à converser avec des humains, il
 Bientôt même quand il ne sera pas sur scène, Alan sera quand même là, sur le site de la compagnie, disponible pour parler avec le premier venu.
 A la date suivante, Alan aura un peu changé. Comme nous.
 
+
 ![](../../ressources/irit.JPG)
+
 La compagnie et ses collaborateurs à l'IRIT
 
 
