@@ -52,13 +52,13 @@ Lorsque l'utilisateur dis quelque-chose à Alan, certains logic adapters se mett
 
 ### Comment parler avec Alan
 
-Quand on lance Alan sur son harware, on arrive sur un terminal, il faut alors maintenir les touches Alt+F2 appuyés simultanément puis entrer les commandes suivantes :
+Quand on lance Alan sur son harware il faut :
 
-  ```  
-  $ gnome-terminal
-  $ ./screen-setup.sh
-  $ alan
-  ```
+- ouvrir un terminal (par exemple Alt+F2 puis `gnome-terminal`)
+- changer la résolution de l'écran : `sh screen-setup.sh`
+- redimensioner à la main la fenêtre du terminal
+- lancer alan : `alan`
+
 Vous pouvez également  installer le programme de Alan sur votre ordinateur.
 
 **Version de python requise : Python 3.5**
