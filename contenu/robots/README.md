@@ -34,8 +34,9 @@ Rédaction des fiches
 Il y a un fichier texte par robot qui décrit les caractéristiques suivantes :
 
 - Nom 
+- Description générale
 - Allure
 - Matériaux 
 - Hypothèses de construction, description technique
-- Moment envisagé pour la construction
 - Améliorations envisagées
+- Moment envisagé pour la construction et/ou les améliorations
