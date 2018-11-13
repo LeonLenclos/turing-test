@@ -1,7 +1,7 @@
 Les intelligences-machines
 ==========================
 
-D'ici, on peut accéder aux fiches des robots du laboratoire. Il y a aussi une liste des robots qui n'ont pas fiches. Mais en général on essaye de faire une fiche pour chaque robot créé ou en projet.
+D'ici, on peut accéder aux fiches des robots du laboratoire. Les robots présentés peuvent se situer à différents stades d'aboutissement et peuvent également n'exister que dans notre imagination pour l'instant.
 
 Les intelligences-machines (robots) de notre laboratoire ont des noms en quatre lettres, comme les RER. Ceux qui n'ont pas encore de nom sont désignés par leur fonction principale.
 
@@ -31,10 +31,11 @@ Les Robots
 Rédaction des fiches
 ---------------------
 
-Il y a un fichier texte par robot décrivant :
+Il y a un fichier texte par robot qui décrit les caractéristiques suivantes :
 
-- Le nom du robot
-- Esthétique, allure du robot
-- Matériaux envisagés
+- Nom 
+- Allure
+- Matériaux 
 - Hypothèses de construction, description technique
 - Moment envisagé pour la construction
+- Améliorations envisagées
