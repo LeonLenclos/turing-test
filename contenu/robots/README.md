@@ -25,7 +25,6 @@ Les Robots
 - [Robot qui fait le ménage](robot-qui-fait-le-menage.md)
 - [Robot qui applaudit](robot-qui-applaudit.md)
 - [Robot animal de compagnie](robot-animal-de-compagnie.md)
-- Robot qui marche
 
 
 Rédaction des fiches
