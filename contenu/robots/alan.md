@@ -38,9 +38,6 @@ Barres d'aluminium de section rectangulaire, matériel informatique.
 Carte mère (avec le processeur et la carte grapique fixés dessus), refroidisseur, alimentation, boutons de façade et écran fixés dans la structure. 
 
 ### Software
-Les joies de la programmation:
-
-![](../../ressources/alan_software.JPG)
 
 [Le dépôt github de Alan](https://github.com/LeonLenclos/alan) est consacré au code source d'alan.
 
@@ -110,3 +107,7 @@ Remplacement de l'écran et mise en ligne. Intégration et réglage du mode impr
 Résidences de programmation à l'IRIT au printemps 2018.
 Montage et fabrication du hardware à l'usinotopie (mars 2018) et à Bessines (octobre-novembre 2018).
 Résidence au quai des savoirs du 16 au 21 novembre 2018 pour une confrontation au public et pour avancer sur les améliorations en vue de la version 2.0.0 .
+
+![](../../ressources/alan_software.JPG)
+
+Résidence à l'IRIT, les joies de la programmation.
