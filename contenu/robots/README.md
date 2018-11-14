@@ -12,6 +12,7 @@ Les Robots
 - [Otto](otto.md)
 - [Foot](foot.md)
 - [Luna](luna.md)
+- [Echo](echo.md)
 - Jimi
 - Cubi
 - Matt
