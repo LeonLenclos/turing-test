@@ -13,19 +13,16 @@ Les Robots
 - [Foot](foot.md)
 - [Luna](luna.md)
 - [Echo](echo.md)
+- [Lucy](lucy.md)
 - Jimi
-- Cubi
 - Matt
 - [Robots marionnette](robots-marionnette.md)
 - [Robots musiciens](robots-musiciens.md)
-- [Robot qui range](robot-qui-range.md)
-- [Robot qui a du goût](robot-qui-a-du-gout.md)
 - [Robot paresseux](robot-paresseux.md)
 - [Robot Poète](robot-poete.md)
 - [Robot qui perd aux jeux](robot-qui-perd-aux-jeux.md)
 - [Robot qui fait le ménage](robot-qui-fait-le-menage.md)
 - [Robot qui applaudit](robot-qui-applaudit.md)
-- [Robot animal de compagnie](robot-animal-de-compagnie.md)
 
 
 Rédaction des fiches
