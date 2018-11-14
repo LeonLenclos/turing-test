@@ -23,7 +23,11 @@ L'enjeu est d'avoir un mouvement fluide lorsque l'on pose l'objet et lorsqu'on l
 
 Une première version a été construite à l'usinototpie.
 
+![](../../ressources/otto_leon.JPG)
+
+Voici quelques plans réalisés durant la conception d'Otto :
+
 
 ![](../../ressources/robot-etonne-2.jpg)
 ![](../../ressources/robot-etonne-1.jpg)
-![](../../ressources/robot-etonne-3.jpg)
+![](../../ressources/otto_plan.JPG)
