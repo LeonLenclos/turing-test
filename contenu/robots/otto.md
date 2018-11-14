@@ -1,8 +1,10 @@
 # Otto
+![](../../ressources/otto.JPG)
 
+## Description générale
 Otto c'est le robot qui s'étonne. Son fonctionnement est simple. On lui présente un objet et il s'étonne. Otto nous permet de répondre par l'exemple à la question "Une intelligence-machine peut-elle éprouver des émotions"
 
-## Allure d'Otto
+## Allure
 
 Un buste deux bras. Un visage expressif.
 Otto dispose d'un nez (comme la plus part des antropomorphes) mais l'équipe préfère le lui enlever pour rendre son visage plus lisible.
