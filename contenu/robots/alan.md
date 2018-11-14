@@ -38,10 +38,9 @@ Barres d'aluminium de section rectangulaire, matériel informatique.
 Carte mère (avec le processeur et la carte grapique fixés dessus), refroidisseur, alimentation, boutons de façade et écran fixés dans la structure. 
 
 ### Software
+Les joies de la programmation:
 
 ![](../../ressources/alan_software.JPG)
-Les joies de la programmation.
-
 
 [Le dépôt github de Alan](https://github.com/LeonLenclos/alan) est consacré au code source d'alan.
 
@@ -49,7 +48,9 @@ Les consignes d'écritures pour le développement d'Alan sont dans le fichier `b
 
 L'architecture d'Alan est basé sur le module python [chatterbot](https://github.com/gunthercox/ChatterBot). Le programme d'Alan est ainsi composé de modules, des bouts de programmes qui répondent à des taches précises :
 - Des modules servant à générer en fonction d'un texte entré par l'utilisateur une réponse sous forme de texte en fonction et un indice de confiance. Il sont appelés des LogicAdapter. Voici un tableau récapitulant le niveaundice de confiance pour chaque logic adapter:
+
 ![](../../ressources/alan_logic.JPG)
+
 - Un module servant à gérer la reconnaissance vocale (conversion voix vers texte) sera un InputAdapter
 - Un module servant à gérer la synthèse vocale (conversion texte vers voix) sera un OutputAdapter
 
