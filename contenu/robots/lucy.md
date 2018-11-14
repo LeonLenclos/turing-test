@@ -20,9 +20,12 @@ Un carton avec un bouton fixé sur le dessus et un écran incrusté dans un des 
 
 Ce robot fait partie de la vie du labo, quelqu'un peut proposer de le mettre à jour mais cela pose des problèmes moraux aux autres qui se sont attachés à leur petit poisson pixellisé. En même temps ils s'en veulent aussi de maintenir en vie un poisson enfermé pour leur seul plaisir, ils résolvent le problème en adaptant le robot musicien pour qu'il nourisse le robot au lieu d'appuyer sur des touches de piano, ils se dédouanent ainsi de leurs responsabilités.
 
-## Hypothèses de construction, description technique
+## Description technique
 
 
+## Améliorations
+
+Connecter une entrée jack pour pouvoir recevoir un signal de trig ou de gate. Cela permettrait à Lucy de danser en rythme avec la musique.
 
 ## Moment envisagé pour la construction
 Construction à Bessines en novembre 2018
