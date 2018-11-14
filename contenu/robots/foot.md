@@ -31,6 +31,7 @@ Le code arduino de foot est disponible [ici](../../sources/arduino/foot).
 ## Moment envisagé pour la construction
 
 Usinotopie mars 2018
+
 ![](../../ressources/foot_fabi.JPG)
 
 ## Améliorations
