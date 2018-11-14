@@ -3,7 +3,7 @@ Les intelligences-machines
 
 D'ici, on peut accéder aux fiches des robots du laboratoire. Les robots présentés peuvent se situer à différents stades d'aboutissement et peuvent également n'exister que dans notre imagination pour l'instant.
 
-Les intelligences-machines (robots) de notre laboratoire ont des noms en quatre lettres, comme les RER. Ceux qui n'ont pas encore de nom sont désignés par leur fonction principale.
+Les intelligences-machines (robots) de notre laboratoire ont des noms en quatre lettres, comme les RER. Ceux qui sont en projet et qui n'ont pas encore de nom sont désignés par leur fonction principale.
 
 Les Robots
 ----------
