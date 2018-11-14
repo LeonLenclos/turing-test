@@ -1,12 +1,16 @@
 # Lucy
 
+![](../../ressources/lucy.JPG)
+
 ## Description générale
 
 Lucy est une référence aux [tamagotchis](https://fr.wikipedia.org/wiki/Tamagotchi). C'est un personnage virtuel, il meurt si on le nourrit trop ou pas assez.
 
 ## Esthétique, allure du robot
 
-Un simple écran avec un bouton au dessus : nourrir. Un personnage très pixellisé s'affiche à l'écran, en temps normal il bouge de légèrement dans son écran. Quand il est nourri, une animation est lancée. Il peut avoir l'air maigre normal ou gros.
+Un simple écran avec un bouton au dessus : nourrir. Un personnage très pixellisé s'affiche à l'écran, en temps normal il bouge de légèrement dans son écran. Quand il est nourri, une animation est lancée. Il peut avoir l'air maigre, normal ou gros.
+
+![](../../ressources/lucy1.JPG)![](../../ressources/lucy2.JPG)![](../../ressources/lucy3.JPG)![](../../ressources/lucy4.JPG)
 
 ## Matériaux
 
