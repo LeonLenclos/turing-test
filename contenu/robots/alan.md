@@ -39,12 +39,17 @@ Carte mère (avec le processeur et la carte grapique fixés dessus), refroidisse
 
 ### Software
 
+![](../../ressources/alan_software.JPG)
+Les joies de la programmation.
+
+
 [Le dépôt github de Alan](https://github.com/LeonLenclos/alan) est consacré au code source d'alan.
 
 Les consignes d'écritures pour le développement d'Alan sont dans le fichier `brain/README.md` présent dans le dépôt github d'Alan. Cete page sert aux visiteurs et aux consignes d'installation.
 
 L'architecture d'Alan est basé sur le module python [chatterbot](https://github.com/gunthercox/ChatterBot). Le programme d'Alan est ainsi composé de modules, des bouts de programmes qui répondent à des taches précises :
-- Des modules servant à générer en fonction d'un texte entré par l'utilisateur une réponse sous forme de texte en fonction et un indice de confiance. Il sont appelés des LogicAdapter.
+- Des modules servant à générer en fonction d'un texte entré par l'utilisateur une réponse sous forme de texte en fonction et un indice de confiance. Il sont appelés des LogicAdapter. Voici un tableau récapitulant le niveaundice de confiance pour chaque logic adapter:
+![](../../ressources/alan_logic.JPG)
 - Un module servant à gérer la reconnaissance vocale (conversion voix vers texte) sera un InputAdapter
 - Un module servant à gérer la synthèse vocale (conversion texte vers voix) sera un OutputAdapter
 
@@ -101,4 +106,6 @@ Remplacement de l'écran et mise en ligne. Intégration et réglage du mode impr
 
 ## Moment envisagé pour la construction et/ou les améliorations
 
-Résidence au quai des savoirs du 16 au 21 novembre 2018.
+Résidences de programmation à l'IRIT au printemps 2018.
+Montage et fabrication du hardware à l'usinotopie (mars 2018) et à Bessines (octobre-novembre 2018).
+Résidence au quai des savoirs du 16 au 21 novembre 2018 pour une confrontation au public et pour avancer sur les améliorations en vue de la version 2.0.0 .
