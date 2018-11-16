@@ -22,7 +22,7 @@ Deux jambes amovibles munies de pieds viennent se fixer derrière la planche, ce
 Le bouton poussoir est maintenu à l'état haut par une résistance de pull-up interne à l'arduino. Pour maintenir un état bas sur l'entrée gate, une résistance 10k est soudée en pull down.
 Le code est entièrement séquentiel, les actions ne se déroulent jamais simultanément. Ainsi lorsque le moteur bouge, c'est la seule action que l'arduino puisse réaliser. Ainsi il ne peut par exemple pas détecter de gate ou d'information du bouton poussoir.
 Quand on appui sur le bouton, un générateur de nombres aléatoires tire au hasard un nombre entre 0 et 2. Si c'est 0 rien ne se passe, si c'est 1 Jimi joue une note et si c'est 2 il joue deux notes rapprochées.
-Le code de l'arduino est disponible [ici](../../sources/arduino/echo).
+Le code de l'arduino est disponible [ici](../../sources/arduino/jimi).
 
 
 ## Améliorations envisagées
