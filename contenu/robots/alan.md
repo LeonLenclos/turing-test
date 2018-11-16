@@ -100,7 +100,10 @@ Pour noter les deux dernières répliques dans la liste todo.md
 
 ## Améliorations envisagées
 
-Remplacement de l'écran et mise en ligne. Intégration et réglage du mode impro, débuggage général. Fabrication d'une housse pour pouvoir couvrir Alan. Intégration d'enceintes au hardware.
+Remplacement de l'écran et mise en ligne. Intégration et réglage du mode impro, débuggage général. Fabrication d'une housse pour pouvoir couvrir Alan. Intégration d'enceintes au hardware. 
+système d'amplification envisagé :
+wondon 2X50W
+https://www.audiophonics.fr/fr/modules-amplificateur/wondom-aa-ja32171-jab-2-50-module-amplificateur-stereo-class-d-2x50w-4-ohm-bluetooth-40-p-10847.html
 
 ## Moment envisagé pour la construction et/ou les améliorations
 
