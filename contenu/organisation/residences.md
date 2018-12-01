@@ -253,7 +253,10 @@ Il y a eu une sortie de réésidence devant quelques personnes et une classe de 
 #### Objectifs secondaires
 
 - Travail de plateau
-- écriture (notament texte présentation du spectacle)
+- écriture
+	- texte présentation du spectacle)
+	- amélioration de `contenu/robots/`
+	
 - Mise en scène
 
 

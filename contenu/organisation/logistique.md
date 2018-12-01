@@ -434,7 +434,7 @@ Retour le 8/11 déchargement en fin d'aprem.
 - selection cables +++
 - sac 550D + pied
 - ordi cie + tablette + alims
-
+- Duvets
 
 ######  Chez Fab 
 - PC + Raspberry Pi + clavier
