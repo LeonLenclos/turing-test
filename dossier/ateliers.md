@@ -75,3 +75,10 @@ Un humain (le juge) est dans une pièce fermée et il discute par l'intermédiar
 Une intelligence artificielle qui passe le test de turing est une intelligence artificielle que le juge prend pour un humain à l'issue de la conversation.
 
 À ce jour, aucune intelligence artificielle n'a veritablement passé le test de turing.
+
+### Exercices.
+
+- Si un robot ne devait être capable de dire qu'une seule phrase, la quelle choisir pour qu'il ressemble quand même à un humain ?
+- Chatbot est un mot valise composé de "chat" (conversation en anglais) et de "bot". Inventer un mot en français pour remplacer le mot anglais "chatbot"
+- Imaginer et écrire une conversation entre un humain et un humain, un humain et un robot, ou un robot et un robot
+
