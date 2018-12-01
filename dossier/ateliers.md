@@ -48,7 +48,7 @@ Oeuvres référence :
 - Première apparition du mot "robot" : La pièce RUR
 - Cinéma : Métropolis, 2001 l'Odyssée de l'éspace, StarWars,...
 
-#### Un bot : un robot immateriel.
+#### Un bot : un robot immateriel.
 
 Le mot bot est apparu recement pour désigner les créatures artificielles qui n'ont pas de corps. Ce sont des programmes informatiques fait pour accomplir des taches précises (indexer des pages sur internet, jouer en bourse,... ) Les plus connus du grand public sont les chatbot dont la fonction principale est de parler avec des humains.
 
@@ -66,7 +66,7 @@ Oeuvres référence :
 
 - Au cinéma : Immitation Game
 
-#### Le test de turing
+#### Le test de turing
 
 Le test de turing est une experience de pensée proposée par Alan Turing bien avant les premiers ordinateurs, robots et chatbots.
 
