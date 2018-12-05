@@ -4,55 +4,58 @@ Atelier Chatbot (Turing Test - Cie Nokill)
 Objectif
 --------
 
-Créer collectivement un chatbot. Un programme informatique avec lequel on peut tenir une discussion.
+Créer collectivement un chatbot. Un programme informatique avec lequel on peut avoir une discussion.
 
 Contexte
 --------
 
-Turing Test est un spectacle de Fabien Carbo-Gil, Léon Lenclos et Bertrand Lenclos (cie Nokill) qui met en scène trois chercheurs et des dizaines de robots dans un laboratoire de recherche en intelligence machine. Un de ces robots, Alan, est un chatbot : Une intelligence artificielle conçue pour pouvoir tenir une discussion. Une partie de ce robot a été programmé avec un langage informatique qui s'appelle le RiveScript, un langage spéciallement conçue pour créer des chatbots. Nous proposons à la classe de s'approprier cet outil pour creer collectivement un chatbot unique.
+Turing Test est un spectacle de Fabien Carbo-Gil, Léon Lenclos et Bertrand Lenclos (cie Nokill) qui met en scène trois chercheurs et des dizaines de robots dans un laboratoire de recherche en intelligence machine. Un de ces robots, Alan, est un chatbot : Une intelligence artificielle conçue pour pouvoir tenir une discussion. Une partie de ce robot a été programmé avec un langage informatique qui s'appelle le RiveScript, un langage spécialement conçu pour créer des chatbots. Nous proposons à la classe de s'approprier cet outil pour créer collectivement un chatbot unique.
 
 Déroulé
 -------
 
-### Pendants les ateliers (en présence de la compagnie)
+### Pendant les ateliers (en présence de la compagnie)
 
 - Présentation de la compagnie, du spectacle Turing Test et de notre chatbot Alan.
-- Préparation du chatbot, choix d'un nom, de quelques axes qui deffiniront sa personnalité, des sujets dont il sera capable de parler, exemples de conversation qu'il devra pouvoir tenir.
-- Introduction au langage informatique RiveScript
+- Préparation du chatbot, choix d'un nom, de quelques axes qui définiront sa personnalité, des sujets dont il sera capable de parler, d'exemples de conversation qu'il devra pouvoir tenir.
+- Introduction au langage informatique RiveScript.
 - Répartition du travail et programmation du chatbot par petits groupes (2 ou 3 élèves par poste). Tests réguliers du programme.
 
-### Après/entre les atteliers
+### Après/entre les ateliers
 
-- Les bases sont aquises par les élèves et le proffesseur : possibilité de continuer le travail de programmation, en classe ou à la maison.
-- La compagnie est disponnible par mail pour répondre aux questions, régler les problèmes rencontrées en son absence.
+- Les bases sont aquises par les élèves et le professeur : possibilité de continuer le travail de programmation, en classe ou à la maison.
+- La compagnie est disponnible par mail pour répondre aux questions, régler les problèmes rencontrés en son absence.
 
-### Réstitution
+### Restitution
 
 - Présentation du chatbot au public par des élèves volontaires pendant le festival Graines de rue
 - Mise en ligne du chatbot sur le site de l'école
 
-Préparation de l'attelier
+Préparation de l'atelier
 -------------------------
 
-### Familiarisation avec les concepts abordées pendant l'attelier
+### Familiarisation avec les concepts abordées pendant l'atelier
 
 #### Un robot : une machine qui immite l'humain.
 
 Les premiers robots sont des personnages de fictions, ils sont la suite logique au XXe sciècle d'une longue tradition de récits de fiction sur les créatures artificielles.
 
-Oeuvres référence :
+Oeuvres de référence :
 
 - Chez Ovide : Pygmalion et Galatée
 - Dans la tradition juive : Le Golem
 - Une des créatures artificielle les plus connues : Frankenstein
 - Première apparition du mot "robot" : La pièce RUR
 - Cinéma : Métropolis, 2001 l'Odyssée de l'éspace, StarWars,...
+- Une réflexion autour des trois lois de la robotique : Le cycle des robots d'Asimov 
 
 #### Un bot : un robot immateriel.
 
-Le mot bot est apparu recement pour désigner les créatures artificielles qui n'ont pas de corps. Ce sont des programmes informatiques fait pour accomplir des taches précises (indexer des pages sur internet, jouer en bourse,... ) Les plus connus du grand public sont les chatbot dont la fonction principale est de parler avec des humains.
+Le mot bot est apparu récemment pour désigner les créatures artificielles qui n'ont pas de corps. Ce sont des programmes informatiques faits pour accomplir des taches précises (indexer des pages sur internet, jouer en bourse,... ) Les plus connus du grand public sont les chatbot dont la fonction principale est de parler avec des humains.
 
 #### Un chatbot : Un bot qui parle.
+
+Un chatbot, que l'on appelle aussi agent conversationnel, est donc un programme qui traite généralement du texte. Il prend en entrée du texte (ce que l'humain lui dit) et fournit du texte en sortie (la réponse qu'il donne à l'humain). Cependant certains chatbots plus évolués intégrent également des programmes de reconnaissance et/ou de synthèse vocale. La reconnaissance vocale permet à l'humain de s'adresser oralement (via un micro) au chatbot, la voix est alors transformée en un fichier texte (comme si on dictait à quelq'un qui prendrait des notes). Le chatbot peut alors traiter ce fichier texte pour fournir un texte en réponse. La synthèse vocale permet alors de convertir le texte en audio (comme si quelqu'un le lisait à haute voix) et de répondre oralement à l'humain.
 
 Oeuvres référence :
 
@@ -66,19 +69,15 @@ Oeuvres référence :
 
 - Au cinéma : Immitation Game
 
-#### Le test de turing
+#### Le test de Turing
 
-Le test de turing est une experience de pensée proposée par Alan Turing bien avant les premiers ordinateurs, robots et chatbots.
-
-Un humain (le juge) est dans une pièce fermée et il discute par l'intermédiare d'un clavier et d'un écran avec quelqu'un qu'il ne voit pas. On lui demande de deviner si son interlocuteur est un humain on un robot.
-
-Une intelligence artificielle qui passe le test de turing est une intelligence artificielle que le juge prend pour un humain à l'issue de la conversation.
-
-À ce jour, aucune intelligence artificielle n'a veritablement passé le test de turing.
+Le test de Turing est une expérience de pensée proposée par Alan Turing alors que l'informatique n'en était qu'à ces balbutiements.
+Un humain (le juge) est dans une pièce fermée et il discute à distance par l'intermédiare d'un clavier et d'un écran avec deux interlocuteurs. On lui demande de deviner lequel de ses interlocuteurs est un humain et lequel est un robot. Si le juge est incapable de reconnaître lequel de ces interlocuteurs est une machine, alors la machine a réussi le test de Turing. D'ailleurs Turing appelait ce test le jeu de l'immitation, le nom de test de Turing lui a été donné postérieurement.
+À ce jour, aucune intelligence artificielle n'a véritablement passé le test de turing.
 
 ### Exercices.
 
-- Si un robot ne devait être capable de dire qu'une seule phrase, la quelle choisir pour qu'il ressemble quand même à un humain ?
+- Si un robot ne devait être capable de dire qu'une seule phrase, laquelle choisir pour qu'il ressemble quand même à un humain ?
 - Chatbot est un mot valise composé de "chat" (conversation en anglais) et de "bot". Inventer un mot en français pour remplacer le mot anglais "chatbot"
 - Imaginer et écrire une conversation entre un humain et un humain, un humain et un robot, ou un robot et un robot
-
+- Quelle question poseriez-vous à un chatbot pour réussir à le démasquer et l'empécher de passer le test de Turing.
