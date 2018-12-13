@@ -4,12 +4,12 @@ Atelier Chatbot (Turing Test - Cie Nokill)
 Objectif
 --------
 
-Créer collectivement un chatbot. Un programme informatique avec lequel on peut avoir une discussion.
+Créer collectivement un chatbot. Un programme informatique avec lequel on peut avoir une conversation.
 
 Contexte
 --------
 
-Turing Test est un spectacle de Fabien Carbo-Gil, Léon Lenclos et Bertrand Lenclos (cie Nokill) qui met en scène trois chercheurs et des dizaines de robots dans un laboratoire de recherche en intelligence machine. Un de ces robots, Alan, est un chatbot : Une intelligence artificielle conçue pour pouvoir tenir une discussion. Une partie de ce robot a été programmé avec un langage informatique qui s'appelle le RiveScript, un langage spécialement conçu pour créer des chatbots. Nous proposons à la classe de s'approprier cet outil pour créer collectivement un chatbot unique.
+Turing Test est un spectacle de Fabien Carbo-Gil, Léon Lenclos et Bertrand Lenclos (cie Nokill) qui met en scène trois chercheurs et des dizaines de robots dans un laboratoire de recherche en intelligence machine. Un de ces robots, Alan, est un chatbot : Une intelligence artificielle conçue pour parler avec des humains. Une partie de ce robot a été programmé avec un langage informatique qui s'appelle le RiveScript, un langage spécialement conçu pour créer des chatbots. Nous proposons à la classe de s'approprier cet outil pour créer collectivement un chatbot unique.
 
 Déroulé
 -------
@@ -33,6 +33,11 @@ Déroulé
 
 Préparation de l'atelier
 -------------------------
+
+nous proposons quelques idées pour préparer l’attelier. Cinq concepts qui peuvent être discutés en classe. Et cinq exercices qui peuvent être faits individuellement ou collectivement.
+
+Cette préparation est conseillée mais facultative.
+
 
 ### Familiarisation avec les concepts abordées pendant l'atelier
 
@@ -63,7 +68,7 @@ Oeuvres référence :
 
 #### Alan Turing
 
-Alan Turing est un mathématicien, il est souvent considéré comme le père de l'informatique.
+Alan Turing est un mathématicien, il est souvent considéré comme le père de l'informatique. Alan, le chatbot de notre spectacle tiens son nom d’Alan Turing.
 
 Oeuvres référence :
 
@@ -71,13 +76,14 @@ Oeuvres référence :
 
 #### Le test de Turing
 
-Le test de Turing est une expérience de pensée proposée par Alan Turing alors que l'informatique n'en était qu'à ces balbutiements.
-Un humain (le juge) est dans une pièce fermée et il discute à distance par l'intermédiare d'un clavier et d'un écran avec deux interlocuteurs. On lui demande de deviner lequel de ses interlocuteurs est un humain et lequel est un robot. Si le juge est incapable de reconnaître lequel de ces interlocuteurs est une machine, alors la machine a réussi le test de Turing. D'ailleurs Turing appelait ce test le jeu de l'immitation, le nom de test de Turing lui a été donné postérieurement.
+Le test de Turing est une expérience de pensée proposée par Alan Turing alors que l'informatique n'en était qu'à ses balbutiements.
+Un humain (le juge) est dans une pièce fermée et il discute à distance par l'intermédiare d'un clavier et d'un écran avec deux interlocuteurs. On lui demande de deviner lequel de ses interlocuteurs est un humain et lequel est un robot. Si le juge est incapable de les differentier, alors la machine a réussi le test de Turing. D'ailleurs Turing appelait ce test le jeu de l'immitation, le nom de test de Turing lui a été donné postérieurement.
 À ce jour, aucune intelligence artificielle n'a véritablement passé le test de turing.
 
 ### Exercices.
 
 - Si un robot ne devait être capable de dire qu'une seule phrase, laquelle choisir pour qu'il ressemble quand même à un humain ?
 - Chatbot est un mot valise composé de "chat" (conversation en anglais) et de "bot". Inventer un mot en français pour remplacer le mot anglais "chatbot"
-- Imaginer et écrire une conversation entre un humain et un humain, un humain et un robot, ou un robot et un robot
+- Imaginer et écrire une conversation entre un humain et un humain, un humain et un robot, ou un robot et un robot (environ 10 répliques).
 - Quelle question poseriez-vous à un chatbot pour réussir à le démasquer et l'empécher de passer le test de Turing.
+- Écrire collectivement une liste de 100 questions auxquelles il faut absolument que le chatbot sache répondre.
