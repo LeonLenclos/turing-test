@@ -52,7 +52,8 @@ Oeuvres de référence :
 - Une des créatures artificielle les plus connues : Frankenstein
 - Première apparition du mot "robot" : La pièce RUR
 - Cinéma : Métropolis, 2001 l'Odyssée de l'espace, StarWars,...
-- Une réflexion autour des trois lois de la robotique : Le cycle des robots d'Asimov 
+- Une réflexion autour des trois lois de la robotique : Le cycle des robots d'Asimov
+- Le super livre sur le sujet : Robots et avatars - Jean-Claude Heudin
 
 #### Un bot : un robot immatériel.
 
