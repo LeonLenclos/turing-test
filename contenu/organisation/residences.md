@@ -17,12 +17,12 @@ Les différentes résidences prévues et leur contenu
 - Été de Vaour (81), du 2 au 6 avril 2018. Restitution le 6 avril à 18h30
 - MixArt Myris Toulouse (31) du 9 au 14 avril 2018. Restitution le 14 avril à 21h30
 - IRIT Toulouse (31) - 30 avril au 7 mai 2018
-- MixArt Myris Toulouse (31) du 10 au 14 septembre 2018. Soumis à commission. À confirmer.
+- MixArt Myris Toulouse (31) du 10 au 14 septembre 2018.
 - Théâtre des Augustins Montauban (82) - du 24 septembre au 28 septembre 2018
-- 104 - Paris (75) - A caler. Soumis à commission. À confirmer.
 - Graines de rue Bessines (87) - du 29 octobre au 10 novembre 2018
 - Quai des savoirs Toulouse (31) du 16 au 21 novembre 2018
-- Graines de rue Bessines (87) - du 1 au 14 avril 2019 
+- Graines de rue Bessines (87) - du 1 au 14 avril 2019
+- 104 - Paris (75) - du 15 au 21 avril 2019
 - MJC Rodez (12) du 29 avril au 10 mai 2019. restitution probable le vendredi 10 mai 2019 dans l'après-midi.
 - Théâtre d'Auch (32) du 13 au 24 mai 2019. restitutions probable le vendredi 24 mai 2019 dans l'après-midi.
 - Graines de rue Bessines (87) - Théâtre Gérard Philipe à Bessines (87) avec Première prévue le  vendredi 7 juin 2019 à Bessines.
@@ -275,19 +275,6 @@ Il y a eu une sortie de réésidence devant quelques personnes et une classe de 
 
 ----------------------------------------------------------
 
-
-### 104 - Paris (75) - à Caler. Soumis à commission. À confirmer.
-
-#### Objectifs
-
-- Les robots
-- codage
-- musique et dessin
-
-#### Résultats
-
----------------------------------------------------------
-
 ### Graines de rue Bessines (87) - du 1 au 14 avril 2019
 
 #### Objectifs
@@ -302,6 +289,18 @@ Il y a eu une sortie de réésidence devant quelques personnes et une classe de 
 
 
 #### Résultats
+----------------------------------------------------------
+
+### 104 - Paris (75) - à Caler. Soumis à commission. À confirmer.
+
+#### Objectifs
+
+- scène de fin
+- mise en réseau des robots
+- musique et chorégraphie
+
+#### Résultats
+
 ----------------------------------------------------------
 
 ### MJC Rodez (12) du 29 avril au 10 mai 2019. restitution probable le vendredi 10 mai 2019 dans l'après-midi.
