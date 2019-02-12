@@ -14,7 +14,7 @@ Les Robots
 - [Luna](luna.md)
 - [Echo](echo.md)
 - [Lucy](lucy.md)
-- Jimi
+- [Jimi](jimi.md)
 - Matt
 - [Robots marionnette](robots-marionnette.md)
 - [Robots musiciens](robots-musiciens.md)
