@@ -16,7 +16,7 @@ Assemblage de raccords en PVC avec l'électronique fixée dedans.
 
 
 ## Hypothèses de construction, description technique
-Arduino branché à une enceinte et à un capteur ultrason qui permet de détecter la présence d'objets et de calculer leur distance. La lecture d'un échantillon 'commentaire élogieux' est déclenchée quant un objet entre dans une gamme de distances par rapport au robot (entre 10cm et 50cm). Il faut alors que l'objet sorte du champ visuel du robot pour que l'introduction d'un autre objet déclenche un autre commentaire. Le code de l'arduino est disponible [ici](../../sources/arduino/echo)
+Arduino branché à une enceinte et à un capteur ultrason qui permet de détecter la présence d'objets et de calculer leur distance. La lecture d'un échantillon 'commentaire élogieux' est déclenchée quant un objet entre dans une gamme de distances par rapport au robot (entre 10cm et 50cm). Il faut alors que l'objet sorte du champ visuel du robot pour que l'introduction d'un autre objet déclenche un autre commentaire. Le code de l'arduino est disponible [ici](../../sources/arduino/echo/echo.md)
 
 ## Améliorations
 
