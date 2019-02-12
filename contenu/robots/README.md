@@ -11,7 +11,6 @@ Les Robots
 - [Alan](alan.md)
 - [Otto](otto.md)
 - [Foot](foot.md)
-- [Luna](luna.md)
 - [Echo](echo.md)
 - [Lucy](lucy.md)
 - [Jimi](jimi.md)
@@ -23,6 +22,7 @@ Les Robots
 - [Robot qui perd aux jeux](robot-qui-perd-aux-jeux.md)
 - [Robot qui fait le ménage](robot-qui-fait-le-menage.md)
 - [Robot qui applaudit](robot-qui-applaudit.md)
+- [Robot taciturne](robot-taciturne.md)
 
 
 Rédaction des fiches
