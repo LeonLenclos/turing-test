@@ -14,7 +14,8 @@ Les Robots
 - [Echo](echo.md)
 - [Lucy](lucy.md)
 - [Jimi](jimi.md)
-- Matt
+- [Turc](turc.md) (fiche à rédiger)
+- [Matt](matt.md) (fiche à rédiger)
 - [Robots marionnette](robots-marionnette.md)
 - [Robots musiciens](robots-musiciens.md)
 - [Robot paresseux](robot-paresseux.md)
