@@ -36,5 +36,8 @@ Usinotopie mars 2018
 
 ## Améliorations
 
-Doter Foot d'une entrée jack permettrait de déclencher la lecture de samples lors de la réception d'un signal trig ou gate qui pourrait être émis depuis un synthétiseur.
-La souffrance du robot pourrait être aussi induite par des soubresauts ou des tremblements qui pourrait être obtenus avec un moteur entrainant un disque dont le centre de gravité est décentré.
+- Doter Foot d'une entrée jack permettrait de déclencher la lecture de samples lors de la réception d'un signal trig ou gate qui pourrait être émis depuis un synthétiseur.
+
+- La souffrance du robot pourrait être aussi induite par des soubresauts ou des tremblements qui pourrait être obtenus avec un moteur entrainant un disque dont le centre de gravité est décentré.
+
+- Régler le problème de la sensibilité peut être en ajouttant d'autres piezzos
