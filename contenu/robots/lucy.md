@@ -25,7 +25,11 @@ Ce robot fait partie de la vie du labo, quelqu'un peut proposer de le mettre à 
 
 ## Améliorations
 
-Connecter une entrée jack pour pouvoir recevoir un signal de trig ou de gate. Cela permettrait à Lucy de danser en rythme avec la musique.
+- Connecter une entrée jack pour pouvoir recevoir un signal de trig ou de gate. Cela permettrait à Lucy de danser en rythme avec la musique.
+
+- Logiciel : reset quand on appuie longtemps sur le bouton
+
+- Logiciel : danse  en rhytme quand on envoie un trig
 
 ## Moment envisagé pour la construction
 Construction à Bessines en novembre 2018
