@@ -1,3 +1,5 @@
+**ATTENTION : Ce document est migré sur le dépôt des ateliers chatbots (https://github.com/LeonLenclos/ateliers-chatbot). Cette version du document n'est plus mise a jour et devra être supprimée.**
+
 ### propositiin du deroulement des ateliers chatbot :
 
 - presentation
