@@ -78,6 +78,7 @@ void setup()
     Serial.println(F("SD failed, or not present"));
     while (1);  // don't do anything more
   }
+  Serial.println(F("SD found"));
 
   // list files
   // printDirectory(SD.open("/"), 0);
@@ -133,7 +134,7 @@ void loop()
     // On lit l'etat du trig audio:
     trigState = digitalRead(TRIGPIN);
 
-    if (trigState == HIGH) {
+    if (trigState == HIGH && false) {
       digitalWrite(LEDPIN, HIGH);
       // Play one file, don't return until complete
       musicPlayer.playFullFile(fileName); 
@@ -149,12 +150,11 @@ void loop()
       //La distance est déduite du temps qu'a mis l'écho de l'impulsion à être reçue par le capteur
       distance= pulseIn(DIN_ECHO, HIGH) / 58.0;
        
-      /*
+
        Serial.print("distance =");
        Serial.println(distance);
        Serial.print("compteur =");
        Serial.println(compteur);
-       */
        Serial.print("objet present =");
        Serial.println(objetPresent);
       
