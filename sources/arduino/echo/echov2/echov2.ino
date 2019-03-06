@@ -21,8 +21,12 @@ const int nbDeFichiersJaime = 7;
 //nbre de fichiers Jaime et Jaimepas
 const int nbDeFichiersJaimePas = 5;
 
-// nbre de détections avant lecture
-const int compteurMax = 6;
+// nbre de détections avant de considérer qu'un objet est absent
+const int compteurMaxAbsent = 6;
+
+// nbre de détections avant de considérer qu'un objet est present
+const int compteurMaxPresent = 6;
+
 
 //distance de déclenchement en centimètres
 const int distanceSeuil = 70;
@@ -33,8 +37,7 @@ float distance;
 int nbDuFichierChoisi;
 int aleat;
 int exigence;
-int compteurAbsent = 0;
-int compteurPresent = 0;
+int compteur = 0;
 bool objetPresent = false;
 char fileName[8] = "echo1";
 
@@ -174,31 +177,31 @@ void loop()
         analogWrite(VUMETRE, calibrageVumetre-((distanceSeuil-distance)*(calibrageVumetre/distanceSeuil)));
         //analogWrite(VUMETRE, calibrageVumetre-log((distanceSeuil-distance)*(calibrageVumetre/distanceSeuil)));
         if (objetPresent == false) {
-          if (compteurPresent < compteurMax){
-            compteurPresent += 1;
+          if (compteur < compteurMaxPresent){
+            compteur += 1;
           }
           else {
             objetPresent = true;
+            compteur = 0;
             digitalWrite(LEDPIN, HIGH);
             // Play one file, don't return until complete
             musicPlayer.playFullFile(fileName);  
-            compteurPresent = 0;
             }     
           }
-        }
+      }
     
       
       if (distance >= distanceSeuil){
         //Le vumetre affiche sa valeur max
         analogWrite(VUMETRE, calibrageVumetre);
         if (objetPresent == true) {
-          if (compteurAbsent < compteurMax){
-            compteurAbsent += 1;
+          if (compteur < compteurMaxAbsent){
+            compteur += 1;
           }
           else { 
             objetPresent = false;
+            compteur = 0;
             digitalWrite(LEDPIN, LOW);
-            compteurAbsent = 0; 
             }     
           }
       delay(20);}
