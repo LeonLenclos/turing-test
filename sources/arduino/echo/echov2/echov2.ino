@@ -46,11 +46,6 @@ char fileName[8] = "echo1";
 #include <SD.h>
 
 // define the pins used
-//#define CLK 13       // SPI Clock, shared with SD card
-//#define MISO 12      // Input data, from VS1053/SD card
-//#define MOSI 11      // Output data, to VS1053/SD card
-// Connect CLK, MISO and MOSI to hardware SPI pins. 
-// See http://arduino.cc/en/Reference/SPI "Connections"
 // These are the pins used for the breakout example
 #define BREAKOUT_RESET  9      // VS1053 reset pin (output)
 #define BREAKOUT_CS     10     // VS1053 chip select pin (output)
@@ -63,11 +58,7 @@ char fileName[8] = "echo1";
 #define CARDCS 4     // Card chip select pin
 // DREQ should be an Int pin, see http://arduino.cc/en/Reference/attachInterrupt
 #define DREQ 3       // VS1053 Data request, ideally an Interrupt pin
-Adafruit_VS1053_FilePlayer musicPlayer = 
-  // create breakout-example object!
-  //Adafruit_VS1053_FilePlayer(BREAKOUT_RESET, BREAKOUT_CS, BREAKOUT_DCS, DREQ, CARDCS);
-  // create shield-example object!
-  Adafruit_VS1053_FilePlayer(SHIELD_RESET, SHIELD_CS, SHIELD_DCS, DREQ, CARDCS);
+Adafruit_VS1053_FilePlayer musicPlayer = Adafruit_VS1053_FilePlayer(SHIELD_RESET, SHIELD_CS, SHIELD_DCS, DREQ, CARDCS);
 
 
 
@@ -94,19 +85,17 @@ void setup()
   // Set volume for left, right channels. lower numbers == louder volume!
   musicPlayer.setVolume(0,0);
 
-  // Timer interrupts are not suggested, better to use DREQ interrupt!
-  //musicPlayer.useInterrupt(VS1053_FILEPLAYER_TIMER0_INT); // timer int
-
   // If DREQ is on an interrupt pin (on uno, #2 or #3) we can do background
   // audio playing
-  musicPlayer.useInterrupt(VS1053_FILEPLAYER_PIN_INT);  // DREQ int
-   // Play one file, don't return until complete
+  musicPlayer.useInterrupt(VS1053_FILEPLAYER_PIN_INT);
  
   
     pinMode(DOUT_TRIGGER, OUTPUT);
     pinMode(DIN_ECHO, INPUT);
     pinMode(TRIGPIN, INPUT);
+    
     pinMode(LEDPIN, OUTPUT);
+    //La LED clignote 2 fois à l'initialisation
     digitalWrite(LEDPIN, HIGH);
     delay(400);
     digitalWrite(LEDPIN, LOW);
@@ -122,7 +111,7 @@ void loop()
   {
     aleat = random(0,1023);
     
-    //  lecture potar (entre 0 et 1)
+    //  lecture potar (entre 0 et 1023)
     exigence = analogRead(PORTPOTENTIOMETRE);
     /*Serial.println("potar =");
     Serial.println(potar);*/
@@ -139,9 +128,9 @@ void loop()
         nbDuFichierChoisi = random(0,nbDeFichiersJaimePas);
         sprintf(fileName, "JAIMEPAS0%d.mp3", nbDuFichierChoisi);  
       }
-
     //Serial.println(nbDuFichierChoisi);
-    // lire l'etat du trig:
+    
+    // On lit l'etat du trig audio:
     trigState = digitalRead(TRIGPIN);
 
     if (trigState == HIGH) {
@@ -151,13 +140,13 @@ void loop()
       digitalWrite(LEDPIN, LOW);
     }
     else {
-
+      //On envoie une très courte impulsion d'ultrasons
       digitalWrite(DOUT_TRIGGER, LOW);
       delayMicroseconds(2);
       digitalWrite(DOUT_TRIGGER, HIGH);
       delayMicroseconds(10);
       digitalWrite(DOUT_TRIGGER, LOW);
-      
+      //La distance est déduite du temps qu'a mis l'écho de l'impulsion à être reçue par le capteur
       distance= pulseIn(DIN_ECHO, HIGH) / 58.0;
        
       /*
@@ -182,8 +171,8 @@ void loop()
           }
           else {
             objetPresent = true;
-            compteur = 0;
             digitalWrite(LEDPIN, HIGH);
+            compteur = 0;
             // Play one file, don't return until complete
             musicPlayer.playFullFile(fileName);  
             }     
