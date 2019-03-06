@@ -1,45 +1,40 @@
-// cable vert = trig du capteur port digital 2
+// cable vert = trig du capteur port GPIO 2
 const char DOUT_TRIGGER = 2;
-// cable bleu port digital 5
+// cable bleu port Digitale 5;
 const char DIN_ECHO = 5;
-// LED branché à la sortie digitale 4
-const int LEDPIN = 13;
+// LED branché à la sortie GPIO1 du shield
+const int LEDPIN = 1;
 // port potentiometre exigence: A0
 const int PORTPOTENTIOMETRE = A0;
 // port entrée jack trigger audio: 
-const int TRIGPIN = 7;
+const int TRIGPIN = 11;
 // Sortie PWM vumetre
 const int VUMETRE = 4;
 
 // A1 est en l'air car il définit la graine du générateur aléatoire
 
 //niveau max de la sortie PWM vers le vumetre, c'est la tension minimale telle que l'aiguille soit à fond. Entre 0(0V) et 255(5V)
-const int calibrageVumetre = 255;
+const int CALIBRAGE_VUMETRE = 255;
 //nbre de fichiers Jaime et Jaimepas
-const int nbDeFichiersJaime = 7;
-
-//nbre de fichiers Jaime et Jaimepas
-const int nbDeFichiersJaimePas = 5;
-
-// nbre de détections avant de considérer qu'un objet est absent
-const int compteurMaxAbsent = 6;
-
-// nbre de détections avant de considérer qu'un objet est present
-const int compteurMaxPresent = 6;
-
-
+const int NB_FICHIERS_JAIME = 7;
+const int NB_FICHIERS_JAIMEPAS = 5;
+// nbre de détections avant de considérer qu'un objet est absent ou present
+const int COMPTEUR_MAX_ABSENT = 75;
+const int COMPTEUR_MAX_PRESENT = 10;
 //distance de déclenchement en centimètres
-const int distanceSeuil = 70;
+const int DISTANCE_SEUIL = 70;
 
 
+long chrono;
 int trigState = LOW;
 float distance;
-int nbDuFichierChoisi;
+int nbDuFichierChoisi = 1;
 int aleat;
 int exigence;
 int compteur = 0;
 bool objetPresent = false;
-char fileName[8] = "echo1";
+// 14 est le nmbre de characteres max dans le nom d'un fichier
+char fileName[15] = "echo1";
 
 #include <SPI.h>
 #include <Adafruit_VS1053.h>
@@ -72,6 +67,7 @@ void setup()
      Serial.println(F("Couldn't find VS1053, do you have the right pins defined?"));
      while (1);
   }
+  
   Serial.println(F("VS1053 found"));
   
    if (!SD.begin(CARDCS)) {
@@ -79,119 +75,124 @@ void setup()
     while (1);  // don't do anything more
   }
 
-  // list files
-  // printDirectory(SD.open("/"), 0);
-  
+  Serial.println(F("SD card found"));
+
   // Set volume for left, right channels. lower numbers == louder volume!
   musicPlayer.setVolume(0,0);
 
   // If DREQ is on an interrupt pin (on uno, #2 or #3) we can do background
   // audio playing
   musicPlayer.useInterrupt(VS1053_FILEPLAYER_PIN_INT);
- 
-  
-    pinMode(DOUT_TRIGGER, OUTPUT);
+
+
+    musicPlayer.GPIO_pinMode(LEDPIN, OUTPUT);
+    musicPlayer.GPIO_pinMode(DOUT_TRIGGER, OUTPUT);
+    musicPlayer.GPIO_digitalWrite(DOUT_TRIGGER, LOW);
     pinMode(DIN_ECHO, INPUT);
-    pinMode(TRIGPIN, INPUT);
+    musicPlayer.GPIO_pinMode(TRIGPIN, INPUT);
     
-    pinMode(LEDPIN, OUTPUT);
     //La LED clignote 2 fois à l'initialisation
+    //digitalWrite(LEDPIN, LOW);
+    /*
+    delay(2000);
     digitalWrite(LEDPIN, HIGH);
-    delay(400);
+    delay(2000);
     digitalWrite(LEDPIN, LOW);
-    delay(400);
+    delay(2000);
     digitalWrite(LEDPIN, HIGH);
-    delay(400);
+    delay(2000);
     digitalWrite(LEDPIN, LOW);
+*/
+ 
+   
+    
+
   }
 
+void playSample() {
 
-  
+      // Play one file, don't return until complete
+      //digitalWrite(LEDPIN, HIGH);
+      musicPlayer.GPIO_digitalWrite(LEDPIN, LOW);
+      musicPlayer.playFullFile("JAIME00.mp3"); 
+      //digitalWrite(LEDPIN, LOW);
+}
+
+int distanceObjet() {
+      musicPlayer.GPIO_digitalWrite(DOUT_TRIGGER, LOW);
+      delayMicroseconds(2);
+      musicPlayer.GPIO_digitalWrite(DOUT_TRIGGER, HIGH);
+      delayMicroseconds(10);
+      musicPlayer.GPIO_digitalWrite(DOUT_TRIGGER, LOW);
+      return pulseIn(DIN_ECHO, HIGH) / 58.0;
+}
+
+
 void loop()
   {
+    delay(20);
     aleat = random(0,1023);
     
     //  lecture potar (entre 0 et 1023)
-    exigence = analogRead(PORTPOTENTIOMETRE);
+  //  exigence = analogRead(PORTPOTENTIOMETRE);
     /*Serial.println("potar =");
     Serial.println(potar);*/
 
  
-      
+   /*   
     if (aleat < exigence)
       {
-        nbDuFichierChoisi = random(0,nbDeFichiersJaime);
+        nbDuFichierChoisi = random(0,NB_FICHIERS_JAIME);
         sprintf(fileName, "JAIME0%d.mp3", nbDuFichierChoisi);  
       }
     else
       {
-        nbDuFichierChoisi = random(0,nbDeFichiersJaimePas);
+        nbDuFichierChoisi = random(0,NB_FICHIERS_JAIMEPAS);
         sprintf(fileName, "JAIMEPAS0%d.mp3", nbDuFichierChoisi);  
       }
     //Serial.println(nbDuFichierChoisi);
+    */
     
+   //sprintf(fileName, "JAIMEPAS0%d.mp3", nbDuFichierChoisi);
+         //Serial.println(fileName);
+   
     // On lit l'etat du trig audio:
-    trigState = digitalRead(TRIGPIN);
+   // trigState = digitalRead(TRIGPIN);
 
-    if (trigState == HIGH) {
-      digitalWrite(LEDPIN, HIGH);
-      // Play one file, don't return until complete
-      musicPlayer.playFullFile(fileName); 
-      digitalWrite(LEDPIN, LOW);
+    if (trigState == HIGH && false) {
+      playSample();
     }
     else {
       //On envoie une très courte impulsion d'ultrasons
-      digitalWrite(DOUT_TRIGGER, LOW);
-      delayMicroseconds(2);
-      digitalWrite(DOUT_TRIGGER, HIGH);
-      delayMicroseconds(10);
-      digitalWrite(DOUT_TRIGGER, LOW);
-      //La distance est déduite du temps qu'a mis l'écho de l'impulsion à être reçue par le capteur
-      distance= pulseIn(DIN_ECHO, HIGH) / 58.0;
-       
+      
+       distance = distanceObjet();
+       Serial.println(distance);
       /*
        Serial.print("distance =");
        Serial.println(distance);
        Serial.print("compteur =");
        Serial.println(compteur);
-       */
        Serial.print("objet present =");
        Serial.println(objetPresent);
-      
+      */
        
-      
-      if (distance < distanceSeuil) {
+      compteur += 1;
+      if (distance < DISTANCE_SEUIL && objetPresent == false && compteur > COMPTEUR_MAX_PRESENT) {
         //Le vumetre affiche la distance de l'objet au robot
-        analogWrite(VUMETRE, calibrageVumetre-((distanceSeuil-distance)*(calibrageVumetre/distanceSeuil)));
-        //analogWrite(VUMETRE, calibrageVumetre-log((distanceSeuil-distance)*(calibrageVumetre/distanceSeuil)));
-        if (objetPresent == false) {
-          if (compteur < compteurMaxPresent){
-            compteur += 1;
-          }
-          else {
-            objetPresent = true;
-            digitalWrite(LEDPIN, HIGH);
-            compteur = 0;
-            // Play one file, don't return until complete
-            musicPlayer.playFullFile(fileName);  
-            }     
-          }
+        //analogWrite(VUMETRE, CALIBRAGE_VUMETRE-((DISTANCE_SEUIL-distance)*(CALIBRAGE_VUMETRE/DISTANCE_SEUIL)));
+        //analogWrite(VUMETRE, CALIBRAGE_VUMETRE-log((DISTANCE_SEUIL-distance)*(CALIBRAGE_VUMETRE/DISTANCE_SEUIL)));    
+        playSample();
+        objetPresent = true;
+        compteur = 0;
       }
-    
-      
-      if (distance >= distanceSeuil){
+      else if (distance >= DISTANCE_SEUIL && objetPresent == true && compteur > COMPTEUR_MAX_ABSENT){
         //Le vumetre affiche sa valeur max
-        analogWrite(VUMETRE, calibrageVumetre);
-        if (objetPresent == true) {
-          if (compteur < compteurMaxAbsent){
-            compteur += 1;
-          }
-          else { 
+        //analogWrite(VUMETRE, CALIBRAGE_VUMETRE);
             objetPresent = false;
+            musicPlayer.GPIO_digitalWrite(LEDPIN, HIGH);
             compteur = 0;
-            digitalWrite(LEDPIN, LOW);
-            }     
-          }
-      delay(20);}
-    }
+      } 
+          
+      
+     }
   }

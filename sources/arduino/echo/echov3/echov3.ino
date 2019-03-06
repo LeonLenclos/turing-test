@@ -34,12 +34,13 @@ const int distanceSeuil = 70;
 
 int trigState = LOW;
 float distance;
-int nbDuFichierChoisi;
+int nbDuFichierChoisi = 1;
 int aleat;
 int exigence;
 int compteur = 0;
 bool objetPresent = false;
-char fileName[8] = "echo1";
+// 14 est le nmbre de characteres max dans le nom d'un fichier
+char fileName[15] = "echo1";
 
 #include <SPI.h>
 #include <Adafruit_VS1053.h>
@@ -103,21 +104,23 @@ void setup()
     digitalWrite(LEDPIN, HIGH);
     delay(400);
     digitalWrite(LEDPIN, LOW);
+        digitalWrite(LEDPIN, HIGH);
+
   }
 
 
-  
+ 
 void loop()
   {
     aleat = random(0,1023);
     
     //  lecture potar (entre 0 et 1023)
-    exigence = analogRead(PORTPOTENTIOMETRE);
+  //  exigence = analogRead(PORTPOTENTIOMETRE);
     /*Serial.println("potar =");
     Serial.println(potar);*/
 
  
-      
+   /*   
     if (aleat < exigence)
       {
         nbDuFichierChoisi = random(0,nbDeFichiersJaime);
@@ -129,14 +132,18 @@ void loop()
         sprintf(fileName, "JAIMEPAS0%d.mp3", nbDuFichierChoisi);  
       }
     //Serial.println(nbDuFichierChoisi);
-    
+    */
+   sprintf(fileName, "JAIMEPAS0%d.mp3", nbDuFichierChoisi);
+         Serial.println(fileName);
+   
     // On lit l'etat du trig audio:
-    trigState = digitalRead(TRIGPIN);
+   // trigState = digitalRead(TRIGPIN);
 
-    if (trigState == HIGH) {
+    if (trigState == HIGH && false) {
       digitalWrite(LEDPIN, HIGH);
       // Play one file, don't return until complete
       musicPlayer.playFullFile(fileName); 
+
       digitalWrite(LEDPIN, LOW);
     }
     else {
@@ -149,12 +156,12 @@ void loop()
       //La distance est déduite du temps qu'a mis l'écho de l'impulsion à être reçue par le capteur
       distance= pulseIn(DIN_ECHO, HIGH) / 58.0;
        
-      /*
+      
        Serial.print("distance =");
        Serial.println(distance);
        Serial.print("compteur =");
        Serial.println(compteur);
-       */
+       
        Serial.print("objet present =");
        Serial.println(objetPresent);
       
@@ -162,18 +169,21 @@ void loop()
       
       if (distance < distanceSeuil) {
         //Le vumetre affiche la distance de l'objet au robot
-        analogWrite(VUMETRE, calibrageVumetre-((distanceSeuil-distance)*(calibrageVumetre/distanceSeuil)));
+        //analogWrite(VUMETRE, calibrageVumetre-((distanceSeuil-distance)*(calibrageVumetre/distanceSeuil)));
         //analogWrite(VUMETRE, calibrageVumetre-log((distanceSeuil-distance)*(calibrageVumetre/distanceSeuil)));
         if (objetPresent == false) {
           if (compteur < compteurMaxPresent){
             compteur += 1;
           }
           else {
-            objetPresent = true;
+            musicPlayer.playFullFile("JAIME00.mp3");
             digitalWrite(LEDPIN, HIGH);
+ 
+            objetPresent = true;
             compteur = 0;
-            // Play one file, don't return until complete
-            musicPlayer.playFullFile(fileName);  
+            // Play one file, don't return until complete             
+ 
+            //delay(500); 
             }     
           }
       }
@@ -189,7 +199,7 @@ void loop()
           else { 
             objetPresent = false;
             compteur = 0;
-            digitalWrite(LEDPIN, LOW);
+            //digitalWrite(LEDPIN, LOW);
             }     
           }
       delay(20);}
