@@ -62,7 +62,7 @@ void setup()
   }
 
   // list files
-  // printDirectory(SD.open("/"), 0);
+//   printDirectory(SD.open("/"), 0);
   
   // Set volume for left, right channels. lower numbers == louder volume!
   musicPlayer.setVolume(0,0);
@@ -78,7 +78,7 @@ void setup()
   
     pinMode(DOUT_TRIGGER, OUTPUT);
     pinMode(DIN_ECHO, INPUT);
-    // musicPlayer.playFullFile("echo1.wav");
+    musicPlayer.playFullFile("echo1.wav");
     pinMode(3, OUTPUT);
     digitalWrite(3, HIGH);
   }
