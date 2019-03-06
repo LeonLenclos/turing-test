@@ -3,23 +3,36 @@ const char DOUT_TRIGGER = 2;
 // cable bleu port digital 5
 const char DIN_ECHO = 5;
 // LED branché à la sortie digitale 4
-const int LEDPIN = 4;
-// port potentiometre: A0
+const int LEDPIN = 13;
+// port potentiometre exigence: A0
 const int PORTPOTENTIOMETRE = A0;
+// port entrée jack trigger audio: 
+const int TRIGPIN = 7;
+// Sortie PWM vumetre
+const int VUMETRE = 4;
 
 // A1 est en l'air car il définit la graine du générateur aléatoire
 
+//niveau max de la sortie PWM vers le vumetre, c'est la tension minimale telle que l'aiguille soit à fond. Entre 0(0V) et 255(5V)
+const int calibrageVumetre = 255;
+//nbre de fichiers Jaime et Jaimepas
+const int nbDeFichiersJaime = 7;
+
+//nbre de fichiers Jaime et Jaimepas
+const int nbDeFichiersJaimePas = 5;
 
 // nbre de détections avant lecture
 const int compteurMax = 6;
-
 
 //distance de déclenchement en centimètres
 const int distanceSeuil = 70;
 
 
+int trigState = LOW;
 float distance;
 int nbDuFichierChoisi;
+int aleat;
+int exigence;
 int compteurAbsent = 0;
 int compteurPresent = 0;
 bool objetPresent = false;
@@ -89,65 +102,105 @@ void setup()
   
     pinMode(DOUT_TRIGGER, OUTPUT);
     pinMode(DIN_ECHO, INPUT);
-    // musicPlayer.playFullFile("echo1.wav");
-    pinMode(3, OUTPUT);
-    digitalWrite(3, HIGH);
+    pinMode(TRIGPIN, INPUT);
+    pinMode(LEDPIN, OUTPUT);
+    digitalWrite(LEDPIN, HIGH);
+    delay(400);
+    digitalWrite(LEDPIN, LOW);
+    delay(400);
+    digitalWrite(LEDPIN, HIGH);
+    delay(400);
+    digitalWrite(LEDPIN, LOW);
   }
 
 
   
 void loop()
-  { //  lecture potar
-    //  potar = analogRead(A0);
-    digitalWrite(DOUT_TRIGGER, LOW);
-    delayMicroseconds(2);
-    digitalWrite(DOUT_TRIGGER, HIGH);
-    delayMicroseconds(10);
-    digitalWrite(DOUT_TRIGGER, LOW);
+  {
+    aleat = random(0,1023);
     
-    distance= pulseIn(DIN_ECHO, HIGH) / 58.0;
-    /*
-     Serial.print("distance =");
-     Serial.println(distance);
-     Serial.print("compteur present =");
-     Serial.println(compteurPresent);
-     Serial.print("compteur absent =");
-     Serial.println(compteurAbsent);
-     Serial.print("objet present =");
-     Serial.println(objetPresent);
-     */
-     
-     /*Serial.println("potar =");
+    //  lecture potar (entre 0 et 1)
+    exigence = analogRead(PORTPOTENTIOMETRE);
+    /*Serial.println("potar =");
     Serial.println(potar);*/
-    
-    if (distance < distanceSeuil) {
-      if (objetPresent == false) {
-        if (compteurPresent < compteurMax){
-          compteurPresent += 1;
-        }
-        else { objetPresent = true;
-          nbDuFichierChoisi = random(1,13);
-          //Serial.println(nbDuFichierChoisi);
-          digitalWrite(LEDPIN, LOW);
-          sprintf(fileName, "ECHO%d.mp3", nbDuFichierChoisi);
-          // Play one file, don't return until complete
-          musicPlayer.playFullFile(fileName);  
-          //Serial.println(fileName);
-          compteurPresent = 0;   }     
-        }
+
+ 
+      
+    if (aleat < exigence)
+      {
+        nbDuFichierChoisi = random(0,nbDeFichiersJaime);
+        sprintf(fileName, "JAIME0%d.mp3", nbDuFichierChoisi);  
+      }
+    else
+      {
+        nbDuFichierChoisi = random(0,nbDeFichiersJaimePas);
+        sprintf(fileName, "JAIMEPAS0%d.mp3", nbDuFichierChoisi);  
+      }
+
+    //Serial.println(nbDuFichierChoisi);
+    // lire l'etat du trig:
+    trigState = digitalRead(TRIGPIN);
+
+    if (trigState == HIGH) {
+      digitalWrite(LEDPIN, HIGH);
+      // Play one file, don't return until complete
+      musicPlayer.playFullFile(fileName); 
+      digitalWrite(LEDPIN, LOW);
     }
-  
+    else {
+
+      digitalWrite(DOUT_TRIGGER, LOW);
+      delayMicroseconds(2);
+      digitalWrite(DOUT_TRIGGER, HIGH);
+      delayMicroseconds(10);
+      digitalWrite(DOUT_TRIGGER, LOW);
+      
+      distance= pulseIn(DIN_ECHO, HIGH) / 58.0;
+       
+      /*
+       Serial.print("distance =");
+       Serial.println(distance);
+       Serial.print("compteur present =");
+       Serial.println(compteurPresent);
+       Serial.print("compteur absent =");
+       Serial.println(compteurAbsent);
+       Serial.print("objet present =");
+       Serial.println(objetPresent);
+       */
+       
+      
+      if (distance < distanceSeuil) {
+        //Le vumetre affiche la distance de l'objet au robot
+        analogWrite(VUMETRE, calibrageVumetre-((distanceSeuil-distance)*(calibrageVumetre/distanceSeuil)));
+        //analogWrite(VUMETRE, calibrageVumetre-log((distanceSeuil-distance)*(calibrageVumetre/distanceSeuil)));
+        if (objetPresent == false) {
+          if (compteurPresent < compteurMax){
+            compteurPresent += 1;
+          }
+          else {
+            objetPresent = true;
+            digitalWrite(LEDPIN, HIGH);
+            // Play one file, don't return until complete
+            musicPlayer.playFullFile(fileName);  
+            compteurPresent = 0;
+            }     
+          }
+        }
     
-    if (distance >= distanceSeuil){
-      if (objetPresent == true) {
-        if (compteurAbsent < compteurMax){
-          compteurAbsent += 1;
-        }
-        else { 
-          objetPresent = false;
-          digitalWrite(LEDPIN, HIGH);
-          compteurAbsent = 0; 
-          }     
-        }
-    delay(20);}
+      
+      if (distance >= distanceSeuil){
+        //Le vumetre affiche sa valeur max
+        analogWrite(VUMETRE, calibrageVumetre);
+        if (objetPresent == true) {
+          if (compteurAbsent < compteurMax){
+            compteurAbsent += 1;
+          }
+          else { 
+            objetPresent = false;
+            digitalWrite(LEDPIN, LOW);
+            compteurAbsent = 0; 
+            }     
+          }
+      delay(20);}
+    }
   }
