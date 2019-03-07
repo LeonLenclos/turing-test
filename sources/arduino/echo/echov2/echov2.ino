@@ -18,7 +18,7 @@ const int PORTPOTENTIOMETRE = A0; // port potentiometre exigence: A0
 // A1 est en l'air car il définit la graine du générateur aléatoire
 
 
-//////////////// ADAFTUIT INIT
+//////////////// ADAFRUIT INIT
 #include <SPI.h>
 #include <Adafruit_VS1053.h>
 #include <SD.h>
