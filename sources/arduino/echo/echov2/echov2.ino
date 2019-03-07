@@ -27,7 +27,7 @@ const int PORTPOTENTIOMETRE = A0; // port potentiometre exigence: A0
 #define SHIELD_CS     7      // VS1053 chip select pin (output)
 #define SHIELD_DCS    6     // VS1053 Data/command select pin (output)
 #define CARDCS 4           // Card chip select pin
-#define DREQ -1           // Card chip select pin
+#define DREQ 3           // Card chip select pin
 // Init music player
 Adafruit_VS1053_FilePlayer musicPlayer = Adafruit_VS1053_FilePlayer(SHIELD_RESET, SHIELD_CS, SHIELD_DCS, DREQ, CARDCS);
 
@@ -105,7 +105,7 @@ void setup() {
     delay(500); allumerLED();
     delay(500); eteindreLED();
   }
-
+  
   Serial.println(F("Setup done"));
 }
 
@@ -114,36 +114,30 @@ void setup() {
 void loop()
 {
   delay(20);
-    Serial.println(digitalRead(TRIGPIN));
   //Si trig audio reçu, allumer led, jouer fichier audio puis éteindre led
+  /*
   if (digitalRead(TRIGPIN) == HIGH) {
     allumerLED();
-    Serial.print("trig !!!!");
     //playSample();
     eteindreLED();
   }
 
-  else {
-    //On envoie une très courte impulsion d'ultrasons
-
+  else {*/
     float distance = distanceObjet();
-
-
-
+    Serial.println(distance);
     // minimum entre la distance à la distance seuil et la distance seuil en cm (entre 0 et DISTANCE_SEUIL)
     int distanceAffichee = DISTANCE_SEUIL - min(distance, DISTANCE_SEUIL);
     // On normalise entre 0 et le calibrage du vumetre
-    distanceAffichee *= CALIBRAGE_VUMETRE / DISTANCE_SEUIL;
+    distanceAffichee = distanceAffichee * CALIBRAGE_VUMETRE / DISTANCE_SEUIL;
     //Le vumetre affiche la distance de l'objet au robot
     analogWrite(VUMETRE, CALIBRAGE_VUMETRE - distanceAffichee);
 
     bool objetPresentTemp = (distance < DISTANCE_SEUIL);
 
-
-
     if (objetPresentTemp && !objetPresent) {
       compteur += 1;
       if (compteur > COMPTEUR_MAX_PRESENT) {
+        allumerLED();
         playSample();
         objetPresent = true;
         compteur = 0;
@@ -160,5 +154,5 @@ void loop()
     else {
       compteur = 0;
     }
-  }
+  //}
 }
