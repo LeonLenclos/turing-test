@@ -24,7 +24,7 @@ Une simple boite en carton.
 
 ## Hypothèses de construction, description technique
 
-Comme le carton doit recevoir des chocs, il faut éviter qu'il se désagrège et que l'électronique embarquée se détériore. Nous avons donc choisis une structure alu légère. Le capteur piezo est fixé sur la structure. Au milieu de la structure est suspendu une section de tube PVC qui accueille l'arduino et les deux enceintes cablés en opposition de phase pour un meilleur rendement.
+Comme le carton doit recevoir des chocs, il faut éviter qu'il se désagrège et que l'électronique embarquée se détériore. Nous avons donc choisis une structure alu légère. Trois capteurs piezo sont fixés sur la structure (sur les vis à la base des cordellettes, chaque cordelette à le même nombre de traits que le numéro du piezzo placé à coté). Au milieu de la structure est suspendu une section de tube PVC qui accueille l'arduino et les deux enceintes cablés en opposition de phase pour un meilleur rendement.
 La sortie jack du shield donne la possibilité de brancher foot sur des enceintes autres que celles qui y sont intégrées.
 Le code arduino de foot est disponible [ici](../../sources/arduino/foot).
 
