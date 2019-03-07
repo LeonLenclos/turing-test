@@ -8,15 +8,16 @@ const long tempsDemarrage = 90000; //Temps d'attente avant démarrage (lancement
 
 //////////// PINS
 const int LEDPIN = 2;
-const int PIEZO1 = A0; 
-const int PIEZO2 = A1; 
-const int PIEZO3 = A2; 
+const int PIEZZO1 = A0; 
+const int PIEZZO2 = A1; 
+const int PIEZZO3 = A2; 
 // A3 est en l'air car il définit la graine du générateur aléatoire
 
 /////////////////// VAR
 //nmbre de characteres max dans le nom d'un fichier (ne pas dépasser 12 car le shield ne gère pas les fichiers au nom trop long)
 char fileName[8];
-int sensorReading = 0; 
+
+int amplitudeDetectee = 0; 
 
 //////////////// ADAFRUIT INIT
 #include <SPI.h>
@@ -69,32 +70,32 @@ void setup() {
   Serial.println(F("Setup done"));
 
   delay(tempsDemarrage);
-  
 }
 
+
+//////////////////// LOOP //////////////////////////////////////////////
 void loop() {
 
- 
-  sensorReading = max(analogRead(PIEZO1),analogRead(PIEZO1));
-  Serial.println(sensorReading);
- 
-
- 
+  //amplitueDetectee est le max des amplitudes detectees par les 3 piezzos
+  amplitudeDetectee = max(max(analogRead(PIEZZO1),analogRead(PIEZZO2)),analogRead(PIEZZO3));
+  char debug[50];
+  sprintf(debug, "amp=%03d piezzo1=%03d piezzo2=%03d piezzo3=%03d",amplitudeDetectee, analogRead(PIEZZO1),analogRead(PIEZZO2),analogRead(PIEZZO3));
+  Serial.println(debug);
   // if the sensor reading is greater than the threshold:
-  if (sensorReading >= seuilFaible ){
+  if (amplitudeDetectee >= seuilFaible ){
     // Serial.println("Knock!");
   
-    if (sensorReading <= seuilMedium) {
+    if (amplitudeDetectee <= seuilMedium) {
       sprintf(fileName, "SOFT%d.mp3", random(0,9)); 
     }  
-    else if ((sensorReading >= seuilMedium )&&(sensorReading<= seuilFort) ) {
+    else if ((amplitudeDetectee >= seuilMedium )&&(amplitudeDetectee<= seuilFort) ) {
       sprintf(fileName, "MEDI%d.mp3", random(0,9));  
     } 
-    else if (sensorReading >= seuilFort ) {
+    else if (amplitudeDetectee >= seuilFort ) {
       sprintf(fileName, "HARL%d.mp3", random(0,9));      
     }    
     delay(attente);
-    musicPlayer.playFullFile(fileName); 
+    musicPlayer.playFullFile(fileName);
     //Serial.println(fileName);
     delay(tempsRedeclenchement);
      
