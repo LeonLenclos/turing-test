@@ -244,13 +244,13 @@ Il y a eu une sortie de réésidence devant quelques personnes et une classe de 
      => Alan V2
 - Travail sur Daya (robot tamagochi)
 - Travail sur Turc
-- Finition Jimi
+- Travail Jimi
 - Réduire écran décors
 - Commander tulle et nouvel écran.
 - préparation quai des savoirs
 
 
-#### Objectifs secondaires
+##### Objectifs secondaires
 
 - Travail de plateau
 - écriture
@@ -262,6 +262,12 @@ Il y a eu une sortie de réésidence devant quelques personnes et une classe de 
 
 #### Résultats
 
+On a fait tout les objectifs principaux + Un peu de musique.
+
+Restitution devant des scolaires.
+
+On a du racourcir tous les potaux du décors de 10 cm pour qu'il rentre dans gerard phillipe.
+
 ----------------------------------------------------------
 
 ### Quai des savoirs Toulouse (31) du 16 au 21 novembre 2018
@@ -272,6 +278,106 @@ Il y a eu une sortie de réésidence devant quelques personnes et une classe de 
 - mise en ligne d'ALAN
 
 #### Résultats
+
+Il y avait l'IRIT, chouette moment d'échange avec eux. Réglé le pb de la mise en ligne, le bug ALSA et pas mal de soucis en parallele avec les test public.
+
+
+----------------------------------------------------------
+
+### Résidence couture aux Plasticiens volants à Graulhet (81) - les 16 et 17 fevriers 2019
+
+#### Resultats
+
+- Couture du tullle pour le décors
+- Avancée sur la structure du décors.
+
+----------------------------------------------------------
+
+### Graines de rue Bessines (87) - du 4 au 8 mars 2019
+
+#### Objectifs
+
+- Ateliers Chateauponsac
+- Bricolage sur les robots
+
+#### Résultats
+
+##### Ateliers
+
+Ateliers sur 4 jours avec le collège Louis Timbal (à Chateauponsac). Création du chatbot *Nova* avec les deux classes de 3e. Encadrantes : Emilie et Claire. Le travail va être continué jusqu'en Juin en autonomie. Atelier chatbot peut-être renouvelé par les profs sur les années prochaines (en autonomie).
+
+L'engagement et l'enthousiasme des élèves à permis de créer en 4 jours un agent conversationnel très réussi.
+
+Discussions autour de la restitution qui se fera en deux temps : Présentation des bots devant un public là l'innauguration de GDR (Battle de chatbot !) le 6 juin et possibilité pour le public de discuter avec les bots toute la journée.
+
+##### Bricolage
+
+- Premiers essais klan linkage (maquette)
+- Amélioration Echo (Logicielle et materielle)
+- Améliorations Foot (materielle)
+- Amélioration Alan (Logicielle)
+- Amélioration Lucy (Logicielle)
+
+
+voix en meme temps que texte
+life time conversation sur le serveur -> 12h
+
+
+----------------------------------------------------------
+
+## Futur :
+
+
+----------------------------------------------------------
+### Travail avant Bessines
+- Trigger :
+    - bebr => trouver un sequenceur qui peut délivrer des gates (x8)
+- Foot :
+    - bebr + fabi => Rajouter une led
+    - bebr + fabi => Debugger les piezzos
+    - Fixation alim (nouvelle alim)
+- Echo :
+    - Faire une base 
+    - Trigger
+    - Alim
+    - Audio
+    - Fixation capteur
+- Alan :
+    - Continuer de se rensegner sur les solutions TTS.
+    - Demander à Amparo de négocier avec la boite de TTS à 1000$
+    - Caisse d'Alan + rangement accessoires.
+        - Apeler chloé et demander le nom du Regisseur de l'escale qui fait les fly
+        - Lui commander le fly (fly couché)
+    - Prendre control de MVO Chatbot (entrainement)
+- Lucy :
+    - Server Osc
+- Turc :
+    - Racourcir tuyaux
+    - Problème alim
+- Matt :
+    - Creer carton-enceinte + micro dédié.
+- Otto racourcir les bras (30min)
+- Jimi :
+    - fixation mediator
+    - deporter alim
+    - Trouver une caisse de guitarre
+- Robots pas fait :
+    - Robot sucidaire : **priorité forte.**
+    - Robot caméra : **priorité forte.**
+    - Dedo : priorité moyenne.
+    - Klan : priorité moyenne.
+    - Lisa : priorité failbe.
+
+- Décors :
+    - eva => finir tissu.
+    - aimant écran.
+    - visserie lampadaire + goupille
+    - support VP
+    - carré métrologie (tester, nettoyer, sécuriser, mise en rack/caisse).
+    - Soudure cables (1/2 journée)
+
+- Imprimer dossiers !!
+- Trouver l'idée du sciècle (priorité faible)
 
 ----------------------------------------------------------
 
@@ -285,35 +391,50 @@ Il y a eu une sortie de réésidence devant quelques personnes et une classe de 
 - Mise en scène
 - travail sur le jeu
 - répétition et préparation de la restitution
-- Ateliers
+- Ateliers (6 jours sur les 15)
 
+##### Objectifs Secondaires
+
+- un peu de bricolage pendant les ateliers (repartition des taches)
 
 #### Résultats
+
+
 ----------------------------------------------------------
 
-### 104 - Paris (75) - à Caler. Soumis à commission. À confirmer.
+### 104 - Paris (75) - du 15 au 21 avril.
 
 #### Objectifs
 
+- Faire un peu de com (2h avec qq1 pour photos + film + visu officiel)
 - scène de fin
 - mise en réseau des robots
+    - Système syncro cv
 - musique et chorégraphie
 
 #### Résultats
 
 ----------------------------------------------------------
 
-### MJC Rodez (12) du 29 avril au 10 mai 2019. restitution probable le vendredi 10 mai 2019 dans l'après-midi.
+### MJC Rodez (12) du 29 avril au 3 mai 2019. restitution probable le vendredi 10 mai 2019 dans l'après-midi.
 
 #### Objectifs
 
-- Création Lumière
-- Création Son
 - Mise en scène
 - travail sur le jeu
-- répétition et préparation de la restitution
+- répétition et préparation de la restitution le Jeudi
+
+Lundi : monage
+Mardi : fillages
+Mercredi : fillages
+Jeudi : restitution
+Vendredi : retour
 
 #### Résultats
+
+----------------------------------------------------------
+
+##### Relâche !!
 
 ----------------------------------------------------------
 
@@ -321,34 +442,33 @@ Il y a eu une sortie de réésidence devant quelques personnes et une classe de 
 
 #### Objectifs
 
-- Création Lumière
-- Création Son
-- Mise en scène
-- travail sur le jeu
-- répétition et préparation de la restitution
+Première semaine : Regard exterieur avec Laurent.
+
+Deuxième semaine : Création Lumière avec Francis.
+
+Resitution le 23 à 19h.
 
 #### Résultats
 
 ----------------------------------------------------------
 
-### Graines de rue Bessines (87) - Théâtre Gérard Philipe à Bessines (87) avec Première prévue le  vendredi 7 juin 2019 à Bessines.
+### Première : Graines de rue Bessines (87) - du 27 mai au 10 juin Théâtre Gérard Philipe à Bessines (87)
+
 
 #### Objectifs
 
-- Finitions
-- Ateliers
-- Premières
+- Dernières finitions 
+- Résitution des ateliers
+- Première scolaire le 6 juin
+- Première le 7 juin
+- Première en soirée le 8 juin
+
 
 #### Résultats
 
 ----------------------------------------------------------
 
-### La Grainerie Toulouse (31) - à caler en automne 2019.
+### Première : MIMA à Mirepoix
 
-#### Objectifs
-
-- Reprise
-
-#### Résultats
-
-----------------------------------------------------------
+- Reprise la semaine
+- Premières le week-end (2, 3, 4)
