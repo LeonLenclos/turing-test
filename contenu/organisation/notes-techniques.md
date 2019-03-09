@@ -23,3 +23,24 @@ Autres signes distinctifs :
 4.  Le dernier
 
 Pour l'instant on selectionne le **2**
+
+
+Réseau
+------
+
+L'idée est d'avoir une machine pour synchroniser les autres machines. Et aussi permettre aux machines de communiquer.
+
+Voilà le schéma du réseau :
+![réseau grim][/ressources/grim-network.png]
+(source : [grim-network.dia](/ressources/grim-network.dia))
+
+La machine CORE contient donc :
+
+- Un commutateur 8 ports (switch)
+- Un générateur d'horloge 
+- Un sequenceur trig
+- Un raspberry qui dispatche du OSC sur du Trig et vice versa
+
+Par exemple
+
+![montage][/ressources/grim-network-montage.jpg]
