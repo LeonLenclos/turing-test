@@ -4,13 +4,13 @@ const int seuilMedium = 18;
 const int seuilFort = 55;
 const int attente = 100; //attente entre la détection et la lecture audio (pour éviter que le son du choc interfère avec le cri de foot)
 const int tempsRedeclenchement = 500;
-const long tempsDemarrage = 90000; //Temps d'attente avant démarrage (lancement de void loop) en millisecondes
+const long tempsDemarrage = 10; //Temps d'attente avant démarrage (lancement de void loop) en secondes
 
 //////////// PINS
 const int LEDPIN = 2;
 const int PIEZZO1 = A0; 
-const int PIEZZO2 = A1; 
-const int PIEZZO3 = A2; 
+const int PIEZZO2 = A2; 
+const int PIEZZO3 = A4; 
 // A3 est en l'air car il définit la graine du générateur aléatoire
 
 /////////////////// VAR
@@ -60,16 +60,14 @@ void setup() {
   
   // La LED clignote 2 fois à l'initialisation
   digitalWrite(LEDPIN, LOW);
-  for (int i = 0; i < 7; i++) {
+  for (int i = 0; i < tempsDemarrage; i++) {
     Serial.println(F("blink !"));
-    delay(500); digitalWrite(LEDPIN, HIGH);
     delay(500); digitalWrite(LEDPIN, LOW);
     delay(500); digitalWrite(LEDPIN, HIGH);
   }
   
   Serial.println(F("Setup done"));
 
-  delay(tempsDemarrage);
 }
 
 
@@ -77,12 +75,18 @@ void setup() {
 void loop() {
 
   //amplitueDetectee est le max des amplitudes detectees par les 3 piezzos
-  amplitudeDetectee = max(max(analogRead(PIEZZO1),analogRead(PIEZZO2)),analogRead(PIEZZO3));
+  int piezo1=analogRead(PIEZZO1);
+  int piezo2=analogRead(PIEZZO2);
+  int piezo3=analogRead(PIEZZO3);
+  amplitudeDetectee = max(max(piezo1,piezo2),piezo3);
+
+  // debug
   char debug[50];
-  sprintf(debug, "amp=%03d piezzo1=%03d piezzo2=%03d piezzo3=%03d",amplitudeDetectee, analogRead(PIEZZO1),analogRead(PIEZZO2),analogRead(PIEZZO3));
+  sprintf(debug, "amp=%04d piezzo1=%04d piezzo2=%04d piezzo3=%04d",amplitudeDetectee, piezo1,piezo2,piezo3);
   Serial.println(debug);
+  
   // if the sensor reading is greater than the threshold:
-  if (amplitudeDetectee >= seuilFaible ){
+ /* if (amplitudeDetectee >= seuilFaible ){
     // Serial.println("Knock!");
   
     if (amplitudeDetectee <= seuilMedium) {
@@ -99,7 +103,7 @@ void loop() {
     //Serial.println(fileName);
     delay(tempsRedeclenchement);
      
-  } 
+  } */
  
     delay(30);   
 }
