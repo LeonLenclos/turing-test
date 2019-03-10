@@ -1,14 +1,6 @@
 Éthique
 =======
 
-Type
-----
-
-Texte théorique
-
-Résumé
-------
-
 Rapide aperçu des questions éthiques que pose l'avènement de l'intelligence artificielle.
 
 Les valeurs de l'intelligence artificielle

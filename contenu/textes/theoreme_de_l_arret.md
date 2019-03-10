@@ -1,5 +1,5 @@
 Problème de l'arrêt
-=================
+===================
 
 Texte dit sur scène après le bug d'Alan sur le paradoxe du menteur
 

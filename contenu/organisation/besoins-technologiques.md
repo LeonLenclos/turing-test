@@ -1,14 +1,6 @@
 Besoins technologiques
 ======================
 
-Type
-----
-
-liste
-
-Résumé
-------
-
 Présentation des besoins technologiques clairement identifiés. D'autres apparaitront au fil des résidences.
 
 Alan

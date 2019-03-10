@@ -1,14 +1,6 @@
 Le laboratoire
 ==============
 
-Type
-----
-
-Note d'intention
-
-Résumé
-------
-
 Quelques intentions scénographiques.
 
 À quoi ressemble le laboratoire

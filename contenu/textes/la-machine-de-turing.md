@@ -1,12 +1,7 @@
 La machine de Turing
 ====================
 
-Type
-----
-Texte théorique
 
-Résumé
-------
 Retour sur le concept de machine de Turing, sur le contexte de son invention et sur certains liens entre informatique et mathématiques.
 
 

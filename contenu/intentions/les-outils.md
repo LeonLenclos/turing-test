@@ -1,13 +1,6 @@
 Les outils
 ==========
 
-Type
-----
-
-Note d'intention
-
-Résumé
-------
 
 Réflexion sur la nature des outils que nous utilisons pour produire des sons et des images.
 

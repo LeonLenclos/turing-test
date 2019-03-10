@@ -1,3 +1,6 @@
+Les Lacets
+==========
+
 A ce moment là au labo on avait l'ambitieux projet de construire une machine qui passe le test de Turing. En gros une machine qui serait totalement impossible à distinguer d'un humain.
 
 Bon, bien sur ça soulevait plein de questions, on s'interrogeaient par exemple sur ce que devait savoir faire notre robot. On s'est vite rendu compte que si notre robot savait faire tout ce que savent faire les humains il échouerait au test. Ba oui parce qu'aucun individu ne sait TOUT faire.

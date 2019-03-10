@@ -1,10 +1,6 @@
 # Logistique
 
-## Type
-
 Organisation de la création :  planning résidences, transports et régie, listes de matériel, achats.
-
-## Résumé
 
 Ce qu'il faut savoir pour être au bon endroit au bon moment et ne rien oublier.
 

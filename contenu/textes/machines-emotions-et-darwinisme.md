@@ -1,14 +1,6 @@
-
 Machines, émotions et darwinisme
-=========================
+================================
 
-Type
-----
-
-texte théorique 
-
-Résumé
--------
 
 Réflexions sur la nature des émotions et leur origine dans le but de répondre à la question "Les machines peuvent-elles ressentir des émotions?"
 

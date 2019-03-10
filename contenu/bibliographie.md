@@ -58,6 +58,7 @@ Articles de presse
 Sites
 -----
 
+-   [Graham Dunning, musique mécanique, usine à musique, live coding etc.](https://grahamdunning.com/)
 -   [Un site du CNRS dédié aux sciences du numérique, mathématiques et patrimoine informatique : L'ESPACE TURING](http://www.espace-turing.fr/Computer-Paper-Do-It-Yourself.html)
 -   [Le site de l'IRIT, Institut de Recherche en Informatique de Toulouse](https://www.irit.fr/)
 -   [Le site de la Cie Nokill](http://cienokill.fr/)

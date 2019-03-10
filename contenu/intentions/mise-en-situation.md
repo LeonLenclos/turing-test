@@ -2,14 +2,6 @@ Hypothèse de mise en situation
 ==============================
 
 
-## Type
-
-
-Note d'intention
-
-Résumé
-------
-
 Trois chercheurs dans un laboratoire éduquent une intelligence artificielle et font du cinéma.
 
 Le Labo

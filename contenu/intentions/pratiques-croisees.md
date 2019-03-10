@@ -1,13 +1,6 @@
 Pratiques croisées
 ==================
 
-Type
-----
-
-Note d'intention
-
-Résumé
-------
 
 *Turing Test* est une œuvre théâtrale où sont conviées plusieurs techniques et pratiques artistiques.
 

@@ -1,14 +1,6 @@
 # Esthétique
 
 
-Type
-----
-
-Note d'intention
-
-Résumé
-------
-
 Les choix esthétiques principaux.
 
 Les Robots

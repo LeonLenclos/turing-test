@@ -16,6 +16,12 @@ Les Robots
 - [Jimi](jimi.md)
 - [Turc](turc.md) (fiche à rédiger)
 - [Matt](matt.md) (fiche à rédiger)
+- [Klan](klan.md) (fiche à rédiger)
+- [Dedo](dedo.md) (fiche à rédiger)
+- [Lisa](lisa.md) (fiche à rédiger)
+
+Autres idées de robots :
+
 - [Robots marionnette](robots-marionnette.md)
 - [Robots musiciens](robots-musiciens.md)
 - [Robot paresseux](robot-paresseux.md)

@@ -1,13 +1,6 @@
 Méthode de travail
 ==================
 
-Type
-----
-
-Note d'intention
-
-Résumé
-------
 
 Comment nous écrivons.
 

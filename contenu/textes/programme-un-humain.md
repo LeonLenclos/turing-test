@@ -1,13 +1,6 @@
 Programme un humain
 ===================
 
-Type
-----
-
-expérience
-
-Résumé
--------
 
 Un jeu où un humain devient un robot.
 

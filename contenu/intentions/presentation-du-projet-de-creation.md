@@ -1,14 +1,6 @@
 Présentation du projet de création
 ==================================
 
-Type
-----
-
-Note d'intention
-
-Résumé
--------
-
 Intentions, motivations, hypothèses de recherche.
 
 Turing test

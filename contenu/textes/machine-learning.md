@@ -1,14 +1,6 @@
 Machine Learning
 ================
 
-Type
-----
-
-Texte théorique
-
-Résumé
-------
-
 Exemples d'apprentissage automatique ou comment une machine peut évoluer en s'entrainant.
 
 Trouver le chat

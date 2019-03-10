@@ -1,14 +1,6 @@
 La machine à café
 =================
 
-Type
-----
-
-Histoire
-
-Résumé
-------
-
 Souvenir de la farce qu'une machine à café m'a fait subir.
 
 La farce
