@@ -10,25 +10,26 @@ Les différentes résidences prévues et leur contenu
 
 ## Planning résidence
 
-- Auditorium de Graulhet (81) - du 2 au 5 Janvier 2018
-- Cie Nokill Graulhet (81) - du 28 fevrier au 2 mars 2018
-- IRIT Toulouse (31) - du 29 janvier au 2 février 2018
-- Usinotopie Villemur (31), du 12 au 23 mars 2018. Restitution le 23 mars à 19h
-- Été de Vaour (81), du 2 au 6 avril 2018. Restitution le 6 avril à 18h30
-- MixArt Myris Toulouse (31) du 9 au 14 avril 2018. Restitution le 14 avril à 21h30
-- IRIT Toulouse (31) - 30 avril au 7 mai 2018
-- MixArt Myris Toulouse (31) du 10 au 14 septembre 2018.
-- Théâtre des Augustins Montauban (82) - du 24 septembre au 28 septembre 2018
-- Graines de rue Bessines (87) - du 29 octobre au 10 novembre 2018
-- Quai des savoirs Toulouse (31) du 16 au 21 novembre 2018
-- Graines de rue Bessines (87) - du 1 au 14 avril 2019
-- 104 - Paris (75) - du 15 au 21 avril 2019
-- MJC Rodez (12) du 29 avril au 10 mai 2019. restitution probable le vendredi 10 mai 2019 dans l'après-midi.
-- Théâtre d'Auch (32) du 13 au 24 mai 2019. restitutions probable le vendredi 24 mai 2019 dans l'après-midi.
-- Graines de rue Bessines (87) - Théâtre Gérard Philipe à Bessines (87) avec Première prévue le  vendredi 7 juin 2019 à Bessines.
-- MIMA Mirepoix (09) , Aout 2019 - A caler
-- La Grainerie Toulouse (31) - à caler en automne 2019. Reprise.
-- Espace Bonnefoy Toulouse (31) - à caler en automne 2019. Reprise.
+- Auditorium de Graulhet (81) - du 2 au 5 Janvier 2018.
+- Cie Nokill Graulhet (81) - du 28 fevrier au 2 mars 2018.
+- IRIT Toulouse (31) - du 29 janvier au 2 février 2018.
+- Usinotopie Villemur (31) - du 12 au 23 mars 2018 - Restitution le 23 mars à 19h.
+- Été de Vaour (81) - du 2 au 6 avril 2018 - Restitution le 6 avril à 18h30.
+- MixArt Myris Toulouse (31) - du 9 au 14 avril 2018 - Restitution le 14 avril à 21h30.
+- IRIT Toulouse (31) - 30 avril au 7 mai 2018.
+- MixArt Myris Toulouse (31) - du 10 au 14 septembre 2018.
+- Théâtre des Augustins Montauban (82) - du 24 septembre au 28 septembre 2018.
+- Graines de rue Bessines (87) - du 31 octobre au 8 novembre 2018.
+- Quai des savoirs Toulouse (31) - du 16 au 21 novembre 2018.
+- Graines de rue Bessines (87) - du 4 au 8 mars 2019.
+- Graines de rue Bessines (87) - du 1 au 13 avril 2019 - Restitution le 13 avril 2019 à 18h30 ou 20h.
+- 104 - Paris (75) - du 15 au 21 avril 2019.
+- MJC Rodez (12) - du 29 avril au 10 mai 2019 - restitution jeudi 9 mai 2019.
+- Théâtre d'Auch (32) - du 13 au 24 mai 2019 - restitutions probable le jeudi 23 mai 2019 â 19h.
+- Graines de rue Bessines (87) - Théâtre Gérard Philipe à Bessines (87)- représentation le vendredi 7 et samedi 8 juin 2019.
+- MIMA Mirepoix (09) - du 25 au 31 aout 2019 - représentation le 1 et 2 aout 2019.
+- Espace Bonnefoy Toulouse (31) - du 23 au 27 septembre 2019. Reprise.
+- Théatre des Mazades Toulouse (31) - du 6 au 10 janvier 2020. Reprise.
 
 ## Programme des Résidences
 
