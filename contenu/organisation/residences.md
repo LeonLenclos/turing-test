@@ -295,18 +295,23 @@ voix en meme temps que texte
 life time conversation sur le serveur -> 12h
 
 
-----------------------------------------------------------
-
-## Futur :
 
 
-----------------------------------------------------------
+
+🔼 🔼 🔼 🔼 🔼 🔼 **Passé** 🔼 🔼 🔼 🔼 🔼 🔼
+
+
+-------------------------------------------------------------
+
+
+🔽 🔽 🔽 🔽 🔽 🔽 **Futur** 🔽 🔽 🔽 🔽 🔽 🔽
+
+
 ### Travail avant Bessines
-- Trigger :
-    - bebr => trouver un sequenceur qui peut délivrer des gates (x8)
+- Core :
+    - acheter les elements et les assembler
 - Foot :
-    - bebr + fabi => Rajouter une led
-    - bebr + fabi => Debugger les piezzos
+    -  Rajouter une led
     - Fixation alim (nouvelle alim)
 - Echo :
     - Faire une base 
@@ -316,7 +321,6 @@ life time conversation sur le serveur -> 12h
     - Fixation capteur
 - Alan :
     - Continuer de se rensegner sur les solutions TTS.
-    - Demander à Amparo de négocier avec la boite de TTS à 1000$
     - Caisse d'Alan + rangement accessoires.
         - Apeler chloé et demander le nom du Regisseur de l'escale qui fait les fly
         - Lui commander le fly (fly couché)
