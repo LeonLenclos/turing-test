@@ -55,15 +55,15 @@ Diffusion : Amparo Gallur
 
 Administration : Pascale Maison
 
-## Fabien Carbo-Gil
+## Fabien Carbo-Gil
 
 Né le 08 avril 1994, il étudie les mathématiques à l’université Paul Sabatier de Toulouse puis l’histoire et la philosophie des sciences à l’université d’Aix-Marseille. Il est ainsi amené à travers son parcours à explorer les notions de langages formels, de calcul, de machine de Turing et d’intelligence artificielle. Il mène en parallèle un travail de création musicale, explorant les possibilités de la musique assistée par ordinateur puis de la synthèse analogique.
 
-## Léon Lenclos
+## Léon Lenclos
 
 Né le 20 mai 1995 adhérent de la SACD, diplômé de l’école Nationale supérieure d’arts de Paris Cergy (promo 2017), Léon Lenclos vit à Paris et pratique le dessin, la BD, l’animation, la vidéo, il crée plusieurs conférences qu’il rassemble en 2016 dans le spectacle, Les conférences de poche. En 2017 il monte L’Envol, avec Bertrand Lenclos.
 
-## Bertrand Lenclos
+## Bertrand Lenclos
 
 Né le 13 avril 1963, sociétaire professionnel de la SACEM, Sociétaire de la SCAM, adhérent de la SACD, diplômé de l’école Nationale de Cinéma Louis Lumière (promo 1983), Bertrand Lenclos commence sa carrière en composant des thèmes musicaux et en fabriquant des effets sonores pour le cinéma et la télévision. Musicien, il participe à différentes formations en tant qu’auteur, compositeur, comédien et interprète (chant, piano, basse, cymbalum)À partir de 2001, il franchit le pas de la mise en scène, réalise et produit des documentaires liés aux voyages, à la nature, et à l’environnement, des clips pour la télévision, des captations de spectacle et des films de fiction : Mission Socrate (2009 — 28 min), Clonk (2010 — 17 min), La Chambre Blanche (2014 — 137 min).En 2017 il monte L’Envol avec Léon Lenclos et participe en tant que compositeur et comédien à Fleur, nouveau spectacle de Fred Tousch (Cie Le Nom du titre).
 
@@ -72,19 +72,19 @@ Né le 13 avril 1963, sociétaire professionnel de la SACEM, Sociétaire de la S
 
 Créée en 2016, la Cie Nokill a pour vocation la création et la diffusion de spectacles de théâtre (rue et salle), de performances et plus globalement de toutes formes d’expression artistique liées au spectacle vivant :
 
-## Les conférences de poche
+## Les conférences de poche
 
 création 2016
 auteur et interprète : Léon Lenclos
 Tout savoir sur rien du tout.
 
-## L'envol
+## L'envol
 
 création 2017
 auteurs et interprètes : Léon et Bertrand Lenclos
 Le vol humain sans artifices.
 
-# Contact
+# Contact
 
 Cie Nokill
 
@@ -104,7 +104,7 @@ Amparo Gallur
 
 cie@nokill.fr
 
-## Administration
+## Administration
 
 Pascale Maison
 
@@ -128,12 +128,12 @@ admin@nokill.fr
 - Occultation totale indispensable
 - Jauge : jusqu’à 300 places
  
-## Montage/démontage
+## Montage/démontage
 
 - 2 services de montage
 - 1 service de démontage
 
-À fournir par l'organisateur
+## À fournir par l'organisateur
 
 - 1 console d’éclairage 24 circuits, 8 PARs, 8 PCs, 2 découpes.
 - 1 système de diffusion sonore adapté à la salle, 1 Console, 3 micros électrostatiques, 3 HF lavalier, 4 DI.
