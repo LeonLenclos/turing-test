@@ -10,5 +10,5 @@ Ici, des notes d'intentions. Comment on voit les choses, comment on veux que ça
 - [Pratiques croisées](pratiques-croisees.md), Turing Test est une œuvre théâtrale où sont conviées plusieurs techniques et pratiques artistiques.
 - [Mise en situation](mise-en-situation.md), Trois chercheurs dans un laboratoire éduquent une intelligence artificielle et font du cinéma.
 - [Le laboratoire](le-laboratoire.md), Quelques intentions scénographiques.
-- [Esthétique](esthetique.md), Choix esthétiques concernant les robots du laboratoire.
+- [Esthétique](esthetique.md), Choix esthétiques concernant les robots du laboratoire.
 - [Les outils](les-outils.md), Réflexion sur la nature des outils que nous utilisons pour produire des sons et des images.
