@@ -22,6 +22,7 @@ Les Robots
 
 Autres idées de robots :
 
+- [Robots caméra](#) (fiche à rédiger)
 - [Robots marionnette](robots-marionnette.md)
 - [Robots musiciens](robots-musiciens.md)
 - [Robot paresseux](robot-paresseux.md)
