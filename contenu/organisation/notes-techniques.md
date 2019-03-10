@@ -31,7 +31,9 @@ Réseau
 L'idée est d'avoir une machine pour synchroniser les autres machines. Et aussi permettre aux machines de communiquer.
 
 Voilà le schéma du réseau :
+
 ![réseau grim](/ressources/grim-network.png)
+
 (source : [grim-network.dia](/ressources/grim-network.dia))
 
 La machine CORE contient donc :
@@ -43,4 +45,4 @@ La machine CORE contient donc :
 
 Par exemple
 
-![montage][/ressources/grim-network-montage.jpg]
+![montage](/ressources/grim-network-montage.jpg)
