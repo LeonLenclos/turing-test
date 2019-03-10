@@ -5,11 +5,11 @@ En juin 2017, à l’Usinotopie, Léon Lenclos, Fabien Carbo-Gil et Bertrand Len
 
 # De quoi ça parle ?
 
-Dans un laboratoire de recherche en intelligence machine, trois chercheurs developpent une créature artificielle capable de passer le test de Turing, une machine impossible à differencier d'un humain. Une plongée dans l'imaginaire et le quotidien de ce laboratoire foisonnant de robots en tout genre et d'objets détournés.
-
 Turing Test est un projet de création théâtrale qui traite du rapport que l’humain entretient avec les machines qu’il a créées.
 
-# Le test
+Dans un laboratoire de recherche en intelligence machine, trois chercheurs developpent une créature artificielle capable de passer le test de Turing, une machine impossible à differencier d'un humain. Une plongée dans l'imaginaire et le quotidien de ce laboratoire foisonnant de robots en tout genre et d'objets détournés.
+
+# Le test de Turing
 
 Dans son test, Turing demande à un juge qui discute avec deux interlocuteurs via un écran de déterminer lequel des deux est une machine. Bien évidemment, ni la machine ni l’humain ne sont tenus de dire la vérité au juge...
 
@@ -17,13 +17,13 @@ Dans son test, Turing demande à un juge qui discute avec deux interlocuteurs vi
 
 La scène est un laboratoire où trois chercheurs interagissent avec des intelligences artificielles. Un espace de production d’images et de sons est installé à l'exterieur du décors. C’est une grande table sur laquelle les trois comédiens manipulent des machines : tablette graphique, synthétiseurs modulaires, surfaces de contrôle, jouets sonores, ordinateurs... Le résultat prend la forme de films d’animation, produits en direct par le trio et projetés sur un écran placé derrière eux.
 
-Dans le laboratoire sont disposés différents types de robots. Les trois scientifiques échangent avec ces machines. Cela peut prendre plusieurs formes : manipulation, conversation, travail, jeu ou pratique artistique (poésie, improvisation musicale, etc.). L’ensemble de ces interactions est évalué au sens du test de Turing par le public qui sera spontanément amené à juger de l’aptitude de ces machines à imiter l’intelligence humaine.
+Dans le laboratoire, les échanges entre scientifiques et robots peuvent prendre plusieurs formes : manipulation, conversation, travail, jeu ou pratique artistique (poésie, improvisation musicale, etc.). L’ensemble de ces interactions est évalué au sens du test de Turing par le public qui sera spontanément amené à juger de l’aptitude de ces machines à imiter l’intelligence humaine.
 
 # Les robots
 
 Plusieurs formes d’intelligence artificielle sont convoquées sur scène et mises à l’épreuve par les comédiens. Loin de l’esthétique techno-futuriste de la science-fiction, les robots  portent en eux la poésie de leurs inventeurs et le travail du bricoleur qui leur a donné forme. Faits de cartons, de plastique, de bois ou de métal, alimentés par un courant électrique ou par le mouvement d’une chute d’eau, leur anthropomorphisme approximatif est le reflet de l’image que l’homme a de lui-même.
 
-Une intelligence artificiellePeut-elle avoir du goût ? Peut-elle avoir de l’empathie ? Peut-elle avoir de l’humour ? Peut-elle avoir une conscience de soi ? Peut-elle avoir un libre arbitre ? Peut-elle avoir une conscience politique ? Peut-elle avoir une personnalité ? Peut-elle avoir mal ?
+Une intelligence artificielle peut-elle avoir du goût ? Peut-elle avoir de l’empathie ? Peut-elle avoir de l’humour ? Peut-elle avoir une conscience de soi ? Peut-elle avoir un libre arbitre ? Peut-elle avoir une conscience politique ? Peut-elle avoir une personnalité ? Peut-elle avoir mal ?
 
 # L'intelligence artificielle
 
