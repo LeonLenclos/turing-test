@@ -5,8 +5,14 @@ Ces fichier sont des moyens pour nous de nous organiser. Puisque nous avons déc
 
 - [Résidences](residences.md), les différentes résidences prévues et leur contenu.
 
-- [Besoins technologiques](besoins-technologiques.md), présentation des besoins technologiques clairement identifiés. D'autres apparaitront au fil des résidences.
+- [Ateliers](ateliers.md), les ateliers chatbot (en collège).
+
+- [Partenaires](partenaires.md), liste des partenaires de la création.
+
+- [Générique](generique.md), liste des collaborateurs de la création.
+
+- [Notes techniques](notes-techniques.md), Petit bloc-note technique.
+
+- [Besoins technologiques](besoins-technologiques.md), présentation des besoins technologiques identifiés au début de la création. D'autres apparaitront au fil des résidences. (**À mettre à jour**)
 
 - [Logistique](logistique.md), organisation de la création :  planning résidences, transports et régie, listes de matériel, achats.
-
-
