@@ -3,6 +3,10 @@
 
 /* @import "{{ site.theme }}"; */
 
+.github-pages-ignore {
+	display: none;
+}
+
 body{
   font-family: monospace;
   font-size: 12pt;

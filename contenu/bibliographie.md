@@ -43,6 +43,7 @@ Vidéo
 -   [Le théorème de l'arrêt expliqué en images (en)](https://www.youtube.com/watch?v=92WHN-pAFCs)
 -   [Le cabaret méchanique](https://www.youtube.com/watch?v=kv1CpJi60xQ)
 -   [Strandbeest (Jansen)](https://www.youtube.com/watch?v=KsqlnGMzMD4)
+
 Documents, publications, articles de recherche
 ----------------------------------------------
 
