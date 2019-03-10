@@ -24,7 +24,7 @@ Les différentes résidences prévues et leur contenu
 - Graines de rue Bessines (87) - du 4 au 8 mars 2019.
 - Graines de rue Bessines (87) - du 1 au 13 avril 2019 - Restitution le 13 avril 2019 à 18h30 ou 20h.
 - 104 - Paris (75) - du 15 au 21 avril 2019.
-- MJC Rodez (12) - du 29 avril au 10 mai 2019 - restitution jeudi 9 mai 2019.
+- MJC Rodez (12) - du 29 avril au 3 mai 2019 - restitution jeudi 2 mai 2019.
 - Théâtre d'Auch (32) - du 13 au 24 mai 2019 - restitutions probable le jeudi 23 mai 2019 â 19h.
 - Graines de rue Bessines (87) - Théâtre Gérard Philipe à Bessines (87)- représentation le vendredi 7 et samedi 8 juin 2019.
 - MIMA Mirepoix (09) - du 25 au 31 aout 2019 - représentation le 1 et 2 aout 2019.
@@ -151,35 +151,6 @@ Premier temps long de travail sur Alan
 
 ----------------------------------------------------------
 
-### Mérou Palace Graulhet (81) - été 2018 à caler
-
-#### Objectifs
-
-- avancer sur la construction de robots.
-- arduinos, codage, capteurs, systèmes de sortie d'informations (LED, bras amovible, roues, moteurs etc...).
-- avancer sur la construction du décor.
-- Autres lieux possibles : Le Fablab de Rodez ou celui de Paul Sabatier ou le LAAS (labo qui est sur Paul Sab et qui est assez lié à l'IRIT).
-
-#### Résultats
-
-N'a pas eu lieu
-
-----------------------------------------------------------
-
-### Paris (75) - été 2018 à caler
-
-#### Objectifs
-
-- Amélioration du logiciel Ognon
-- Revoir l'architecture du logiciel pour en faire un outil plus puissant plus hackable mieux documenté
-- Collaboration envisagée : Simon de Orama
-
-#### Résultats
-
-N'a pas eu lieu
-
-----------------------------------------------------------
-
 ### MixArt Myris Toulouse (31) du 10 au 14 septembre 2018.
 
 #### Objectifs
@@ -236,7 +207,7 @@ Il y a eu une sortie de réésidence devant quelques personnes et une classe de 
 ----------------------------------------------------------
 
 
-### Graines de rue Bessines (87) - du 29 octobre au 10 novembre 2018
+### Graines de rue Bessines (87) - du 31 octobre au 8 novembre 2018
 
 #### Objectifs
 
@@ -382,7 +353,7 @@ life time conversation sur le serveur -> 12h
 
 ----------------------------------------------------------
 
-### Graines de rue Bessines (87) - du 1 au 14 avril 2019
+### Graines de rue Bessines (87) - du 1 au 13 avril 2019
 
 #### Objectifs
 
@@ -417,7 +388,7 @@ life time conversation sur le serveur -> 12h
 
 ----------------------------------------------------------
 
-### MJC Rodez (12) du 29 avril au 3 mai 2019. restitution probable le vendredi 10 mai 2019 dans l'après-midi.
+### MJC Rodez (12) du 29 avril au 3 mai 2019. restitution le 2 mai 2019.
 
 #### Objectifs
 
@@ -425,9 +396,9 @@ life time conversation sur le serveur -> 12h
 - travail sur le jeu
 - répétition et préparation de la restitution le Jeudi
 
-Lundi : monage
-Mardi : fillages
-Mercredi : fillages
+Lundi : montage
+Mardi : filages
+Mercredi : filages
 Jeudi : restitution
 Vendredi : retour
 
@@ -439,7 +410,7 @@ Vendredi : retour
 
 ----------------------------------------------------------
 
-### Théâtre d'Auch (32) du 13 au 24 mai 2019. restitutions probable le vendredi 24 mai 2019 dans l'après-midi.
+### Théâtre d'Auch (32) du 13 au 24 mai 2019. restitutions le 23 mai 2019.
 
 #### Objectifs
 
