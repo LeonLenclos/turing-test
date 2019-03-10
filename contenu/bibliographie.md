@@ -41,7 +41,8 @@ Vidéo
 -   [Une machine construite au 18e siècle dit "Papa" et "Maman"](https://www.youtube.com/watch?v=k_YUB_S6Gpo)
 -   [Un algorithme de tri exécuté par des danseurs folkloriques](https://www.youtube.com/watch?v=3San3uKKHgg)
 -   [Le théorème de l'arrêt expliqué en images (en)](https://www.youtube.com/watch?v=92WHN-pAFCs)
-
+-   [Le cabaret méchanique](https://www.youtube.com/watch?v=kv1CpJi60xQ)
+-   [Strandbeest (Jansen)](https://www.youtube.com/watch?v=KsqlnGMzMD4)
 Documents, publications, articles de recherche
 ----------------------------------------------
 
