@@ -14,7 +14,7 @@ Un simple écran avec un bouton au dessus : nourrir. Un personnage très pixelli
 
 ## Matériaux
 
-Un carton avec un bouton fixé sur le dessus et un écran incrusté dans un des cotés du carton. Une platine en worbla sert de support au raspberry pi situé dans le carton.
+Carton, worbla, écran, divers electronique.
 
 ## Mise en scène
 
@@ -22,14 +22,15 @@ Ce robot fait partie de la vie du labo, quelqu'un peut proposer de le mettre à 
 
 ## Description technique
 
+Lucy tourne sur un Raspberry 3B+ avec un [écran 10.1" 1024x600 HDMI LCD](https://www.kubii.fr/ecrans-afficheurs/2237-ecran-tactile-101-1024x600-hdmi-lcd-kubii-3272496011458.html). 
+
+Pour les infos sur le fonctionnment du programme consultez [le dépõt git de Lucy](https://github.com/LeonLenclos/lucy)
 
 ## Améliorations
 
-- Connecter une entrée jack pour pouvoir recevoir un signal de trig ou de gate. Cela permettrait à Lucy de danser en rythme avec la musique.
+- Mettre à jour la version de Lucy (depuis [son dépõt git](https://github.com/LeonLenclos/lucy))
 
-- Logiciel : reset quand on appuie longtemps sur le bouton
+### Facultatif
 
-- Logiciel : danse  en rhytme quand on envoie un trig
-
-## Moment envisagé pour la construction
-Construction à Bessines en novembre 2018
+- Déporter le RJ45 en facade.
+- Mettre un schuko en facade pour l'alimentation.
