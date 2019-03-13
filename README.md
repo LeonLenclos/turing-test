@@ -20,7 +20,7 @@ Sommaire
 -  [La liste des robots du laboratoire](contenu/robots)
 -  [Des notes d'intentions](contenu/intentions)
 -  [Des textes à lire, textes théoriques, petites histoires](contenu/textes)
--  [des idées de scènes](contenu/scenes)
+-  [Des idées de scènes](contenu/scenes)
 
 et aussi
 
