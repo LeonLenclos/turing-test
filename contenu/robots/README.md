@@ -14,9 +14,9 @@ Les Robots
 - [Echo](echo.md)
 - [Lucy](lucy.md)
 - [Jimi](jimi.md)
+- [Klan](klan.md)
 - [Turc](turc.md) (fiche à rédiger)
 - [Matt](matt.md) (fiche à rédiger)
-- [Klan](klan.md) (fiche à rédiger)
 - [Dedo](dedo.md) (fiche à rédiger)
 - [Lisa](lisa.md) (fiche à rédiger)
 
