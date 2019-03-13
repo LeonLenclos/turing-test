@@ -35,6 +35,9 @@ Dans notre adaptation, la rotation des pivots s'effectue grace à des rondelles 
 - Palier applique miniature ICI SKFL000 (x4)
 - tige filetée M10 (x2m)
 
+
+
+![](../../ressources/klan_shema_1.jpg)
 ### Electronique
 
 - Arduino UNO
