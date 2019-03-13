@@ -11,18 +11,30 @@ Animation répétitive du mécanisme de Klann
 
 ## Allure
 
+Klan mesure environ 1,4m de haut pour 1,2m de long et 0,8m de large.
+Sa structure ouverte et sans carter laisse apparaître l'intégralité du mécanisme.
 
 ## Matériaux 
 
-
+Parties mobiles en Aluminium.
+Motorisation et commande à définir.
 
 ## Description technique
 
+A compléter
+
 ### Hardware
 
+A compléter
 
 ### Software
 
+A compléter
+
 ## Améliorations envisagées
 
+A compléter
+
 ## Moment envisagé pour la construction et/ou les améliorations.
+
+Construction mécanisme du 15/3/2019 au 31/3/2019 à Graulhet.
