@@ -325,8 +325,6 @@ life time conversation sur le serveur -> 12h
         - Apeler chloé et demander le nom du Regisseur de l'escale qui fait les fly
         - Lui commander le fly (fly couché)
     - Prendre control de MVO Chatbot (entrainement)
-~~- Lucy :
-    - Server Osc~~
 - Turc :
     - Racourcir tuyaux
     - Problème alim
