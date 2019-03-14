@@ -7,7 +7,7 @@ Turing Test est un projet de création théâtrale qui traite du rapport que l'h
 
 *Dans un laboratoire de recherche en intelligence machine, trois chercheurs developpent une créature artificielle capable de passer le test de Turing, une machine impossible à differencier d'un humain. Une plongée dans l'imaginaire et le quotidien de ce laboratoire foisonnant de robots en tout genre et d'objets détournés.*
 
-Fabien Carbo-Gil, Bertrand Lenclos et Léon Lenclos, cie Nokill.
+Fabien Carbo-Gil, Bertrand Lenclos et Léon Lenclos, [Cie Nokill](http://cienokill.fr).
 
 ---------------------------------------------------
 
@@ -29,4 +29,4 @@ et aussi
 -  [Une bibliographie](contenu/bibliographie.md)
 -  [L'organisation de la création](contenu/organisation)
 
-L'ensemble de ces textes est placé sous [License Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Bonne lecture.
+<small>L'ensemble de ces textes est placé sous [License Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Bonne lecture.</small>
