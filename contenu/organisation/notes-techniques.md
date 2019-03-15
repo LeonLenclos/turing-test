@@ -38,7 +38,7 @@ Voilà le schéma du réseau :
 
 La machine CORE contient donc :
 
-- Un commutateur 8 ports (switch)
+- Un commutateur 8 ports (e.g. *Switch réseau Gigabit RJ45 Netgear ProSAFE GS108GE 8 ports*)
 - Un générateur d'horloge 
 - Un sequenceur trig
 - Un raspberry qui dispatche du OSC sur du Trig et vice versa
