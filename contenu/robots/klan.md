@@ -47,8 +47,62 @@ Dans notre adaptation, la rotation des pivots s'effectue grace à des rondelles 
 
 ### Software
 
-A venir
+Proposition en pseudo-code pour le programme de Klan
+```
+// constantes
+constante ECARTEMENT_DES_JAMBES
+constante LOOP_DELAY
 
+// reglages
+variable vitesse
+variable longueur_d_un_aller
+variable pause_avant_de_tourner
+variable pause_apres_avoir_tourne
+variable rayon_du_demi_tour
+variable probabilite_de_faire_une_pause
+variable duree_pause_pour_reflechir
+
+fonction freiner():
+   regler_vitesse_jambe_gauche(0)
+   regler_vitesse_jambe_droite(0)
+
+fonction faire_une_pause_pour_reflechir():
+   une chance sur probabilite_de_faire_une_pause de :
+       freiner()
+       attendre(duree_pause_pour_reflechir)
+
+fonction avancer(longueur):
+   duree_totale = longueur / vitesse
+   n = duree_totale / LOOP_DELAY
+   pour i de 0 à n :
+       attendre(LOOP_DELAY)
+       regler_vitesse_jambe_gauche(vitesse)
+       regler_vitesse_jambe_droite(vitesse)
+       faire_une_pause_pour_reflechir()
+   freiner()
+   
+fonction tourner_a_gauche(rayon):
+   longueur_demi_tour_gauche = PI * rayon
+   longueur_demi_tour_droit = PI * (rayon + ECARTEMENT_DES_JAMBES)
+   vitesse_jambe_droite = vitesse
+   vitesse_jambe_gauche = vitesse_jambe_droite * longueur_demi_tour_gauche / longueur_demi_tour_droit
+   duree_totale = longueur_demi_tour_gauche / vitesse_jambe_gauche
+   n = duree_totale / LOOP_DELAY
+   pour i de 0 à n :
+       attendre(LOOP_DELAY)
+       regler_vitesse_jambe_gauche(vitesse_jambe_gauche)
+       regler_vitesse_jambe_droite(vitesse_jambe_droite)
+   freiner()
+ 
+fonction faire_les_cent_pas :
+    boucle infini :
+        avancer(longueur_d_un_aller)
+        attendre(pause_avant_de_tourner)
+        tourner_a_gauche(rayon_du_demi_tour)
+        attendre(pause_apres_avoir_tourne)
+
+faire_les_cent_pas()
+```
 ## Améliorations envisagées
 
 A venir
