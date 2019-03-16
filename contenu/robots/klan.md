@@ -35,9 +35,13 @@ Dans notre adaptation, la rotation des pivots s'effectue grace à des rondelles 
 - Palier applique miniature ICI SKFL000 (x4)
 - tige filetée M10 (x2m)
 
+#### vélo-hacking
 
+- [pedalier (manivelles:170mm)](https://www.ultimebike.com/ville/transmission/pedaliers/pedalier-city-monoplateau-33-dents-alu-l-170-mm-carre-argent.html?gclid=CjwKCAjwvbLkBRBbEiwAChbckQsCsgaN81SR-jGQMndwdmhDWQEbAijvN5KcBueUTV1TndRFm6VdURoCpTYQAvD_BwE)
+- [axe de pedalier (122mm)](https://www.ultimebike.com/ville/transmission/boitiers-de-pedalier/axe-de-pedalier-massi-carre-122-mm.html)
 
 ![](../../ressources/klan_shema_1.jpg)
+
 ### Electronique
 
 - Arduino UNO
