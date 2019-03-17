@@ -52,7 +52,7 @@ La machine CORE contient donc :
 - Un sequenceur trig
 - Un raspberry qui dispatche du OSC sur du Trig et vice versa
 
-Par exemple
+Par exemple :
 
-![montage](/ressources/CORE V0.1.jpg)
+![Core](/ressources/CORE V0.1.jpg)
 
