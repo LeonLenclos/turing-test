@@ -54,4 +54,5 @@ La machine CORE contient donc :
 
 Par exemple
 
-![montage](/ressources/grim-network-montage.jpg)
+![montage](/ressources/CORE V0.1.jpg)
+
