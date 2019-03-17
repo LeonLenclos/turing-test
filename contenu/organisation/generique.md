@@ -9,7 +9,7 @@ Fabien Carbo-Gil, Bertrand Lenclos et Léon Lenclos
 Francis Lopez
 
 - Regards extérieur :
-Laurent Cabrol et Juliette dominati
+Laurent Cabrol et Juliette Dominati
 
 - Programmation réseau de neurones :
 Michael Vo
@@ -18,7 +18,7 @@ Michael Vo
 Eva Ricard
 
 - Chargée de diffusion :
-Amparo gallur
+Amparo Gallur
 
 - Administration :
 Pascale Maison
