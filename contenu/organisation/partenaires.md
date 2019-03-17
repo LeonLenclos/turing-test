@@ -14,6 +14,7 @@ Avec le soutien de :
 - Ville de Graulhet (81)
  
 Accueil en résidence :
+- ADDA 82 - Montauban (82)
 - IRIT - Toulouse (31)
 - Usinotopie - Villemur (31)
 - Été de Vaour (81)
