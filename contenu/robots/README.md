@@ -16,6 +16,7 @@ Les Robots
 - [Jimi](jimi.md)
 - [Klan](klan.md)
 - [Core](core.md)
+- [Robots caméra](robot-camera.md)
 - [Turc](turc.md) (fiche à rédiger)
 - [Matt](matt.md) (fiche à rédiger)
 - [Dedo](dedo.md) (fiche à rédiger)
@@ -23,7 +24,7 @@ Les Robots
 
 Autres idées de robots :
 
-- [Robots caméra](#) (fiche à rédiger)
+
 - [Robots marionnette](robots-marionnette.md)
 - [Robots musiciens](robots-musiciens.md)
 - [Robot paresseux](robot-paresseux.md)
