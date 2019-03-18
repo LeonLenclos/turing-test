@@ -49,7 +49,7 @@ Pour l'instant on selectionne le **2**
 ### Electronique
 
 1,2 G TX 1000 mW 1000mW 8CH Transmitter RX02
-![](../../ressources/s-l1600.jpg)
+![](../../ressources/emetteur-kino.jpg)
 
 ### Software
 
