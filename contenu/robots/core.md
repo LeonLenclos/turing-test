@@ -1,10 +1,10 @@
-# Core v 0.0.1
+# Core V 0.1
 
 ## Description générale
 
 Core est un robot chef d'orchestre. Il donne le tempo à toutes les autres créatures artificielles du Labo.
 
-![Core](../../ressources/CORE V0.1.jpg)
+![](../../ressources/CORE V0.1.jpg)
 
 Le cerveau de Core
 
