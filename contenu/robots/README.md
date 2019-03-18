@@ -17,6 +17,7 @@ Les Robots
 - [Klan](klan.md)
 - [Core](core.md)
 - [Robots caméra](robot-camera.md)
+- [Robot paresseux](robot-paresseux.md)
 - [Turc](turc.md) (fiche à rédiger)
 - [Matt](matt.md) (fiche à rédiger)
 - [Dedo](dedo.md) (fiche à rédiger)
@@ -27,7 +28,6 @@ Autres idées de robots :
 
 - [Robots marionnette](robots-marionnette.md)
 - [Robots musiciens](robots-musiciens.md)
-- [Robot paresseux](robot-paresseux.md)
 - [Robot Poète](robot-poete.md)
 - [Robot qui perd aux jeux](robot-qui-perd-aux-jeux.md)
 - [Robot qui fait le ménage](robot-qui-fait-le-menage.md)
