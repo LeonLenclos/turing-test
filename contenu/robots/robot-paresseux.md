@@ -3,7 +3,7 @@
 
 ## Esthétique, allure du robot
 
-Le robot paresseux, appelé aussi robot suicidaire est un carton équipé d'une hélice d'avion.Il est posé sur une étagère
+Le robot paresseux, appelé aussi robot suicidaire est un carton équipé d'une hélice d'avion. Il est posé sur une étagère
 
 ## Matériaux envisagés
 
