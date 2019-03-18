@@ -23,7 +23,7 @@ Dans le laboratoire, les échanges entre scientifiques et robots peuvent prendre
 
 ## Les robots
 
-Plusieurs formes d’intelligence artificielle sont convoquées sur scène et mises à l’épreuve par les comédiens. Loin de l’esthétique techno-futuriste de la science-fiction, les robots  portent en eux la poésie de leurs inventeurs et le travail du bricoleur qui leur a donné forme. Faits de cartons, de plastique, de bois ou de métal, alimentés par un courant électrique ou par le mouvement d’une chute d’eau, leur anthropomorphisme approximatif est le reflet de l’image que l’homme a de lui-même.
+Plusieurs formes d’intelligence artificielle sont convoquées sur scène et mises à l’épreuve par les comédiens. Loin de l’esthétique techno-futuriste de la science-fiction, les robots  portent en eux la poésie de leurs inventeurs et le travail du bricoleur qui leur a donné forme. Faits de carton, de plastique, de bois ou de métal, alimentés par un courant électrique ou par le mouvement d’une chute d’eau, leur anthropomorphisme approximatif est le reflet de l’image que l’homme a de lui-même.
 
 Une intelligence artificielle peut-elle avoir du goût ? Peut-elle avoir de l’empathie ? Peut-elle avoir de l’humour ? Peut-elle avoir une conscience de soi ? Peut-elle avoir un libre arbitre ? Peut-elle avoir une conscience politique ? Peut-elle avoir une personnalité ? Peut-elle avoir mal ?
 
@@ -39,7 +39,7 @@ L’humanité doit-elle avoir peur de l’intelligence artificielle ? Ce débat 
 
 « Le développement d’une intelligence artificielle complète peut signifier la fin de l’espèce humaine. [...] Les humains, limités par la lente évolution biologique, ne pourront suivre et seront remplacés. » Stephen Hawking
 
-« L’intelligence artificielle sera un rêve devenant réalité pour ceux qui épousent la philosophie transhumaniste de Max More: un mouvement dont l’objectif est d’améliorer la condition humaine  physiquement et intellectuellement grâce à l’applicationde moyens scientifiques et technologiques.» Jon Kofas
+« L’intelligence artificielle sera un rêve devenant réalité pour ceux qui épousent la philosophie transhumaniste de Max More: un mouvement dont l’objectif est d’améliorer la condition humaine  physiquement et intellectuellement grâce à l’application de moyens scientifiques et technologiques.» Jon Kofas
 
 ## Déduction
 
@@ -63,11 +63,11 @@ Né le 08 avril 1994, il étudie les mathématiques à l’université Paul Saba
 
 ### Léon Lenclos
 
-Né le 20 mai 1995 adhérent de la SACD, diplômé de l’école Nationale supérieure d’arts de Paris Cergy (promo 2017), Léon Lenclos vit à Paris et pratique le dessin, la BD, l’animation, la vidéo, il crée plusieurs conférences qu’il rassemble en 2016 dans le spectacle, Les conférences de poche. En 2017 il monte L’Envol, avec Bertrand Lenclos.
+Né le 20 mai 1995 adhérent de la SACD, diplômé de l’école Nationale supérieure d’arts de Paris Cergy (promo 2017), Léon Lenclos vit à Paris et pratique le dessin, la BD, l’animation, la vidéo. Il crée plusieurs conférences qu’il rassemble en 2016 dans le spectacle, Les conférences de poche. En 2017 il monte L’Envol, avec Bertrand Lenclos.
 
 ### Bertrand Lenclos
 
-Né le 13 avril 1963, sociétaire professionnel de la SACEM, Sociétaire de la SCAM, adhérent de la SACD, diplômé de l’école Nationale de Cinéma Louis Lumière (promo 1983), Bertrand Lenclos commence sa carrière en composant des thèmes musicaux et en fabriquant des effets sonores pour le cinéma et la télévision. Musicien, il participe à différentes formations en tant qu’auteur, compositeur, comédien et interprète (chant, piano, basse, cymbalum)À partir de 2001, il franchit le pas de la mise en scène, réalise et produit des documentaires liés aux voyages, à la nature, et à l’environnement, des clips pour la télévision, des captations de spectacle et des films de fiction : Mission Socrate (2009 — 28 min), Clonk (2010 — 17 min), La Chambre Blanche (2014 — 137 min).En 2017 il monte L’Envol avec Léon Lenclos et participe en tant que compositeur et comédien à Fleur, nouveau spectacle de Fred Tousch (Cie Le Nom du titre).
+Né le 13 avril 1963, sociétaire professionnel de la SACEM, Sociétaire de la SCAM, adhérent de la SACD, diplômé de l’école Nationale de Cinéma Louis Lumière (promo 1983), Bertrand Lenclos commence sa carrière en composant des thèmes musicaux et en fabriquant des effets sonores pour le cinéma et la télévision. Musicien, il participe à différentes formations en tant qu’auteur, compositeur, comédien et interprète (chant, piano, basse, cymbalum). À partir de 2001, il franchit le pas de la mise en scène, réalise et produit des documentaires liés aux voyages, à la nature, et à l’environnement, des clips pour la télévision, des captations de spectacle et des films de fiction : Mission Socrate (2009 — 28 min), Clonk (2010 — 17 min), La Chambre Blanche (2014 — 137 min).En 2017 il monte L’Envol avec Léon Lenclos et participe en tant que compositeur et comédien à Fleur, nouveau spectacle de Fred Tousch (Cie Le Nom du titre).
 
 
 ## La cie Nokill
