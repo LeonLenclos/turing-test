@@ -3,6 +3,7 @@
 ## Description générale
 
 Turc est un robot qui sait jouer au morpion, mais qui n'aime pas perdre.
+
 ![Turc-Vue d'ensemble](../../ressources/turc5.JPG)
 
 ## Allure
