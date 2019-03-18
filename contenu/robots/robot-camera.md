@@ -22,6 +22,8 @@ La caméra fixée au col de cygne délivre un signal à un émméteur HF qui tra
 - Mat téléscopique type pied de micro en alu
 - col de cygne
 
+![](../../ressources/crawler_kino.jpg)
+
 #### Note relative aux objectifs utilisables sur la caméra
 
 4 Objectifs :
@@ -47,7 +49,7 @@ Pour l'instant on selectionne le **2**
 ### Electronique
 
 1,2 G TX 1000 mW 1000mW 8CH Transmitter RX02
-![](../../s-l1600.jpg)
+![](../../ressources/s-l1600.jpg)
 
 ### Software
 
