@@ -15,6 +15,7 @@ Les Robots
 - [Lucy](lucy.md)
 - [Jimi](jimi.md)
 - [Klan](klan.md)
+- [Core](core.md)
 - [Turc](turc.md) (fiche à rédiger)
 - [Matt](matt.md) (fiche à rédiger)
 - [Dedo](dedo.md) (fiche à rédiger)
