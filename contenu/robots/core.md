@@ -24,12 +24,12 @@ Voilà le schéma du réseau :
 
 - Foot, Jimi et Echo sont des robots en arduino avec un entrée gate
 - Lucy et Alan des robots qui fonctionne en raspberry ou PC.
-- SEQ = doepfer A 157-1/2/3
-- CLK = Clock O'Pawn Shakmat Modular
+- SEQ = [doepfer A 157-1/2/3](http://www.doepfer.de/a157.htm)
+- CLK = [Clock O'Pawn Shakmat Modular](http://www.shakmatmodular.com/products/cop.html)
 - OSC SERVEUR = Raspberry Pi
 - Mod = Synthé modulaire
 - PD = pure date sur un Raspberry pour synthèse sonore
-- OGN/OGN VIEW = Sur un PC + un Raspberry, OGNON, logiciel de création d'animation en temps réel.
+- OGN/OGN VIEW = Sur un PC + un Raspberry, [OGNON](https://github.com/LeonLenclos/Ognon), logiciel de création d'animation en temps réel.
 
 ### Mécanique
 
