@@ -50,7 +50,7 @@ Pour l'instant on selectionne le **2**
 
 1,2 G TX 1000 mW 1000mW 8CH Transmitter RX02
 
-![émetteur/récepteur](../../ressources/emetteur-kino.jpg)
+![émetteur/récepteur](../../ressources/emetteur_kino.jpg)
 
 ### Software
 
