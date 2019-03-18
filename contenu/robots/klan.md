@@ -1,4 +1,4 @@
-# Klan v0.0.1
+# Klan V 0.1
 
 ## Description générale
 
