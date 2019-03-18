@@ -18,7 +18,7 @@ Les Robots
 - [Core](core.md)
 - [Robots caméra](robot-camera.md)
 - [Robot paresseux](robot-paresseux.md)
-- [Turc](turc.md) (fiche à rédiger)
+- [Turc](turc.md)
 - [Matt](matt.md) (fiche à rédiger)
 - [Dedo](dedo.md) (fiche à rédiger)
 - [Lisa](lisa.md) (fiche à rédiger)
