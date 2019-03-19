@@ -16,6 +16,8 @@ Sa structure ouverte et sans carter laisse apparaître l'intégralité du mécan
 Chaque jambe a l'apparence d'un tibia et d'un pied humain.
 L'ensemble simule une marche synchronisée d'un groupe de quatre humains faisant les 100 pas.
 
+![](../../ressources/klan_croquis.jpeg)
+
 ## Matériaux 
 
 Parties mobiles en Aluminium. Rondelle en Téflon PTFE et Visserie BTR M10 avec écrous Stop
@@ -27,6 +29,8 @@ Le mécanisme d'une jambe se compose d'un segment qui entre en contact avec le s
 
 Dans notre adaptation, la rotation des pivots s'effectue grace à des rondelles en Téflon, sauf pour les axes moteur, fixés sur des paliers appliques à la structure du corps.
 
+![](../../ressources/klan_detail_transmission.jpeg)
+
 ### Mécanique
 
 - Liste matériel
@@ -35,12 +39,13 @@ Dans notre adaptation, la rotation des pivots s'effectue grace à des rondelles 
 - Palier applique miniature ICI SKFL000 (x4)
 - tige filetée M10 (x2m)
 
+
+![](../../ressources/klan_cotes.jpeg)
+
 #### vélo-hacking
 
 - [pedalier (manivelles:170mm)](https://www.ultimebike.com/ville/transmission/pedaliers/pedalier-city-monoplateau-33-dents-alu-l-170-mm-carre-argent.html?gclid=CjwKCAjwvbLkBRBbEiwAChbckQsCsgaN81SR-jGQMndwdmhDWQEbAijvN5KcBueUTV1TndRFm6VdURoCpTYQAvD_BwE)
 - [axe de pedalier (122mm)](https://www.ultimebike.com/ville/transmission/boitiers-de-pedalier/axe-de-pedalier-massi-carre-122-mm.html)
-
-![](../../ressources/klan_shema_1.jpg)
 
 ### Electronique
 
