@@ -35,6 +35,8 @@ Dans notre adaptation, la rotation des pivots s'effectue grace à des rondelles 
 
 - Liste matériel
 - Plat Alu : 40mmx5mm (x20m)
+
+
 ![](../../ressources/liste_barre_klan.png)
 
 - visserie : BTR M10 25mmm (x100) ! écrou M10 Stop (x100)
