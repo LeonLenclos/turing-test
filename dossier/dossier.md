@@ -9,7 +9,7 @@ En juin 2017, à l’Usinotopie, Léon Lenclos, Fabien Carbo-Gil et Bertrand Len
 
 Turing Test est un projet de création théâtrale qui traite du rapport que l’humain entretient avec les machines qu’il crée.
 
-Dans un laboratoire de recherche en intelligence machine, trois chercheurs developpent une créature artificielle capable de passer le test de Turing, une machine impossible à differencier d'un humain. Une plongée dans l'imaginaire et le quotidien de ce laboratoire foisonnant de robots en tout genre et d'objets détournés.
+Dans un laboratoire de recherche en intelligence machine, trois chercheurs développent une créature artificielle capable de passer le test de Turing, une machine impossible à différencier d'un humain. Une plongée dans l'imaginaire et le quotidien de ce laboratoire foisonnant de robots en tout genre et d'objets détournés.
 
 ## Le test de Turing
 
