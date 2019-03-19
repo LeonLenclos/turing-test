@@ -9,7 +9,7 @@ En juin 2017, à l’Usinotopie, Léon Lenclos, Fabien Carbo-Gil et Bertrand Len
 
 Turing Test est un projet de création théâtrale qui traite du rapport que l’humain entretient avec les machines qu’il crée.
 
-Dans un laboratoire de recherche en intelligence machine, trois chercheurs developpent une créature artificielle capable de passer le test de Turing, une machine impossible à differencier d'un humain. Une plongée dans l'imaginaire et le quotidien de ce laboratoire foisonnant de robots en tout genre et d'objets détournés.
+Dans un laboratoire de recherche en intelligence machine, trois chercheurs développent une créature artificielle capable de passer le test de Turing, une machine impossible à différencier d'un humain. Une plongée dans l'imaginaire et le quotidien de ce laboratoire foisonnant de robots en tout genre et d'objets détournés.
 
 ## Le test de Turing
 
@@ -49,13 +49,20 @@ Je ne sais pas ce qu’est un ordinateur, je ne sais pas ce que c’est qu’un 
 
 ## L'équipe
 
-Le spectacle est écrit et interprété par : Fabien Carbo-Gil, Bertrand Lenclos et Léon Lenclos
+- Le spectacle est écrit et interprété par : 
+Fabien Carbo-Gil, Bertrand Lenclos et Léon Lenclos
 
-Technique : Francis Lopez
+- Création et régie lumière et son :
+Francis Lopez
 
-Diffusion : Amparo Gallur
+- Regards extérieur :
+Laurent Cabrol et Juliette Dominati
 
-Administration : Pascale Maison
+- Programmation réseau de neurones :
+Michael Vo
+
+- Couture :
+Eva Ricard
 
 ### Fabien Carbo-Gil
 
@@ -114,9 +121,61 @@ admin@nokill.fr
 
 ## Planning
 
-...
+- Ecriture - Auditorium de Graulhet (81) - du 2 au 5 Janvier 2018.
+- Ecriture, programmation de Alan - Cie Nokill - Graulhet (81) - du 28 fevrier au 2 mars 2018.
+- Programmation de Alan - IRIT - Toulouse (31) - du 29 janvier au 2 février 2018.
+- Construction décor et robots - Usinotopie Villemur (31) - du 12 au 23 mars 2018 - Restitution le 23 mars à 19h.
+- Travail au plateau, improvisations - Été de Vaour (81) - du 2 au 6 avril 2018 - Restitution le 6 avril à 18h30.
+- Travail au plateau, improvisations - MixArt Myris - Toulouse (31) - du 9 au 14 avril 2018 - Restitution le 14 avril à 21h30.
+- Programmation de Alan - IRIT - Toulouse (31) - 30 avril au 7 mai 2018.
+- Construction décor et robots - MixArt Myris - Toulouse (31) - du 10 au 14 septembre 2018.
+- Travail au plateau, improvisations - Théâtre des Augustins - Montauban (82) - du 24 septembre au 28 septembre 2018.
+- Construction décor et robots - Graines de rue - Bessines (87) - du 31 octobre au 8 novembre 2018.
+- Programmation de Alan - Quai des savoirs - Toulouse (31) - du 16 au 21 novembre 2018.
+- Ateliers, construction robots - Graines de rue - Bessines (87) - du 4 au 8 mars 2019.
+- Ateliers, travail au plateau - Graines de rue - Bessines (87) - du 1 au 13 avril 2019 - Restitution le 13 avril 2019 à 18h30 ou 20h.
+- Travail au plateau, règlage robots - 104 - Paris (75) - du 15 au 21 avril 2019.
+- Travail au plateau, mise en scène - MJC Rodez (12) - du 29 avril au 3 mai 2019 - restitution jeudi 2 mai 2019.
+- Travail au plateau, mise en scène, création lumière - Théâtre d'Auch (32) - du 13 au 24 mai 2019 - restitutions jeudi 23 mai 2019 â 19h.
+- Travail au plateau, mise en scène - Graines de rue - Bessines (87) - Théâtre Gérard Philipe à Bessines (87)- - représentation le vendredi 7 et samedi 8 juin 2019.
+- Travail au plateau, mise en scène - MIMA - Mirepoix (09) - du 25 au 31 aout 2019 - représentation le 1 et 2 aout 2019.
+- Reprise - Espace Bonnefoy - Toulouse (31) - du 23 au 27 septembre 2019..
+- Reprise - Théatre des Mazades - Toulouse (31) - du 6 au 10 janvier 2020.
+
+## Partenaires
+
+Production : 
+- Nokill
+
+Coproduction : 
+- Graines de rue - Bessines (87)
+- Scène Nationale d'Albi (81)
+- Quai des Savoirs - Toulouse (31)
+
+Avec le soutien de :
+- DRAC Occitanie
+- Région Occitanie
+- Ville de Graulhet (81)
+ 
+Accueil en résidence :
+- ADDA 82 - Montauban (82)
+- IRIT - Toulouse (31)
+- Usinotopie - Villemur (31)
+- Été de Vaour (81)
+- MixArt Myris - Toulouse (31)
+- Théâtre des Augustins - Montauban (82)
+- Graines de rue - Bessines (87)
+- Quai des savoir - Toulouse (31)
+- 104 - Paris (75)
+- MJC Rodez (12)
+- Théâtre d'Auch (32)
+- MIMA - Mirepoix (09)
+- Espace Bonnefoy - Toulouse (31)
+- Théâtre des Mazades - Toulouse (31)
 
 ## Spécification
+
+Attention : indications provisoires succeptibles d'évoluer en fonction de la création
 
 #### Durée
 
