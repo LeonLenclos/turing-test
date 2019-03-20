@@ -1,5 +1,5 @@
 
-# Robot qui applaudit
+# Proposition de noms : robo - soap - soup
 
 ## Esthétique, allure du robot
 
