@@ -3,7 +3,14 @@
 
 ## Esthétique, allure du robot
 
-C'est une Makita avec toute une gamme d'embouts.
+C'est une perceuse sans fil Makita avec toute une gamme d'embouts.
+
+Embouts :
+
+- Embout à tourner les carottes
+- Embout à hacher les poireaux
+- Embout à touiller
+- Embout à applaudir
 
 ## Matériaux envisagés
 
@@ -18,13 +25,6 @@ C'est une Makita avec toute une gamme d'embouts.
 Deux options pour la commande de la Makita :
 - commande mécanique de la gachette
 - Commande électronique (arduino+shield)
-
-Embouts :
-
-- Embout à tourner les carottes
-- Embout à hacher les poireaux
-- Embout à touiller
-- Embout à applaudir
 
 ## Moment envisagé pour la construction
 
