@@ -345,7 +345,6 @@ life time conversation sur le serveur -> 12h
 - Décors :
     - eva => finir tissu.
     - aimant écran.
-    - support VP
     - carré métrologie (tester, nettoyer, sécuriser, mise en rack/caisse).
     - Soudure cables (1/2 journée)
 
