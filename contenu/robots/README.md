@@ -20,7 +20,7 @@ Les Robots
 - [Robot paresseux](robot-paresseux.md)
 - [Turc](turc.md)
 - [Dedo](dedo.md)
-- [Robot légume] (robot-legume.md)
+- [Robot légume](robot-legume.md)
 - [Matt](matt.md) (fiche à rédiger)
 - [Lisa](lisa.md) (fiche à rédiger)
 
@@ -28,7 +28,6 @@ Autres idées de robots :
 
 
 - [Robots marionnette](robots-marionnette.md)
-- [Robots musiciens](robots-musiciens.md)
 - [Robot Poète](robot-poete.md)
 - [Robot qui perd aux jeux](robot-qui-perd-aux-jeux.md)
 - [Robot qui fait le ménage](robot-qui-fait-le-menage.md)
