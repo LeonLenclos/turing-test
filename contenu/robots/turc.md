@@ -37,7 +37,7 @@ Basée sur les transmissions pneumatiques
 
 ### Software
 
-- [Code Arduino de turc](../../ressources/turc2.JPG)
+- [Code Arduino de turc](../../sources/arduino/turc/turc.ino)
 
 ## Améliorations envisagées
 
@@ -49,4 +49,4 @@ Basée sur les transmissions pneumatiques
 
 améliorations du 15/3/2019 au 31/3/2019 à Graulhet.
 
-![Turc-La télécommande](../../sources/arduino/turc/turc.ino)
+![Turc-La télécommande](../../ressources/turc2.JPG)
