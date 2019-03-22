@@ -8,7 +8,7 @@ Robot muni d'un doigt, il appuye sur les touches de jouets sonores ou de synthé
 
 ![](../../ressources/Dedo_croquis.jpeg)
 
-## Comment ça marcche ?
+## Comment ça marche ?
 
 3 hypothèses de construction -
 
