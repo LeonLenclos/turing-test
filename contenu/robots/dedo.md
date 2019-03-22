@@ -5,6 +5,9 @@
 
 Robot muni d'un doigt, il appuye sur les touches de jouets sonores ou de synthétiseurs pour enfants. Il a une entrée trigger et peut être détourné pour servir à nourrir Lucy.
 
+
+![](../../ressources/Dedo_croquis.jpeg)
+
 ## Comment ça marcche ?
 
 3 hypothèses de construction -
