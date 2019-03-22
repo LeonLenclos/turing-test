@@ -19,8 +19,9 @@ Les Robots
 - [Robots caméra](robot-camera.md)
 - [Robot paresseux](robot-paresseux.md)
 - [Turc](turc.md)
+- [Dedo](dedo.md)
+- [Robot légume] (robot-legume.md)
 - [Matt](matt.md) (fiche à rédiger)
-- [Dedo](dedo.md) (fiche à rédiger)
 - [Lisa](lisa.md) (fiche à rédiger)
 
 Autres idées de robots :
