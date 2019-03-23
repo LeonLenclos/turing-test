@@ -18,6 +18,7 @@ Les Robots
 - [Core](core.md)
 - [Robots caméra](robot-camera.md)
 - [Robot paresseux](robot-paresseux.md)
+- [Robot qui fait le ménage](robot-qui-fait-le-menage.md)
 - [Turc](turc.md)
 - [Dedo](dedo.md)
 - [Robot légume](robot-legume.md)
@@ -30,7 +31,6 @@ Autres idées de robots :
 - [Robots marionnette](robots-marionnette.md)
 - [Robot Poète](robot-poete.md)
 - [Robot qui perd aux jeux](robot-qui-perd-aux-jeux.md)
-- [Robot qui fait le ménage](robot-qui-fait-le-menage.md)
 - [Robot qui applaudit](robot-qui-applaudit.md)
 - [Robot taciturne](robot-taciturne.md)
 
