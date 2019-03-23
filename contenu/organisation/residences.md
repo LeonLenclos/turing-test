@@ -399,7 +399,7 @@ life time conversation sur le serveur -> 12h
 Lundi : montage
 Mardi : filages
 Mercredi : filages
-Jeudi : restitution
+Jeudi  : filages
 Vendredi : retour
 
 #### Résultats
