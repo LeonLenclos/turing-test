@@ -486,3 +486,126 @@ Retour le 8/11 déchargement en fin d'aprem.
 - Matt
 - Lucy
 - café
+
+
+
+----------------------------------------------------------
+
+### Graines de rue - Bessines (87) - du 1 au 13 avril 2019
+
+#### Objectifs
+
+- Travail au plateau
+- Improvisations
+- nouvelles scènes
+- Mise en scène
+- travail sur le jeu
+- répétition et préparation de la restitution
+- Ateliers (6 jours sur les 15)
+
+##### Objectifs Secondaires
+
+- un peu de bricolage pendant les ateliers (repartition des taches)
+
+#### Transport
+
+- dimanche 31 mars départ Graulhet : 
+- Lundi matin 15 avril depart Paris
+
+
+
+----------------------------------------------------------
+
+### 104 - Paris (75) - du 15 au 21 avril.
+
+#### Objectifs
+
+- Faire un peu de com (2h avec qq1 pour photos + film + visu officiel)
+- scène de fin
+- mise en réseau des robots
+    - Système syncro cv
+- musique et chorégraphie
+
+#### Transport et autre
+
+
+- Lundi matin 15 avril darrivée 11h 11h30
+- garer camion parking
+- Horaire : 8H minuit
+- Contacter SPOON pour Rendez vous (Léon)
+- Retour Graulhet lundi matin 9h arrivée Graulhet : 17h
+
+----------------------------------------------------------
+
+### MJC Rodez (12) du 29 avril au 3 mai 2019. restitution le 2 mai 2019.
+
+#### Objectifs
+
+- Mise en scène
+- travail sur le jeu
+- répétition et préparation de la restitution le Jeudi
+
+Lundi : montage
+Mardi : filages
+Mercredi : filages
+Jeudi  : filages
+Vendredi : retour
+
+#### Transport et autre
+
+Arrivée à l'accueil St Joseph dimanche soir 28 avril. 19h / 20h
+Retour Vendredi 3 mai : départ 15h arrivée 18h
+
+----------------------------------------------------------
+
+##### Relâche !!
+
+----------------------------------------------------------
+
+### Théâtre d'Auch (32) du 13 au 24 mai 2019. restitutions le 23 mai 2019.
+
+#### Objectifs
+
+Première semaine : Regard exterieur avec Laurent.
+
+Deuxième semaine : Création Lumière avec Francis.
+
+Resitution le 23 à 19h.
+
+#### Transport et autre
+
+arrivée le lundi 13 mai à 10h direct au théâtre = départ Graulhet 7h30
+Bebert récupère Léon et Fab à Toulouse
+arrivée à Graulhet  vendredi 24 mai soir à 19h
+Dépose Léon à Toulouse.
+
+
+
+
+
+----------------------------------------------------------
+
+### Première : Graines de rue - Bessines (87) - du 27 mai au 10 juin Théâtre Gérard Philipe à Bessines (87)
+
+
+#### Objectifs
+
+- Dernières finitions 
+- Résitution des ateliers
+- Première scolaire le 6 juin
+- Première le 7 juin
+- Première en soirée le 8 juin
+
+
+#### Transport et autre
+
+- Voyage le lundi Matin 27 mai, arrivée 13h / Départ 9h
+
+
+----------------------------------------------------------
+
+### Première : MIMA -  Mirepoix (09)
+
+- Reprise la semaine
+- Premières le week-end (2, 3, 4)
+
