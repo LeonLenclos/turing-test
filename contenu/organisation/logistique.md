@@ -599,8 +599,9 @@ Dépose Léon à Toulouse.
 
 #### Transport et autre
 
-- Voyage le lundi Matin 27 mai, arrivée 13h / Départ 9h
-
+- Voyage le lundi Matin 27 mai, arrivée 13h / Départ 9h de Graulhet.
+- Dans l'idéal Léon et Fabien à Graulhet le 26 mai au soir.
+- Retour le lundi 10 juin :  Fabien Francis et Bebert en camion
 
 ----------------------------------------------------------
 
