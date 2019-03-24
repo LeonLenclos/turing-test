@@ -5,4 +5,4 @@ pour noter des spécifications techniques qui ne trouvent pas leur place ailleur
 
 ---
 
-[retour à l'organisation de la création](.)
+[Retour à l'organisation de la création](.)
