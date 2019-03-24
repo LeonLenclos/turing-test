@@ -113,4 +113,6 @@ Résidence au quai des savoirs du 16 au 21 novembre 2018 pour une confrontation 
 
 ![](../../ressources/alan_software.JPG)
 
-Résidence à l'IRIT, les joies de la programmation.
+Programmation pendant la résidence à l'IRIT, 
+
+[Retour à la liste des robots du laboratoire](.)
