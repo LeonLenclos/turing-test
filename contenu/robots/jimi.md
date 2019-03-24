@@ -41,3 +41,5 @@ Le code de l'arduino est disponible [ici](../../sources/arduino/jimi).
 - Finir le support permettant d'acceuillir une batterie
 
 ## Moment envisagé pour la construction et/ou les améliorations
+
+[Retour à la liste des robots du laboratoire](.)
