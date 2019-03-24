@@ -31,3 +31,5 @@ Voici quelques plans réalisés durant la conception d'Otto :
 ![](../../ressources/robot-etonne-2.jpg)
 ![](../../ressources/robot-etonne-1.jpg)
 ![](../../ressources/otto_plan.JPG)
+
+[Retour à la liste des robots du laboratoire](.)
