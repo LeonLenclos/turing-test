@@ -65,3 +65,7 @@ Le carton subit encore un coup et commence à gémir, à pousser des cris de dou
 ---
 
 Voir la fiche de foot, le robot en carton qui souffre : [Foot](../robots/foot.md)
+
+---
+
+[retour aux idées de scènes](.)
