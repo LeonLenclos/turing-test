@@ -20,3 +20,6 @@ Après réparation, il est reposé sur l'étagère.
 
 ## Moment envisagé pour la construction
 au plus vite
+
+
+[Retour à la liste des robots du laboratoire](.)
