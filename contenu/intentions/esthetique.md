@@ -48,4 +48,6 @@ Par exemple le bras du robot qui perd au jeu ressemble beaucoup à ceux du robot
 
 ![](../../ressources/croquis-main-bleu.jpg)
 
+---
+
 [Retour aux notes d'intention](.)
