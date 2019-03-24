@@ -54,3 +54,5 @@ Mon synthétiseur modulaire est un objet physique composé de modules élémenta
 ---
 
 Continuer la lecture : [**Liste des besoins technologiques**](../organisation/besoins-technologiques.md)
+
+[Retour aux notes d'intention](.)
