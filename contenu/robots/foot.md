@@ -41,3 +41,5 @@ Usinotopie mars 2018
 - La souffrance du robot pourrait être aussi induite par des soubresauts ou des tremblements qui pourrait être obtenus avec un moteur entrainant un disque dont le centre de gravité est décentré.
 
 - Régler le problème de la sensibilité peut être en ajouttant d'autres piezzos
+
+[Retour à la liste des robots du laboratoire](.)
