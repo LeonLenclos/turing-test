@@ -26,6 +26,7 @@ Amélioration possible :
    -  si tu es en train de marcher, tu t'arrêteras
    -  si tu es immobile, tu resteras immobile.
 
+
 ---
 
-Continuer la lecture : [**Éthique**](ethique.md)
+[retour à la liste des textes à lire, textes théoriques, petites histoires](.)
