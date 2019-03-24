@@ -53,3 +53,6 @@ A venir
 ## Moment envisagé pour la construction et/ou les améliorations.
 
 Du 15/3/2019 au 31/3/2019 à Graulhet puis résidence 104 du 15 au 21 avril 2019
+
+[Retour à la liste des robots du laboratoire](.)
+
