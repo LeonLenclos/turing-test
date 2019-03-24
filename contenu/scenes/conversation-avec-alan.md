@@ -46,3 +46,7 @@ L'humour d'Alan
 ---
 
 Voir la fiche d'Alan : [Alan](../robots/alan.md)
+
+---
+
+[retour aux idées de scènes](.)
