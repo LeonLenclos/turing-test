@@ -41,4 +41,4 @@ ChatBots Mythiques
 
 ---
 
-Continuer la lecture : [**Les Robots**](../robots)
+[retour à la liste des textes à lire, textes théoriques, petites histoires](.)
