@@ -56,6 +56,7 @@ Articles de presse
 -----------------
 
 -   [Article du magazine SCIENCE sur la révolution I.A.](http://www.sciencemag.org/news/2017/07/ai-revolution-science)
+-   [Article du Monde sur les bugs de l'I.A.](https://www.lemonde.fr/sciences/article/2019/02/25/les-bugs-de-l-intelligence-artificielle_5428168_1650684.html)
 
 Sites
 -----
