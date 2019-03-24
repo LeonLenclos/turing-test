@@ -18,6 +18,9 @@ Robot muni d'un doigt, il appuye sur les touches de jouets sonores ou de synthé
 
 - Version 3D : Même chose que la V 2D avec la profondeur en plus. Robot du commerce type Dobot. peut jouer une partition complexe.
 
+## Version 1D
+
+![](../../ressources/klan_ech_1.jpeg)
 
 ## Moment envisagé pour la construction
 
