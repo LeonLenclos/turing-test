@@ -17,4 +17,4 @@ Les passages où les trois scientifiques fabriquent des films d'animation en dir
 
 ---
 
-Continuer la lecture : [**Les robots**](../robots)
+[Retour aux notes d'intention](.)
