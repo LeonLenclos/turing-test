@@ -10,3 +10,8 @@ Otto...(tu es beau)
 Alan, on est incapable de s'occuper de toi, on a même pas été foutu de te ...(donner une bouche pour que tu puisses boire du bouillon)
 
 Est ce qu'on a le droit de s'appeler laboratoire d'intelligence machine alors qu'on est incapable... (de faire faire un saut périlleux arrière à une créature artificielle.)
+
+
+---
+
+[retour à la liste des textes à lire, textes théoriques, petites histoires](.)
