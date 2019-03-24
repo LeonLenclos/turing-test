@@ -29,3 +29,5 @@ Deux options pour la commande de la Makita :
 ## Moment envisagé pour la construction
 
 Hier.
+
+[Retour à la liste des robots du laboratoire](.)
