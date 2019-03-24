@@ -11,8 +11,8 @@ Ces fichier sont des moyens pour nous de nous organiser. Puisque nous avons déc
 
 - [Générique](generique.md), liste des collaborateurs de la création.
 
-- [Notes techniques](notes-techniques.md), Petit bloc-note technique.
+- [Logistique](logistique.md), organisation de la création :  planning résidences, transports et régie, listes de matériel, achats.
 
 - [Besoins technologiques](besoins-technologiques.md), présentation des besoins technologiques identifiés au début de la création. D'autres apparaitront au fil des résidences. (**À mettre à jour**)
 
-- [Logistique](logistique.md), organisation de la création :  planning résidences, transports et régie, listes de matériel, achats.
+- [Notes techniques](notes-techniques.md), Petit bloc-note technique.
