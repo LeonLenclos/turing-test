@@ -7,7 +7,7 @@ bili
 
 C'est un véhicule autonome équipé d'une pelle et d'une balayette
 
-![](../../robot_menage_croquis.jpg)
+![](../../ressources/robot_menage_croquis.jpg)
 
 ## Hypothèses de construction, description technique
 
@@ -18,10 +18,10 @@ Les trois servos sont commandés par un arduino auquel plusieurs capteurs sont c
 - module détecteur de poussière GROVE 101020012
 - module GPS
 
-![](../../Strandbeest-Walking-Animation.gif)
+![](../../ressources/Strandbeest-Walking-Animation.gif)
 
 
-![](../../Jansen_linkage_cotes.png)
+![](../../ressources/Jansen_linkage_cotes.png)
 
 
 Mécanisme de jansen : cotes
