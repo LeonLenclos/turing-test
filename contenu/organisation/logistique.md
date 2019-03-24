@@ -507,7 +507,7 @@ Retour le 8/11 déchargement en fin d'aprem.
 
 - un peu de bricolage pendant les ateliers (repartition des taches)
 
-#### Transport
+##### Transport
 
 - dimanche 31 mars : Fabien, Léon et Bertrand départ Graulhet en camion vers 14h, arrivée Bessines 19h/20h : 
 - Lundi matin 15 avril Fabien, Léon et Bertrand départ Bessines en camion vers 7h, arrivée Paris 11h.
@@ -543,7 +543,7 @@ Retour le 8/11 déchargement en fin d'aprem.
 - Raspberry + arduino
 - Caisses composants
 
-###### Divers
+##### Divers
 
 - selection cables
 - secteur + triplette
@@ -551,19 +551,19 @@ Retour le 8/11 déchargement en fin d'aprem.
 - sac 550D
 - ordi Ber x 2 + écran + tablette + alims
 
-######  Chez Fab 
+#####  Chez Fab 
 - ???
 
-###### Chez Léon
+##### Chez Léon
 - ???
 
-###### Accessoires Labo :
+##### Accessoires Labo :
 
 - enceintes Yamaha
 - livres
 - Jouets sonores
 
-###### Matériel Création sonore et visuelle
+##### Matériel Création sonore et visuelle
 
 - Console sonosax
 - 2 modulaires Ber
@@ -574,7 +574,7 @@ Retour le 8/11 déchargement en fin d'aprem.
 - Raspberry PD + clavier + ecran iiYama
 - ...
 
-###### Decor :
+##### Decor :
 
 - Jouets sonores
 - Tulles avec barres
@@ -599,7 +599,7 @@ Retour le 8/11 déchargement en fin d'aprem.
 - Kit sieste : tapis de sol + duvet + casquette = casque + lunette
 - flight métrologie
 
-###### Video
+##### Video
 - videoproj pico (alim et télécommande)
 - Valise videoproj Optpma 1 GA + grand VGA
 - videoproj Optpma 2 GA + recepteur hf
@@ -608,7 +608,7 @@ Retour le 8/11 déchargement en fin d'aprem.
 - trousse rose
 - Decimator
 
-###### Robot
+##### Robot
 - [Alan](alan.md) : avec son choucko
 - [Otto](otto.md)
 - [Matt](matt.md) : (en carton avec Otto)
