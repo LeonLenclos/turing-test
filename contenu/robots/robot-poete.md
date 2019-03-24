@@ -15,3 +15,5 @@ Il n'y a vraiment aucune contrainte pour le forme d'un robot poète, il doit jus
 
 ## Moment envisagé pour la construction
 A l'IRIT, ce n'est pas très long à coder et on peut demander l'aide de Tim Van de Cruys qui a fait des choses de cet ordre là d'après Bebert.
+
+[Retour à la liste des robots du laboratoire](.)
