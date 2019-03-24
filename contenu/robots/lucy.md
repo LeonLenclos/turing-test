@@ -34,3 +34,5 @@ Pour les infos sur le fonctionnment du programme consultez [le dépõt git de Lu
 
 - Déporter le RJ45 en facade.
 - Mettre un schuko en facade pour l'alimentation.
+
+[Retour à la liste des robots du laboratoire](.)
