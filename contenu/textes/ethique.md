@@ -38,6 +38,7 @@ De plus, certains de ces prophètes sont surmédiatisés. C'est le cas des pompi
 
 Qui pourra bénéficier de ces technologies extrêmement coûteuses et énergivores ? Ni les paysans du Sahel, ni les pêcheurs du sud du Bangladesh, ni toi, ni moi. On ne s'orienterait donc pas vers une humanité augmentée mais vers deux voire plusieurs humanités dont certaines seront très augmentées, les dominants, et d'autres de plus en plus vulnérables, la bête. L'écart entre les plus pauvres et les plus riches va-t-il grandir à la vitesse des progrès de la technologie ?
 
+
 ---
 
-Continuer la lecture : [**Machines, émotions et darwinisme**](../textes/machines-emotions-et-darwinisme.md)
+[retour à la liste des textes à lire, textes théoriques, petites histoires](.)
