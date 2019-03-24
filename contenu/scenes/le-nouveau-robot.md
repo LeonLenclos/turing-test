@@ -42,4 +42,9 @@ Le robot enlève sa tête, on découvre que c'était BERTRAND déguisé en robot
 
    FABIEN
 Ahah ! Je vous ai eu ! Tu n'as pas passé l'anti test de Turing Bertrand...
+
+
+---
+
+[retour aux idées de scènes](.)
 ```
