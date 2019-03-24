@@ -17,7 +17,7 @@ Dès que possible, lors de nos déplacements (résidences, présentations, ateli
 - *Robots et avatars*, Jean-Claude Heudin - éd. Odile Jacob
 - *Robots*, Jasia Reichardt - T&H (Prêt)
 - *Dr Slump*, Akira Toriyama - Glénat (Prêt)
-- "La France contre les robots", Georges Bernanos - Le Castor Astral
+- *La France contre les robots*, Georges Bernanos - Le Castor Astral
 
 Radio
 -----
