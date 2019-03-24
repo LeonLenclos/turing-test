@@ -509,10 +509,122 @@ Retour le 8/11 déchargement en fin d'aprem.
 
 #### Transport
 
-- dimanche 31 mars départ Graulhet : 
-- Lundi matin 15 avril depart Paris
+- dimanche 31 mars : Fabien, Léon et Bertrand départ Graulhet en camion vers 14h, arrivée Bessines 19h/20h : 
+- Lundi matin 15 avril Fabien, Léon et Bertrand départ Bessines en camion vers 7h, arrivée Paris 11h.
 
+##### couchage repas
 
+- Au centre Gérard Philipe
+- Glacière pleine
+- Sacs couchage
+- Dispositif intimité minimum (Pieds + pont + Taps)
+
+##### outillage
+
+- servante rouge avec : meuleuse, sauteuse, scie métaux, boite de mèches, pistolet à colle, decapeur
+- male 8
+- caisse electronique bleue
+- planche decoupe + reglet
+- Kit soudure
+- Cales bois
+- selection visserie
+- Materiel sécu (gants, masques, casques)
+- trousse 1ers secours
+
+##### Matériaux
+
+- selection divers matières : alu, plastazote, etc
+- aimant a coudre pour écran
+- cables audio + connecteurs
+
+##### Electronic
+
+- alim et accus 12V et 5V + chargeurs (LIPO, USB, etc)
+- Raspberry + arduino
+- Caisses composants
+
+###### Divers
+
+- selection cables
+- secteur + triplette
+- Kit diffusion
+- sac 550D
+- ordi Ber x 2 + écran + tablette + alims
+
+######  Chez Fab 
+- ???
+
+###### Chez Léon
+- ???
+
+###### Accessoires Labo :
+
+- enceintes Yamaha
+- livres
+- Jouets sonores
+
+###### Matériel Création sonore et visuelle
+
+- Console sonosax
+- 2 modulaires Ber
+- Cintik
+- Think pad Léon
+- Raspberry ognon
+- MS 20 + SQ1
+- Raspberry PD + clavier + ecran iiYama
+- ...
+
+###### Decor :
+
+- Jouets sonores
+- Tulles avec barres
+- déport lampadaires + néon + tubes fluos
+- écrans
+- 4 plateaux tables
+- 12 barres longues
+- 8 barres courtes
+- 8 cremailleres
+- 16 montants
+- 9 barres 3m
+- crochets
+- barres porte et ecran
+- porte
+- frigo
+- paperboard + recharge
+- 6 planches plastiques
+- Cartons standards + renfoncé + scotch marron
+- carton acessoires (tokai)
+- etiqueteuse 
+- persos assis
+- Kit sieste : tapis de sol + duvet + casquette = casque + lunette
+- flight métrologie
+
+###### Video
+- videoproj pico (alim et télécommande)
+- Valise videoproj Optpma 1 GA + grand VGA
+- videoproj Optpma 2 GA + recepteur hf
+- manfrotto x 2
+- Selection cables video
+- trousse rose
+- Decimator
+
+###### Robot
+- [Alan](alan.md) : avec son choucko
+- [Otto](otto.md)
+- [Matt](matt.md) : (en carton avec Otto)
+- [Foot](foot.md) : (en carton)
+- [Echo](echo.md) : (en caisse bois)
+- [Lucy](lucy.md) : (en carton)
+- [Jimi](jimi.md) : (en valise souple)
+- [Klan](klan.md) : en pièces détaché ?
+- [Core](core.md) (en flight case)
+- [Robots caméra](robot-camera.md) : (en carton)
+- [Robot paresseux](robot-paresseux.md) : (en carton)
+- [Robot qui fait le ménage](robot-qui-fait-le-menage.md) : (en carton)
+- [Turc](turc.md) : en flight case
+- [Dedo](dedo.md) : (en carton)
+- [Robot légume](robot-legume.md) : (en carton)
+- [Café](cafe.md) (fiche à rédiger) : (en carton)
 
 ----------------------------------------------------------
 
@@ -529,11 +641,11 @@ Retour le 8/11 déchargement en fin d'aprem.
 #### Transport et autre
 
 
-- Lundi matin 15 avril darrivée 11h 11h30
+- Lundi matin 15 avril arrivée 11h 11h30
 - garer camion parking
-- Horaire : 8H minuit
+- Horaire : 8H / minuit
 - Contacter SPOON pour Rendez vous (Léon)
-- Retour Graulhet lundi matin 9h arrivée Graulhet : 17h
+- Retour Graulhet lundi 22 avril matin. Départ : 9h arrivée Graulhet : 17h
 
 ----------------------------------------------------------
 
@@ -554,7 +666,7 @@ Vendredi : retour
 #### Transport et autre
 
 Arrivée à l'accueil St Joseph dimanche soir 28 avril. 19h / 20h
-Retour Vendredi 3 mai : départ 15h arrivée 18h
+Retour Vendredi 3 mai : départ 15h arrivée Graulhet 18h
 
 ----------------------------------------------------------
 
