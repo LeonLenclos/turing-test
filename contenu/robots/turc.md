@@ -50,3 +50,5 @@ Basée sur les transmissions pneumatiques
 améliorations du 15/3/2019 au 31/3/2019 à Graulhet.
 
 ![Turc-La télécommande](../../ressources/turc2.JPG)
+
+[Retour à la liste des robots du laboratoire](.)
