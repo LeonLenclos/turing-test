@@ -29,3 +29,5 @@ Intentions de lumière
 
 ![](../../ressources/photodecorsmyrys1.jpg)
 ![](../../ressources/photodecorsmyrys2.jpg)
+
+[Retour aux notes d'intention](.)
