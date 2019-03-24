@@ -37,4 +37,6 @@ Ces textes constituent l'écriture du spectacle. Ce ne sont pas les éléments d
 
 ---
 
-Continuer la lecture : [**Présentation du projet de création**](presentation-du-projet-de-creation.md)
+[Retour aux notes d'intention](.)
+
+
