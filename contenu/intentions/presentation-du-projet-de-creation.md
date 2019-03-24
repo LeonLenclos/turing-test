@@ -18,4 +18,4 @@ Personne  ne peut répondre à ces questions et prédire dans quelle mesure et d
 
  ---
 
-Continuer la lecture : [**Pratiques croisées**](pratiques-croisees.md)
+[Retour aux notes d'intention](.)
