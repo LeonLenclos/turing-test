@@ -25,4 +25,6 @@ Cette proposition théâtrale où la magie s'exprime sous toutes ses formes, des
 
 ![](../../ressources/dessin0.png)
 
+---
+
 [Retour aux notes d'intention](.)
