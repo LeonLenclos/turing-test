@@ -65,3 +65,8 @@ La partie de dames
 Un comédien joue aux dames avec un robot joueur de dames. Le robot n'est pas très au point et fait un peu n'importe quoi sur le plateau. Au début il se contente de faire des coups stratégiquement mauvais, mais très vite il se met à bouger les pièces de son adversaire. Le comédien reste calme et compréhensif, il essaye de jouer quand même. À la fin le robot fait violemment tomber le plateau. Le comédien quitte la table sans faire de commentaires.
 
 Voir la fiche du robot qui perd aux jeux : [Le robot qui perd aux jeux](../robots/robot-qui-perd-aux-jeux.md)
+
+
+---
+
+[retour aux idées de scènes](.)
