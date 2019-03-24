@@ -14,3 +14,5 @@ Le mouvement de balayette est un linkage de Jansen
 ## Moment envisagé pour la construction
 
 ?
+
+[Retour à la liste des robots du laboratoire](/../robots.md)
