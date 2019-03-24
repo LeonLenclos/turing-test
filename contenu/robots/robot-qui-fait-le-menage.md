@@ -21,7 +21,7 @@ Les trois servos sont commandés par un arduino auquel plusieurs capteurs sont c
 ![](../../ressources/Strandbeest-Walking-Animation.gif)
 
 
-![](../../ressources/Jansen_linkage_cotes.png)
+![](../../ressources/Jansen_linkage_cotes_400.png)
 
 
 Mécanisme de jansen : cotes
