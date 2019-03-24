@@ -47,3 +47,5 @@ Tous les robots électriques ont ce point commun d'être branchés par en haut. 
 Par exemple le bras du robot qui perd au jeu ressemble beaucoup à ceux du robot étonné.
 
 ![](../../ressources/croquis-main-bleu.jpg)
+
+[Retour aux notes d'intention](.)
