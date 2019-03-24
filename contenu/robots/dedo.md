@@ -22,3 +22,5 @@ Robot muni d'un doigt, il appuye sur les touches de jouets sonores ou de synthé
 ## Moment envisagé pour la construction
 
 Quelle version ?
+
+[Retour à la liste des robots du laboratoire](.)
