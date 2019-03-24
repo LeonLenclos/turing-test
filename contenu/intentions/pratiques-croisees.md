@@ -25,9 +25,4 @@ Cette proposition théâtrale où la magie s'exprime sous toutes ses formes, des
 
 ![](../../ressources/dessin0.png)
 
-<div class='print-ignore'>
-
----
-
-Continuer la lecture : [**Mise en situation**](mise-en-situation.md)
-</div>
+[Retour aux notes d'intention](.)
