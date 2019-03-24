@@ -65,3 +65,5 @@ A venir
 ## Moment envisagé pour la construction et/ou les améliorations.
 
 Du 15/3/2019 au 31/3/2019 à Graulhet
+
+[Retour à la liste des robots du laboratoire](.)
