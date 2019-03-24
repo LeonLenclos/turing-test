@@ -15,4 +15,4 @@ Le mouvement de balayette est un linkage de Jansen
 
 ?
 
-[Retour à la liste des robots du laboratoire](/robots.md/)
+[Retour à la liste des robots du laboratoire](..)
