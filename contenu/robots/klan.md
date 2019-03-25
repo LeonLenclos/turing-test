@@ -39,6 +39,8 @@ Dans notre adaptation, la rotation des pivots s'effectue grace à des rondelles 
 
 ![](../../ressources/liste_barre_klan.png)
 
+![](../../ressources/barres_klan.jpg)
+
 - visserie : BTR M10 25mmm (x100) ! écrou M10 Stop (x100)
 - Palier applique miniature ICI SKFL000 (x4)
 - tige filetée M10 (x2m)
