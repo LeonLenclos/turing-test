@@ -14,7 +14,7 @@ Il faut éviter l'esthétique rétro-futuriste qui vient d'abord en tête quand 
 
 Ces robots sont tellement des robots que ce n'est pas la peine qu'en plus de ça ils ressemblent à des robots.
 
-### L'apparence des robot est le reflet d'une obsession des chercheurs
+### L'apparence des robots est le reflet d'une obsession des chercheurs
 
 Ce n'est pas évoqué clairement pendant le spectacle mais quand on regarde les robots, il apparait évident que les chercheurs sont obsédés par telle chose.
 
@@ -28,7 +28,7 @@ Les robots de turing test pourraient par exemple avoir tous un long nez.
 
 ### Les robots et les chercheurs ont tous un élément en commun
 
-Dans l'idée de se convaincre qu'ils sont leur égal, les chercheurs ont décidés que vu qu'ils portaient tous une blouse, il n'y avait pas de raison pour que les robots n'en portent pas une aussi.
+Dans l'idée de se convaincre qu'ils sont leur égal, les chercheurs ont décidé que vu qu'ils portaient tous une blouse, il n'y avait pas de raison pour que les robots n'en portent pas une aussi.
 
 Cette idée peut porter sur autre chose que la blouse. Des lunettes ? Une casquette ?
 
