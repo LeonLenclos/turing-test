@@ -6,7 +6,7 @@ Robot-caméra filme les évènements du labo et projette les images sur l'écran
 
 Proposition de nom : Kino, Ciné, Iris, Zoom, Caro*
 
-(<small>* Elio n'arrête pas de me parler d'une chef op qu'il a rencontré à l'école : [Caroline Charpentier](https://fr.wikipedia.org/wiki/Caroline_Champetier)</small>)
+(<small>* Elio n'arrête pas de me parler d'une chef op qu'il a rencontré à l'école : [Caroline Champetier](https://fr.wikipedia.org/wiki/Caroline_Champetier)</small>)
 
 ## Allure
 
