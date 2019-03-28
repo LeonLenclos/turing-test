@@ -1,11 +1,9 @@
 
-## Proposition de noms : 
 
-bili
 
 ## Esthétique, allure du robot
 
-C'est un véhicule autonome équipé d'une pelle et d'une balayette
+Toto est un véhicule autonome équipé d'une pelle et d'une balayette
 
 ![](../../ressources/robot_menage_croquis.jpg)
 
