@@ -21,7 +21,7 @@ L'ensemble simule une marche synchronisée d'un groupe de quatre humains faisant
 ## Matériaux 
 
 Parties mobiles en Aluminium. Rondelle en Téflon PTFE et Visserie BTR M10 avec écrous Stop
-Motorisation et commande à définir.
+Motorisation CC, transmission vélo-hacking et commande par arduino + schield moteur.
 
 ## Description technique
 
@@ -31,27 +31,47 @@ Dans notre adaptation, la rotation des pivots s'effectue grace à des rondelles 
 
 ![](../../ressources/klan_detail_transmission.jpeg)
 
+## Liste matériel
+
 ### Mécanique
 
-- Liste matériel
-- Plat Alu : 40mmx5mm (x20m)
+##### Bielles
 
+- Plat Alu : 40mmx5mm (x20m)
 
 ![](../../ressources/liste_barre_klan.png)
 
 ![](../../ressources/barres_klan.jpg)
 
-- visserie : BTR M10 25mmm (x100) ! écrou M10 Stop (x100)
-- Palier applique miniature ICI SKFL000 (x4)
-- tige filetée M10 (x2m)
-
-
 ![](../../ressources/klan_cotes.jpeg)
 
-#### vélo-hacking
+##### Structure
+
+4 plaque alu ep 5mm selon dessin (aquabrasion)
+
+##### Visserie
+
+- Boulon M10 40mmm (x26)
+- écrou M10 Stop (x100)
+- rondelle teflon 10/25 (x112)
+- tige filetée M10 (x4m)
+
+##### vélo-hacking / transmission
+
+- 2 manivelles avec plateaux 32 dents
+- 2 boitier + axe pedalier
+- 2 plateaux 44 dents
+- 2 tendeurs de chaines
+- pièce à créer : raccord axe moteur 8mm + plateau 44 dents
+- Chaines
+- 2 entretoises 68mm
 
 - [pedalier (manivelles:170mm)](https://www.ultimebike.com/ville/transmission/pedaliers/pedalier-city-monoplateau-33-dents-alu-l-170-mm-carre-argent.html?gclid=CjwKCAjwvbLkBRBbEiwAChbckQsCsgaN81SR-jGQMndwdmhDWQEbAijvN5KcBueUTV1TndRFm6VdURoCpTYQAvD_BwE)
-- [axe de pedalier (122mm)](https://www.ultimebike.com/ville/transmission/boitiers-de-pedalier/axe-de-pedalier-massi-carre-122-mm.html)
+
+##### Pièce à créer : raccord axe moteur 8mm + plateau 44 dents
+
+![](../../ressources/klan_accord_moteur_plateau.jpeg)
+
 
 ### Electronique
 
