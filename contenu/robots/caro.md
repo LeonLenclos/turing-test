@@ -1,8 +1,8 @@
-# Robot-caméra V 0.1
+# Caro V 0.1
 
 ## Description générale
 
-Robot-caméra filme les évènements du labo et projette les images sur l'écran A du labo
+Caro, le Robot-caméra, filme les évènements du labo et projette les images sur l'écran A du labo
 
 Proposition de nom : Kino, Ciné, Iris, Zoom, Caro*
 
