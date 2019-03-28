@@ -618,9 +618,9 @@ Retour le 8/11 déchargement en fin d'aprem.
 - [Jimi](jimi.md) : (en valise souple)
 - [Klan](klan.md) : en pièces détaché ?
 - [Core](core.md) (en flight case)
-- [Robots caméra](robot-camera.md) : (en carton)
+- [Caro](caro.md) : (en carton)
 - [Robot paresseux](robot-paresseux.md) : (en carton)
-- [Robot qui fait le ménage](robot-qui-fait-le-menage.md) : (en carton)
+- [Toto](toto.md) : (en carton)
 - [Turc](turc.md) : en flight case
 - [Dedo](dedo.md) : (en carton)
 - [Robot légume](robot-legume.md) : (en carton)
