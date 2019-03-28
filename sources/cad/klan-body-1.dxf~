@@ -23,7 +23,7 @@ $INSBASE
   9
 $EXTMIN
  10
-0
+-111.3308163438291
  20
 0
  30
@@ -91,7 +91,7 @@ STANDARD
   9
 $CLAYER
   8
-percage
+corps
   9
 $CELTYPE
   6
@@ -1115,9 +1115,9 @@ AcDbViewportTableRecord
  21
 1
  12
-680.8880932301288
+598.8461681883389
  22
-375.4017609298397
+315.7653245766449
  13
 0
  23
@@ -1143,7 +1143,7 @@ AcDbViewportTableRecord
  37
 0
  40
-1027.945761472313
+904.0859819457622
  41
 1.743872549019608
  42
@@ -2235,9 +2235,37 @@ AcDbLayerTableRecord
   2
 0
  70
-    4
+    0
  62
     7
+  6
+CONTINUOUS
+290
+0
+370
+    0
+390
+F
+1001
+LibreCad
+1070
+    1
+  0
+LAYER
+  5
+4A
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+corps
+ 70
+    0
+ 62
+    6
   6
 CONTINUOUS
 370
@@ -2247,7 +2275,51 @@ F
   0
 LAYER
   5
-4A
+4B
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+moteur1
+ 70
+    0
+ 62
+    4
+  6
+CONTINUOUS
+370
+    0
+390
+F
+  0
+LAYER
+  5
+4C
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+moteur2
+ 70
+    0
+ 62
+    3
+  6
+CONTINUOUS
+370
+    0
+390
+F
+  0
+LAYER
+  5
+4D
 330
 2
 100
@@ -2266,10 +2338,6 @@ CONTINUOUS
     0
 390
 F
-1001
-LibreCad
-1070
-    1
   0
 ENDTAB
   0
@@ -2287,7 +2355,7 @@ AcDbSymbolTable
   0
 STYLE
   5
-4B
+4E
 330
 2
 100
@@ -2371,7 +2439,7 @@ ACAD
   0
 APPID
   5
-4C
+4F
 330
 9
 100
@@ -2403,7 +2471,7 @@ AcDbDimStyleTable
   0
 DIMSTYLE
 105
-4D
+50
 330
 A
 100
@@ -2677,7 +2745,7 @@ ENTITIES
   0
 LWPOLYLINE
   5
-4E
+51
 100
 AcDbEntity
   8
@@ -2715,11 +2783,11 @@ AcDbPolyline
   0
 CIRCLE
   5
-4F
+52
 100
 AcDbEntity
   8
-0
+percage
   6
 ByLayer
  62
@@ -2737,11 +2805,11 @@ AcDbCircle
   0
 CIRCLE
   5
-50
+53
 100
 AcDbEntity
   8
-0
+percage
   6
 ByLayer
  62
@@ -2759,11 +2827,11 @@ AcDbCircle
   0
 CIRCLE
   5
-51
+54
 100
 AcDbEntity
   8
-0
+percage
   6
 ByLayer
  62
@@ -2781,11 +2849,11 @@ AcDbCircle
   0
 CIRCLE
   5
-52
+55
 100
 AcDbEntity
   8
-0
+percage
   6
 ByLayer
  62
@@ -2803,11 +2871,11 @@ AcDbCircle
   0
 CIRCLE
   5
-53
+56
 100
 AcDbEntity
   8
-0
+percage
   6
 ByLayer
  62
@@ -2825,11 +2893,121 @@ AcDbCircle
   0
 CIRCLE
   5
-54
+57
 100
 AcDbEntity
   8
-0
+percage
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+51
+ 20
+53.7
+ 40
+5
+  0
+CIRCLE
+  5
+58
+100
+AcDbEntity
+  8
+percage
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+277.7
+ 20
+556.3000000000001
+ 40
+5
+  0
+CIRCLE
+  5
+59
+100
+AcDbEntity
+  8
+percage
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+572.3
+ 20
+556.3000000000001
+ 40
+5
+  0
+CIRCLE
+  5
+5A
+100
+AcDbEntity
+  8
+percage
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+799
+ 20
+53.7
+ 40
+5
+  0
+CIRCLE
+  5
+5B
+100
+AcDbEntity
+  8
+percage
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+425
+ 20
+165.3
+ 40
+17.35
+  0
+CIRCLE
+  5
+5C
+100
+AcDbEntity
+  8
+moteur1
   6
 ByLayer
  62
@@ -2847,11 +3025,11 @@ AcDbCircle
   0
 CIRCLE
   5
-55
+5D
 100
 AcDbEntity
   8
-0
+moteur1
   6
 ByLayer
  62
@@ -2869,11 +3047,11 @@ AcDbCircle
   0
 CIRCLE
   5
-56
+5E
 100
 AcDbEntity
   8
-0
+moteur1
   6
 ByLayer
  62
@@ -2891,11 +3069,11 @@ AcDbCircle
   0
 CIRCLE
   5
-57
+5F
 100
 AcDbEntity
   8
-0
+moteur1
   6
 ByLayer
  62
@@ -2913,11 +3091,11 @@ AcDbCircle
   0
 CIRCLE
   5
-58
+60
 100
 AcDbEntity
   8
-0
+moteur1
   6
 ByLayer
  62
@@ -2932,6 +3110,138 @@ AcDbCircle
 477.6743686707646
  40
 2
+  0
+CIRCLE
+  5
+61
+100
+AcDbEntity
+  8
+moteur1
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+425
+ 20
+465.3
+ 40
+12.5
+  0
+CIRCLE
+  5
+62
+100
+AcDbEntity
+  8
+moteur1
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+437.3743686707646
+ 20
+477.6743686707646
+ 40
+2
+  0
+CIRCLE
+  5
+63
+100
+AcDbEntity
+  8
+moteur1
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+437.3743686707646
+ 20
+452.9256313292354
+ 40
+2
+  0
+CIRCLE
+  5
+64
+100
+AcDbEntity
+  8
+moteur1
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+412.6256313292354
+ 20
+452.9256313292354
+ 40
+2
+  0
+CIRCLE
+  5
+65
+100
+AcDbEntity
+  8
+moteur1
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+412.6256313292354
+ 20
+477.6743686707646
+ 40
+2
+  0
+CIRCLE
+  5
+66
+100
+AcDbEntity
+  8
+moteur2
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+425
+ 20
+465.3
+ 40
+25
   0
 ENDSEC
   0
