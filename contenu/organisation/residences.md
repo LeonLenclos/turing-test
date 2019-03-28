@@ -306,25 +306,43 @@ life time conversation sur le serveur -> 12h
 
 🔽 🔽 🔽 🔽 🔽 🔽 **Futur** 🔽 🔽 🔽 🔽 🔽 🔽
 
+Légende :
+
+- `(!)` prioritaire
+- `(!!)` prioritée haute
+- `(!!!)` urgent
+
+
+### Courses
+
+- Gotronic
+- Scratch autocollant
 
 ### Travail avant Bessines
+- Alan :
+    - (!!!) Envoyer contrat
+    - (!!!) Envoyer mail
+    - (!) Caisse d'Alan + rangement accessoires.
+    - Prendre control de MVO Chatbot (entrainement)
+- Klan :
+    - (!!) Finir dessins CAD
+    - (!!) envoyer dessins à aquabrasion
 - Core :
-    - acheter les elements et les assembler
+    - (!!) Programmation du serveur osc 
+    - (!!) Commencer par faire le circuit pour une entrée trig sur le raspberry 
+    - Circuit I/O gate
+- Caro (robot camera) :
+    - tester emmeteur
+    - connecter batterie
 - Foot :
-    -  Rajouter une led
-    - Fixation alim (nouvelle alim)
+    - Rajouter une led
+    - Fixation alim
 - Echo :
     - Faire une base 
     - Trigger
     - Alim
     - Audio
     - Fixation capteur
-- Alan :
-    - Continuer de se rensegner sur les solutions TTS.
-    - Caisse d'Alan + rangement accessoires.
-        - Apeler chloé et demander le nom du Regisseur de l'escale qui fait les fly
-        - Lui commander le fly (fly couché)
-    - Prendre control de MVO Chatbot (entrainement)
 - Turc :
     - Racourcir tuyaux
     - Problème alim
@@ -336,20 +354,19 @@ life time conversation sur le serveur -> 12h
     - deporter alim
     - Trouver une caisse de guitarre
 - Robots pas fait :
-    - Robot sucidaire : **priorité forte.**
-    - Robot caméra : **priorité forte.**
-    - Dedo : priorité moyenne.
-    - Klan : priorité moyenne.
-    - Lisa : priorité failbe.
+    - (!) Robot sucidaire
+    - Dedo
+    - Lisa
 
 - Décors :
     - eva => finir tissu.
     - aimant écran.
-    - carré métrologie (tester, nettoyer, sécuriser, mise en rack/caisse).
     - Soudure cables (1/2 journée)
 
-- Imprimer dossiers !!
-- Trouver l'idée du sciècle (priorité faible)
+### Divers
+- (!!!) Dossier Adami
+- (!) Imprimer dossiers
+- (!) Trouver l'idée du sciècle
 
 ----------------------------------------------------------
 
