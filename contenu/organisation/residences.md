@@ -306,68 +306,7 @@ life time conversation sur le serveur -> 12h
 
 🔽 🔽 🔽 🔽 🔽 🔽 **Futur** 🔽 🔽 🔽 🔽 🔽 🔽
 
-Légende :
-
-- `(!)` prioritaire
-- `(!!)` prioritée haute
-- `(!!!)` urgent
-
-
-### Courses
-
-- Gotronic
-- Scratch autocollant
-
-### Travail avant Bessines
-- Alan :
-    - (!!!) Envoyer contrat
-    - (!!!) Envoyer mail
-    - (!) Caisse d'Alan + rangement accessoires.
-    - Prendre control de MVO Chatbot (entrainement)
-- Klan :
-    - (!!) Finir dessins CAD
-    - (!!) envoyer dessins à aquabrasion
-- Core :
-    - (!!) Programmation du serveur osc 
-    - (!!) Commencer par faire le circuit pour une entrée trig sur le raspberry 
-    - Circuit I/O gate
-- Caro (robot camera) :
-    - tester emmeteur
-    - connecter batterie
-- Foot :
-    - Rajouter une led
-    - Fixation alim
-- Echo :
-    - Faire une base 
-    - Trigger
-    - Alim
-    - Audio
-    - Fixation capteur
-- Turc :
-    - Racourcir tuyaux
-    - Problème alim
-- Matt :
-    - Creer carton-enceinte + micro dédié.
-- Otto racourcir les bras (30min)
-- Jimi :
-    - fixation mediator
-    - deporter alim
-    - Trouver une caisse de guitarre
-- Robots pas fait :
-    - (!) Robot sucidaire
-    - Dedo
-    - Lisa
-
-- Décors :
-    - eva => finir tissu.
-    - aimant écran.
-    - Soudure cables (1/2 journée)
-
-### Divers
-- (!!!) Dossier Adami
-- (!) Imprimer dossiers
-- (!) Trouver l'idée du sciècle
-
+**J'ai déplacé les todos dans le fichiers [todo.md](todo.md) pour plus de clareté. <small>(La dernière personne qui lit cette ligne peut l'effacer)</small>**
 ----------------------------------------------------------
 
 ### Graines de rue - Bessines (87) - du 1 au 13 avril 2019
