@@ -1,6 +1,8 @@
 
 # Proposition de noms : robo - soap - soup
 
+(ref : https://www.youtube.com/watch?v=vWGquxvqI_Y& )
+
 ## Esthétique, allure du robot
 
 C'est une perceuse sans fil Makita avec toute une gamme d'embouts.
