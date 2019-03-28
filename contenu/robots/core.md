@@ -14,6 +14,15 @@ Le cerveau de Core
 
 ## Description technique
 
+
+### Patch
+
+#### Trig <-> OSC
+
+Le server OSC (raspberry) dispose de 4 entrées et de 2 sortie trig (mini-jack) ainsi que d'une sortie ethernet (RJ45). Son rôle est de dispatcher les trig à differentes adresses IP sous forme de messages OSC et viceversa. 
+
+### Réseau
+
 Core est une machine pour synchroniser et mettre en reseau toutes les machines du Grim.
 
 Voilà le schéma du réseau :
@@ -48,7 +57,7 @@ Voilà le schéma du réseau :
 
 ## Améliorations envisagées
 
-A venir
+- Centraliser les alims
 
 ## Moment envisagé pour la construction et/ou les améliorations.
 
