@@ -18,15 +18,15 @@ Le spectacle est actuellement en cours de création. Nous avons décidé de rend
 Sommaire
 --------
 
--  [Le dossier de création](dossier/dossier.md)
--  [La liste des robots du laboratoire](contenu/robots)
--  [Des notes d'intentions](contenu/intentions)
--  [Des textes à lire, textes théoriques, petites histoires](contenu/textes)
--  [Des idées de scènes](contenu/scenes)
+-  [![dossier](/ressources/icons/dossier.png) Le dossier de création](dossier/dossier.md)
+-  [![robot](/ressources/icons/robot.png) La liste des robots du laboratoire](contenu/robots)
+-  [![intentions](/ressources/icons/intentions.png) Des notes d'intentions](contenu/intentions)
+-  [![textes](/ressources/icons/textes.png) Des textes à lire, textes théoriques, petites histoires](contenu/textes)
+-  [![scene](/ressources/icons/scene.png) Des idées de scènes](contenu/scenes)
 
 et aussi
 
--  [Une bibliographie](contenu/bibliographie.md)
--  [L'organisation de la création](contenu/organisation)
+-  [![bibliographie](/ressources/icons/bibliographie.png) Une bibliographie](contenu/bibliographie.md)
+-  [![organisation](/ressources/icons/organisation.png) L'organisation de la création](contenu/organisation)
 
 <small>L'ensemble de ces textes est placé sous [License Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Bonne lecture.</small>
