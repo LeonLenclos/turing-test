@@ -80,6 +80,14 @@ img {
  max-height:500px;
  max-width:90%
 }
+
+img[src*="ressources/icons"] {
+  background: none;
+  border :none;
+  display:inline;
+}
+
+
 pre.lines {
  display:none
 }
