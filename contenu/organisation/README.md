@@ -15,4 +15,6 @@ Ces fichier sont des moyens pour nous de nous organiser. Puisque nous avons déc
 
 - [Besoins technologiques](besoins-technologiques.md), présentation des besoins technologiques identifiés au début de la création. D'autres apparaitront au fil des résidences. (**À mettre à jour**)
 
+- [Todo](todo.md), Trucs à faire.
+
 - [Notes techniques](notes-techniques.md), Petit bloc-note technique.
