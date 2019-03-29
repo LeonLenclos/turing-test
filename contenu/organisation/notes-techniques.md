@@ -3,7 +3,7 @@ Notes Techniques
 
 ## arduino, cv et gate.
 
-Le Git d'un schield pour interfacer modulaires et arduino : Synapse de chez Shaduzlabs
+Le Git d'un shield pour interfacer modulaires et arduino : Synapse de chez Shaduzlabs
 
 [lien vers le Github](https://github.com/shaduzlabs/synapse)
 
