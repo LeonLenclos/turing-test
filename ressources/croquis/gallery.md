@@ -112,6 +112,14 @@
 ![README](/ressources/croquis/README.md)
 ```
 
+#### [gallery](/ressources/croquis/gallery.md)
+
+![gallery](/ressources/croquis/gallery.md)
+
+```
+![gallery](/ressources/croquis/gallery.md)
+```
+
 #### [robot-etonne-1](/ressources/croquis/robot-etonne-1.jpg)
 
 ![robot-etonne-1](/ressources/croquis/robot-etonne-1.jpg)

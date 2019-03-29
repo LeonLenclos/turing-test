@@ -120,6 +120,14 @@
 ![README](/ressources/divers/README.md)
 ```
 
+#### [gallery](/ressources/divers/gallery.md)
+
+![gallery](/ressources/divers/gallery.md)
+
+```
+![gallery](/ressources/divers/gallery.md)
+```
+
 #### [grim-network-montage](/ressources/divers/grim-network-montage.jpg)
 
 ![grim-network-montage](/ressources/divers/grim-network-montage.jpg)

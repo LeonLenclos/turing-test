@@ -96,6 +96,14 @@
 ![README](/ressources/dessins/README.md)
 ```
 
+#### [gallery](/ressources/dessins/gallery.md)
+
+![gallery](/ressources/dessins/gallery.md)
+
+```
+![gallery](/ressources/dessins/gallery.md)
+```
+
 #### [dessin15](/ressources/dessins/dessin15.png)
 
 ![dessin15](/ressources/dessins/dessin15.png)
