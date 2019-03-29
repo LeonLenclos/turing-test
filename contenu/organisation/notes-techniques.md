@@ -1,7 +1,12 @@
 Notes Techniques
 ================
 
-pour noter des spécifications techniques qui ne trouvent pas leur place ailleurs.
+## arduino, cv et gate.
+
+Le Git d'un schield pour interfacer modulaires et arduino :
+
+https://github.com/shaduzlabs/synapse
+http://www.shaduzlabs.com/blog/21/synapse-a-diyfriendly-cv-io-shield-for-arduino.html
 
 ---
 
