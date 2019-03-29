@@ -10,7 +10,7 @@ Les dossiers ressources est diviser en plusieurs sous dossier. Pour faciliter l'
 
 Les galeries sont crées grace au script [make-gallery.py](make-gallery.py). Lancez simplement ce script pour mettre à jour les galeries.
 
-### Sommaire des ressources
+### Sommaire des ressources
 
 - [croquis](croquis/) ([galerie](croquis/gallery.md))
 - [photos](photos/) ([galerie](photos/gallery.md))
