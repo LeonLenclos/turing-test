@@ -8,12 +8,8 @@ Core est un robot chef d'orchestre. Il donne le tempo à toutes les autres créa
 
 Le cerveau de Core
 
-## Allure
-
-À définir
 
 ## Description technique
-
 
 ### Patch
 
@@ -40,9 +36,6 @@ Voilà le schéma du réseau :
 - PD = pure date sur un Raspberry pour synthèse sonore
 - OGN/OGN VIEW = Sur un PC + un Raspberry, [OGNON](https://github.com/LeonLenclos/Ognon), logiciel de création d'animation en temps réel.
 
-### Mécanique
-
-À définir
 
 ### Electronique
 
@@ -53,7 +46,24 @@ Voilà le schéma du réseau :
 
 ### Software
 
-À définir
+Le serveur écoute les message OSC de type `/trig/ n` et envoie un trig sur la sortie `n`.
+
+Le serveur écoute les trigs sur ses entrées et envoie les messages correspondants sur sa table de dispatch.
+
+#### Table de dispatch
+
+indique quel message envoyer à quelle adresse ip en fonction des trigs qu'il reçoit
+
+Par exemple : 
+
+```
+IN-1 => 10.0.0.2:50460 => /control/navigator/run/ default
+IN-2 => lucy.local:4242 => /dance
+```
+un trig sur l'entrée 1 envoie un message OSC d'adresse `/control/navigator/run` avec l'argument `'default'` à la machine `10.0.0.2` sur son port `50460`.
+
+un trig sur l'entrée 2 envoie un message OSC d'adresse `/dance` avec à la machine `lucy.local` sur son port `4242`.
+
 
 ## Améliorations envisagées
 
