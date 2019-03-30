@@ -1,6 +1,20 @@
 Notes Techniques
 ================
 
+## Les cables <3
+
+### Longs cables (Standard Grim)
+
+- Audio = XLR
+- Ethernet = RJ45
+- Trig/Gate/CV = MiniJack
+
+### Alims
+
+- 5V = USB
+- Arduino Secteur
+- LIPO = Connecteurs comme dans ALAN
+
 ## arduino, cv et gate.
 
 Le Git d'un shield pour interfacer modulaires et arduino : Synapse de chez Shaduzlabs

@@ -489,7 +489,15 @@ Retour le 8/11 déchargement en fin d'aprem.
 
 
 
-----------------------------------------------------------
+🔼 🔼 🔼 🔼 🔼 🔼 **Passé** 🔼 🔼 🔼 🔼 🔼 🔼
+
+
+-------------------------------------------------------------
+
+
+🔽 🔽 🔽 🔽 🔽 🔽 **Futur** 🔽 🔽 🔽 🔽 🔽 🔽
+
+
 
 ### Graines de rue - Bessines (87) - du 1 au 13 avril 2019
 
@@ -522,7 +530,7 @@ Retour le 8/11 déchargement en fin d'aprem.
 ##### outillage
 
 - servante rouge avec : meuleuse, sauteuse, scie métaux, boite de mèches, pistolet à colle, decapeur
-- male 8
+- male 8 (épurée, et la charger avec le reste)
 - caisse electronique bleue
 - planche decoupe + reglet
 - Kit soudure
@@ -531,31 +539,36 @@ Retour le 8/11 déchargement en fin d'aprem.
 - Materiel sécu (gants, masques, casques)
 - trousse 1ers secours
 
-##### Matériaux
+##### Carton matériaux
 
 - selection divers matières : alu, plastazote, etc
 - aimant a coudre pour écran
 - cables audio + connecteurs
 
-##### Electronic
+##### Carton electronic
 
-- alim et accus 12V et 5V + chargeurs (LIPO, USB, etc)
+- alim et accus entre 12V et 5V + chargeurs (LIPO, USB, etc)
 - Raspberry + arduino
 - Caisses composants
 
 ##### Divers
 
 - selection cables
+    - cable periph (USB)
+    - RJ45
+    - mini jacques
+    - HDMI
+    - VGA
+    - convertisseurs VGA/DVI/HDMI
 - secteur + triplette
-- Kit diffusion
+- Kit diffusion (au fond du camion)
 - sac 550D
 - ordi Ber x 2 + écran + tablette + alims
-
-#####  Chez Fab 
-- ???
-
-##### Chez Léon
-- ???
+- ordi lou
+- ordi ottomann
+- écran de rab
+- des claviers des souris
+- matos couture
 
 ##### Accessoires Labo :
 
@@ -565,18 +578,20 @@ Retour le 8/11 déchargement en fin d'aprem.
 
 ##### Matériel Création sonore et visuelle
 
+- trousse rose
 - Console sonosax
 - 2 modulaires Ber
 - Cintik
-- Think pad Léon
 - Raspberry ognon
 - MS 20 + SQ1
-- Raspberry PD + clavier + ecran iiYama
+- Raspberry PD + clavier + ecran iiYama  + carte son + controlleur
+- Sac bras
 - ...
 
 ##### Decor :
 
 - Jouets sonores
+- minotron
 - Tulles avec barres
 - déport lampadaires + néon + tubes fluos
 - écrans
@@ -591,40 +606,39 @@ Retour le 8/11 déchargement en fin d'aprem.
 - porte
 - frigo
 - paperboard + recharge
-- 6 planches plastiques
-- Cartons standards + renfoncé + scotch marron
+- 6 planches plastiques (étagères)
+- Cartons standards + renfoncé + scotch marron!!
 - carton acessoires (tokai)
 - etiqueteuse 
 - persos assis
 - Kit sieste : tapis de sol + duvet + casquette = casque + lunette
-- flight métrologie
+- fly metro = oscilo + convertisseur universel + reverb à bande
 
 ##### Video
 - videoproj pico (alim et télécommande)
 - Valise videoproj Optpma 1 GA + grand VGA
 - videoproj Optpma 2 GA + recepteur hf
-- manfrotto x 2
+- manfrotto x 3
 - Selection cables video
 - trousse rose
-- Decimator
 
 ##### Robot
-- [Alan](alan.md) : avec son choucko
-- [Otto](otto.md)
-- [Matt](matt.md) : (en carton avec Otto)
-- [Foot](foot.md) : (en carton)
-- [Echo](echo.md) : (en caisse bois)
-- [Lucy](lucy.md) : (en carton)
-- [Jimi](jimi.md) : (en valise souple)
-- [Klan](klan.md) : en pièces détaché ?
-- [Core](core.md) (en flight case)
-- [Caro](caro.md) : (en carton)
-- [Robot paresseux](robot-paresseux.md) : (en carton)
-- [Toto](toto.md) : (en carton)
-- [Turc](turc.md) : en flight case
-- [Dedo](dedo.md) : (en carton)
-- [Robot légume](robot-legume.md) : (en carton)
-- [Café](cafe.md) (fiche à rédiger) : (en carton)
+- [Alan](../robots/alan.md) : avec son choucko et son clavier
+- [Otto](../robots/otto.md)
+- [Matt](../robots/matt.md) : (en carton avec Otto)
+- [Foot](../robots/foot.md) : (carton)
+- [Echo](../robots/echo.md) : (en caisse bois)
+- [Lucy](../robots/lucy.md) : (en carton avec caisse d'echo)
+- [Jimi](../robots/jimi.md) : (en valise souple)
+- [Klan](../robots/klan.md) : (en pièces détaché)
+- [Core](../robots/core.md) : (en flight case)
+- [Caro](../robots/caro.md) : (en carton)
+- [Mimi](../robots/mimi.md) : (en carton)
+- [Toto](../robots/toto.md) : (en carton)
+- [Turc](../robots/turc.md) : en flight case
+- [Dedo](../robots/dedo.md) : (en carton)
+- [Maki](../robots/maki.md) : (en carton)
+- [Café](../robots/cafe.md) (fiche à rédiger) : (en carton)
 
 ----------------------------------------------------------
 
@@ -646,6 +660,10 @@ Retour le 8/11 déchargement en fin d'aprem.
 - Horaire : 8H / minuit
 - Contacter SPOON pour Rendez vous (Léon)
 - Retour Graulhet lundi 22 avril matin. Départ : 9h arrivée Graulhet : 17h
+
+----------------------------------------------------------
+
+##### Relâche + Envol
 
 ----------------------------------------------------------
 
