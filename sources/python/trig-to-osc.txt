@@ -1,0 +1,23 @@
+#!/user/bin/python
+
+import OSC
+from gpiozero import Button
+from signal import pause
+
+def send_osc_trig():
+
+	send_address = '192.168.1.1' , 9000
+
+	c = OSC.OSCClient()
+	c.connect(send_address)
+
+	msg = OSC.OSCMessage()
+	msg.setAddress("/trig")
+	msg.append("message a envoyer")
+
+	c.send(msg)
+
+#numéro du gpio sur lequel on recoit le trig
+trig = Button(2)
+
+trig.when_pressed = send_osc_trig

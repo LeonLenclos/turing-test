@@ -48,7 +48,7 @@ Voilà le schéma du réseau :
 
 Le serveur écoute les message OSC de type `/trig/ n` et envoie un trig sur la sortie `n`.
 
-Le serveur écoute les trigs sur ses entrées et envoie les messages correspondants sur sa table de dispatch.
+Le serveur écoute les trigs sur ses entrées et envoie les messages correspondants sur sa table de dispatch. Voir le [code](  turing-test/sources/python/trig-to-osc.txt)
 
 #### Table de dispatch
 
