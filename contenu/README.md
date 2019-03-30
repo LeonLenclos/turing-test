@@ -4,7 +4,7 @@ Contenu
 
 
 
-### Que vais-je trouver ici ?
+### Que vais-je trouver ici ?
 
 
 Les textes que vous trouverez ici constituent à la fois :
@@ -16,6 +16,9 @@ Les textes que vous trouverez ici constituent à la fois :
 
 
 ### Le contenu
+
+<p class="github-pages-ignore"><img src="/ressources/icons/think-exclamation.png"> Ce code génère un petit sommaire sur <a href="http://turing-test.cienokill.fr/contenu/">le site</a>. Ici ça affiche n'importe quoi...</p>
+
 
 <div id="dir-indexing"></div>
 <script>
