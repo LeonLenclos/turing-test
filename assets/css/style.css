@@ -87,6 +87,10 @@ img[src*="ressources/icons"] {
   display:inline;
 }
 
+li a img[src*="ressources/icons"] {
+  margin-right:15px;
+}
+
 
 pre.lines {
  display:none
