@@ -73,7 +73,7 @@ footer > a {
 
 img {
  display:block;
- margin:auto;
+ margin: 10px auto;
  background:white;
  border:10px solid white;
  max-width:500px;
@@ -84,6 +84,8 @@ img {
 img[src*="ressources/icons"] {
   background: none;
   border :none;
+  margin: 0;
+  
   display:inline;
 }
 
