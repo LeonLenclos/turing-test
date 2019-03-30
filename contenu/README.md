@@ -15,5 +15,18 @@ Les textes que vous trouverez ici constituent à la fois :
 
 
 
-* auto-gen TOC:
-{:toc}
+### Le contenu
+
+<div id="dir-indexing"></div>
+<script>
+  (async () => {
+    const response = await fetch('https://api.github.com/repos/LeonLenclos/turing-test/contents/');
+    const data = await response.json();
+    let htmlString = '<ul>';
+    for (let file of data) {
+      htmlString += `<li><a href="${file.path}">${file.name}</a></li>`;
+    }
+    htmlString += '</ul>';
+    document.getElementsById('dir-indexing')[0].innerHTML = htmlString;
+  })()
+</script>
