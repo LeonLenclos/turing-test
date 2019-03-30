@@ -85,8 +85,7 @@ Dans notre adaptation, la rotation des pivots s'effectue grace à des rondelles 
 Proposition en pseudo-code pour le programme de Klan
 ```
 // constantes
-constante ECARTEMENT_DES_JAMBES
-constante LOOP_DELAY
+constante ECARTEMENT_DES_JAMBES = 75 //cm
 
 // reglages
 variable vitesse
@@ -107,13 +106,10 @@ fonction faire_une_pause_pour_reflechir():
        attendre(duree_pause_pour_reflechir)
 
 fonction avancer(longueur):
-   duree_totale = longueur / vitesse
-   n = duree_totale / LOOP_DELAY
-   pour i de 0 à n :
-       attendre(LOOP_DELAY)
-       regler_vitesse_jambe_gauche(vitesse)
-       regler_vitesse_jambe_droite(vitesse)
-       faire_une_pause_pour_reflechir()
+   duree = longueur / vitesse
+   regler_vitesse_jambe_gauche(vitesse)
+   regler_vitesse_jambe_droite(vitesse)
+   attendre(duree)
    freiner()
    
 fonction tourner_a_gauche(rayon):
@@ -122,11 +118,9 @@ fonction tourner_a_gauche(rayon):
    vitesse_jambe_droite = vitesse
    vitesse_jambe_gauche = vitesse_jambe_droite * longueur_demi_tour_gauche / longueur_demi_tour_droit
    duree_totale = longueur_demi_tour_gauche / vitesse_jambe_gauche
-   n = duree_totale / LOOP_DELAY
-   pour i de 0 à n :
-       attendre(LOOP_DELAY)
-       regler_vitesse_jambe_gauche(vitesse_jambe_gauche)
-       regler_vitesse_jambe_droite(vitesse_jambe_droite)
+   regler_vitesse_jambe_gauche(vitesse_jambe_gauche)
+   regler_vitesse_jambe_droite(vitesse_jambe_droite)
+   attendre(duree_totale)
    freiner()
  
 fonction faire_les_cent_pas :
