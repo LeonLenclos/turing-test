@@ -64,6 +64,14 @@
 ![Jansen_linkage_cotes_400](/ressources/divers/Jansen_linkage_cotes_400.png)
 ```
 
+#### [cablage_servo_arduino](/ressources/divers/cablage_servo_arduino.png)
+
+![cablage_servo_arduino](/ressources/divers/cablage_servo_arduino.png)
+
+```
+![cablage_servo_arduino](/ressources/divers/cablage_servo_arduino.png)
+```
+
 #### [cad-dedo](/ressources/divers/cad-dedo.png)
 
 ![cad-dedo](/ressources/divers/cad-dedo.png)
@@ -182,4 +190,20 @@
 
 ```
 ![liste_barre_klan](/ressources/divers/liste_barre_klan.png)
+```
+
+#### [synapse_4](/ressources/divers/synapse_4.png)
+
+![synapse_4](/ressources/divers/synapse_4.png)
+
+```
+![synapse_4](/ressources/divers/synapse_4.png)
+```
+
+#### [synapse_5](/ressources/divers/synapse_5.png)
+
+![synapse_5](/ressources/divers/synapse_5.png)
+
+```
+![synapse_5](/ressources/divers/synapse_5.png)
 ```
