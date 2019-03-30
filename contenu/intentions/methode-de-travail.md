@@ -33,7 +33,7 @@ Ces textes constituent l'écriture du spectacle. Ce ne sont pas les éléments d
 
 *Le Pad, premier lieu pour la co-écriture de Turing Test. Chaque personne est représentée par une couleur*
 
-![Le Pad, premier lieu d'écriture de Turing Test](../../ressources/cde-pad.png)
+![cde-pad](/ressources/divers/cde-pad.png)
 
 ---
 

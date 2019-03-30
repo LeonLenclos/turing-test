@@ -48,9 +48,8 @@ Mon synthétiseur modulaire est un objet physique composé de modules élémenta
 -----------------------------------------------------------------------------------------------------------------------------
 
 *Deux capture d'écran du logiciel Pure Data*
-![](../../ressources/cde-pd1.jpg)
-![](../../ressources/cde-pd2.jpg)
-
+![cde-pd1](/ressources/divers/cde-pd1.jpg)
+![cde-pd2](/ressources/divers/cde-pd2.jpg)
 ---
 
 [Retour aux notes d'intention](.)

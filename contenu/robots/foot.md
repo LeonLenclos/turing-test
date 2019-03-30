@@ -1,5 +1,5 @@
 # Foot
-![](../../ressources/foot.JPG)
+![](/ressources/photos/foot.JPG)
 ## Description générale
 
 Foot, le Robot qui souffre. Quand il subit un choc, il gémit proportionnellement à l'intensité du choc.
@@ -32,7 +32,7 @@ Le code arduino de foot est disponible [ici](../../sources/arduino/foot).
 
 Usinotopie mars 2018
 
-![](../../ressources/foot_fabi.JPG)
+![](/ressources/photos/foot_fabi.JPG)
 
 ## Améliorations
 

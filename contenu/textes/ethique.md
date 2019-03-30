@@ -14,7 +14,7 @@ Le problème est que les valeurs humaines universelles dont parle Yann le Cun n'
 
 Yann Le Cun est dans une impasse théorique. "Les valeurs humaines" est un concept avec autant d'occurrences qu'il y a d'individus sur Terre et il est impossible de définir un ensemble de valeurs approuvées par toute l'humanité. Ce qui risque de se passer, c'est que les robots seront alignés sur les valeurs de leur créateur. Et comme l'I.A est aujourd'hui un business et que l'expérience nous montre que le business ne s'embarrasse pas trop des garanties fondamentales en matière d'éthique et de sécurité sanitaire, on peut douter que les robots œuvrent pour le bien du plus grand nombre.
 
-![](../../ressources/dessin5.png)
+![](/ressources/dessins/dessin5.png)
 
 Le droit des robots
 -------------------

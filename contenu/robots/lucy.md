@@ -10,7 +10,7 @@ Lucy est une référence aux [tamagotchis](https://fr.wikipedia.org/wiki/Tamagot
 
 Un simple écran avec un bouton au dessus : nourrir. Un personnage très pixellisé s'affiche à l'écran, en temps normal il bouge de légèrement dans son écran. Quand il est nourri, une animation est lancée. Il peut avoir l'air maigre, normal ou gros.
 
-![](../../ressources/lucy1.JPG)![](../../ressources/lucy2.JPG)![](../../ressources/lucy3.JPG)![](../../ressources/lucy4.JPG)
+![](/ressources/photos/lucy1.JPG)![](/ressources/photos/lucy2.JPG)![](/ressources/photos/lucy3.JPG)![](/ressources/photos/lucy4.JPG)
 
 ## Matériaux
 

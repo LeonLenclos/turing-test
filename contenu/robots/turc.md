@@ -4,7 +4,7 @@
 
 Turc est un robot qui sait jouer au morpion, mais qui n'aime pas perdre.
 
-![Turc-Vue d'ensemble](../../ressources/turc5.JPG)
+![Turc-Vue d'ensemble](/ressources/photos/turc5.JPG)
 
 ## Allure
 
@@ -16,13 +16,13 @@ C'est un quadripède avec un bras articulé au bout duquel est fixé un électro
 - Verrins pneumatiques
 - articulations sur paliers et rotules
 
-![Turc-Détail des articulations](../../ressources/turc4.JPG)
+![Turc-Détail des articulations](/ressources/photos/turc4.JPG)
 
 ## Description technique
 
 Une télécommande équipée de trois verrins et d'un interrupteur permet de controler la position du bras et la préhension de la pièce métalique à saisir.
 
-![Turc-La télécommande](../../ressources/turc3.JPG)
+![Turc-La télécommande](/ressources/photos/turc3.JPG)
 
 6 tuyaux transmettent la pression au 3 autres verrins qui commandent le bras du robot sur 3 axes : tilt, pan et allongement 
 
@@ -49,6 +49,6 @@ Basée sur les transmissions pneumatiques
 
 améliorations du 15/3/2019 au 31/3/2019 à Graulhet.
 
-![Turc-La télécommande](../../ressources/turc2.JPG)
+![Turc-La télécommande](/ressources/photos/turc2.JPG)
 
 [Retour à la liste des robots du laboratoire](.)

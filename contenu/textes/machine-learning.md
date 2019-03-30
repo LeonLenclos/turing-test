@@ -25,7 +25,7 @@ Un enfant n'aura besoin que de quelques images pour identifier définitivement u
 
 Ce qui est singulier dans cet apprentissage, c'est que l'ajustement des paramètres synaptiques reste opaque même pour le concepteur de l'algorithme. On comprend pourquoi l'algorithme, à chaque étape de l'apprentissage, a fixé telles valeurs plutôt que d'autres, mais on ne sait pas modéliser a priori l'évolution de ces ajustements, il nous dépasse. L'algorithme d'apprentissage ne peut pas nous expliquer sa façon de penser. C'est une quasi-boite noire dont le fonctionnement échappe à son créateur ce qui représente une vraie rupture dans l'évolution de l'intelligence artificielle.
 
-![](../../ressources/dessin13.png)
+![](/ressources/dessins/dessin13.png)
 
 L'apprentissage non supervisé ou prédictif
 ------------------------------------------

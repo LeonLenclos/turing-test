@@ -4,7 +4,7 @@
 
 Core est un robot chef d'orchestre. Il donne le tempo à toutes les autres créatures artificielles du Labo.
 
-![](../../ressources/CORE V0.1.jpg)
+![CORE V0](/ressources/divers/CORE V0.1.jpg)
 
 Le cerveau de Core
 
@@ -27,9 +27,9 @@ Core est une machine pour synchroniser et mettre en reseau toutes les machines d
 
 Voilà le schéma du réseau :
 
-![réseau grim](../../ressources/grim-network.png)
+![grim-network](/ressources/divers/grim-network.png)
 
-(source : [grim-network.dia](../../ressources/grim-network.dia))
+(source : [grim-network.dia](/sources/dia/grim-network.dia))
 
 - Foot, Jimi et Echo sont des robots en arduino avec un entrée gate
 - Lucy et Alan des robots qui fonctionne en raspberry ou PC.

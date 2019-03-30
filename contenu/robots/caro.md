@@ -17,8 +17,7 @@ Fixé sur une structure mobile à 4 roues, un mat prolongé d'un col de cygne es
 La strucure mobile est un hacking de Crawler télécommandé. La télécommande est gérée par le régisseur.
 La caméra fixée au col de cygne délivre un signal à un émméteur HF qui transmet l'image jusqu'au vidéoprojecteur situé derrière l'écran de l'établi.
 
-![](../../ressources/robot_camera_V_01.jpg)
-
+![robot_camera_V_01](/ressources/photos/robot_camera_V_01.jpg)
 
 ### Mécanique
 
@@ -26,7 +25,7 @@ La caméra fixée au col de cygne délivre un signal à un émméteur HF qui tra
 - Mat téléscopique type pied de micro en alu
 - col de cygne
 
-![](../../ressources/crawler_kino.jpg)
+![crawler_kino](/ressources/divers/crawler_kino.jpg)
 
 #### Note relative aux objectifs utilisables sur la caméra
 
@@ -54,7 +53,8 @@ Pour l'instant on selectionne le **2**
 
 1,2 G TX 1000 mW 1000mW 8CH Transmitter RX02
 
-![émetteur/récepteur](../../ressources/emetteur_kino.jpg)
+![emetteur_kino](/ressources/divers/emetteur_kino.jpg)
+
 
 ### Software
 

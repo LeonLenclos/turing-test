@@ -60,7 +60,7 @@ Sur le plateau un carton dans lequel Bertrand donne un coup de pied. Pas de réa
 Léon vient dessiner un visage marqué par la douleur sur le carton. Nouveau coup de pied. Frémissement dans l'assistance.
 Le carton subit encore un coup et commence à gémir, à pousser des cris de douleur. Les spectateurs sont maintenant choqués et pourtant, dans ces trois situations, il ne s'agit que de matière inerte.
 
-![](../../ressources/dessin8.png)
+![](/ressources/dessins/dessin8.png)
 
 ---
 

@@ -5,7 +5,7 @@
 
 Toto est un véhicule autonome équipé d'une pelle et d'une balayette
 
-![](../../ressources/robot_menage_croquis.jpg)
+![](/ressources/croquis/robot_menage_croquis.jpg)
 
 ## Hypothèses de construction, description technique
 
@@ -16,10 +16,10 @@ Les trois servos sont commandés par un arduino auquel plusieurs capteurs sont c
 - module détecteur de poussière GROVE 101020012
 - module GPS
 
-![](../../ressources/Strandbeest-Walking-Animation.gif)
+![](/ressources/divers/Strandbeest-Walking-Animation.gif)
 
 
-![](../../ressources/Jansen_linkage_cotes_400.png)
+![](/ressources/divers/Jansen_linkage_cotes_400.png)
 
 
 Mécanisme de jansen : cotes

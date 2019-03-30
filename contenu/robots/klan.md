@@ -4,7 +4,7 @@
 
 Klan est un robot doté de capacités de locomotion évoluées qui lui permettent de se déplacer dans des environnements encombrés. Il est équipé de 8 jambes actionnées par deux moteurs indépendants. Sa structure s'inspire du ([mécanisme de Klann/Klann's linkage](https://fr.wikipedia.org/wiki/Mécanisme_de_Klann)), développée par Joe Klann en 1994.
 
-![](../../ressources/F4-motion.gif)
+![](/ressources/divers/F4-motion.gif)
 
 Animation répétitive du mécanisme de Klann
 
@@ -16,7 +16,7 @@ Sa structure ouverte et sans carter laisse apparaître l'intégralité du mécan
 Chaque jambe a l'apparence d'un tibia et d'un pied humain.
 L'ensemble simule une marche synchronisée d'un groupe de quatre humains faisant les 100 pas.
 
-![](../../ressources/klan_croquis.jpeg)
+![](/ressources/croquis/klan_croquis.jpeg)
 
 ## Matériaux 
 
@@ -29,7 +29,7 @@ Le mécanisme d'une jambe se compose d'un segment qui entre en contact avec le s
 
 Dans notre adaptation, la rotation des pivots s'effectue grace à des rondelles en Téflon, sauf pour les axes moteur, fixés sur des paliers appliques à la structure du corps.
 
-![](../../ressources/klan_detail_transmission.jpeg)
+![klan_detail_transmission](/ressources/croquis/klan_detail_transmission.jpeg)
 
 ## Liste matériel
 
@@ -39,11 +39,11 @@ Dans notre adaptation, la rotation des pivots s'effectue grace à des rondelles 
 
 - Plat Alu : 40mmx5mm (x20m)
 
-![](../../ressources/liste_barre_klan.png)
+![liste_barre_klan](/ressources/divers/liste_barre_klan.png)
 
-![](../../ressources/barres_klan.jpg)
+![barres_klan](/ressources/photos/barres_klan.jpg)
 
-![](../../ressources/klan_cotes.jpeg)
+![klan_cotes](/ressources/croquis/klan_cotes.jpeg)
 
 ##### Structure
 
@@ -70,7 +70,7 @@ Dans notre adaptation, la rotation des pivots s'effectue grace à des rondelles 
 
 ##### Pièce à créer : raccord axe moteur 8mm + plateau 44 dents
 
-![](../../ressources/klan_accord_moteur_plateau.jpeg)
+![klan_accord_moteur_plateau](/ressources/croquis/klan_accord_moteur_plateau.jpeg)
 
 
 ### Electronique
