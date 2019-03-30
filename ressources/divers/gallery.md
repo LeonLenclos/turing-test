@@ -64,6 +64,14 @@
 ![Jansen_linkage_cotes_400](/ressources/divers/Jansen_linkage_cotes_400.png)
 ```
 
+#### [Strandbeest-Walking-Animation](/ressources/divers/Strandbeest-Walking-Animation.gif)
+
+![Strandbeest-Walking-Animation](/ressources/divers/Strandbeest-Walking-Animation.gif)
+
+```
+![Strandbeest-Walking-Animation](/ressources/divers/Strandbeest-Walking-Animation.gif)
+```
+
 #### [cablage_servo_arduino](/ressources/divers/cablage_servo_arduino.png)
 
 ![cablage_servo_arduino](/ressources/divers/cablage_servo_arduino.png)
