@@ -20,7 +20,7 @@ Les textes que vous trouverez ici constituent à la fois :
 <div id="dir-indexing"></div>
 <script>
   (async () => {
-    const response = await fetch('https://api.github.com/repos/LeonLenclos/turing-test/contents/');
+    const response = await fetch('https://api.github.com/repos/LeonLenclos/turing-test/contents/contenu');
     const data = await response.json();
     let htmlString = '<ul>';
     for (let file of data) {
