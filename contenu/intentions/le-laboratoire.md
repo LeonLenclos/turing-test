@@ -15,20 +15,19 @@ C'est un environnement de travail. Et un environnement de travail modulable. Il 
 Plan au sol provisoire
 ----------------------
 
-![](../../ressources/planausol.png)
-
+![planausol](/ressources/croquis/planausol.png)
 
 Intentions de lumière
 ---------------------
 
-![](../../ressources/intentionslumiere.png)
+![intentionslumiere](/ressources/croquis/intentionslumiere.png)
 
 
 Étape de travail à Myrys (septembre 2018)
 ------------------------------------------
 
-![](../../ressources/photodecorsmyrys1.jpg)
-![](../../ressources/photodecorsmyrys2.jpg)
+![photodecorsmyrys1](/ressources/photos/photodecorsmyrys1.jpg)
+![photodecorsmyrys2](/ressources/photos/photodecorsmyrys2.jpg)
 
 ---
 

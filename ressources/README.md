@@ -16,6 +16,6 @@ Les galeries sont crées grace au script [make-gallery.py](make-gallery.py). Lan
 - [photos](photos/) ([galerie](photos/gallery.md))
 - [dessins](dessins/) ([galerie](dessins/gallery.md))
 - [icons](icons/) ([galerie](icons/gallery.md))
-- [photos](photos/) ([galerie](photos/gallery.md))
+- [divers](divers/) ([galerie](divers/gallery.md))
 - [pdf](pdf/)
 - [audio-video](audio-video/)

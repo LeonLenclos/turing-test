@@ -36,7 +36,7 @@ Cette idée peut porter sur autre chose que la blouse. Des lunettes ? Une casque
 
 Le robot cliché est métallique ou blanc. Une idée serait de prendre le contre-pied de ça et de faire des robots colorés.
 
-![](../../ressources/croquis-robot-rouge.jpg)
+![croquis-robot-rouge](/ressources/croquis/croquis-robot-rouge.jpg)
 
 ### Les robots ont des cables qui leur sortent de la tête
 
@@ -46,7 +46,7 @@ Tous les robots électriques ont ce point commun d'être branchés par en haut. 
 
 Par exemple le bras du robot qui perd au jeu ressemble beaucoup à ceux du robot étonné.
 
-![](../../ressources/croquis-main-bleu.jpg)
+![croquis-main-bleu](/ressources/croquis/croquis-main-bleu.jpg)
 
 ---
 

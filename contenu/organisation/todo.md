@@ -21,7 +21,6 @@ Liste des choses à faire avec leur degré de prioritée. Les tâches sont suppr
     - (!) Caisse d'Alan + rangement accessoires.
     - Prendre control de MVO Chatbot (entrainement)
 - Klan :
-    - (!!!) envoyer dessins à aquabrasiont
     - construire le robot
 - Core :
     - (!!) Programmation du serveur osc 
