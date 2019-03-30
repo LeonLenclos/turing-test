@@ -75,3 +75,11 @@ Du 15/3/2019 au 31/3/2019 à Graulhet puis résidence 104 du 15 au 21 avril 2019
 
 [Retour à la liste des robots du laboratoire](.)
 
+## Logistique
+
+Petit fly rack avec une pochette intégrée dans laquelle :
+    - cables RJ45
+    - 2 alim netgear
+    - 1 alim rbpi
+    - 1 alim modulaire
+    - La doc
