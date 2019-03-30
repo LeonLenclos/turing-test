@@ -4,7 +4,7 @@
 
 Core est un robot chef d'orchestre. Il donne le tempo à toutes les autres créatures artificielles du Labo.
 
-![CORE V0](/ressources/divers/CORE V0.1.jpg)
+![CORE V0](/ressources/divers/CORE_V0.1.jpg)
 
 Le cerveau de Core
 
@@ -50,7 +50,7 @@ Le serveur écoute les message OSC de type `/trig/ n` et envoie un trig sur la s
 
 Le serveur écoute les trigs sur ses entrées et envoie les messages correspondants sur sa table de dispatch.
 
-#### Table de dispatch
+#### Table de dispatch
 
 indique quel message envoyer à quelle adresse ip en fonction des trigs qu'il reçoit
 
