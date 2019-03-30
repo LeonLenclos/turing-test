@@ -32,12 +32,12 @@
 ![Boston dynamics 1](/ressources/divers/Boston dynamics 1.png)
 ```
 
-#### [CORE V0](/ressources/divers/CORE V0.1.jpg)
+#### [CORE V0](/ressources/divers/CORE_V0.1.jpg)
 
-![CORE V0](/ressources/divers/CORE V0.1.jpg)
+![CORE V0](/ressources/divers/CORE_V0.1.jpg)
 
 ```
-![CORE V0](/ressources/divers/CORE V0.1.jpg)
+![CORE V0](/ressources/divers/CORE_V0.1.jpg)
 ```
 
 #### [F4-motion](/ressources/divers/F4-motion.gif)
