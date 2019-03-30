@@ -2,42 +2,42 @@
 # divers - galerie
 #### [Alan Turing 1](/ressources/divers/Alan Turing 1.jpg)
 
-![Alan Turing 1](/ressources/divers/Alan Turing 1.jpg)
+![Alan-Turing-1](/ressources/divers/Alan-Turing-1.jpg)
 
 ```
-![Alan Turing 1](/ressources/divers/Alan Turing 1.jpg)
+![Alan-Turing-1](/ressources/divers/Alan-Turing-1.jpg)
 ```
 
-#### [Alan Turing 2](/ressources/divers/Alan Turing 2.jpg)
+#### [Alan-Turing-2](/ressources/divers/Alan-Turing-2.jpg)
 
-![Alan Turing 2](/ressources/divers/Alan Turing 2.jpg)
-
-```
-![Alan Turing 2](/ressources/divers/Alan Turing 2.jpg)
-```
-
-#### [Alan Turing 3](/ressources/divers/Alan Turing 3.jpg)
-
-![Alan Turing 3](/ressources/divers/Alan Turing 3.jpg)
+![Alan-Turing-2](/ressources/divers/Alan-Turing-2.jpg)
 
 ```
-![Alan Turing 3](/ressources/divers/Alan Turing 3.jpg)
+![Alan-Turing-2](/ressources/divers/Alan-Turing-2.jpg)
 ```
 
-#### [Boston dynamics 1](/ressources/divers/Boston dynamics 1.png)
+#### [Alan-Turing-3](/ressources/divers/Alan-Turing-3.jpg)
 
-![Boston dynamics 1](/ressources/divers/Boston dynamics 1.png)
-
-```
-![Boston dynamics 1](/ressources/divers/Boston dynamics 1.png)
-```
-
-#### [CORE V0](/ressources/divers/CORE_V0.1.jpg)
-
-![CORE V0](/ressources/divers/CORE_V0.1.jpg)
+![Alan-Turing-3](/ressources/divers/Alan-Turing-3.jpg)
 
 ```
-![CORE V0](/ressources/divers/CORE_V0.1.jpg)
+![Alan-Turing-3](/ressources/divers/Alan-Turing-3.jpg)
+```
+
+#### [Boston-dynamics-1](/ressources/divers/Boston-dynamics-1.png)
+
+![Boston-dynamics-1](/ressources/divers/Boston-dynamics-1.png)
+
+```
+![Boston-dynamics-1](/ressources/divers/Boston-dynamics-1.png)
+```
+
+#### [CORE_V0](/ressources/divers/CORE_V0.1.jpg)
+
+![CORE_V0](/ressources/divers/CORE_V0.1.jpg)
+
+```
+![CORE_V0](/ressources/divers/CORE_V0.1.jpg)
 ```
 
 #### [F4-motion](/ressources/divers/F4-motion.gif)
@@ -174,14 +174,6 @@
 
 ```
 ![grim-network-montage](/ressources/divers/grim-network-montage.jpg)
-```
-
-#### [grim-network](/ressources/divers/grim-network.dia)
-
-![grim-network](/ressources/divers/grim-network.dia)
-
-```
-![grim-network](/ressources/divers/grim-network.dia)
 ```
 
 #### [grim-network](/ressources/divers/grim-network.png)
