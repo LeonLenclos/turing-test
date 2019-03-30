@@ -27,6 +27,6 @@ Les textes que vous trouverez ici constituent à la fois :
       htmlString += `<li><a href="${file.path}">${file.name}</a></li>`;
     }
     htmlString += '</ul>';
-    document.getElementById('dir-indexing')[0].innerHTML = htmlString;
+    document.getElementById('dir-indexing').innerHTML = htmlString;
   })()
 </script>
