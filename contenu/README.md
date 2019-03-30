@@ -17,6 +17,9 @@ Les textes que vous trouverez ici constituent à la fois :
 
 ### Le contenu
 
+<p class="github-pages-ignore">![think-exclamation](/ressources/icons/think-exclamation.png) Ce code génère un petit sommaire sur [le site](http://turing-test.cienokill.fr/contenu/). Ici ça affiche n'importe quoi...</p>
+
+
 <div id="dir-indexing"></div>
 <script>
   (async () => {
