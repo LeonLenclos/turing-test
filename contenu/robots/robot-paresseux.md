@@ -1,5 +1,4 @@
-
-# Robot paresseux
+# Mimi
 
 ## Esthétique, allure du robot
 

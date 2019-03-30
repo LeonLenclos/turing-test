@@ -17,11 +17,11 @@ Les Robots
 - [Klan](klan.md)
 - [Core](core.md)
 - [Caro](caro.md)
-- [Robot paresseux](robot-paresseux.md)
+- [Mimi](mimi.md)
 - [Toto](toto.md)
 - [Turc](turc.md)
 - [Dedo](dedo.md)
-- [Robot légume](robot-legume.md)
+- [Maki](maki.md)
 - [Matt](matt.md) (fiche à rédiger)
 - [Lisa](lisa.md) (fiche à rédiger)
 
