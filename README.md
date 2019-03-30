@@ -13,12 +13,12 @@ Fabien Carbo-Gil, Bertrand Lenclos et Léon Lenclos, [Cie Nokill](http://cienoki
 
 Le spectacle est actuellement en cours de création. Nous avons décidé de rendre le processus de création ouvert. Vous trouverez ici les textes que nous sommes en train d'écrire, les idées qui germent, le spectacle qui jours après jours prend forme.
 
-🚧 Travail en cours.
+![warning-wip](/ressources/icons/warning-wip.png) Travail en cours. ![warning-wip](/ressources/icons/warning-wip.png)
 
 Sommaire
 --------
 
--  [![dossier](/ressources/icons/dossier.png)Le dossier de création](dossier/dossier.md)
+-  [![dossier](/ressources/icons/dossier.png)Le dossier de création](dossier/dossier)
 -  [![robot](/ressources/icons/robot.png)La liste des robots du laboratoire](contenu/robots)
 -  [![intentions](/ressources/icons/intentions.png)Des notes d'intentions](contenu/intentions)
 -  [![textes](/ressources/icons/textes.png)Des textes à lire, textes théoriques, petites histoires](contenu/textes)
@@ -26,7 +26,7 @@ Sommaire
 
 et aussi
 
--  [![bibliographie](/ressources/icons/bibliographie.png)Une bibliographie](contenu/bibliographie.md)
+-  [![bibliographie](/ressources/icons/bibliographie.png)Une bibliographie](contenu/bibliographie)
 -  [![organisation](/ressources/icons/organisation.png)L'organisation de la création](contenu/organisation)
 
 <small>L'ensemble de ces textes est placé sous [License Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Bonne lecture.</small>
