@@ -23,13 +23,13 @@ Le Git d'un shield pour interfacer modulaires et arduino : Synapse de chez Shadu
 
 [lien vers le Blog](http://www.shaduzlabs.com/blog/21/synapse-a-diyfriendly-cv-io-shield-for-arduino.html)
 
-![shéma synapse 1](/ressources/synapse_4.png)
+![shéma synapse 1](/ressources/divers/synapse_4.png)
 
-![shéma synapse 2](/ressources/synapse_5.png)
+![shéma synapse 2](/ressources/divers/synapse_5.png)
 
 ## arduino et servomoteur.
 
-![shéma arduino/servo](/ressources/cablage_servo_arduino.png)
+![shéma arduino/servo](/ressources/divers/cablage_servo_arduino.png)
 
 ----
 
