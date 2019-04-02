@@ -1,12 +1,21 @@
-#! /usr/bin/python
-import datetime
+#! /usr/bin/python3.5
 
+import datetime
+from collections import OrderedDict
 from pythonosc import osc_message_builder
 from pythonosc import udp_client
 from signal import pause
 from gpiozero import Button
 
 from dispatch_table import dispatch_table
+
+# keys are trig_index values are pin number
+trig_patch = {
+    'GPIO4' :1,
+    'GPIO17':2,
+    'GPIO22':3,
+    'GPIO27':4,
+}
 
 def log(msg):
     """
@@ -31,10 +40,11 @@ for directive in dispatch_table:
         clients[address] = udp_client.SimpleUDPClient(*address)
 
 
-def on_trig(trig_index):
+def on_trig(button):
     """
     Send the osc messages for all the directives that listen to trig_index
     """
+    trig_index = trig_patch[repr(button.pin)]
     log('TRIG IN : {}'.format(trig_index))
     for directive in dispatch_table:
         if directive.trig_in == trig_index:
@@ -44,17 +54,15 @@ def on_trig(trig_index):
                 address=directive.address)
             )
 
-# keys are trig_index values are pin number
-trig_patch = {
-    1:3
-    2:7
-    3:8
-    4:2
-}
 
-for trig_index, pin in trig_patch.items():
-    trig = Button(pin)
-    trig.when_pressed = lambda : on_trig(trig_index)
+buttons = {}
+
+for pin, trig_index in trig_patch.items():
+    log('PATCH: trig {} on GPIO{}'.format(trig_index, pin))
+    buttons[trig_index] = Button(pin)
+    buttons[trig_index].when_released = on_trig
+    # buttons[trig_index].when_released = lambda : on_trig(trig_index)
+
 
 log('START SERVING...')
 
