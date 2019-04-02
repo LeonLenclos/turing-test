@@ -17,6 +17,13 @@ Notes Techniques
 
 ## arduino, cv et gate.
 
+L'interface gate ressemble à ça :
+
+!(interface-gate)[/ressources/interface-gate.png]
+
+
+### References circuits
+
 Le Git d'un shield pour interfacer modulaires et arduino : Synapse de chez Shaduzlabs
 
 [lien vers le Github](https://github.com/shaduzlabs/synapse)

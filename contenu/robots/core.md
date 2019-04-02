@@ -46,9 +46,20 @@ Voilà le schéma du réseau :
 
 ### Software
 
+
 Le serveur écoute les message OSC de type `/trig/ n` et envoie un trig sur la sortie `n`.
 
 Le serveur écoute les trigs sur ses entrées et envoie les messages correspondants sur sa table de dispatch. Voir le [code](  turing-test/sources/python/trig-to-osc.txt)
+
+#### Patch du module maison
+
+    VCC     : PIN1      (3.3V)
+    GND     : PIN9      (GND)
+    TRIG 1  : PIN7      GPIO04
+    TRIG 2  : PIN11     GPIO17
+    TRIG 3  : PIN13     GPIO27
+    TRIG 4  : PIN15     GPIO22
+    GND     : PIN 39    (GND)
 
 #### Table de dispatch
 
@@ -64,6 +75,13 @@ un trig sur l'entrée 1 envoie un message OSC d'adresse `/control/navigator/run`
 
 un trig sur l'entrée 2 envoie un message OSC d'adresse `/dance` avec à la machine `lucy.local` sur son port `4242`.
 
+#### SSH
+
+Pour se connecter en ssh à core
+
+`ssh pi@core.local` ou `ssh pi@10.0.0.11`
+
+mot de passe : SIMPLE_GRIM_MDP
 
 ## Améliorations envisagées
 
