@@ -1,6 +1,6 @@
 
 # divers - galerie
-#### [Alan Turing 1](/ressources/divers/Alan Turing 1.jpg)
+#### [Alan-Turing-1](/ressources/divers/Alan-Turing-1.jpg)
 
 ![Alan-Turing-1](/ressources/divers/Alan-Turing-1.jpg)
 
@@ -184,12 +184,28 @@
 ![grim-network](/ressources/divers/grim-network.png)
 ```
 
+#### [interface-gate](/ressources/divers/interface-gate.png)
+
+![interface-gate](/ressources/divers/interface-gate.png)
+
+```
+![interface-gate](/ressources/divers/interface-gate.png)
+```
+
 #### [liste_barre_klan](/ressources/divers/liste_barre_klan.png)
 
 ![liste_barre_klan](/ressources/divers/liste_barre_klan.png)
 
 ```
 ![liste_barre_klan](/ressources/divers/liste_barre_klan.png)
+```
+
+#### [module-rpi-core](/ressources/divers/module-rpi-core.png)
+
+![module-rpi-core](/ressources/divers/module-rpi-core.png)
+
+```
+![module-rpi-core](/ressources/divers/module-rpi-core.png)
 ```
 
 #### [synapse_4](/ressources/divers/synapse_4.png)

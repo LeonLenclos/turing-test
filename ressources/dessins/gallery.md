@@ -48,28 +48,12 @@
 ![dessin13](/ressources/dessins/dessin13.png)
 ```
 
-#### [dessin14](/ressources/dessins/dessin14.png)
-
-![dessin14](/ressources/dessins/dessin14.png)
-
-```
-![dessin14](/ressources/dessins/dessin14.png)
-```
-
 #### [dessin15](/ressources/dessins/dessin15.png)
 
 ![dessin15](/ressources/dessins/dessin15.png)
 
 ```
 ![dessin15](/ressources/dessins/dessin15.png)
-```
-
-#### [dessin2](/ressources/dessins/dessin2.png)
-
-![dessin2](/ressources/dessins/dessin2.png)
-
-```
-![dessin2](/ressources/dessins/dessin2.png)
 ```
 
 #### [dessin3](/ressources/dessins/dessin3.png)
