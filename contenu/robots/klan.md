@@ -86,31 +86,34 @@ Proposition en pseudo-code pour le programme de Klan
 ```
 // constantes
 constante ECARTEMENT_DES_JAMBES = 75 //cm
+normalisation_vitesse = vitesse max de klan en m/s divisé par 400
 
 // reglages
 variable vitesse
+variable vitesse_normalisee
 variable longueur_d_un_aller
+variable vitesse max //entre 0 et 400
 variable pause_avant_de_tourner
 variable pause_apres_avoir_tourne
 variable rayon_du_demi_tour
-variable probabilite_de_faire_une_pause
+variable moment_de_la_pause //en pourcentage d'un aller
 variable duree_pause_pour_reflechir
 
-fonction freiner():
-   regler_vitesse_jambe_gauche(0)
-   regler_vitesse_jambe_droite(0)
+fonction arreter():
+   Pour i compris entre vitesse et 0
+      regler_vitesse_jambe_gauche(i)
+      regler_vitesse_jambe_droite(i)
 
 fonction faire_une_pause_pour_reflechir():
-   une chance sur probabilite_de_faire_une_pause de :
-       freiner()
-       attendre(duree_pause_pour_reflechir)
+    freiner()
+    attendre(duree_pause_pour_reflechir)
+    demarer()
 
-fonction avancer(longueur):
-   duree = longueur / vitesse
-   regler_vitesse_jambe_gauche(vitesse)
-   regler_vitesse_jambe_droite(vitesse)
-   attendre(duree)
-   freiner()
+fonction demarer():
+    Pour i compris entre 0 et vitesse
+      regler_vitesse_jambe_gauche(i)
+      regler_vitesse_jambe_droite(i)
+
    
 fonction tourner_a_gauche(rayon):
    longueur_demi_tour_gauche = PI * rayon
@@ -124,13 +127,21 @@ fonction tourner_a_gauche(rayon):
    freiner()
  
 fonction faire_les_cent_pas :
+   vitesse_normalisee = vitesse*normalisation_vitesse
+   duree = longueur_d_un_aller / vitesse 
     boucle infini :
-        avancer(longueur_d_un_aller)
-        attendre(pause_avant_de_tourner)
+        demarer()
+        attendre(duree*((moment_de_la_pause)/100)
+        faire_une_pause_pour_reflechir()
+        attendre(duree*(1-(moment_de_la_pause)/100)
+        areter()
+        attendre(pause_apres_avoir_tourne)
         tourner_a_gauche(rayon_du_demi_tour)
         attendre(pause_apres_avoir_tourne)
-
-faire_les_cent_pas()
+        
+        
+fonction boucle()
+   faire_les_cent_pas()
 ```
 ## Améliorations envisagées
 
