@@ -19,7 +19,7 @@ Notes Techniques
 
 L'interface gate ressemble à ça :
 
-!(interface-gate)[/ressources/interface-gate.png]
+!(interface-gate)[/ressources/divers/interface-gate.png]
 
 
 ### References circuits
