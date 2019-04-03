@@ -1,9 +1,9 @@
-#N canvas 14 77 1254 931 12;
+#N canvas 4 159 1254 931 12;
 #X obj 157 349 sig~;
 #X floatatom 157 320 5 0 0 0 - - -, f 5;
 #X obj 99 279 mtof;
 #X obj 188 84 vsl 15 128 50 3000 0 0 empty empty empty 0 -9 0 10 -262144
--1 -1 180 1;
+-1 -1 1223 1;
 #N canvas 2 95 450 300 lfo 0;
 #X obj 129 57 loadbang;
 #X msg 173 87 90;
@@ -41,7 +41,7 @@
 #X obj 569 332 sig~;
 #X floatatom 569 303 5 0 0 0 - - -, f 5;
 #X obj 576 96 vsl 15 128 50 3000 0 0 empty empty empty 0 -9 0 10 -262144
--1 -1 6309 1;
+-1 -1 222 1;
 #X obj 244 52 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144 -1
 -1;
 #X obj 461 378 mtof;
@@ -85,7 +85,7 @@
 #X obj 372 359 sig~;
 #X floatatom 372 330 5 0 0 0 - - -, f 5;
 #X obj 389 92 vsl 15 128 50 3000 0 0 empty empty empty 0 -9 0 10 -262144
--1 -1 2129 1;
+-1 -1 4650 1;
 #X obj 258 407 mtof;
 #N canvas 2 95 450 300 lfo 0;
 #X obj 129 57 loadbang;
@@ -126,7 +126,7 @@
 #X obj 736 291 sig~;
 #X floatatom 736 262 5 0 0 0 - - -, f 5;
 #X obj 733 99 vsl 15 128 50 3000 0 0 empty empty empty 0 -9 0 10 -262144
--1 -1 587 1;
+-1 -1 998 1;
 #X obj 642 356 mtof;
 #X obj 636 329 + 67;
 #X obj 1120 127 mtof;
@@ -239,21 +239,21 @@
 #X floatatom 1276 627 7 0 0 0 - - -, f 7;
 #X obj 1198 685 line~;
 #X obj 347 629 vsl 15 128 0 80 0 0 empty empty empty 0 -9 0 10 -262144
--1 -1 12700 1;
+-1 -1 0 1;
 #X obj 1297 931 dac~;
 #X obj 1397 608 delay 500;
 #X obj 830 530 *~;
 #X obj 287 462 dbtorms;
 #X obj 289 509 line~;
 #X obj 43 636 vsl 15 128 0 95 0 0 empty empty empty 0 -9 0 10 -262144
--1 -1 10100 1;
+-1 -1 0 1;
 #X obj 1370 715 dbtorms;
 #X obj 1367 769 line~;
 #X obj 146 831 vsl 15 128 0 99 0 0 empty empty empty 0 -9 0 10 -262144
--1 -1 8980 1;
+-1 -1 0 1;
 #X obj 1285 760 *~;
 #X obj 272 635 vsl 15 128 0 100 0 0 empty empty empty 0 -9 0 10 -262144
--1 -1 2870 1;
+-1 -1 0 1;
 #X obj 1151 540 / 2;
 #X obj 1152 572 phasor~;
 #X obj 1209 541 / 2;
@@ -261,7 +261,7 @@
 #X msg 1151 804 \$1 75;
 #X obj 1150 833 line~;
 #X obj 107 633 vsl 15 128 0 99 0 0 empty empty empty 0 -9 0 10 -262144
--1 -1 10364 1;
+-1 -1 0 1;
 #X obj 1274 736 *~;
 #X obj 1221 572 osc~;
 #X msg 1370 737 \$1 75;
@@ -356,11 +356,11 @@
 #X msg 1598 254 \$1 5;
 #X msg 1706 275 \$1 5;
 #X obj 716 697 hsl 128 15 40 80 0 0 empty empty empty -2 -8 0 10 -262144
--1 -1 9900 1;
+-1 -1 0 1;
 #X obj 717 724 hsl 128 15 40 80 0 0 empty empty empty -2 -8 0 10 -262144
--1 -1 10100 1;
+-1 -1 0 1;
 #X obj 732 749 hsl 128 15 40 80 0 0 empty empty empty -2 -8 0 10 -262144
--1 -1 4700 1;
+-1 -1 0 1;
 #X text 626 694 Chord 1, f 10;
 #X text 626 722 Chord 2, f 10;
 #X text 625 753 Chord 3, f 10;
@@ -372,12 +372,12 @@
 #X obj 1766 830 line~;
 #X msg 1767 801 \$1 75;
 #X obj 583 642 vsl 15 128 0 90 0 0 empty empty empty 0 -9 0 10 -262144
--1 -1 12430 1;
+-1 -1 0 1;
 #X obj 1437 786 dbtorms;
 #X obj 1439 831 line~;
 #X msg 1437 808 \$1 75;
 #X obj 500 637 vsl 15 128 0 100 0 0 empty empty empty 0 -9 0 10 -262144
--1 -1 11583 1;
+-1 -1 0 1;
 #X text 487 794 Vol Clean;
 #X text 406 600 ---------------Chords-------------;
 #X obj 441 102 s play;
@@ -508,7 +508,7 @@
 #X obj 444 525 + 10;
 #X obj 352 478 * 95;
 #X text 80 610 comment, f 10;
-#N canvas 25 99 1254 931 turingsync 0;
+#N canvas 4 93 827 922 turingsync 1;
 #X obj 364 76 bng 15 100 50 0 empty empty empty 0 -6 0 8 -262144 -1
 -1;
 #X obj 390 224 noteout;
@@ -547,7 +547,7 @@
 #X obj 278 -204 s step1;
 #X obj 258 -164 s step2;
 #X obj 255 -131 s step3;
-#X msg 620 120 disconnect;
+#X msg 624 158 disconnect;
 #X text 678 22 PC out;
 #X obj 875 95 bng 15 100 10 0 empty empty empty 0 -6 0 8 -262144 -1
 -1;
@@ -555,7 +555,7 @@
 #X msg 987 -202 2;
 #X obj 1379 -161 stripnote;
 #X obj 1386 -184 notein;
-#X floatatom 1396 -233 5 0 0 0 - - -, f 5;
+#X floatatom 1376 -130 5 0 0 0 - - -, f 5;
 #X floatatom 521 -241 5 0 0 0 - - -, f 5;
 #X obj 560 -283 float;
 #X obj 614 -283 + 1;
@@ -596,14 +596,6 @@
 #X obj 370 -130 float;
 #X obj 425 -123 + 1;
 #X obj 371 -109 mod 2;
-#X obj 863 321 netsend -u -b;
-#X obj 864 220 list prepend send;
-#X obj 864 245 list trim;
-#X msg 874 116 1;
-#X msg 609 95 connect 192.168.1.2 50460;
-#X obj 873 139 oscformat /control/navigator/run;
-#X obj 1080 81 bng 15 50 10 0 empty empty empty 0 -6 0 8 -262144 -1
--1;
 #X text 1240 -268 Rapide;
 #X text 1149 -278 Moyen;
 #X msg 1057 -209 3;
@@ -631,6 +623,17 @@
 #X obj 786 -61 s step4;
 #X obj 719 -327 s tempo;
 #X obj 782 -176 mod 6;
+#X msg 608 94 connect ottomann.local 50460;
+#X obj 1348 -287 loadbang;
+#X msg 858 162 send /control/navigator/run default;
+#X obj 857 191 packOSC;
+#X obj 859 214 iemnet/udpsend;
+#X obj 990 397 bng 15 100 10 0 empty empty empty 0 -6 0 8 -262144 -1
+-1;
+#X obj 662 251 iemnet/udpreceive 9997;
+#X obj 661 312 unpackOSC;
+#X obj 668 361 print leon;
+#X obj 999 357 route /test;
 #X connect 0 0 5 0;
 #X connect 2 0 1 2;
 #X connect 3 0 8 2;
@@ -648,9 +651,8 @@
 #X connect 14 0 45 0;
 #X connect 14 0 49 0;
 #X connect 15 0 12 0;
-#X connect 16 0 35 0;
-#X connect 16 0 104 0;
-#X connect 17 0 97 0;
+#X connect 16 0 97 0;
+#X connect 17 0 90 0;
 #X connect 18 0 14 0;
 #X connect 20 0 18 0;
 #X connect 23 0 31 0;
@@ -661,15 +663,15 @@
 #X connect 26 0 27 0;
 #X connect 26 0 28 0;
 #X connect 26 0 2 0;
-#X connect 26 0 80 0;
+#X connect 26 0 103 0;
 #X connect 27 0 4 0;
 #X connect 28 0 3 0;
-#X connect 33 0 76 0;
-#X connect 35 0 79 0;
-#X connect 36 0 82 0;
+#X connect 33 0 107 0;
+#X connect 35 0 105 0;
+#X connect 36 0 35 0;
 #X connect 37 0 36 0;
 #X connect 38 0 40 0;
-#X connect 38 0 89 0;
+#X connect 38 0 82 0;
 #X connect 39 0 38 0;
 #X connect 39 1 38 1;
 #X connect 41 0 13 0;
@@ -691,7 +693,6 @@
 #X connect 54 0 53 1;
 #X connect 55 0 51 0;
 #X connect 56 0 55 0;
-#X connect 57 0 35 0;
 #X connect 58 0 59 0;
 #X connect 59 0 57 0;
 #X connect 60 0 61 0;
@@ -700,52 +701,53 @@
 #X connect 62 0 58 0;
 #X connect 63 0 62 0;
 #X connect 64 0 32 0;
-#X connect 64 0 35 0;
 #X connect 65 0 66 0;
 #X connect 66 0 64 0;
 #X connect 67 0 68 0;
 #X connect 67 0 69 0;
 #X connect 68 0 67 1;
 #X connect 69 0 65 0;
-#X connect 70 0 35 0;
 #X connect 71 0 72 0;
 #X connect 72 0 70 0;
 #X connect 73 0 74 0;
 #X connect 73 0 75 0;
 #X connect 74 0 73 1;
 #X connect 75 0 71 0;
-#X connect 77 0 78 0;
-#X connect 78 0 76 0;
-#X connect 79 0 81 0;
-#X connect 80 0 76 0;
-#X connect 81 0 77 0;
+#X connect 78 0 36 0;
+#X connect 82 0 85 0;
+#X connect 82 1 83 0;
+#X connect 82 2 84 0;
+#X connect 82 3 86 0;
+#X connect 82 4 89 0;
+#X connect 83 0 36 1;
+#X connect 84 0 36 1;
+#X connect 85 0 36 1;
 #X connect 85 0 36 0;
-#X connect 89 0 92 0;
-#X connect 89 1 90 0;
-#X connect 89 2 91 0;
-#X connect 89 3 93 0;
-#X connect 89 4 96 0;
-#X connect 90 0 36 1;
-#X connect 91 0 36 1;
-#X connect 92 0 36 1;
-#X connect 92 0 36 0;
-#X connect 93 0 36 1;
-#X connect 94 0 36 0;
-#X connect 95 0 36 0;
-#X connect 96 0 36 1;
-#X connect 97 0 18 1;
-#X connect 97 0 108 0;
-#X connect 98 0 37 0;
+#X connect 86 0 36 1;
+#X connect 87 0 36 0;
+#X connect 88 0 36 0;
+#X connect 89 0 36 1;
+#X connect 90 0 18 1;
+#X connect 90 0 101 0;
+#X connect 91 0 37 0;
+#X connect 92 0 88 0;
+#X connect 93 0 87 0;
+#X connect 94 0 78 0;
+#X connect 95 0 96 0;
+#X connect 96 0 100 0;
+#X connect 97 0 98 0;
+#X connect 97 0 102 0;
+#X connect 98 0 97 1;
 #X connect 99 0 95 0;
-#X connect 100 0 94 0;
-#X connect 101 0 85 0;
-#X connect 102 0 103 0;
+#X connect 102 0 99 0;
 #X connect 103 0 107 0;
-#X connect 104 0 105 0;
-#X connect 104 0 109 0;
-#X connect 105 0 104 1;
-#X connect 106 0 102 0;
-#X connect 109 0 106 0;
+#X connect 104 0 84 0;
+#X connect 105 0 106 0;
+#X connect 106 0 107 0;
+#X connect 109 0 110 0;
+#X connect 110 0 111 0;
+#X connect 110 0 112 0;
+#X connect 112 0 108 0;
 #X restore 706 628 pd turingsync;
 #X obj 888 234 s hit;
 #X obj 891 517 r step4;
