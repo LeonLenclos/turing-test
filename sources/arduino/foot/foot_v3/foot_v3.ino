@@ -9,8 +9,8 @@ const long tempsDemarrage = 90000; //Temps d'attente avant démarrage (lancement
 //////////// PINS
 const int LEDPIN = 2;
 const int PIEZZO1 = A0; 
-const int PIEZZO2 = A1; 
-const int PIEZZO3 = A2; 
+const int PIEZZO2 = A2; 
+const int PIEZZO3 = A4; 
 // A3 est en l'air car il définit la graine du générateur aléatoire
 
 /////////////////// VAR
@@ -62,14 +62,14 @@ void setup() {
   digitalWrite(LEDPIN, LOW);
   for (int i = 0; i < 7; i++) {
     Serial.println(F("blink !"));
-    delay(500); digitalWrite(LEDPIN, HIGH);
     delay(500); digitalWrite(LEDPIN, LOW);
     delay(500); digitalWrite(LEDPIN, HIGH);
   }
   
-  Serial.println(F("Setup done"));
+  
 
-  delay(tempsDemarrage);
+  //delay(tempsDemarrage);
+  Serial.println(F("Setup done"));
 }
 
 
@@ -81,9 +81,11 @@ void loop() {
   char debug[50];
   sprintf(debug, "amp=%03d piezzo1=%03d piezzo2=%03d piezzo3=%03d",amplitudeDetectee, analogRead(PIEZZO1),analogRead(PIEZZO2),analogRead(PIEZZO3));
   Serial.println(debug);
+  delay(100);
   // if the sensor reading is greater than the threshold:
+  /*
   if (amplitudeDetectee >= seuilFaible ){
-    // Serial.println("Knock!");
+     Serial.println("Knock!");
   
     if (amplitudeDetectee <= seuilMedium) {
       sprintf(fileName, "SOFT%d.mp3", random(0,9)); 
@@ -100,6 +102,7 @@ void loop() {
     delay(tempsRedeclenchement);
      
   } 
+  */
  
     delay(30);   
 }
