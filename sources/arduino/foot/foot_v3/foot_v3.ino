@@ -1,23 +1,22 @@
 ///////////// REGLAGES
-const int seuilFaible = 4; 
-const int seuilMedium = 18;
-const int seuilFort = 55;
+const int seuilFaible = 10; 
+const int seuilMedium = 100;
+const int seuilFort = 300;
 const int attente = 100; //attente entre la détection et la lecture audio (pour éviter que le son du choc interfère avec le cri de foot)
 const int tempsRedeclenchement = 500;
-const long tempsDemarrage = 90000; //Temps d'attente avant démarrage (lancement de void loop) en millisecondes
+const long tempsDemarrage = 90; //Temps d'attente avant démarrage (lancement de void loop) en secondes
 
 //////////// PINS
 const int LEDPIN = 2;
 const int PIEZZO1 = A0; 
-const int PIEZZO2 = A2; 
+//const int PIEZZO2 = A2; 
 const int PIEZZO3 = A4; 
 // A3 est en l'air car il définit la graine du générateur aléatoire
 
 /////////////////// VAR
-//nmbre de characteres max dans le nom d'un fichier (ne pas dépasser 12 car le shield ne gère pas les fichiers au nom trop long)
-char fileName[8];
 
-int amplitudeDetectee = 0; 
+int aleat;
+
 
 //////////////// ADAFRUIT INIT
 #include <SPI.h>
@@ -60,49 +59,56 @@ void setup() {
   
   // La LED clignote 2 fois à l'initialisation
   digitalWrite(LEDPIN, LOW);
-  for (int i = 0; i < 7; i++) {
+  for (int i = 0; i < tempsDemarrage; i++) {
     Serial.println(F("blink !"));
     delay(500); digitalWrite(LEDPIN, LOW);
     delay(500); digitalWrite(LEDPIN, HIGH);
+    
   }
   
-  
 
-  //delay(tempsDemarrage);
-  Serial.println(F("Setup done"));
 }
 
 
 //////////////////// LOOP //////////////////////////////////////////////
 void loop() {
-
+  delay(20);
   //amplitueDetectee est le max des amplitudes detectees par les 3 piezzos
-  amplitudeDetectee = max(max(analogRead(PIEZZO1),analogRead(PIEZZO2)),analogRead(PIEZZO3));
+  int piezzo1=analogRead(PIEZZO1);
+  //int piezo2=analogRead(PIEZZO2);
+  int piezzo3=analogRead(PIEZZO3);
+  int moyenne = (piezzo1+piezzo3)/2;
+
+  int amplitudeDetectee = (max(piezzo1,piezzo3)+moyenne)/2;
+
+  // debug
   char debug[50];
-  sprintf(debug, "amp=%03d piezzo1=%03d piezzo2=%03d piezzo3=%03d",amplitudeDetectee, analogRead(PIEZZO1),analogRead(PIEZZO2),analogRead(PIEZZO3));
+  sprintf(debug, "amp=%04d moyenne=%04d piezzo1=%04d piezzo3=%04d", amplitudeDetectee,moyenne,piezzo1,piezzo3);
   Serial.println(debug);
-  delay(100);
+
   // if the sensor reading is greater than the threshold:
-  /*
+
   if (amplitudeDetectee >= seuilFaible ){
      Serial.println("Knock!");
   
+    char fileName[50];
     if (amplitudeDetectee <= seuilMedium) {
-      sprintf(fileName, "SOFT%d.mp3", random(0,9)); 
+      sprintf(fileName, "SOFT%d", random(0,9)); 
     }  
-    else if ((amplitudeDetectee >= seuilMedium )&&(amplitudeDetectee<= seuilFort) ) {
-      sprintf(fileName, "MEDI%d.mp3", random(0,9));  
+    else if ((amplitudeDetectee >= seuilMedium )&&(amplitudeDetectee <= seuilFort) ) {
+      sprintf(fileName, "MEDI%d", random(0,9));  
     } 
     else if (amplitudeDetectee >= seuilFort ) {
-      sprintf(fileName, "HARL%d.mp3", random(0,9));      
+      sprintf(fileName, "HARL%d", random(0,9));      
     }    
     delay(attente);
+    strcat(fileName,".mp3");
+    Serial.println(fileName);
     musicPlayer.playFullFile(fileName);
-    //Serial.println(fileName);
+    Serial.println("joué");
+
     delay(tempsRedeclenchement);
      
   } 
-  */
- 
-    delay(30);   
-}
+
+  }

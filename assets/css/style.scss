@@ -1,183 +1,105 @@
 ---
 ---
 
-@import "{{ site.theme }}";
-h1.title a {
-	font-family:Arial, Arial, Helvetica;
-	font-size:16px;
-	color:#fff
+/* @import "{{ site.theme }}"; */
+
+.github-pages-ignore {
+	display: none;
+}
+
+body{
+  font-family: monospace;
+  font-size: 12pt;
+  background: #aaa;
+}
+
+#main, nav a
+{
+  background: #ddd;
+  margin:5px;
+  padding: 5px;
+  border-top: 1px solid black;
+  border-bottom: 4px solid black;
+  border-left: 1px solid black;
+  border-right: 4px solid black;
+  border: 0px solid black;
+}
+
+header, #main, footer {
+  margin: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 900px;
+  padding: 30px;
+}
+
+h1, h2, h3, h4, h5, h6{
+  margin-top: 20px;
+  color: black;
+  /*background: gray;
+  text-transform: uppercase;
+  text-decoration: underline wavy;
+  
+    width:-moz-fit-content;
+
+  display: inline-block;
+  
+
+  */
+  border-bottom : 4px solid black;
+  display: table;
+}
+
+header h1 {
+  text-align: center;
+}
+
+header a{
+  text-decoration: none;
+  margin: 5px;;
+  display: block;
+  
+}
+header nav a:hover {
+  background: white;
 }
 nav {
-	text-align:center;
-	padding-top:20px;
-	color:#fff
-}
-nav a,h1.title a {
-	color:#fff;
-	text-decoration:none;
-	margin:20px;
-	white-space: nowrap
-}
-nav a:hover,h1.title a:hover {
-	border:1px solid #fff;
-	padding:1px;
-	margin:18px;
-	text-decoration:none;
-	color:#fff
-}
-nav a:active,h1.title a:active {
-	background-color:#fff;
-	border:1px solid #fff;
-	padding:1px;
-	margin:18px;
-	text-decoration:none;
-	color:#000
-}
-.markdown-body h1 {
-	text-align:center;
-	padding-top:30px
-}
-.markdown-body blockquote::before {
-	content:none
-}
-.markdown-body blockquote {
-	text-indent:20px;
-	font-style:italic;
-	font-family:inherit;
-	font-size:17px;
-	border:none;
-	border-left:1px solid #09B;
-	padding:0 10px;
-	margin-left:20px
-}
-.markdown-body h2 {
-	font-size:20px;
-	color:#000
-}
-a {
-	color:#09B;
-	text-decoration:none
-}
-a:hover {
-	border:1px solid #09B;
-	padding:1px;
-	margin:-2px;
-	text-decoration:none;
-	color:#09B;
-}
-a:active {
-	background-color:#09B;
-	border:1px solid #09B;
-	padding:1px;
-	margin:-2px;
-	text-decoration:none;
-	color:#fff
-}
-.markdown-body img {
-	max-width:90%;
-	display:block;
-	margin:auto
-}
-.markdown-body p {
-	overflow:hidden
-}
-.markdown-body li p {
-	padding-left : 2px; /*prevent link border bug in list*/
-}
-.markdown-body pre.lines {
-	display:none
-}
-.markdown-body pre {
-	padding:20px;
-	background:#001929;
-	margin:5px auto;
-	white-space: auto;
+  margin-top: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: left;
 }
 
-.markdown-body code {
-	white-space: auto;
+a, a:visited{
+  color: inherit;
+  font-weight: bold;
+}
+a:hover{
+  text-decoration: none;
 }
 
-#container {
-	background-image:none;
-	background-color:#001929;
-	border:0;
-	box-shadow:0 0 7px #000;
-	max-width:800px
+footer{
+  text-align: center;
 }
-.wrapper {
-	width:100%;
-	max-width:800px;
-	margin:auto
+
+img {
+  display: block;
+  margin:auto;
+  background: white;
+  border: 10px solid white;
+  max-width: 500px;
+  max-height: 500px;
+  max-width: 90%;
 }
-.markdown-body h1,.markdown-body h2,.markdown-body h3,.markdown-body h4 {
-	color:#002939
+
+pre.lines {
+  display:none;
 }
-body {
-	font-size:16px;
-	background:#001929
+code {
 }
-footer {
-	text-align:center;
-	font-size:11px;
-	padding-top:50px;
-	color:#fff
-}
-footer a,footer a:hover {
-	color:#09B
-}
-.turing-button {
-	display:block;
-	margin:auto;
-	padding:5px;
-	border:1px solid #09B;
-	width:300px;
-	height:auto;
-	text-align:center;
-	margin-top:30px;
-	margin-bottom:30px
-}
-@keyframes button {
-	from {
-		background-color:#fff;
-		color:#09B
-	}
-	to {
-		background-color:#09B;
-		color:#fff
-	}
-}
-.turing-button:hover {
-	animation-name:button;
-	animation-duration:1s;
-	background-color:#09B;
-	color:#fff;
-	display:block;
-	margin:auto;
-	padding:5px;
-	border:1px solid #09B;
-	width:300px;
-	height:auto;
-	text-align:center;
-	margin-top:30px;
-	margin-bottom:30px
-}
-.turing-button:active {
-	background-color:#025;
-	color:#fff;
-	display:block;
-	margin:auto;
-	padding:5px;
-	border:1px solid #025;
-	width:300px;
-	height:auto;
-	text-align:center;
-	margin-top:30px;
-	margin-bottom:30px
-}
-.github-pages-ignore {
-	display:none
-}
-.markdown-body {
-	margin:1px
+pre, code {
+  background: #444;
+  color:white;
+  border: 2px solid #444;
+  font-size: 10pt;
 }

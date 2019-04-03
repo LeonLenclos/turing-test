@@ -66,3 +66,8 @@ Voici une proposition de déroulé alternative
 - Bertrand sort
 - Fabien se fait beau et se montre à Echo
 - **Interlude**
+
+
+---
+
+[retour aux idées de scènes](.)

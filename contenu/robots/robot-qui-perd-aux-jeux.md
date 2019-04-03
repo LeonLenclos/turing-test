@@ -29,3 +29,5 @@ La plus part du temps ça peut etre commandé par un bouton (ou une pédale sous
 ## Moment envisagé pour la construction
 
 ?
+
+[Retour à la liste des robots du laboratoire](.)

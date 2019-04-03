@@ -1,6 +1,6 @@
 # Alan v1.2.1
 
-![](../../ressources/alan.JPG)
+![alan](/ressources/photos/alan.JPG)
 
 ## Description générale
 
@@ -11,20 +11,21 @@ Bientôt même quand il ne sera pas sur scène, Alan sera quand même là, sur l
 A la date suivante, Alan aura un peu changé. Comme nous.
 
 
-![](../../ressources/irit.JPG)
+![irit](/ressources/photos/irit.JPG)
 
 La compagnie et ses collaborateurs à l'IRIT
 
 
 A une époque où la frontière entre le monde virtuel et l'IRL (la [vraie vie](https://fr.wikipedia.org/wiki/Vraie_vie)) est de plus en plus [difficile à tracer](https://books.google.ca/books?id=VwJ4xsYHboYC&pg=PA533&lpg=PA533&dq=%22Social+Relationships+and+Identity+Online+and+Offline%22&source=bl&ots=bpBvupth9B&sig=2JeW2bC5x0yakE8JZNXGNCobemY&hl=en&sa=X&ei=0l5CUaaxDdPE4AO-_IHACg&ved=0CDgQ6AEwAQ#v=onepage&q=%22Social%20Relationships%20and%20Identity%20Online%20and%20Offline%22&f=false), Alan incarne l'irruption du numérique dans le quotidien tout autant que le décloisonnement du spectacle. Une oeuvre n'est jamais définitivement enfermée dans un temps et un lieu. La communication qui est faite autour d'une performance ainsi que les discussions et les réactions qu'elle suscite en font partie intégrante. Alan participe à cet étalement du spectacle dans l'espace-temps. Il est éveillé sur scène, avant et après le spectacle, il peut participer aux discussions, aux débats et même aider à évacuer les gens si jamais l'alarme incendie vient à sonner.
 
-![](../../ressources/dessin1.png)
+![dessin1](/ressources/dessins/dessin1.png)
 
 ## Allure
 Structure  d'aluminium qui se replie sur elle-même pour ne former qu'un parallélépipède rectangle qui se range facilement.
 
 
-![](../../ressources/alan_structure.png)
+![alan_structure](/ressources/photos/alan_structure.png)
+
 
 Dans la structure sont fixés les éléments du hardware qui sont décrits dans la description technique.
 
@@ -46,7 +47,7 @@ Les consignes d'écritures pour le développement d'Alan sont dans le fichier `b
 L'architecture d'Alan est basé sur le module python [chatterbot](https://github.com/gunthercox/ChatterBot). Le programme d'Alan est ainsi composé de modules, des bouts de programmes qui répondent à des taches précises :
 - Des modules servant à générer en fonction d'un texte entré par l'utilisateur une réponse sous forme de texte en fonction et un indice de confiance. Il sont appelés des LogicAdapter. Voici un tableau récapitulant le niveaundice de confiance pour chaque logic adapter:
 
-![](../../ressources/alan_logic.JPG)
+![alan_logic](/ressources/photos/alan_logic.JPG)
 
 - Un module servant à gérer la reconnaissance vocale (conversion voix vers texte) sera un InputAdapter
 - Un module servant à gérer la synthèse vocale (conversion texte vers voix) sera un OutputAdapter
@@ -113,4 +114,6 @@ Résidence au quai des savoirs du 16 au 21 novembre 2018 pour une confrontation 
 
 ![](../../ressources/alan_software.JPG)
 
-Résidence à l'IRIT, les joies de la programmation.
+Programmation pendant la résidence à l'IRIT, 
+
+[Retour à la liste des robots du laboratoire](.)

@@ -1,14 +1,6 @@
 Des machines qui parlent
 ========================
 
-Type
-----
-
-historique
-
-Résumé
-------
-
 Rapide aperçu de l'histoire des chatbots qui sera complétée au fil de la création.
 
 C'est quoi un chatbot ?
@@ -49,4 +41,4 @@ ChatBots Mythiques
 
 ---
 
-Continuer la lecture : [**Les Robots**](../robots)
+[retour à la liste des textes à lire, textes théoriques, petites histoires](.)

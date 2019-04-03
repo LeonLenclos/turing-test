@@ -10,25 +10,26 @@ Les différentes résidences prévues et leur contenu
 
 ## Planning résidence
 
-- Auditorium de Graulhet (81) - du 2 au 5 Janvier 2018
-- Cie Nokill Graulhet (81) - du 28 fevrier au 2 mars 2018
-- IRIT Toulouse (31) - du 29 janvier au 2 février 2018
-- Usinotopie Villemur (31), du 12 au 23 mars 2018. Restitution le 23 mars à 19h
-- Été de Vaour (81), du 2 au 6 avril 2018. Restitution le 6 avril à 18h30
-- MixArt Myris Toulouse (31) du 9 au 14 avril 2018. Restitution le 14 avril à 21h30
-- IRIT Toulouse (31) - 30 avril au 7 mai 2018
-- MixArt Myris Toulouse (31) du 10 au 14 septembre 2018.
-- Théâtre des Augustins Montauban (82) - du 24 septembre au 28 septembre 2018
-- Graines de rue Bessines (87) - du 29 octobre au 10 novembre 2018
-- Quai des savoirs Toulouse (31) du 16 au 21 novembre 2018
-- Graines de rue Bessines (87) - du 1 au 14 avril 2019
-- 104 - Paris (75) - du 15 au 21 avril 2019
-- MJC Rodez (12) du 29 avril au 10 mai 2019. restitution probable le vendredi 10 mai 2019 dans l'après-midi.
-- Théâtre d'Auch (32) du 13 au 24 mai 2019. restitutions probable le vendredi 24 mai 2019 dans l'après-midi.
-- Graines de rue Bessines (87) - Théâtre Gérard Philipe à Bessines (87) avec Première prévue le  vendredi 7 juin 2019 à Bessines.
-- MIMA Mirepoix (09) , Aout 2019 - A caler
-- La Grainerie Toulouse (31) - à caler en automne 2019. Reprise.
-- Espace Bonnefoy Toulouse (31) - à caler en automne 2019. Reprise.
+- Auditorium de Graulhet (81) - du 2 au 5 Janvier 2018.
+- Cie Nokill - Graulhet (81) - du 28 fevrier au 2 mars 2018.
+- IRIT - Toulouse (31) - du 29 janvier au 2 février 2018.
+- Usinotopie Villemur (31) - du 12 au 23 mars 2018 - Restitution le 23 mars à 19h.
+- Été de Vaour (81) - du 2 au 6 avril 2018 - Restitution le 6 avril à 18h30.
+- MixArt Myris - Toulouse (31) - du 9 au 14 avril 2018 - Restitution le 14 avril à 21h30.
+- IRIT - Toulouse (31) - 30 avril au 7 mai 2018.
+- MixArt Myris - Toulouse (31) - du 10 au 14 septembre 2018.
+- Théâtre des Augustins - Montauban (82) - du 24 septembre au 28 septembre 2018.
+- Graines de rue - Bessines (87) - du 31 octobre au 8 novembre 2018.
+- Quai des savoirs - Toulouse (31) - du 16 au 21 novembre 2018.
+- Graines de rue - Bessines (87) - du 4 au 8 mars 2019.
+- Graines de rue - Bessines (87) - du 1 au 13 avril 2019 - Restitution le 13 avril 2019 à 18h30 ou 20h.
+- 104 - Paris (75) - du 15 au 21 avril 2019.
+- MJC Rodez (12) - du 29 avril au 3 mai 2019 - restitution jeudi 2 mai 2019.
+- Théâtre d'Auch (32) - du 13 au 24 mai 2019 - restitutions probable le jeudi 23 mai 2019 â 19h.
+- Graines de rue - Bessines (87) - Théâtre Gérard Philipe à Bessines (87)- représentation le vendredi 7 et samedi 8 juin 2019.
+- MIMA - Mirepoix (09) - du 25 au 31 aout 2019 - représentation le 1 et 2 aout 2019.
+- Espace Bonnefoy - Toulouse (31) - du 23 au 27 septembre 2019. Reprise.
+- Théatre des Mazades - Toulouse (31) - du 6 au 10 janvier 2020. Reprise.
 
 ## Programme des Résidences
 
@@ -61,7 +62,7 @@ Les différentes résidences prévues et leur contenu
 
 ----------------------------------------------------------
 
-### IRIT Toulouse (31) - du 29 janvier au 2 février 2018
+### IRIT - Toulouse (31) - du 29 janvier au 2 février 2018
 
 Premier temps long de travail sur Alan
 
@@ -79,7 +80,7 @@ Premier temps long de travail sur Alan
 
 ----------------------------------------------------------
 
-### Usinotopie Villemur (31), du 12 au 23 mars 2018. Restitution le 23 mars à 19h
+### Usinotopie - Villemur (31), du 12 au 23 mars 2018. Restitution le 23 mars à 19h
 
 #### Objectifs
 
@@ -116,7 +117,7 @@ Premier temps long de travail sur Alan
 
 ----------------------------------------------------------
 
-### MixArt Myris Toulouse (31) du 9 au 14 avril 2018
+### MixArt Myris - Toulouse (31) du 9 au 14 avril 2018
 
 #### Objectifs
 
@@ -132,7 +133,7 @@ Premier temps long de travail sur Alan
 
 ----------------------------------------------------------
 
-### IRIT Toulouse (31) - 30 avril au 7 mai 2018
+### IRIT - Toulouse (31) - 30 avril au 7 mai 2018
 
 #### Objectifs
 
@@ -150,36 +151,7 @@ Premier temps long de travail sur Alan
 
 ----------------------------------------------------------
 
-### Mérou Palace Graulhet (81) - été 2018 à caler
-
-#### Objectifs
-
-- avancer sur la construction de robots.
-- arduinos, codage, capteurs, systèmes de sortie d'informations (LED, bras amovible, roues, moteurs etc...).
-- avancer sur la construction du décor.
-- Autres lieux possibles : Le Fablab de Rodez ou celui de Paul Sabatier ou le LAAS (labo qui est sur Paul Sab et qui est assez lié à l'IRIT).
-
-#### Résultats
-
-N'a pas eu lieu
-
-----------------------------------------------------------
-
-### Paris (75) - été 2018 à caler
-
-#### Objectifs
-
-- Amélioration du logiciel Ognon
-- Revoir l'architecture du logiciel pour en faire un outil plus puissant plus hackable mieux documenté
-- Collaboration envisagée : Simon de Orama
-
-#### Résultats
-
-N'a pas eu lieu
-
-----------------------------------------------------------
-
-### MixArt Myris Toulouse (31) du 10 au 14 septembre 2018.
+### MixArt Myris - Toulouse (31) du 10 au 14 septembre 2018.
 
 #### Objectifs
 
@@ -213,7 +185,7 @@ Jimi a été bien avancé, Turc (le robot joueur d'echec) aussi. On ne s'est pas
 
 ----------------------------------------------------------
 
-### Théâtre des Augustins Montauban (82) - du 24 septembre au 28 septembre 2018
+### Théâtre des Augustins - Montauban (82) - du 24 septembre au 28 septembre 2018
 
 #### Objectifs
 
@@ -235,7 +207,7 @@ Il y a eu une sortie de réésidence devant quelques personnes et une classe de 
 ----------------------------------------------------------
 
 
-### Graines de rue Bessines (87) - du 29 octobre au 10 novembre 2018
+### Graines de rue - Bessines (87) - du 31 octobre au 8 novembre 2018
 
 #### Objectifs
 
@@ -244,13 +216,13 @@ Il y a eu une sortie de réésidence devant quelques personnes et une classe de 
      => Alan V2
 - Travail sur Daya (robot tamagochi)
 - Travail sur Turc
-- Finition Jimi
+- Travail Jimi
 - Réduire écran décors
 - Commander tulle et nouvel écran.
 - préparation quai des savoirs
 
 
-#### Objectifs secondaires
+##### Objectifs secondaires
 
 - Travail de plateau
 - écriture
@@ -262,9 +234,15 @@ Il y a eu une sortie de réésidence devant quelques personnes et une classe de 
 
 #### Résultats
 
+On a fait tout les objectifs principaux + Un peu de musique.
+
+Restitution devant des scolaires.
+
+On a du racourcir tous les potaux du décors de 10 cm pour qu'il rentre dans gerard phillipe.
+
 ----------------------------------------------------------
 
-### Quai des savoirs Toulouse (31) du 16 au 21 novembre 2018
+### Quai des Savoirs - Toulouse (31) du 16 au 21 novembre 2018
 
 #### Objectifs
 
@@ -273,9 +251,65 @@ Il y a eu une sortie de réésidence devant quelques personnes et une classe de 
 
 #### Résultats
 
+Il y avait l'IRIT, chouette moment d'échange avec eux. Réglé le pb de la mise en ligne, le bug ALSA et pas mal de soucis en parallele avec les test public.
+
+
 ----------------------------------------------------------
 
-### Graines de rue Bessines (87) - du 1 au 14 avril 2019
+### Résidence couture aux Plasticiens volants à Graulhet (81) - les 16 et 17 fevriers 2019
+
+#### Resultats
+
+- Couture du tullle pour le décors
+- Avancée sur la structure du décors.
+
+----------------------------------------------------------
+
+### Graines de rue - Bessines (87) - du 4 au 8 mars 2019
+
+#### Objectifs
+
+- Ateliers Chateauponsac
+- Bricolage sur les robots
+
+#### Résultats
+
+##### Ateliers
+
+Ateliers sur 4 jours avec le collège Louis Timbal (à Chateauponsac). Création du chatbot *Nova* avec les deux classes de 3e. Encadrantes : Emilie et Claire. Le travail va être continué jusqu'en Juin en autonomie. Atelier chatbot peut-être renouvelé par les profs sur les années prochaines (en autonomie).
+
+L'engagement et l'enthousiasme des élèves à permis de créer en 4 jours un agent conversationnel très réussi.
+
+Discussions autour de la restitution qui se fera en deux temps : Présentation des bots devant un public là l'innauguration de GDR (Battle de chatbot !) le 6 juin et possibilité pour le public de discuter avec les bots toute la journée.
+
+##### Bricolage
+
+- Premiers essais klan linkage (maquette)
+- Amélioration Echo (Logicielle et materielle)
+- Améliorations Foot (materielle)
+- Amélioration Alan (Logicielle)
+- Amélioration Lucy (Logicielle)
+
+
+voix en meme temps que texte
+life time conversation sur le serveur -> 12h
+
+
+
+
+
+🔼 🔼 🔼 🔼 🔼 🔼 **Passé** 🔼 🔼 🔼 🔼 🔼 🔼
+
+
+-------------------------------------------------------------
+
+
+🔽 🔽 🔽 🔽 🔽 🔽 **Futur** 🔽 🔽 🔽 🔽 🔽 🔽
+
+**J'ai déplacé les todos dans le fichiers [todo.md](todo.md) pour plus de clareté. <small>(La dernière personne qui lit cette ligne peut l'effacer)</small>**
+----------------------------------------------------------
+
+### Graines de rue - Bessines (87) - du 1 au 13 avril 2019
 
 #### Objectifs
 
@@ -285,70 +319,89 @@ Il y a eu une sortie de réésidence devant quelques personnes et une classe de 
 - Mise en scène
 - travail sur le jeu
 - répétition et préparation de la restitution
-- Ateliers
+- Ateliers (6 jours sur les 15)
 
+##### Objectifs Secondaires
+
+- un peu de bricolage pendant les ateliers (repartition des taches)
 
 #### Résultats
+
+
 ----------------------------------------------------------
 
-### 104 - Paris (75) - à Caler. Soumis à commission. À confirmer.
+### 104 - Paris (75) - du 15 au 21 avril.
 
 #### Objectifs
 
+- Faire un peu de com (2h avec qq1 pour photos + film + visu officiel)
 - scène de fin
 - mise en réseau des robots
+    - Système syncro cv
 - musique et chorégraphie
 
 #### Résultats
 
 ----------------------------------------------------------
 
-### MJC Rodez (12) du 29 avril au 10 mai 2019. restitution probable le vendredi 10 mai 2019 dans l'après-midi.
+### MJC Rodez (12) du 29 avril au 3 mai 2019. restitution le 2 mai 2019.
 
 #### Objectifs
 
-- Création Lumière
-- Création Son
 - Mise en scène
 - travail sur le jeu
-- répétition et préparation de la restitution
+- répétition et préparation de la restitution le Jeudi
+
+Lundi : montage
+Mardi : filages
+Mercredi : filages
+Jeudi  : filages
+Vendredi : retour
 
 #### Résultats
 
 ----------------------------------------------------------
 
-### Théâtre d'Auch (32) du 13 au 24 mai 2019. restitutions probable le vendredi 24 mai 2019 dans l'après-midi.
+##### Relâche !!
+
+----------------------------------------------------------
+
+### Théâtre d'Auch (32) du 13 au 24 mai 2019. restitutions le 23 mai 2019.
 
 #### Objectifs
 
-- Création Lumière
-- Création Son
-- Mise en scène
-- travail sur le jeu
-- répétition et préparation de la restitution
+Première semaine : Regard exterieur avec Laurent.
+
+Deuxième semaine : Création Lumière avec Francis.
+
+Resitution le 23 à 19h.
 
 #### Résultats
 
 ----------------------------------------------------------
 
-### Graines de rue Bessines (87) - Théâtre Gérard Philipe à Bessines (87) avec Première prévue le  vendredi 7 juin 2019 à Bessines.
+### Première : Graines de rue - Bessines (87) - du 27 mai au 10 juin Théâtre Gérard Philipe à Bessines (87)
+
 
 #### Objectifs
 
-- Finitions
-- Ateliers
-- Premières
+- Dernières finitions 
+- Résitution des ateliers
+- Première scolaire le 6 juin
+- Première le 7 juin
+- Première en soirée le 8 juin
+
 
 #### Résultats
 
 ----------------------------------------------------------
 
-### La Grainerie Toulouse (31) - à caler en automne 2019.
+### Première : MIMA -  Mirepoix (09)
 
-#### Objectifs
+- Reprise la semaine
+- Premières le week-end (2, 3, 4)
 
-- Reprise
+---
 
-#### Résultats
 
-----------------------------------------------------------
+[Retour à l'organisation de la création](.)

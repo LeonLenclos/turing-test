@@ -1,7 +1,7 @@
 
 # Echo
 
-![](../../ressources/echo.JPG)
+![](/ressources/photos/echo.JPG)
 
 ## Descritpion générale
 Quant on lui présente un objet, il dit ce qu'il en pense. C'est un robot qui a du goût, un goût qui lui est propre.
@@ -31,3 +31,5 @@ Arduino branché à une enceinte et à un capteur ultrason qui permet de détect
 ## Moment envisagé pour la construction
 
 Usinotopie printemps 2018
+
+[Retour à la liste des robots du laboratoire](.)

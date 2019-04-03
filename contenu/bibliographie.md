@@ -17,6 +17,7 @@ Dès que possible, lors de nos déplacements (résidences, présentations, ateli
 - *Robots et avatars*, Jean-Claude Heudin - éd. Odile Jacob
 - *Robots*, Jasia Reichardt - T&H (Prêt)
 - *Dr Slump*, Akira Toriyama - Glénat (Prêt)
+- *La France contre les robots*, Georges Bernanos - Le Castor Astral
 
 Radio
 -----
@@ -41,6 +42,8 @@ Vidéo
 -   [Une machine construite au 18e siècle dit "Papa" et "Maman"](https://www.youtube.com/watch?v=k_YUB_S6Gpo)
 -   [Un algorithme de tri exécuté par des danseurs folkloriques](https://www.youtube.com/watch?v=3San3uKKHgg)
 -   [Le théorème de l'arrêt expliqué en images (en)](https://www.youtube.com/watch?v=92WHN-pAFCs)
+-   [Le cabaret méchanique](https://www.youtube.com/watch?v=kv1CpJi60xQ)
+-   [Strandbeest (Jansen)](https://www.youtube.com/watch?v=KsqlnGMzMD4)
 
 Documents, publications, articles de recherche
 ----------------------------------------------
@@ -54,10 +57,11 @@ Articles de presse
 -----------------
 
 -   [Article du magazine SCIENCE sur la révolution I.A.](http://www.sciencemag.org/news/2017/07/ai-revolution-science)
+-   [Article du Monde sur les bugs de l'I.A.](https://www.lemonde.fr/sciences/article/2019/02/25/les-bugs-de-l-intelligence-artificielle_5428168_1650684.html)
 
 Sites
 -----
 
+-   [Graham Dunning, musique mécanique, usine à musique, live coding etc.](https://grahamdunning.com/)
 -   [Un site du CNRS dédié aux sciences du numérique, mathématiques et patrimoine informatique : L'ESPACE TURING](http://www.espace-turing.fr/Computer-Paper-Do-It-Yourself.html)
 -   [Le site de l'IRIT, Institut de Recherche en Informatique de Toulouse](https://www.irit.fr/)
--   [Le site de la Cie Nokill](http://cienokill.fr/)

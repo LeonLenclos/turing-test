@@ -1,13 +1,24 @@
-
-# Robot paresseux
+# Mimi
 
 ## Esthétique, allure du robot
-Une plateforme et quatre roues, on peut même essayer d'utiliser une voiture téléguidée.
+
+Le robot paresseux, appelé aussi robot suicidaire est un carton équipé d'une hélice d'avion. Il est posé sur une étagère
 
 ## Matériaux envisagés
 
+- Carton
+- Batterie LIPO 
+- Controleur
+- Moteur brushless
+- Hélice d'avion
+
 ## Hypothèses de construction, description technique
 
-Lorsqu'on le branche, un mécanisme provoque le débranchement. Une possibilité serait que le robot soit sur roues et qu'il avance jusqu'à se débrancher. Quitte à évoquer les travers des robots on pourrait aussi faire un robot suicidaire qui se donne des coups de marteau et qui fait de la fumée.
+De temps en temps le robot paresseux se met en marche et se casse en tombant de son étagère.
+Après réparation, il est reposé sur l'étagère.
 
 ## Moment envisagé pour la construction
+au plus vite
+
+
+[Retour à la liste des robots du laboratoire](.)

@@ -1,25 +1,51 @@
 Notes Techniques
 ================
 
-Mini caméra
------------
+## Les cables <3
 
-4 Objectifs :
+### Longs cables (Standard Grim)
 
-On les range dans l'ordre de la plus courte à la plus longue focale.
+- Audio = XLR
+- Ethernet = RJ45
+- Trig/Gate/CV = MiniJack
 
-On peut regarder la taille de l'iris : Plus petit trou = Plus courte focale
+### Alims
 
-1.  très grand angle = .
-2.  grand angle = °
-3.  longue focale = o
-4.  très longue focale = O
+- 5V = USB
+- Arduino Secteur
+- LIPO = Connecteurs comme dans ALAN
 
-Autres signes distinctifs :
+## arduino, cv et gate.
 
-1.  Le pas de vis ne va pas jusqu'au bout
-2.  Le plus grand pas de vis
-3.  Inscriptions sur l'objectif
-4.  Le dernier
+L'interface gate ressemble à ça :
 
-Pour l'instant on selectionne le **2**
+![interface-gate](/ressources/divers/interface-gate.png)
+
+
+### References circuits
+
+Le Git d'un shield pour interfacer modulaires et arduino : Synapse de chez Shaduzlabs
+
+[lien vers le Github](https://github.com/shaduzlabs/synapse)
+
+[lien vers le Blog](http://www.shaduzlabs.com/blog/21/synapse-a-diyfriendly-cv-io-shield-for-arduino.html)
+
+![shéma synapse 1](/ressources/divers/synapse_4.png)
+
+![shéma synapse 2](/ressources/divers/synapse_5.png)
+
+## arduino et servomoteur.
+
+![shéma arduino/servo](/ressources/divers/cablage_servo_arduino.png)
+
+## mesures minimales Scene
+
+Mesures prises à Bessines
+Profondeur minimale: 6m
+Largeur minimale: 7,75m
+Hauteur minimale 3m 
+
+----
+
+
+[Retour à l'organisation de la création](.)

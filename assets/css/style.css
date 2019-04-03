@@ -1,0 +1,106 @@
+.github-pages-ignore {
+ display:none
+}
+body {
+ font-family:monospace;
+ font-size:12pt;
+ background:#aaa
+}
+#main,
+nav a,
+footer > a{
+ background:#ddd;
+ margin:5px;
+ padding:5px;
+ border-top:1px solid black;
+ border-bottom:4px solid black;
+ border-left:1px solid black;
+ border-right:4px solid black;
+ border:0px solid black
+}
+header,
+#main,
+footer {
+ margin:50px;
+ margin-left:auto;
+ margin-right:auto;
+ max-width:900px;
+ padding:30px
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+ margin-top:20px;
+ color:black;
+ border-bottom:4px solid black;
+ display:table
+}
+header h1 {
+ text-align:center
+}
+header a {
+ text-decoration:none;
+ margin:5px;
+ display:block
+}
+header nav a:hover {
+ background:white
+}
+nav {
+ margin-top:10px;
+ display:flex;
+ flex-wrap:wrap;
+ justify-content:left
+}
+a,
+a:visited {
+ color:inherit;
+ font-weight:bold
+}
+a:hover {
+ text-decoration:none
+}
+footer {
+ text-align:center
+}
+footer > a {
+  display: inline-block;
+  margin-bottom: 50px;
+}
+
+img {
+ display:block;
+ margin: 10px auto;
+ background:white;
+ border:10px solid white;
+ max-width:500px;
+ max-height:500px;
+ max-width:90%
+}
+
+img[src*="ressources/icons"] {
+  background: none;
+  border :none;
+  margin: 0;
+  
+  display:inline;
+}
+
+li a img[src*="ressources/icons"] {
+  margin-right:15px;
+}
+
+
+pre.lines {
+ display:none
+}
+pre,
+code {
+ background:#444;
+ color:white;
+ border:2px solid #444;
+ font-size:10pt
+}

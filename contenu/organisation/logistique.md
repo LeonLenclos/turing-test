@@ -1,34 +1,32 @@
 # Logistique
 
-## Type
-
 Organisation de la création :  planning résidences, transports et régie, listes de matériel, achats.
-
-## Résumé
 
 Ce qu'il faut savoir pour être au bon endroit au bon moment et ne rien oublier.
 
 ## Planning résidence
 
-- Auditorium de Graulhet (81) - du 2 au 5 Janvier 2018
-- Cie Nokill Graulhet (81) - du 28 fevrier au 2 mars 2018
-- IRIT Toulouse (31) - du 29 janvier au 2 février 2018
-- Usinotopie Villemur (31), du 12 au 23 mars 2018. Restitution le 23 mars à 19h
-- Été de Vaour (81), du 2 au 6 avril 2018. Restitution le 6 avril à 18h30
-- MixArt Myris Toulouse (31) du 9 au 14 avril 2018. Restitution le 14 avril à 21h30
-- IRIT Toulouse (31) - 30 avril au 7 mai 2018
-- MixArt Myris Toulouse (31) du 10 au 14 septembre 2018.
-- Théâtre des Augustins Montauban (82) - du 24 septembre au 28 septembre 2018
-- 104 - Paris (75) - Dates à définir. Soumis à commission. À confirmer.
-- Graines de rue Bessines (87) - du 29 octobre au 10 novembre 2018
-- Quai des savoirs Toulouse (31) du 16 au 21 novembre 2018
-- Graines de rue Bessines (87) - du 1 au 14 avril 2019 
-- MJC Rodez (12) du 29 avril au 10 mai 2019. restitution probable le vendredi 10 mai 2019 dans l'après-midi.
-- Théâtre d'Auch (32) du 13 au 24 mai 2019. restitutions probable le vendredi 24 mai 2019 dans l'après-midi.
-- Graines de rue Bessines (87) - Théâtre Gérard Philipe à Bessines (87) avec Avant-Première prévue le  vendredi 7 juin 2019 à Bessines.
-- MIMA Mirepoix (09) , Aout 2019 - A caler
-- La Grainerie Toulouse (31) - à caler en automne 2019. Reprise.
-- Espace Bonnefoy Toulouse (31) - à caler en automne 2019. Reprise.
+- Auditorium de Graulhet (81) - du 2 au 5 Janvier 2018.
+- Cie Nokill - Graulhet (81) - du 28 fevrier au 2 mars 2018.
+- IRIT - Toulouse (31) - du 29 janvier au 2 février 2018.
+- Usinotopie Villemur (31) - du 12 au 23 mars 2018 - Restitution le 23 mars à 19h.
+- Été de Vaour (81) - du 2 au 6 avril 2018 - Restitution le 6 avril à 18h30.
+- MixArt Myris - Toulouse (31) - du 9 au 14 avril 2018 - Restitution le 14 avril à 21h30.
+- IRIT - Toulouse (31) - 30 avril au 7 mai 2018.
+- MixArt Myris - Toulouse (31) - du 10 au 14 septembre 2018.
+- Théâtre des Augustins - Montauban (82) - du 24 septembre au 28 septembre 2018.
+- Graines de rue - Bessines (87) - du 31 octobre au 8 novembre 2018.
+- Quai des savoirs - Toulouse (31) - du 16 au 21 novembre 2018.
+- Graines de rue - Bessines (87) - du 4 au 8 mars 2019.
+- Graines de rue - Bessines (87) - du 1 au 13 avril 2019 - Restitution le 13 avril 2019 à 18h30 ou 20h.
+- 104 - Paris (75) - du 15 au 21 avril 2019.
+- MJC Rodez (12) - du 29 avril au 3 mai 2019 - restitution jeudi 2 mai 2019.
+- Théâtre d'Auch (32) - du 13 au 24 mai 2019 - restitutions probable le jeudi 23 mai 2019 â 19h.
+- Graines de rue - Bessines (87) - Théâtre Gérard Philipe à Bessines (87)- représentation le vendredi 7 et samedi 8 juin 2019.
+- MIMA - Mirepoix (09) - du 25 au 31 aout 2019 - représentation le 1 et 2 aout 2019.
+- Espace Bonnefoy - Toulouse (31) - du 23 au 27 septembre 2019. Reprise.
+- Théatre des Mazades - Toulouse (31) - du 6 au 10 janvier 2020. Reprise.
+
 ## transport résidences
 
 ### IRIT (31) - du 5 au 9 mars 2018
@@ -488,3 +486,261 @@ Retour le 8/11 déchargement en fin d'aprem.
 - Matt
 - Lucy
 - café
+
+
+
+🔼 🔼 🔼 🔼 🔼 🔼 **Passé** 🔼 🔼 🔼 🔼 🔼 🔼
+
+
+-------------------------------------------------------------
+
+
+🔽 🔽 🔽 🔽 🔽 🔽 **Futur** 🔽 🔽 🔽 🔽 🔽 🔽
+
+
+
+### Graines de rue - Bessines (87) - du 1 au 13 avril 2019
+
+#### Objectifs
+
+- Travail au plateau
+- Improvisations
+- nouvelles scènes
+- Mise en scène
+- travail sur le jeu
+- répétition et préparation de la restitution
+- Ateliers (6 jours sur les 15)
+
+##### Objectifs Secondaires
+
+- un peu de bricolage pendant les ateliers (repartition des taches)
+
+##### Transport
+
+- dimanche 31 mars : Fabien, Léon et Bertrand départ Graulhet en camion vers 14h, arrivée Bessines 19h/20h : 
+- Lundi matin 15 avril Fabien, Léon et Bertrand départ Bessines en camion vers 7h, arrivée Paris 11h.
+
+##### couchage repas
+
+- Au centre Gérard Philipe
+- Glacière pleine
+- Sacs couchage
+- Dispositif intimité minimum (Pieds + pont + Taps)
+
+##### outillage
+
+- servante rouge avec : meuleuse, sauteuse, scie métaux, boite de mèches, pistolet à colle, decapeur
+- male 8 (épurée, et la charger avec le reste)
+- caisse electronique bleue
+- planche decoupe + reglet
+- Kit soudure
+- Cales bois
+- selection visserie
+- Materiel sécu (gants, masques, casques)
+- trousse 1ers secours
+
+##### Carton matériaux
+
+- selection divers matières : alu, plastazote, etc
+- aimant a coudre pour écran
+- cables audio + connecteurs
+
+##### Carton electronic
+
+- alim et accus entre 12V et 5V + chargeurs (LIPO, USB, etc)
+- Raspberry + arduino
+- Caisses composants
+
+##### Divers
+
+- selection cables
+    - cable periph (USB)
+    - RJ45
+    - mini jacques
+    - HDMI
+    - VGA
+    - convertisseurs VGA/DVI/HDMI
+- secteur + triplette
+- Kit diffusion (au fond du camion)
+- sac 550D
+- ordi Ber x 2 + écran + tablette + alims
+- ordi lou
+- ordi ottomann
+- écran de rab
+- des claviers des souris
+- matos couture
+
+##### Accessoires Labo :
+
+- enceintes Yamaha
+- livres
+- Jouets sonores
+
+##### Matériel Création sonore et visuelle
+
+- trousse rose
+- Console sonosax
+- 2 modulaires Ber
+- Cintik
+- Raspberry ognon
+- MS 20 + SQ1
+- Raspberry PD + clavier + ecran iiYama  + carte son + controlleur
+- Sac bras
+- ...
+
+##### Decor :
+
+- Jouets sonores
+- minotron
+- Tulles avec barres
+- déport lampadaires + néon + tubes fluos
+- écrans
+- 4 plateaux tables
+- 12 barres longues
+- 8 barres courtes
+- 8 cremailleres
+- 16 montants
+- 9 barres 3m
+- crochets
+- barres porte et ecran
+- porte
+- frigo
+- paperboard + recharge
+- 6 planches plastiques (étagères)
+- Cartons standards + renfoncé + scotch marron!!
+- carton acessoires (tokai)
+- etiqueteuse 
+- persos assis
+- Kit sieste : tapis de sol + duvet + casquette = casque + lunette
+- fly metro = oscilo + convertisseur universel + reverb à bande
+
+##### Video
+- videoproj pico (alim et télécommande)
+- Valise videoproj Optpma 1 GA + grand VGA
+- videoproj Optpma 2 GA + recepteur hf
+- manfrotto x 3
+- Selection cables video
+- trousse rose
+
+##### Robot
+- [Alan](../robots/alan.md) : avec son choucko et son clavier
+- [Otto](../robots/otto.md)
+- [Matt](../robots/matt.md) : (en carton avec Otto)
+- [Foot](../robots/foot.md) : (carton)
+- [Echo](../robots/echo.md) : (en caisse bois)
+- [Lucy](../robots/lucy.md) : (en carton avec caisse d'echo)
+- [Jimi](../robots/jimi.md) : (en valise souple)
+- [Klan](../robots/klan.md) : (en pièces détaché)
+- [Core](../robots/core.md) : (en flight case)
+- [Caro](../robots/caro.md) : (en carton)
+- [Mimi](../robots/mimi.md) : (en carton)
+- [Toto](../robots/toto.md) : (en carton)
+- [Turc](../robots/turc.md) : en flight case
+- [Dedo](../robots/dedo.md) : (en carton)
+- [Maki](../robots/maki.md) : (en carton)
+- [Café](../robots/cafe.md) (fiche à rédiger) : (en carton)
+
+----------------------------------------------------------
+
+### 104 - Paris (75) - du 15 au 21 avril.
+
+#### Objectifs
+
+- Faire un peu de com (2h avec qq1 pour photos + film + visu officiel)
+- scène de fin
+- mise en réseau des robots
+    - Système syncro cv
+- musique et chorégraphie
+
+#### Transport et autre
+
+
+- Lundi matin 15 avril arrivée 11h 11h30
+- garer camion parking
+- Horaire : 8H / minuit
+- Contacter SPOON pour Rendez vous (Léon)
+- Retour Graulhet lundi 22 avril matin. Départ : 9h arrivée Graulhet : 17h
+
+----------------------------------------------------------
+
+##### Relâche + Envol
+
+----------------------------------------------------------
+
+### MJC Rodez (12) du 29 avril au 3 mai 2019. restitution le 2 mai 2019.
+
+#### Objectifs
+
+- Mise en scène
+- travail sur le jeu
+- répétition et préparation de la restitution le Jeudi
+
+Lundi : montage
+Mardi : filages
+Mercredi : filages
+Jeudi  : filages
+Vendredi : retour
+
+#### Transport et autre
+
+Arrivée à l'accueil St Joseph dimanche soir 28 avril. 19h / 20h
+Retour Vendredi 3 mai : départ 15h arrivée Graulhet 18h
+
+----------------------------------------------------------
+
+##### Relâche !!
+
+----------------------------------------------------------
+
+### Théâtre d'Auch (32) du 13 au 24 mai 2019. restitutions le 23 mai 2019.
+
+#### Objectifs
+
+Première semaine : Regard exterieur avec Laurent.
+
+Deuxième semaine : Création Lumière avec Francis.
+
+Resitution le 23 à 19h.
+
+#### Transport et autre
+
+arrivée le lundi 13 mai à 10h direct au théâtre = départ Graulhet 7h30
+Bebert récupère Léon et Fab à Toulouse
+arrivée à Graulhet  vendredi 24 mai soir à 19h
+Dépose Léon à Toulouse.
+
+
+
+
+
+----------------------------------------------------------
+
+### Première : Graines de rue - Bessines (87) - du 27 mai au 10 juin Théâtre Gérard Philipe à Bessines (87)
+
+
+#### Objectifs
+
+- Dernières finitions 
+- Résitution des ateliers
+- Première scolaire le 6 juin
+- Première le 7 juin
+- Première en soirée le 8 juin
+
+
+#### Transport et autre
+
+- Voyage le lundi Matin 27 mai, arrivée 13h / Départ 9h de Graulhet.
+- Dans l'idéal Léon et Fabien à Graulhet le 26 mai au soir.
+- Retour le lundi 10 juin :  Fabien Francis et Bebert en camion
+
+----------------------------------------------------------
+
+### Première : MIMA -  Mirepoix (09)
+
+- Reprise la semaine
+- Premières le week-end (2, 3, 4)
+
+---
+
+[Retour à l'organisation de la création](.)
+

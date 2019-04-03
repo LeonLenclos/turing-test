@@ -1,14 +1,6 @@
 Besoins technologiques
 ======================
 
-Type
-----
-
-liste
-
-Résumé
-------
-
 Présentation des besoins technologiques clairement identifiés. D'autres apparaitront au fil des résidences.
 
 Alan
@@ -99,3 +91,8 @@ Outil de création musicale
 Besoins matériel :
 -  Interface midi
 -  Modules additionnels
+
+
+---
+
+[Retour à l'organisation de la création](.)

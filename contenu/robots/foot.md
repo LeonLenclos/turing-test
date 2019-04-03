@@ -1,5 +1,5 @@
 # Foot
-![](../../ressources/foot.JPG)
+![](/ressources/photos/foot.JPG)
 ## Description générale
 
 Foot, le Robot qui souffre. Quand il subit un choc, il gémit proportionnellement à l'intensité du choc.
@@ -32,7 +32,7 @@ Le code arduino de foot est disponible [ici](../../sources/arduino/foot).
 
 Usinotopie mars 2018
 
-![](../../ressources/foot_fabi.JPG)
+![](/ressources/photos/foot_fabi.JPG)
 
 ## Améliorations
 
@@ -41,3 +41,5 @@ Usinotopie mars 2018
 - La souffrance du robot pourrait être aussi induite par des soubresauts ou des tremblements qui pourrait être obtenus avec un moteur entrainant un disque dont le centre de gravité est décentré.
 
 - Régler le problème de la sensibilité peut être en ajouttant d'autres piezzos
+
+[Retour à la liste des robots du laboratoire](.)

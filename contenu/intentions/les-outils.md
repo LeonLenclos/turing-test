@@ -1,13 +1,6 @@
 Les outils
 ==========
 
-Type
-----
-
-Note d'intention
-
-Résumé
-------
 
 Réflexion sur la nature des outils que nous utilisons pour produire des sons et des images.
 
@@ -16,15 +9,15 @@ S'emparer de ses outils
 
 L'avènement des nouvelles technologies incite plus que jamais les artistes à s'interroger sur leurs outils. Un dessin fait avec Photoshop n'est pas moins un dessin qu'un autre réalisé au crayon. Mais alors, quelles différences y a-t-il entre les deux ? On parle de musique assistée par ordinateur (MAO) mais pourquoi ne dit on jamais d'un violoniste qu'il fait de la  musique assistée par instrument à cordes ?
 
-En vérité il n'y a aucune différence essentielle entre un outil numérique et un outil analogique ou mécanique. Il y a toujours deux forces qui se confrontent lorsqu'on utilise à des fins artistiques un outil, quel qu'il soit. D'un côté l'outil facilite la tâche que l'on doit accomplir, de l'autre il nous enferme dans un cadre de possibilités restreint. Un crayon permet de dessiner beaucoup plus facilement que l'on ne peut le faire avec son doigt sur le sable, mais il ne permet de faire rien d'autre qu'un dessin au crayon. L'utilisation d'un logiciel de dessin offre une grande liberté, mais jamais ce que l'on produira avec ressemblera à autre chose qu'à un dessin fait avec ce logiciel.
+En vérité il n'y a aucune différence essentielle entre un outil numérique et un outil analogique ou mécanique. Il y a toujours deux forces qui se confrontent lorsqu'on utilise à des fins artistiques un outil, quel qu'il soit. D'un côté l'outil facilite la tâche que l'on doit accomplir, de l'autre il nous enferme dans un cadre de possibilités restreint. Un crayon permet de dessiner beaucoup plus facilement que l'on ne peut le faire avec son doigt sur le sable, mais il ne permet de faire rien d'autre qu'un dessin au crayon. L'utilisation d'un logiciel de dessin offre une grande liberté, mais jamais ce que l'on produira avec ne ressemblera à autre chose qu'à un dessin fait avec ce logiciel.
 
 Il suffit alors d'avoir conscience de ce qu'un outil nous permet et de ce en quoi il nous formate. De choisir ses outils en conséquence. D'aller, quand c'est intéressant, à contre sens de l'utilisation attendue de l'outil. De modifier ses outils et, quand c'est nécessaire, de les concevoir.
 
-Si l'utilisation de logiciels libres (open source) est importante pour certains artistes. C'est que la philosophie du libre implique une réflexion sur l'outil. Un logiciel comme Photoshop est une propriété de la marque Adobe et l'on ne fera jamais autre chose avec que ce qu'Adobe a prévu pour nous. Un logiciel comme GIMP, très similaire en apparence, est ouvert : on peut voir comment il marche et donc, potentiellement, on peut le transformer en ce qu'on veut qu'il soit.
+Si l'utilisation de logiciels libres (open source) est importante pour certains artistes, c'est que la philosophie du libre implique une réflexion sur l'outil. Un logiciel comme Photoshop est une propriété de la marque Adobe et l'on ne fera jamais autre chose avec que ce qu'Adobe a prévu pour nous. Un logiciel comme GIMP, très similaire en apparence, est ouvert : on peut voir comment il marche et donc, potentiellement, on peut le transformer en ce qu'on veut qu'il soit.
 
 Dans Turing Test, les machines, programmes et instruments que nous utilisons dans les phases de production de dessin animé et de musique sont assez différents, mais témoignent d'une sensibilité que nous partageons à propos de la question de l'outil.
 
-![](../../ressources/dessin12.png)
+![dessin12](/ressources/dessins/dessin12.png)
 
 Fabien et Pure Data
 --------------------
@@ -55,9 +48,8 @@ Mon synthétiseur modulaire est un objet physique composé de modules élémenta
 -----------------------------------------------------------------------------------------------------------------------------
 
 *Deux capture d'écran du logiciel Pure Data*
-![](../../ressources/cde-pd1.jpg)
-![](../../ressources/cde-pd2.jpg)
-
+![cde-pd1](/ressources/divers/cde-pd1.jpg)
+![cde-pd2](/ressources/divers/cde-pd2.jpg)
 ---
 
-Continuer la lecture : [**Liste des besoins technologiques**](../organisation/besoins-technologiques.md)
+[Retour aux notes d'intention](.)

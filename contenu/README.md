@@ -1,8 +1,11 @@
-Les Textes
-===========
+Contenu
+-------
 
-Que vais-je trouver ici ?
--------------------------
+
+
+
+### Que vais-je trouver ici ?
+
 
 Les textes que vous trouverez ici constituent à la fois :
 -  Un socle théorique à notre réflexion sur l'intelligence artificielle.
@@ -10,21 +13,23 @@ Les textes que vous trouverez ici constituent à la fois :
 -  Un moyen de proposer aux spectateurs "d'aller plus loin" ou de retrouver des références liées au spectacle,
 -  Un outil de communication pour les professionnels ou les institutions qui voudraient plus de matière que ce que le [dossier de présentation](http://cienokill.fr/wp-content/uploads/2017/11/TURING-TEST.pdf) propose.
 
-Baladez vous dans le sommaire ou cliquez sur ce bouton pour une explication plus précise de notre méthode de travail :
 
-<a class="turing-button" href="intentions/methode-de-travail.html">Lire un premier texte</a>
 
-L'ensemble de ces textes est placé sous [License Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Bonne lecture.
+### Le contenu
 
-Sommaire
---------
+<p class="github-pages-ignore"><img src="/ressources/icons/think-exclamation.png"> Ce code génère un petit sommaire sur <a href="http://turing-test.cienokill.fr/contenu/">le site</a>. Ici ça affiche n'importe quoi...</p>
 
--  [La liste des robots du laboratoire](robots)
--  [Des notes d'intentions](intentions)
--  [Des textes à lire, textes théoriques, petites histoires](textes)
--  [des idées de scènes](scenes)
 
-et aussi
-
--  [Une bibliographie](bibliographie.md)
--  [L'organisation de la création](organisation)
+<div id="dir-indexing"></div>
+<script>
+  (async () => {
+    const response = await fetch('https://api.github.com/repos/LeonLenclos/turing-test/contents/contenu');
+    const data = await response.json();
+    let htmlString = '<ul>';
+    for (let file of data) {
+      htmlString += `<li><a href="${file.path}">${file.name}</a></li>`;
+    }
+    htmlString += '</ul>';
+    document.getElementById('dir-indexing').innerHTML = htmlString;
+  })()
+</script>

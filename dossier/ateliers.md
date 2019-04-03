@@ -4,12 +4,12 @@ Atelier Chatbot (Turing Test - Cie Nokill)
 Objectif
 --------
 
-Créer collectivement un chatbot. Un programme informatique avec lequel on peut avoir une conversation.
+Créer collectivement un chatbot, un programme informatique avec lequel on peut avoir une conversation.
 
 Contexte
 --------
 
-Turing Test est un spectacle de Fabien Carbo-Gil, Léon Lenclos et Bertrand Lenclos (cie Nokill) qui met en scène trois chercheurs et des dizaines de robots dans un laboratoire de recherche en intelligence machine. Un de ces robots, Alan, est un chatbot : Une intelligence artificielle conçue pour parler avec des humains. Une partie de ce robot a été programmé avec un langage informatique qui s'appelle le RiveScript, un langage spécialement conçu pour créer des chatbots. Nous proposons à la classe de s'approprier cet outil pour créer collectivement un chatbot unique.
+Turing Test est un spectacle de Fabien Carbo-Gil, Léon Lenclos et Bertrand Lenclos (cie Nokill) qui met en scène trois chercheurs et des dizaines de robots dans un laboratoire de recherche en intelligence machine. Un de ces robots, Alan, est un chatbot : Une intelligence artificielle conçue pour parler avec des humains. Une partie de ce robot a été programmé avec un langage informatique qui s'appelle RiveScript, spécialement conçu pour créer des chatbots. Nous proposons à la classe de s'approprier cet outil pour créer collectivement un chatbot unique.
 
 Déroulé
 -------
@@ -17,7 +17,7 @@ Déroulé
 ### Pendant les ateliers (en présence de la compagnie)
 
 - Présentation de la compagnie, du spectacle Turing Test et de notre chatbot Alan.
-- Préparation du chatbot, choix d'un nom, de quelques axes qui définiront sa personnalité, des sujets dont il sera capable de parler, d'exemples de conversation qu'il devra pouvoir tenir.
+- Préparation du chatbot, choix d'un nom, de quelques axes qui définiront sa personnalité, des sujets dont il sera capable de parler, d'exemples de conversations qu'il devra pouvoir tenir.
 - Introduction au langage informatique RiveScript.
 - Répartition du travail et programmation du chatbot par petits groupes (2 ou 3 élèves par poste). Tests réguliers du programme.
 
@@ -28,7 +28,6 @@ Déroulé
 
 ### Restitution
 
-- Présentation du chatbot au public par des élèves volontaires pendant le festival Graines de rue
 - Mise en ligne du chatbot sur le site de l'école
 
 Préparation de l'atelier
@@ -37,7 +36,6 @@ Préparation de l'atelier
 nous proposons quelques idées pour préparer l’atelier. Cinq concepts qui peuvent être discutés en classe. Et cinq exercices qui peuvent être faits individuellement ou collectivement.
 
 Cette préparation est conseillée mais facultative.
-
 
 ### Familiarisation avec les concepts abordées pendant l'atelier
 
@@ -87,4 +85,4 @@ Un humain (le juge) est dans une pièce fermée et il discute à distance par l'
 - Chatbot est un mot valise composé de "chat" (conversation en anglais) et de "bot". Inventer un mot en français pour remplacer le mot anglais "chatbot"
 - Imaginer et écrire une conversation entre un humain et un humain, un humain et un robot, ou un robot et un robot (environ 10 répliques).
 - Quelle question poseriez-vous à un chatbot pour réussir à le démasquer et l'empêcher de passer le test de Turing.
-- Écrire collectivement une liste de 100 questions auxquelles il faut absolument que le chatbot sache répondre.
+- Écrire collectivement une liste de 100 questions auxquelles il faut absolument que le chatbot sache répondre pour donner à son interlocuteur l'illusion qu'il est humain.

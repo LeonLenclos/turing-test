@@ -1,14 +1,6 @@
 Éthique
 =======
 
-Type
-----
-
-Texte théorique
-
-Résumé
-------
-
 Rapide aperçu des questions éthiques que pose l'avènement de l'intelligence artificielle.
 
 Les valeurs de l'intelligence artificielle
@@ -22,7 +14,7 @@ Le problème est que les valeurs humaines universelles dont parle Yann le Cun n'
 
 Yann Le Cun est dans une impasse théorique. "Les valeurs humaines" est un concept avec autant d'occurrences qu'il y a d'individus sur Terre et il est impossible de définir un ensemble de valeurs approuvées par toute l'humanité. Ce qui risque de se passer, c'est que les robots seront alignés sur les valeurs de leur créateur. Et comme l'I.A est aujourd'hui un business et que l'expérience nous montre que le business ne s'embarrasse pas trop des garanties fondamentales en matière d'éthique et de sécurité sanitaire, on peut douter que les robots œuvrent pour le bien du plus grand nombre.
 
-![](../../ressources/dessin5.png)
+![](/ressources/dessins/dessin5.png)
 
 Le droit des robots
 -------------------
@@ -46,6 +38,7 @@ De plus, certains de ces prophètes sont surmédiatisés. C'est le cas des pompi
 
 Qui pourra bénéficier de ces technologies extrêmement coûteuses et énergivores ? Ni les paysans du Sahel, ni les pêcheurs du sud du Bangladesh, ni toi, ni moi. On ne s'orienterait donc pas vers une humanité augmentée mais vers deux voire plusieurs humanités dont certaines seront très augmentées, les dominants, et d'autres de plus en plus vulnérables, la bête. L'écart entre les plus pauvres et les plus riches va-t-il grandir à la vitesse des progrès de la technologie ?
 
+
 ---
 
-Continuer la lecture : [**Machines, émotions et darwinisme**](../textes/machines-emotions-et-darwinisme.md)
+[retour à la liste des textes à lire, textes théoriques, petites histoires](.)

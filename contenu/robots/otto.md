@@ -1,5 +1,5 @@
 # Otto
-![](../../ressources/otto.JPG)
+![](/ressources/photos/otto.JPG)
 
 ## Description générale
 Otto c'est le robot qui s'étonne. Son fonctionnement est simple. On lui présente un objet et il s'étonne. Otto nous permet de répondre par l'exemple à la question "Une intelligence-machine peut-elle éprouver des émotions"
@@ -23,11 +23,14 @@ L'enjeu est d'avoir un mouvement fluide lorsque l'on pose l'objet et lorsqu'on l
 
 Une première version a été construite à l'usinototpie.
 
-![](../../ressources/otto_leon.JPG)
+![](/ressources/photos/otto_leon.JPG)
 
 Voici quelques plans réalisés durant la conception d'Otto :
 
 
-![](../../ressources/robot-etonne-2.jpg)
-![](../../ressources/robot-etonne-1.jpg)
-![](../../ressources/otto_plan.JPG)
+![robot-etonne-1](/ressources/croquis/robot-etonne-1.jpg)
+![robot-etonne-2](/ressources/croquis/robot-etonne-2.jpg)
+![robot-etonne-3](/ressources/croquis/robot-etonne-3.jpg)
+![](/ressources/photos/otto_plan.JPG)
+
+[Retour à la liste des robots du laboratoire](.)

@@ -14,14 +14,23 @@ Les Robots
 - [Echo](echo.md)
 - [Lucy](lucy.md)
 - [Jimi](jimi.md)
-- [Turc](turc.md) (fiche à rédiger)
+- [Klan](klan.md)
+- [Core](core.md)
+- [Caro](caro.md)
+- [Mimi](mimi.md)
+- [Toto](toto.md)
+- [Turc](turc.md)
+- [Dedo](dedo.md)
+- [Maki](maki.md)
 - [Matt](matt.md) (fiche à rédiger)
+- [Lisa](lisa.md) (fiche à rédiger)
+
+Autres idées de robots :
+
+
 - [Robots marionnette](robots-marionnette.md)
-- [Robots musiciens](robots-musiciens.md)
-- [Robot paresseux](robot-paresseux.md)
 - [Robot Poète](robot-poete.md)
 - [Robot qui perd aux jeux](robot-qui-perd-aux-jeux.md)
-- [Robot qui fait le ménage](robot-qui-fait-le-menage.md)
 - [Robot qui applaudit](robot-qui-applaudit.md)
 - [Robot taciturne](robot-taciturne.md)
 

@@ -8,3 +8,5 @@ Chatbot taciturne entièrement mécanique, ancêtre d'Alan, il renvoie la questi
 
 ## Moment envisagé pour la construction
 Projet abandonné pour l'instant.
+
+[Retour à la liste des robots du laboratoire](.)

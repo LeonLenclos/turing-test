@@ -1,14 +1,6 @@
-
 Machines, émotions et darwinisme
-=========================
+================================
 
-Type
-----
-
-texte théorique 
-
-Résumé
--------
 
 Réflexions sur la nature des émotions et leur origine dans le but de répondre à la question "Les machines peuvent-elles ressentir des émotions?"
 
@@ -27,7 +19,7 @@ Quand on a peur on tremble, on transpire, on crie, on écarquille les yeux. Peu 
 
 Je n'ai d'ailleurs pas besoin de connaitre la raison d'être de ce comportement pour savoir que c'est de la peur. Après rien ne m'empêche d'essayer de le deviner, c'est marrant de faire des suppositions sur les raisons d'être des comportements. Je peux supposer par exemple que grâce à ce comportement, l'animal est obligé de respirer par la bouche et il a ainsi un débit de respiration plus grand qui permet à son organisme d'être mieux alimenté en oxygène et d'être ainsi plus apte à réagir au danger.
 
-![](../../ressources/dessin6.png)
+![](/ressources/dessins/dessin6.png)
 
 La théorie de l'évolution
 -------------------------
@@ -71,7 +63,7 @@ Au final la peur me permet comme pour l'ordinateur de vivre plus longtemps. Mais
 
 Néamoins, il n'est pas impossible de faire subir la selection naturelle à des machines. Car, on l'a vu, le principe de base de la sélection naturelle a quelque chose de très algorithmique.
 
-![](../../ressources/dessin7.png)
+![](/ressources/dessins/dessin7.png)
 
 Heteroptera : l'algorithme darwiniste
 --------------------------------------
@@ -86,6 +78,7 @@ Jamais ces insectes ne pourront faire autre chose que ce que les règles de leur
 
 La plus grande différence entre nous et ces insectes, c'est qu'ils ont atteint en 5 minutes le stade ultime de l'évolution : Dans leur monde, ils sont parfaits. Alors que nous dans le notre...
 
+
 ---
 
-Continuer la lecture : [**La machine de Turing**](la-machine-de-turing.md)
+[retour à la liste des textes à lire, textes théoriques, petites histoires](.)
