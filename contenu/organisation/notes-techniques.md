@@ -38,6 +38,13 @@ Le Git d'un shield pour interfacer modulaires et arduino : Synapse de chez Shadu
 
 ![shéma arduino/servo](/ressources/divers/cablage_servo_arduino.png)
 
+## mesures minimales Scene
+
+Mesures prises à Bessines
+Profondeur minimale: 6m
+Largeur minimale: 7,75m
+Hauteur minimale 3m 
+
 ----
 
 
