@@ -90,7 +90,7 @@ Outil de création musicale
 
 Besoins matériel :
 -  Interface midi
--  Modules additionnels
+-  Modules additionnels 
 
 
 ---
