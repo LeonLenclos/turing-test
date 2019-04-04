@@ -7,6 +7,13 @@ Notes Techniques
 
 - Audio = XLR
 - Ethernet = RJ45
+    - Core --> Alan = 25m
+    - Core --> Lucy = 15m
+    - Core --> Godel = 15m
+    - Core --> Ottomann = 15m
+    - Core --> Ail = 10m
+    - cable de patch = 15cm
+    - cable de patch = 10cm
 - Trig/Gate/CV = MiniJack
 
 ### Alims
