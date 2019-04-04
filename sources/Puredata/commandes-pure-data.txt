@@ -1,0 +1,13 @@
+﻿Copier  le dossier oscx du rep courant vers extra:
+pi@raspberrypi:~/Downloads $ sudo cp -r oscx /usr/lib/pd/extra
+
+lancer puredata avec le midi et le jack audio
+
+$ amixer cset numid=3 1
+$ (qjackctl &)
+$ pd
+Dans pure data sélectionner alsa midi dans média puis sur jack connecter le harware a puredata
+
+
+
+
