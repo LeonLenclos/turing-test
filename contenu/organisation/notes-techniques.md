@@ -42,3 +42,13 @@ Le Git d'un shield pour interfacer modulaires et arduino : Synapse de chez Shadu
 
 
 [Retour à l'organisation de la création](.)
+
+## Réseau
+
+Les machines connectées au réseau :
+- Thinkpad de Léon pour Ognon : ottomann.local (10.0.0.2)
+- Raspberrypi de Fab pour Puredata : 
+- Core : core.local (10.0.0.11)
+- Lucy : lucy.local (10.0.0.13)
+
+## 

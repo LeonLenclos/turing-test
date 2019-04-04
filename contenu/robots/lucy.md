@@ -26,6 +26,8 @@ Lucy tourne sur un Raspberry 3B+ avec un [écran 10.1" 1024x600 HDMI LCD](https:
 
 Pour les infos sur le fonctionnment du programme consultez [le dépõt git de Lucy](https://github.com/LeonLenclos/lucy)
 
+Le programme est lancé au demarrage du raspberry grace à crontab (voir : `sudo crontab -e`)
+
 ## Améliorations
 
 - Mettre à jour la version de Lucy (depuis [son dépõt git](https://github.com/LeonLenclos/lucy))

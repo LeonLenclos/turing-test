@@ -44,13 +44,6 @@ Voilà le schéma du réseau :
 - Un sequenceur trig
 - Un raspberry qui dispatche du OSC sur du Trig et vice versa
 
-### Software
-
-
-Le serveur écoute les message OSC de type `/trig/ n` et envoie un trig sur la sortie `n`.
-
-Le serveur écoute les trigs sur ses entrées et envoie les messages correspondants sur sa table de dispatch. Voir le [code](  turing-test/sources/python/trig-to-osc.txt)
-
 #### Patch du module maison
 
     VCC     : PIN1      (3.3V)
@@ -61,21 +54,19 @@ Le serveur écoute les trigs sur ses entrées et envoie les messages corresponda
     TRIG 4  : PIN15     GPIO22
     GND     : PIN 39    (GND)
 
+### Software
+
+Le serveur écoute les trigs sur ses entrées et envoie les messages correspondants sur sa table de dispatch. Voir le [code](/sources/python/core.py)
+
+
 #### Table de dispatch
 
 indique quel message envoyer à quelle adresse ip en fonction des trigs qu'il reçoit
 
-Par exemple : 
+Par exemple : [dispatch_table.py](/sources/python/dispatch_table.py)
 
-```
-IN-1 => 10.0.0.2:50460 => /control/navigator/run/ default
-IN-2 => lucy.local:4242 => /dance
-```
-un trig sur l'entrée 1 envoie un message OSC d'adresse `/control/navigator/run` avec l'argument `'default'` à la machine `10.0.0.2` sur son port `50460`.
 
-un trig sur l'entrée 2 envoie un message OSC d'adresse `/dance` avec à la machine `lucy.local` sur son port `4242`.
-
-#### SSH
+#### Comment mettre à jour la table de dispatch
 
 Pour se connecter en ssh à core
 
@@ -83,10 +74,20 @@ Pour se connecter en ssh à core
 
 mot de passe : SIMPLE_GRIM_MDP
 
+Puis il faut modifier `~/dispatch_table.py`
+
+Puis il faut `sudo reboot`
+
+#### Notes techniques
+
+Le programme est lancé au demarrage du raspberry avec une commande dans `/etc/rc.local`
+
 ## Améliorations envisagées
 
 - Centraliser les alims
-
+- Voyant quand le serveur OSC est en route
+- Le serveur écoute les message OSC de type `/trig/ n` et envoie un trig sur la sortie `n`.
+- Problème : il semble que core se met en veille (???)
 ## Moment envisagé pour la construction et/ou les améliorations.
 
 Du 15/3/2019 au 31/3/2019 à Graulhet puis résidence 104 du 15 au 21 avril 2019
