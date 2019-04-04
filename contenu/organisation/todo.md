@@ -14,6 +14,8 @@ Liste des choses à faire avec leur degré de prioritée. Les tâches sont suppr
 
 - Gotronic
 - Scratch autocollant
+- tel schlinder moyeu
+- tel miniplane 3S
 
 ### Travail avant Bessines
 
@@ -57,8 +59,12 @@ Liste des choses à faire avec leur degré de prioritée. Les tâches sont suppr
     - eva => finir tissu.
     - aimant écran.
     - (!) Soudure cables (1/2 journée)
+    
+ - Arduino :
+    - Mimi
+    - Caro
 
 ### Divers
 - (!) Contacter SPOON
-- (!) Imprimer dossiers
+- (!) Rectifier dossiers puis imprimer
 - Trouver l'idée du sciècle

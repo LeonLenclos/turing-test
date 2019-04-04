@@ -19,7 +19,7 @@ Notes Techniques
 
 L'interface gate ressemble à ça :
 
-!(interface-gate)[/ressources/interface-gate.png]
+![interface-gate](/ressources/divers/interface-gate.png)
 
 
 ### References circuits
@@ -37,6 +37,13 @@ Le Git d'un shield pour interfacer modulaires et arduino : Synapse de chez Shadu
 ## arduino et servomoteur.
 
 ![shéma arduino/servo](/ressources/divers/cablage_servo_arduino.png)
+
+## mesures minimales Scene
+
+Mesures prises à Bessines
+Profondeur minimale: 6m
+Largeur minimale: 7,75m
+Hauteur minimale 3m 
 
 ----
 

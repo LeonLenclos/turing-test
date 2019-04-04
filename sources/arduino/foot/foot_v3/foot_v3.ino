@@ -67,7 +67,6 @@ void setup() {
   }
   
 
-
 }
 
 
@@ -88,8 +87,9 @@ void loop() {
   Serial.println(debug);
 
   // if the sensor reading is greater than the threshold:
+
   if (amplitudeDetectee >= seuilFaible ){
-    // Serial.println("Knock!");
+     Serial.println("Knock!");
   
     char fileName[50];
     if (amplitudeDetectee <= seuilMedium) {
@@ -109,6 +109,6 @@ void loop() {
 
     delay(tempsRedeclenchement);
      
+  } 
+
   }
-  
-}
