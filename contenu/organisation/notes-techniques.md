@@ -65,4 +65,9 @@ Les machines connectées au réseau :
 - Core : core.local (10.0.0.11)
 - Lucy : lucy.local (10.0.0.13)
 
-## 
+## Ail
+
+Le rpi qui diffuse ognon
+
+- est mis en vertical grace à une ligne dans `/boot/config.txt` (https://www.raspberrypi.org/forums/viewtopic.php?t=120793)
+- lance chrome au demarrage grace au contenu de `/home/pi/.config/lxsession/LXDE-pi/autostart` https://raspberrypi.stackexchange.com/questions/40631/setting-up-a-kiosk-with-chromium
