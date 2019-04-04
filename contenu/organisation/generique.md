@@ -8,7 +8,7 @@ Fabien Carbo-Gil, Bertrand Lenclos et Léon Lenclos
 - Création et régie lumière et son :
 Francis Lopez
 
-- Regards extérieur :
+- Regards extérieurs :
 Laurent Cabrol et Juliette Dominati
 
 - Programmation réseau de neurones :
