@@ -104,6 +104,14 @@
 ![klan_shema_1](/ressources/croquis/klan_shema_1.jpg)
 ```
 
+#### [mimi-circuit](/ressources/croquis/mimi-circuit.png)
+
+![mimi-circuit](/ressources/croquis/mimi-circuit.png)
+
+```
+![mimi-circuit](/ressources/croquis/mimi-circuit.png)
+```
+
 #### [planausol](/ressources/croquis/planausol.png)
 
 ![planausol](/ressources/croquis/planausol.png)

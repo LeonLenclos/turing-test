@@ -72,6 +72,14 @@
 ![Strandbeest-Walking-Animation](/ressources/divers/Strandbeest-Walking-Animation.gif)
 ```
 
+#### [alim-cablage](/ressources/divers/alim-cablage.jpg)
+
+![alim-cablage](/ressources/divers/alim-cablage.jpg)
+
+```
+![alim-cablage](/ressources/divers/alim-cablage.jpg)
+```
+
 #### [cablage_servo_arduino](/ressources/divers/cablage_servo_arduino.png)
 
 ![cablage_servo_arduino](/ressources/divers/cablage_servo_arduino.png)

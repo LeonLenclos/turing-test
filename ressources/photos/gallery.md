@@ -48,6 +48,14 @@
 ![echo](/ressources/photos/echo.JPG)
 ```
 
+#### [fabi-bessines-avril19](/ressources/photos/fabi-bessines-avril19.JPG)
+
+![fabi-bessines-avril19](/ressources/photos/fabi-bessines-avril19.JPG)
+
+```
+![fabi-bessines-avril19](/ressources/photos/fabi-bessines-avril19.JPG)
+```
+
 #### [foot](/ressources/photos/foot.JPG)
 
 ![foot](/ressources/photos/foot.JPG)
