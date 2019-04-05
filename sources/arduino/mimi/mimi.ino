@@ -11,6 +11,8 @@ const long on_Off = 16761405; ////bouton play-pause
 const long augmenter_vitesse = 16754775; //bouton +
 const long diminuer_vitesse = 16769055; //bouton -
 const long debut_init = 16738455; // bouton 0
+const long demarrer_a_fond = 16756815; // bouton 200+
+
 //////////// PINS
 const int RECV_PIN = 2; //Recepteur infrarouge telecommande
 const int ESC_PIN = 9; //ESC drone
@@ -72,6 +74,22 @@ void loop() {
   if (irrecv.decode(&results)) {
     //Serial.println(results.value); //affiche les données de la telecommande
     
+    
+    
+    if (results.value == demarrer_a_fond) {
+      moteur_On = !moteur_On;
+      if (moteur_On) {
+        myservo.write(vitesse_Max);
+        Serial.println(vitesse_Max);
+        }
+      else {
+        myservo.write(90);
+        Serial.println(90);
+        }
+      }
+      
+      
+      
     if (results.value == on_Off) {
       moteur_On = !moteur_On;
       if (moteur_On) {
