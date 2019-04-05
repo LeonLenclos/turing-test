@@ -2,11 +2,9 @@
 
 ## Description générale
 
-Caro, le Robot-caméra, filme les évènements du labo et projette les images sur l'écran A du labo
+Caro, le robot-caméra, filme les évènements du labo et projette les images sur l'écran A du labo. Elle est autonome et se déplace dans le labo pour composer ses images.
 
-Proposition de nom : Kino, Ciné, Iris, Zoom, Caro*
-
-(<small>* Elio n'arrête pas de me parler d'une chef op qu'il a rencontré à l'école : [Caroline Champetier](https://fr.wikipedia.org/wiki/Caroline_Champetier)</small>)
+<small>(Prénom en ref à [Caroline Champetier](https://fr.wikipedia.org/wiki/Caroline_Champetier))</small>
 
 ## Allure
 
@@ -15,6 +13,7 @@ Fixé sur une structure mobile à 4 roues, un mat prolongé d'un col de cygne es
 ## Description technique
 
 La strucure mobile est un hacking de Crawler télécommandé. La télécommande est gérée par le régisseur.
+
 La caméra fixée au col de cygne délivre un signal à un émméteur HF qui transmet l'image jusqu'au vidéoprojecteur situé derrière l'écran de l'établi.
 
 ![robot_camera_V_01](/ressources/photos/robot_camera_V_01.jpg)
@@ -56,16 +55,10 @@ Pour l'instant on selectionne le **2**
 ![emetteur_kino](/ressources/divers/emetteur_kino.jpg)
 
 
-### Software
-
-non
-
 ## Améliorations envisagées
 
-A venir
+- Un petit coffre sur la voiture pour ranger les accessoires.
 
-## Moment envisagé pour la construction et/ou les améliorations.
-
-Du 15/3/2019 au 31/3/2019 à Graulhet
+----
 
 [Retour à la liste des robots du laboratoire](.)

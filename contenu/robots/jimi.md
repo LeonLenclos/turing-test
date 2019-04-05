@@ -39,6 +39,7 @@ Le code de l'arduino est disponible [ici](../../sources/arduino/jimi).
 - Améliorer le rangement 
 - Améliorer le système de maintien des médiators pour pouvoir en changer facilement.
 - Finir le support permettant d'acceuillir une batterie
+- Scier vis à l'arrière
 
 ## Moment envisagé pour la construction et/ou les améliorations
 

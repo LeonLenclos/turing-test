@@ -11,11 +11,29 @@ Le cerveau de Core
 
 ## Description technique
 
+Core est un petit rack format eurorack équipé de :
+- Une clock
+- Un sequenceur de trig
+- Un serveur OSC
+- Un switch ethernet
+
+Ses fonctions principales sont :
+- Composer un rythme qui peut être distribué aux machines du GRIM en Trig (minijack) ou en OSC (RJ45)
+- Connecter toutes les machines équipées d'une interface réseau sur un même réseau.
+
 ### Patch
 
 #### Trig <-> OSC
 
-Le server OSC (raspberry) dispose de 4 entrées et de 2 sortie trig (mini-jack) ainsi que d'une sortie ethernet (RJ45). Son rôle est de dispatcher les trig à differentes adresses IP sous forme de messages OSC et viceversa. 
+Le server OSC (raspberry) dispose de 4 entrées trig (mini-jack) ainsi que d'une sortie ethernet (RJ45). Son rôle est de dispatcher les trig à differentes adresses IP sous forme de messages OSC.
+
+#### Patch RJ45
+
+- Les deux switchs sont connectés entre eux
+- Le serveur OSC est connecté à un des deux switchs
+- Les machines du GRIM sont connectés indiferament à l'un des deux switch
+
+#### Patch m
 
 ### Réseau
 
@@ -85,7 +103,8 @@ Le programme est lancé au demarrage du raspberry avec une commande dans `/etc/r
 ## Améliorations envisagées
 
 - Centraliser les alims
-- Voyant quand le serveur OSC est en route
+- Voyant quand le serveur OSC est en route (boffement utile)
+- 2 sortie trig pour le serveur OSC
 - Le serveur écoute les message OSC de type `/trig/ n` et envoie un trig sur la sortie `n`.
 - Problème : il semble que core se met en veille (???)
 ## Moment envisagé pour la construction et/ou les améliorations.
