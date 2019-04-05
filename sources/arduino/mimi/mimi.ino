@@ -4,7 +4,7 @@
 
 ///////////// REGLAGES
 const int vitesse_Max = 180;
-const int vitesse_Initiale = 100s;
+const int vitesse_Initiale = 100;
 const int pas_Incrementation_vitesse = 10;
 // Messages Télécommande:
 const long on_Off = 16761405; ////bouton play-pause
