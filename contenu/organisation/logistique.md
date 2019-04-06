@@ -651,6 +651,7 @@ Retour le 8/11 déchargement en fin d'aprem.
 - mise en réseau des robots
     - Système syncro cv
 - musique et chorégraphie
+- rallonger cable mimi pour pouvoir brancher l'arduino dans le champ de la caméra
 
 #### Transport et autre
 
