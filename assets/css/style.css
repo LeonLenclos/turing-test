@@ -104,3 +104,16 @@ code {
  border:2px solid #444;
  font-size:10pt
 }
+
+
+
+table{
+  width: 100%;
+  text-align: center;
+}
+th {
+  border-bottom: 1px solid black;
+}
+td {
+  padding: 2px;
+}
