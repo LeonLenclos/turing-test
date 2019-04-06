@@ -31,13 +31,18 @@ Les longs cables passent si possible par le haut.
 Plusieurs options possibles pour l'alimentation des robots :
 
 ####  Alimentation secteur. 
-    - Idéal si les robots restent en place (Lucy, Alan, Core, etc°
+    - Idéal si les robots restent en place (Lucy, Alan, Core, etc)
     
 ####  LIPO 
-     - Connecteurs comme dans ALAN
+     - Déliat, fragile, dangeureux mais puissant
+     - Connecteurs CSIX2 (+ = carré / - = rond / femelle = vers batterie)
+         
+####  LI-ion
+     - peut=être moins critique que LIPO en termes de de fragilité
+     - format standard.
 
 ### Piles rechargeables
-     - Recharge fastidieuse
+     - faible rendement
     
 ####  5V = USB Power Bank. 
     - Bon rapport energie/prix 
