@@ -32,6 +32,20 @@ Les longs cables passent si possible par le haut.
 - Arduino Secteur
 - LIPO = Connecteurs comme dans ALAN
 
+### Batteries
+
+#### USB Power Bank
+
+Ça a marché avec certains arduino mais ça ne semble pas très fiable. Problème : ça s'etteint tout seul.
+
+> power banks also have some minimal discharge current, and shut off if the discharge current is below this threshold. They treated my Arduino as "leakage" and shut off
+
+2 solutions selon [ce thread](https://forum.arduino.cc/index.php?topic=305175.0) 
+
+1- Hackage : faire consommer à la batterie ce qu'il faut pour pas qu'elle ne s'etteigne ([exemple](https://hackaday.com/2013/11/08/tricking-a-usb-power-supply/))
+2- Achat : trouver des batteries avec un mode 'always on' ([exemple](https://www.amazon.com/gp/product/B00ME3ZH7C/ref=oh_aui_detailpage_o09_s00?ie=UTF8&psc=1))
+
+
 ## arduino, cv et gate.
 
 L'interface gate ressemble à ça :

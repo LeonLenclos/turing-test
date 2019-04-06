@@ -77,7 +77,7 @@ Dans notre adaptation, la rotation des pivots s'effectue grace à des rondelles 
 
 - Arduino UNO
 - Shield controleur
-- Moteur CC
+- Moteur CC (vitesse réglable entre 40 et 400 avec l'arduino)
 - Bouton Stop Urgence
 
 ### Software
