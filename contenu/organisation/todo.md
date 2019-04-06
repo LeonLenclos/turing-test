@@ -16,6 +16,7 @@ Liste des choses à faire avec leur degré de prioritée. Les tâches sont suppr
 - Scratch autocollant
 - tel schlinder moyeu
 - tel miniplane 3S
+- un super claiver pour Alan ?
 
 ### Travail avant Bessines
 
