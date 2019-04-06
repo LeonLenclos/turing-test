@@ -2,7 +2,7 @@
 
 
 //////////// PINS
-const int RECV_PIN = 2;
+const int RECV_PIN = 10;
 
 
 ////// INIT TELECOMMANDE

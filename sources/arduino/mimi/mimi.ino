@@ -3,23 +3,29 @@
  
 
 ///////////// REGLAGES
-const int vitesse_Max = 180;
+const int vitesse_Max = 160;
 const int vitesse_Initiale = 100;
-const int pas_Incrementation_vitesse = 10;
+const int pas_Incrementation_vitesse = 5;
 // Messages Télécommande:
 const long on_Off = 16761405; ////bouton play-pause
 const long augmenter_vitesse = 16754775; //bouton +
 const long diminuer_vitesse = 16769055; //bouton -
-const long debut_init = 16738455; // bouton 0
+const long init_Esc = 16738455; // bouton 0
+const long mise_a_zero = 16720605; // bouton prev
 const long demarrer_a_fond = 16756815; // bouton 200+
+const long reset_clock = 16724175; //bouton 1
+
+
 
 //////////// PINS
-const int RECV_PIN = 2; //Recepteur infrarouge telecommande
+const int RECV_PIN = 10; //Recepteur infrarouge telecommande
 const int ESC_PIN = 9; //ESC drone
 
 /////////////////// VAR
 bool moteur_On = false;
 int vitesse;
+int duree_Allumage = 1000;
+long int clock_Extinction_Automatique;
 
 ////// INIT TELECOMMANDE
 IRrecv irrecv(RECV_PIN);
@@ -41,17 +47,17 @@ void setup()
   bool init = false;
   while (!init){
     if (irrecv.decode(&results)) {
-      if(results.value == debut_init){init= !init;}
+      if(results.value == init_Esc){init= !init; }
     }
     delay(2);
   }
   delay(500);
-  long int clock_Debut_Init = millis();
+  clock_Extinction_Automatique = millis();
   //Code pour régler l'ESC
   Serial.println(F("Reglage ESC control max"));
   myservo.write(90);
-  while(millis()<clock_Debut_Init+6000){
-    if (irrecv.decode(&results)&&(results.value != debut_init)) {
+  while(millis()<clock_Extinction_Automatique+6000){
+    if (irrecv.decode(&results)&&(results.value != init_Esc)) {
       myservo.write(90);
       Serial.println(F("Reglage ESC avorté, vitesse baissée à 90"));
       
@@ -65,20 +71,39 @@ void setup()
   //delay(8000);
 
   Serial.println(F("Initialisation terminée"));
-
 }
 
 
 
 void loop() {
+  if (millis() > clock_Extinction_Automatique + 3000) {
+    if(moteur_On){
+      moteur_On = false;
+      myservo.write(90);
+      Serial.println("extinction automatique");
+       }
+    }
+  
   if (irrecv.decode(&results)) {
     //Serial.println(results.value); //affiche les données de la telecommande
-    
-    
-    
+
+    if (results.value == mise_a_zero) {
+      vitesse = vitesse_Initiale;
+      myservo.write(vitesse);
+      Serial.println(vitesse);  
+        }
+
+    if (results.value == reset_clock) {
+      clock_Extinction_Automatique = millis();
+      Serial.println("reset clock");
+      
+        }
+
+      
     if (results.value == demarrer_a_fond) {
       moteur_On = !moteur_On;
       if (moteur_On) {
+        clock_Extinction_Automatique = millis();
         myservo.write(vitesse_Max);
         Serial.println(vitesse_Max);
         }
@@ -93,6 +118,7 @@ void loop() {
     if (results.value == on_Off) {
       moteur_On = !moteur_On;
       if (moteur_On) {
+        clock_Extinction_Automatique = millis();
         myservo.write(vitesse);
         Serial.println(vitesse);
         }
