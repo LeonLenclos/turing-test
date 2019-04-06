@@ -7,11 +7,11 @@ Notes Techniques
 
 Les longs cables passent si possible par le haut.
 
-- Audio = XLR
-    - Table <--> Moduber
-    - Table <--> MS20
-    - Table <--> Godel
-    - Table <--> 
+- Audio = XLR (+ DI + raccord minijack/jack)
+    - Console Sonosax <--> Moduber 1 et 2
+    - Console Sonosax  <--> MS20
+    - Console Sonosax  <--> Godel
+    - Console Sonosax  <--> micro
 - Ethernet = RJ45
     - Core <--> Alan (25m)
     - Core <--> Lucy (15m)
@@ -28,15 +28,23 @@ Les longs cables passent si possible par le haut.
 
 ### Alims
 
-- 5V = USB
-- Arduino Secteur
-- LIPO = Connecteurs comme dans ALAN
+Plusieurs options possibles pour l'alimentation des robots :
 
-### Batteries
+####  Alimentation secteur. 
+    - Idéal si les robots restent en place (Lucy, Alan, Core, etc°
+    
+####  LIPO 
+     - Connecteurs comme dans ALAN
 
-#### USB Power Bank
+### Piles rechargeables
+     - Recharge fastidieuse
+    
+####  5V = USB Power Bank. 
+    - Bon rapport energie/prix 
+    - Deux gros défauts : Limité à 5V et s'etteind innopinément (voir ci-dessous)
 
-Ça a marché avec certains arduino mais ça ne semble pas très fiable. Problème : ça s'etteint tout seul.
+Ça a marché avec certains arduino mais ça ne semble pas très fiable. Problème : ça s'eteind
+tout seul quand cela détecte une trop faible consomation.
 
 > power banks also have some minimal discharge current, and shut off if the discharge current is below this threshold. They treated my Arduino as "leakage" and shut off
 
