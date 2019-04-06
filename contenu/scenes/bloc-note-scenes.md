@@ -1,65 +1,68 @@
 
 # Bloc note de travail mise en scene.
 
+À placer dans BEBER : phrase debut
+
+
 | BEBR           | FAB1           | LEON           | AUTRE          |
 |----------------|----------------|----------------|----------------|
-|                | dodo           |                |                |
+|                |   DODO         |                |                |
 |                |   .            |                | CARO traversée |
-|                |   .            | bouillon       |                |
-|                | hélice         |     .          |                |
-| saluer ALAN    |   .            |     .          |                |
+|                |   .            |   SOOP         |                |
+|                | construct MIMI |     .          |                |
+|    ALAN        |   .            |     .          |                |
 |     .          | ménage         |     .          |                |
 | construit MIMI |   .            | ménage         |                |
-|     .          |                |                |                |
-|                |                |                |                |
-|                |                |                |                |
-|                |                |                |                |
-|                |                |                |                |
-|                |                | theoreme arret |                |
-| construct KLAN | theoreme arret |      .         |                |
-|      .         | prepa OTTO     |      .         |                |
-| prepa OTTO     |      .         | telephone      |                |
-|      .         |                |                |                |
-|                |                |                |                |
-|                |                |                |                |
-|                |                |                |                |
-|                |                |                |                |
-|                |                |                |                |
-|                |                | matt           |                |
-|                |                |                |                |
-| marche         | stroboscope    | range matt     |                |
+|     .          |   .            |  telephone     |                |
+|   test MIMI    |  test MIMI     |     .          |                |
+|      .         |  ALAN          | test MIMI      |                |
+|   TURC         |  carton        |    TURC        | caro turc      |
+|    .           |   .            |     .          |                |
+| construct KLAN |  prepa FOOT    |   prepa FOOT   |                |
+|    .           |    .           |   .            |                |
+|    .           |  constructFOOT |   ALAN         |                |
+|    .           |    .           |   .            |                |
+|    .           |    .           | theoreme arret |                |
+|    .           |    .           |   .            |                |
+|   (meuleuse)   | theoreme arret |   .            |                |
+|    .           |    .           |   .            |                |
+|    .           | prepa OTTO     |   .            |                |
+|    .           |    .           |   .            |                |
+| prepa OTTO     |    .           | telephone      |                |
+|    .           |    .           |   .            |                |
+| figurines      | stroboscope    | MATT           |                |
+|    .           |    .           |   .            | LUCY EST MORTE |
 | requiem        | requiem        | requiem        |                |
+|    .           |    .           |   .            |                |
+|   tri          |  rangement     | rangement      |                |
 |                |                |                |                |
-|                |                |                |                |
-|                |                |                |                |
-|                |                |                |                |
-|                |                |                |                |
-|                |                |                |                |
-| rangement      |  rangement     | rangement      |                |
 |                | se fait beau   |                |                |
 |                |                |                |                |
+|                |                |                | MIMI SE SUCIDE |
 |                |                |                |                |
 |                |                |                |                |
-|                |                |                |                |
-|                | alan           |                |                |
-|                |                |                |                |
-|                |                |                |                |
-|                |                | alan           |                |
-|                |                |                |                |
-|                |                |                |                |
-|                |                | picoproj       |                |
-|                |                |                |                |
-|                |                |                |                |
-|                |   tri          |                |                |
-|                |                |                |                |
-|                |                |                |                |
-| morpion        |                | morpion        |                |
+|                |                |   ECHO         |                |
 |                |                |                |                |
 |                |                |                |                |
 |                |                |                |                |
 |                |                |                |                |
-|  figurines     |                |                |                |
+|                |                |                |                |
+|                |                |                |                |
+|                |                |                |                |
+|                |                |                |                |
+|                |                |                |                |
+|                |                |                |                |
+|                |                |                |                |
+|                |                |                |                |
+|                |                |                |                |
+|                |                |                |                |
+|                |                |                |                |
+|                |                |                |                |
 
+## Acte 3
+
+- picoproj
+- flechettes / JIMI
 
 ## Idees a tester à Bessines
 
