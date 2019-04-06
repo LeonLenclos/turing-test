@@ -18,7 +18,7 @@ C'est un quadripède avec un bras articulé au bout duquel est fixé un électro
 
 ### Note sur l'entretient des verrains.
 
-Il convient de décrasser régulièrement les verrains à l'alcool à 90° puis de regraisser très légèrement par exemple avec de la graisse humaine.
+Il convient de décrasser régulièrement les verrains à l'alcool à 90° puis de regraisser très légèrement par exemple avec de la graisse de nez.
 
 ![think-exclamation](/ressources/icons/think-exclamation.png) Attention : pensez à vous lavez les mains entre l'utilisation de l'alcool à 90 et la collecte de votre graisse de nez.
 
