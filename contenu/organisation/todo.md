@@ -12,25 +12,20 @@ Liste des choses à faire avec leur degré de prioritée. Les tâches sont suppr
 
 ### Courses
 
-- Gotronic
-- Scratch autocollant
-- tel schlinder moyeu
-- tel miniplane 3S
+     - 2 BNC male/RCA male
+     - fiche alim 2,1mm/male et femelle
+     - voltmettre lipo
 
-### Travail avant Bessines
+### Travail avant Graine de rue
 
 - Alan :
     - (!) Caisse d'Alan + rangement accessoires.
-    - Prendre control de MVO Chatbot (entrainement)
+    - Prendre le control de MVO Chatbot (entrainement)
+    - (!!) Kali
 - Klan :
-    - construire le robot
-- Core :
-    - (!!) Programmation du serveur osc 
-    - (!!) Commencer par faire le circuit pour une entrée trig sur le raspberry 
-    - Circuit I/O gate
+    - (!) construire le robot
 - Caro (robot camera) :
-    - tester emmeteur
-    - connecter batterie
+    - (!) fiabiliser
 - Foot :
     - Rajouter une led
     - Fixation alim
@@ -38,11 +33,8 @@ Liste des choses à faire avec leur degré de prioritée. Les tâches sont suppr
     - Faire une base 
     - Trigger
     - Alim
-    - Audio
+    - (!) Audio
     - Fixation capteur
-- Turc :
-    - Racourcir tuyaux
-    - Problème alim
 - Matt :
     - Creer carton-enceinte + micro dédié.
 - Otto racourcir les bras (30min)
@@ -51,20 +43,19 @@ Liste des choses à faire avec leur degré de prioritée. Les tâches sont suppr
     - deporter alim
     - Trouver une caisse de guitarre
 - Robots pas fait :
-    - (!) Robot sucidaire
     - Dedo
     - Lisa
 
 - Décors :
-    - eva => finir tissu.
-    - aimant écran.
+    - Finir les finitions des tissus.
+        - ajouter des aimants a certains endroits
+        - finit d'agrandir les tissus à cour
+    - lampadaire : trouver des nouvelles goupilles
     - (!) Soudure cables (1/2 journée)
     
  - Arduino :
     - Mimi
-    - Caro
+    - Klan
 
 ### Divers
-- (!) Contacter SPOON
 - (!) Rectifier dossiers puis imprimer
-- Trouver l'idée du sciècle

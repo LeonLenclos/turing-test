@@ -21,7 +21,7 @@ Ce qu'il faut savoir pour être au bon endroit au bon moment et ne rien oublier.
 - Graines de rue - Bessines (87) - du 1 au 13 avril 2019 - Restitution le 13 avril 2019 à 18h30 ou 20h.
 - 104 - Paris (75) - du 15 au 21 avril 2019.
 - MJC Rodez (12) - du 29 avril au 3 mai 2019 - restitution jeudi 2 mai 2019.
-- Théâtre d'Auch (32) - du 13 au 24 mai 2019 - restitutions probable le jeudi 23 mai 2019 â 19h.
+- Théâtre d'Auch (32) - du 13 au 24 mai 2019 - restitution probable le jeudi 23 mai 2019 â 19h.
 - Graines de rue - Bessines (87) - Théâtre Gérard Philipe à Bessines (87)- représentation le vendredi 7 et samedi 8 juin 2019.
 - MIMA - Mirepoix (09) - du 25 au 31 aout 2019 - représentation le 1 et 2 aout 2019.
 - Espace Bonnefoy - Toulouse (31) - du 23 au 27 septembre 2019. Reprise.
@@ -82,7 +82,7 @@ Ce qu'il faut savoir pour être au bon endroit au bon moment et ne rien oublier.
 
 ##### outillage
 - pistolet à colle
-- Caisse outil rouge
+- Caisse outils rouge
 - caisse Bleue
 - caisse electronique
 - Masque Léon
@@ -90,7 +90,7 @@ Ce qu'il faut savoir pour être au bon endroit au bon moment et ne rien oublier.
 
 ##### Matériaux
 - feuille et chute plastazote
-- mousse diverses
+- mousses diverses
 - Selection recup Métal
 - **selection recup bois**
 - selection recup plastique
@@ -113,12 +113,12 @@ Ce qu'il faut savoir pour être au bon endroit au bon moment et ne rien oublier.
 ###### Bertrand
 - selection micros (HF sm58 neuman)
 - selection caméra
-- 1 Vidéoproj + 1 écrans + Sac cable
+- 1 Vidéoproj + 1 écran + Sac cables
 - Modulaires
 - Diff + console + cables
 - selection cables
 - sac 550D + pied
-- ordi ber tablete
+- ordi ber tablette
 
 ##### divers
 - livres
@@ -134,7 +134,7 @@ Ce qu'il faut savoir pour être au bon endroit au bon moment et ne rien oublier.
 
 ###### Tables :
 - 4 plateaux tables
-- 12 barres longue
+- 12 barres longues
 - 8 barres courtes
 - 8 cremailleres
 - 16 montants
@@ -145,7 +145,7 @@ Ce qu'il faut savoir pour être au bon endroit au bon moment et ne rien oublier.
 - tableau noir
 - 4 planches plastiques
 - Cartons standards
-- carton acessoirs (tokai)
+- carton acessoires (tokai)
 
 ###### Musique :
 - console sonosax
@@ -266,7 +266,7 @@ Ce qu'il faut savoir pour être au bon endroit au bon moment et ne rien oublier.
 ###### Bertrand
 - selection micros (HF sm58 neuman)
 - selection caméra
-- 1 Vidéoproj + 1 écrans + Sac cable
+- 1 Vidéoproj + 1 écran + Sac cables
 - Modulaires
 - Diff + console + cables
 - selection cables
@@ -286,7 +286,7 @@ A faire Lundi 24 septembre matin, charger, récupérer visserie.
 ##### outillage
 - pistolet à colle
 - decapeur
-- male 8
+- malle 8
 - caisse electronique bleue
 - Masque Léon
 - planche decoupe + reglet
@@ -383,7 +383,7 @@ Retour le 8/11 déchargement en fin d'aprem.
 ##### outillage
 
 - servante rouge avec : meuleuse, sauteuse, scie métaux, boite de mèches, pistolet à colle, decapeur
-- male 8
+- malle 8
 - caisse electronique bleue
 - Masque Léon
 - planche decoupe + reglet
@@ -397,15 +397,15 @@ Retour le 8/11 déchargement en fin d'aprem.
 
 ##### Matériaux
 
-- feuille et chute plastazote & mousse diverses (déjà commandés,à charger)
-- tube carre 30 pour écran - 1 barre (déjà commandés,à charger)
+- feuille et chute plastazote & mousses diverses (déjà commandé,à charger)
+- tube carré 30 pour écran - 1 barre (déjà commandé,à charger)
 - plat pour triangle étagère (à acheter)
-- embout de table plastique (déjà commandés,à charger)
+- embout de table plastique (déjà commandé,à charger)
 - aimant a coudre (à acheter)
 - tulle 4m x 3m (gobelin 2 chez teviloj)(à acheter)
 - crochet 34 (déjà commandés, livré Bessines)
-- plaque plastique noir (déjà commandés,à charger)
-- corniere protection tables (déjà commandés, livré Bessines)
+- plaque plastique noir (déjà commandé,à charger)
+- corniere protection tables (déjà commandé, livré Bessines)
 - cables audio de couleur (à commander + à souder)
 - Peinture noire métal (+ peinture divers).
 
@@ -467,7 +467,7 @@ Retour le 8/11 déchargement en fin d'aprem.
 
 ###### Video
 - videoproj pico
-- videoproj secour envol avec raccord rca bnc
+- videoproj secours envol avec raccord rca bnc
 - videoproj 2 + grand VGA
 - manfrotto x 1
 - valise electronique
@@ -530,7 +530,7 @@ Retour le 8/11 déchargement en fin d'aprem.
 ##### outillage
 
 - servante rouge avec : meuleuse, sauteuse, scie métaux, boite de mèches, pistolet à colle, decapeur
-- male 8 (épurée, et la charger avec le reste)
+- malle 8 (épurée, et la charger avec le reste)
 - caisse electronique bleue
 - planche decoupe + reglet
 - Kit soudure
@@ -542,7 +542,7 @@ Retour le 8/11 déchargement en fin d'aprem.
 ##### Carton matériaux
 
 - selection divers matières : alu, plastazote, etc
-- aimant a coudre pour écran
+- aimants à coudre pour écran
 - cables audio + connecteurs
 
 ##### Carton electronic
@@ -584,7 +584,7 @@ Retour le 8/11 déchargement en fin d'aprem.
 - Cintik
 - Raspberry ognon
 - MS 20 + SQ1
-- Raspberry PD + clavier + ecran iiYama  + carte son + controlleur
+- Raspberry PD + clavier + ecran iiYama  + carte son + controleur
 - Sac bras
 - ...
 
@@ -611,7 +611,7 @@ Retour le 8/11 déchargement en fin d'aprem.
 - carton acessoires (tokai)
 - etiqueteuse 
 - persos assis
-- Kit sieste : tapis de sol + duvet + casquette = casque + lunette
+- Kit sieste : tapis de sol + duvet + casquette = casque + lunettes
 - fly metro = oscilo + convertisseur universel + reverb à bande
 
 ##### Video
@@ -630,7 +630,7 @@ Retour le 8/11 déchargement en fin d'aprem.
 - [Echo](../robots/echo.md) : (en caisse bois)
 - [Lucy](../robots/lucy.md) : (en carton avec caisse d'echo)
 - [Jimi](../robots/jimi.md) : (en valise souple)
-- [Klan](../robots/klan.md) : (en pièces détaché)
+- [Klan](../robots/klan.md) : (en pièces détachées)
 - [Core](../robots/core.md) : (en flight case)
 - [Caro](../robots/caro.md) : (en carton)
 - [Mimi](../robots/mimi.md) : (en carton)
@@ -651,6 +651,7 @@ Retour le 8/11 déchargement en fin d'aprem.
 - mise en réseau des robots
     - Système syncro cv
 - musique et chorégraphie
+- rallonger cable mimi pour pouvoir brancher l'arduino dans le champ de la caméra
 
 #### Transport et autre
 
@@ -721,7 +722,7 @@ Dépose Léon à Toulouse.
 #### Objectifs
 
 - Dernières finitions 
-- Résitution des ateliers
+- Restitution des ateliers
 - Première scolaire le 6 juin
 - Première le 7 juin
 - Première en soirée le 8 juin
