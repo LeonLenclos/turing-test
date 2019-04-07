@@ -4,17 +4,18 @@
 
 ///////////// REGLAGES
 const int vitesse_Max = 180;
+const int temps_Suicide = 1000;// en millisecondes
 const int vitesse_Initiale = 95;
 const int pas_Incrementation_vitesse = 5;
 // Messages Télécommande:
 const long play = 284117940; ////bouton play >|
 const long pause = 284152110; ////bouton stop []
+const long pause2 = 284138340; ////bouton stop 0
 const long augmenter_vitesse = 284101620; //bouton >>
 const long diminuer_vitesse = 284134260; //bouton <<
-const long augmenter_beaucoup_vitesse = 284150070; //bouton >>|
-const long diminuer_beaucoup_vitesse = 284160270; //bouton <<|
 const long init_Esc = 284158740; // bouton Standby
 const long demarrer_a_fond = 284129670; // bouton 9
+const long demarrer_suicide = 284141910; // bouton 1
 
 
 //////////// PINS
@@ -41,6 +42,21 @@ void changer_vitesse_moteur(int vitesse_moteur){
       Serial.println(vitesse_moteur);
    }
 }
+
+void eteindre_moteur(){
+      moteur_On = false;
+      myservo.write(90);
+      Serial.println(F("moteur eteint"));
+   }
+
+
+void suicide(){
+  Serial.println(F("suicide"));
+  moteur_On = true;
+  changer_vitesse_moteur(vitesse_Max);
+  delay(temps_Suicide);
+  eteindre_moteur();
+   }
 
 //////////////////// SETUP
 void setup()
@@ -85,9 +101,8 @@ void setup()
 void loop() {
   if (millis() > clock_Extinction_Automatique + 3000) {
     if(moteur_On){
-      moteur_On = false;
-      myservo.write(90);
       Serial.println("extinction automatique");
+      eteindre_moteur();
        }
     }
   
@@ -101,10 +116,10 @@ void loop() {
         myservo.write(vitesse_Max);
         Serial.println(vitesse_Max);
         }
-      else {
-        myservo.write(90);
-        Serial.println(90);
-        }
+      }
+
+      if (results.value == demarrer_suicide) {
+      suicide();
       }
          
     if (results.value == play) {
@@ -114,10 +129,8 @@ void loop() {
       Serial.println(vitesse);
       }
       
-    if (results.value == pause) {
-      moteur_On = false;
-      myservo.write(90);
-      Serial.println("90");
+    if ((results.value == pause) || (results.value == pause2)) {
+      eteindre_moteur();
       }
       
     if ((results.value == augmenter_vitesse)&&((vitesse + pas_Incrementation_vitesse) < vitesse_Max)) {
@@ -129,15 +142,7 @@ void loop() {
       changer_vitesse_moteur(vitesse);
       }
       
-    if ((results.value == augmenter_beaucoup_vitesse)&&((vitesse + (2*pas_Incrementation_vitesse)) < vitesse_Max)) {
-      vitesse = vitesse + (2*pas_Incrementation_vitesse);
-      changer_vitesse_moteur(vitesse);
-      } 
-    if ((results.value == diminuer_beaucoup_vitesse)&&((vitesse - (2*pas_Incrementation_vitesse)) > 90)) {
-      vitesse = vitesse - (2*pas_Incrementation_vitesse);
-      changer_vitesse_moteur(vitesse);
-      }
-      
+   
     irrecv.resume(); // Recoit la valeur suivante
   }
   delay(2);
