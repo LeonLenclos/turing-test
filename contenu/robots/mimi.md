@@ -1,11 +1,3 @@
- Nom
-Description générale
-Allure
-Matériaux
-Hypothèses de construction, description technique
-Améliorations envisagées
-Moment envisagé pour la construction et/ou les améliorations
-
 # Mimi
 
 ## Description générale
@@ -24,7 +16,9 @@ Une hélice de drone fixée sur un carton. Le carton contient un Arduino qui env
 - Brancher la batterie à l'ESC
 - Have fun
 
+## Risques
 
+Si l'arduino se débranche, le moteur peut rester sur la dernière vitesse qu'il a reçu. Dans ce cas, il faut soit débrancher la batterie des moteurs, soit rebrancher l'arduino.
 
 ## Description technique
 
