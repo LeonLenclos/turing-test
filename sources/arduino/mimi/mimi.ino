@@ -3,18 +3,18 @@
  
 
 ///////////// REGLAGES
-const int vitesse_Max = 160;
-const int vitesse_Initiale = 100;
+const int vitesse_Max = 180;
+const int vitesse_Initiale = 95;
 const int pas_Incrementation_vitesse = 5;
 // Messages Télécommande:
-const long on_Off = 16761405; ////bouton play-pause
-const long augmenter_vitesse = 16754775; //bouton +
-const long diminuer_vitesse = 16769055; //bouton -
-const long init_Esc = 16738455; // bouton 0
-const long mise_a_zero = 16720605; // bouton prev
-const long demarrer_a_fond = 16756815; // bouton 200+
-const long reset_clock = 16724175; //bouton 1
-
+const long play = 284117940; ////bouton play >|
+const long pause = 284152110; ////bouton stop []
+const long augmenter_vitesse = 284101620; //bouton >>
+const long diminuer_vitesse = 284134260; //bouton <<
+const long augmenter_beaucoup_vitesse = 284150070; //bouton >>|
+const long diminuer_beaucoup_vitesse = 284160270; //bouton <<|
+const long init_Esc = 284158740; // bouton Standby
+const long demarrer_a_fond = 284129670; // bouton 9
 
 
 //////////// PINS
@@ -33,7 +33,14 @@ decode_results results;
 ////// INIT SERVO
 Servo myservo;  // Créer un objet servo
 
-
+//////////////////// Functions
+void changer_vitesse_moteur(int vitesse_moteur){
+   if (moteur_On){
+      clock_Extinction_Automatique = millis();
+      myservo.write(vitesse_moteur);
+      Serial.println(vitesse_moteur);
+   }
+}
 
 //////////////////// SETUP
 void setup()
@@ -73,7 +80,7 @@ void setup()
   Serial.println(F("Initialisation terminée"));
 }
 
-
+//////////////////// LOOP ////////////////////////////////////////////
 
 void loop() {
   if (millis() > clock_Extinction_Automatique + 3000) {
@@ -87,19 +94,6 @@ void loop() {
   if (irrecv.decode(&results)) {
     //Serial.println(results.value); //affiche les données de la telecommande
 
-    if (results.value == mise_a_zero) {
-      vitesse = vitesse_Initiale;
-      myservo.write(vitesse);
-      Serial.println(vitesse);  
-        }
-
-    if (results.value == reset_clock) {
-      clock_Extinction_Automatique = millis();
-      Serial.println("reset clock");
-      
-        }
-
-      
     if (results.value == demarrer_a_fond) {
       moteur_On = !moteur_On;
       if (moteur_On) {
@@ -112,40 +106,39 @@ void loop() {
         Serial.println(90);
         }
       }
-      
-      
-      
-    if (results.value == on_Off) {
-      moteur_On = !moteur_On;
-      if (moteur_On) {
-        clock_Extinction_Automatique = millis();
-        myservo.write(vitesse);
-        Serial.println(vitesse);
-        }
-      else {
-        myservo.write(90);
-        Serial.println(90);
-        }
+         
+    if (results.value == play) {
+      moteur_On = true;
+      clock_Extinction_Automatique = millis();
+      myservo.write(vitesse);
+      Serial.println(vitesse);
       }
       
-      
-    if (results.value == augmenter_vitesse) {
-      if (moteur_On && (vitesse < vitesse_Max)){
-        vitesse = vitesse + pas_Incrementation_vitesse;
-        myservo.write(vitesse);
-        Serial.println(vitesse);
-        }
+    if (results.value == pause) {
+      moteur_On = false;
+      myservo.write(90);
+      Serial.println("90");
       }
       
-      
-    if (results.value == diminuer_vitesse) {
-      if (moteur_On && (vitesse > 90)){
-        vitesse = vitesse - pas_Incrementation_vitesse;
-        myservo.write(vitesse);
-        Serial.println(vitesse);
-        }
+    if ((results.value == augmenter_vitesse)&&((vitesse + pas_Incrementation_vitesse) < vitesse_Max)) {
+      vitesse = vitesse + pas_Incrementation_vitesse;
+      changer_vitesse_moteur(vitesse);
+      } 
+    if ((results.value == diminuer_vitesse)&&((vitesse - pas_Incrementation_vitesse) > 90)) {
+      vitesse = vitesse - pas_Incrementation_vitesse;
+      changer_vitesse_moteur(vitesse);
       }
+      
+    if ((results.value == augmenter_beaucoup_vitesse)&&((vitesse + (2*pas_Incrementation_vitesse)) < vitesse_Max)) {
+      vitesse = vitesse + (2*pas_Incrementation_vitesse);
+      changer_vitesse_moteur(vitesse);
+      } 
+    if ((results.value == diminuer_beaucoup_vitesse)&&((vitesse - (2*pas_Incrementation_vitesse)) > 90)) {
+      vitesse = vitesse - (2*pas_Incrementation_vitesse);
+      changer_vitesse_moteur(vitesse);
+      }
+      
     irrecv.resume(); // Recoit la valeur suivante
   }
-  delay(4);
+  delay(2);
 }
