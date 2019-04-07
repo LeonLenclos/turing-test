@@ -40,6 +40,7 @@ Bouton Stanby : Lance l'initialisation de l'ESC
 Bouton 9 : Programme pour la scène de réglage de l'hélice de Fabien. Il lance le moteur à fond et initialise la clock.
 Bouton play : Réinitialise la clock et allume le moteur s'il était éteint
 Bouton stop : Coupe le moteur
+Bouton 0 : Coupe le moteur
 Boutons >> et << : augmentent et diminuent la vitesse, réinitialisent la clock.
 Bouton 1 : Lancer la fonction suicide (allume le moteur à fond pendant un temps court).
 
