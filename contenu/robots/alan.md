@@ -36,38 +36,38 @@ Barres d'aluminium de section rectangulaire, matériel informatique.
 ## Description technique
 
 ### Hardware
-Carte mère (avec le processeur et la carte grapique fixés dessus), refroidisseur, alimentation, boutons de façade et écran fixés dans la structure. 
+Carte mère (avec le processeur et la carte graphique fixés dessus), refroidisseur, alimentation, boutons de façade et écran fixés dans la structure. 
 
 ### Software
 
 [Le dépôt github de Alan](https://github.com/LeonLenclos/alan) est consacré au code source d'alan.
 
-Les consignes d'écritures pour le développement d'Alan sont dans le fichier `brain/README.md` présent dans le dépôt github d'Alan. Cete page sert aux visiteurs et aux consignes d'installation.
+Les consignes d'écriture pour le développement d'Alan sont dans le fichier `brain/README.md` présent dans le dépôt github d'Alan. Cete page sert aux visiteurs et aux consignes d'installation.
 
-L'architecture d'Alan est basé sur le module python [chatterbot](https://github.com/gunthercox/ChatterBot). Le programme d'Alan est ainsi composé de modules, des bouts de programmes qui répondent à des taches précises :
-- Des modules servant à générer en fonction d'un texte entré par l'utilisateur une réponse sous forme de texte en fonction et un indice de confiance. Il sont appelés des LogicAdapter. Voici un tableau récapitulant le niveaundice de confiance pour chaque logic adapter:
+L'architecture d'Alan est basée sur le module python [chatterbot](https://github.com/gunthercox/ChatterBot). Le programme d'Alan est ainsi composé de modules, des bouts de programmes qui répondent à des taches précises :
+- Des modules servant à générer en fonction d'un texte entré par l'utilisateur une réponse sous forme de texte en fonction et un indice de confiance. Il sont appelés des LogicAdapter. Voici un tableau récapitulant le niveau indice de confiance pour chaque logic adapter:
 
 ![alan_logic](/ressources/photos/alan_logic.JPG)
 
 - Un module servant à gérer la reconnaissance vocale (conversion voix vers texte) sera un InputAdapter
 - Un module servant à gérer la synthèse vocale (conversion texte vers voix) sera un OutputAdapter
 
-Lorsque l'utilisateur dis quelque-chose à Alan, certains logic adapters se mettront en marche et c'est la réponse de celui qui renverra l'indice de confiance le plus haut qui sera sélectionnée. Si tout les logic adapters ne se mettent pas en marche à chaque fois, c'est parce que certains ne sont conçus que pour répondre à un certain type de phrases. 
+Lorsque l'utilisateur dit quelque chose à Alan, certains logic adapters se mettront en marche et c'est la réponse de celui qui renverra l'indice de confiance le plus haut qui sera sélectionnée. Si tous les logic adapters ne se mettent pas en marche à chaque fois, c'est parce que certains ne sont conçus que pour répondre à un certain type de phrases. 
 
 ### Comment parler avec Alan
 
-Quand on lance Alan sur son harware il faut :
+Quand on lance Alan sur son hardware il faut :
 
 - ouvrir un terminal (par exemple Alt+F2 puis `gnome-terminal`)
 - changer la résolution de l'écran : `sh screen-setup.sh`
-- redimensioner à la main la fenêtre du terminal
+- redimensionner à la main la fenêtre du terminal
 - lancer alan : `alan`
 
 Vous pouvez également  installer le programme de Alan sur votre ordinateur.
 
 **Version de python requise : Python 3.5**
 
-Le projet est encore en cours de développement, github est un outil adapté à ce contexte : il existe plusieurs "branches" qui sont des versions plus ou moins avancées d'Alan. Le Alan contenu dans la branche `master` doit normalement pouvoir fonctionner, il en est pour l'instant à la version 1. Il existe par exemple une branche développement sur laquelle nous travaillons et qui peut donc contenir un certain nombre de problèmes pas encores résolus. En attendant de pouvoir parler avec Alan sur internet vous pouvez suivre les indications suivantes pour installer Alan sur votre ordinateur ! Tout d'abord il vous faut télécharger ce dossier git en cliquant sur clone or download, puis rentrer les commandes suivantes dans le terminal depuis le dossier alan :
+Le projet est encore en cours de développement, github est un outil adapté à ce contexte : il existe plusieurs "branches" qui sont des versions plus ou moins avancées d'Alan. Le Alan contenu dans la branche `master` doit normalement pouvoir fonctionner, il en est pour l'instant à la version 1. Il existe par exemple une branche développement sur laquelle nous travaillons et qui peut donc contenir un certain nombre de problèmes pas encore résolus. En attendant de pouvoir parler avec Alan sur internet vous pouvez suivre les indications suivantes pour installer Alan sur votre ordinateur ! Tout d'abord il vous faut télécharger ce dossier git en cliquant sur clone or download, puis rentrer les commandes suivantes dans le terminal depuis le dossier alan :
 
  ```
   $ pip install -r requirements.txt
@@ -87,7 +87,7 @@ Pour quitter
  > ciao
 ```
 
-Pour une annalyse des logic adapters en jeu dans la dernière réponse
+Pour une analyse des logic adapters en jeu dans la dernière réponse
 
 ```
  > info

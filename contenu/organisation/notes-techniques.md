@@ -3,21 +3,26 @@ Notes Techniques
 
 ## Les cables <3
 
+indentification des cables : `(longueur, couleur du cable, (+couleur du repère))`
+
 ### Longs cables (Standard Grim)
 
 Les longs cables passent si possible par le haut.
 
 - Audio = XLR (+ DI + raccord minijack/jack)
-    - Console Sonosax <--> Moduber 1 et 2
-    - Console Sonosax  <--> MS20
-    - Console Sonosax  <--> Godel
-    - Console Sonosax  <--> micro
+    - Console Sonosax  <--> MS20 (12m, jaune (+bleu))
+    - Console Sonosax  <--> Godel R (12m, jaune (+rouge))
+    - Console Sonosax  <--> Godel L (12m, jaune (+vert))
+    - Console Sonosax  <--> micro fab (12m, rouge (+jaune))
+    - Console Sonosax  <--> micro leon (10m, rouge (+vert))
+    - Console Sonosax  <--> reverb metro (15m, rouge (+noir))
+    - Console Sonosax  <--> boite à rythme (15m, jaune (+noir))
 - Ethernet = RJ45
-    - Core <--> Alan (25m)
-    - Core <--> Lucy (15m)
-    - Core <--> Godel (15m)
-    - Core <--> Ottomann (15m)
-    - Core <--> Ail (10m)
+    - Core <--> Alan (25m, blanc)
+    - Core <--> Lucy (15m, vert)
+    - Core <--> Godel (15m, vert)
+    - Core <--> Ottomann (15m, vert)
+    - Core <--> Ail (10m, bleu)
 - Trig/Gate/CV = MiniJack
     - Core <--> Moduber
     - Core <--> SQ1 ?
@@ -25,6 +30,17 @@ Les longs cables passent si possible par le haut.
     - Core <--> Jimi
     - Core <--> Foot ?
     - Core <--> Dedo
+
+### Cables courts (Standard Grim)
+
+
+- Audio = XLR (+ DI + raccord minijack/jack)
+    - Console Sonosax <--> Moduber stero 1 et 2 (2m50, rouge)
+    - Console Sonosax  <--> micro ber (5m, rouge (+bleu))
+- Ethernet = RJ45
+    - Core <--> Core (15cm, rouge) x2
+- Trig/Gate/CV = MiniJack
+    - Core <--> Core
 
 ### Alims
 
