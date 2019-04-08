@@ -26,10 +26,10 @@ Les longs cables passent si possible par le haut.
 - Trig/Gate/CV = MiniJack
     - Core <--> Moduber
     - godel <--> Moduber (4m)
-    - Core <--> SQ1 (15m, jaune)
-    - Core <--> Echo (3m, vert)
-    - Core <--> Jimi (14m, rouge)
-    - Core <--> Foot (14m, bleu)
+    - Core <--> SQ1 (15m, noir (+jaune))
+    - Core <--> Echo (3m, noir (+vert))
+    - Core <--> Jimi (14m, noir (+rouge))
+    - Core <--> Foot (14m, noir (+bleu))
     - Core <--> Dedo 
 
 ### Cables courts (Standard Grim)
@@ -48,22 +48,27 @@ Les longs cables passent si possible par le haut.
 Plusieurs options possibles pour l'alimentation des robots :
 
 ####  Alimentation secteur. 
-    - Idéal si les robots restent en place (Lucy, Alan, Core, etc)
+
+- Idéal si les robots restent en place (Lucy, Alan, Core, etc)
     
 ####  LIPO 
-     - Déliat, fragile, dangeureux mais puissant
-     - Connecteurs CSIX2 (+ = carré / - = rond / femelle = vers batterie)
+
+- Déliat, fragile, dangeureux mais puissant
+- Connecteurs CSIX2 (+ = carré / - = rond / femelle = vers batterie)
          
 ####  LI-ion
-     - peut=être moins critique que LIPO en termes de de fragilité
-     - format standard.
+
+- peut=être moins critique que LIPO en termes de de fragilité
+- format standard.
 
 ### Piles rechargeables
-     - faible rendement
+
+- faible rendement
     
-####  5V = USB Power Bank. 
-    - Bon rapport energie/prix 
-    - Deux gros défauts : Limité à 5V et s'etteind innopinément (voir ci-dessous)
+####  5V = USB Power Bank.
+
+- Bon rapport energie/prix 
+- Deux gros défauts : Limité à 5V et s'etteind innopinément (voir ci-dessous)
 
 Ça a marché avec certains arduino mais ça ne semble pas très fiable. Problème : ça s'eteind
 tout seul quand cela détecte une trop faible consomation.
