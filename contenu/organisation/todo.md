@@ -15,6 +15,7 @@ Liste des choses à faire avec leur degré de prioritée. Les tâches sont suppr
      - 2 BNC male/RCA male
      - fiche alim 2,1mm/male et femelle
      - voltmettre lipo
+     - batterie Li-ion
 
 ### Travail avant Graine de rue
 
@@ -26,6 +27,7 @@ Liste des choses à faire avec leur degré de prioritée. Les tâches sont suppr
     - (!) construire le robot
 - Caro (robot camera) :
     - (!) fiabiliser
+    - Changer connecteur Batterie
 - Foot :
     - Rajouter une led
     - Fixation alim
@@ -33,7 +35,6 @@ Liste des choses à faire avec leur degré de prioritée. Les tâches sont suppr
     - Faire une base 
     - Trigger
     - Alim
-    - (!) Audio
     - Fixation capteur
 - Matt :
     - Creer carton-enceinte + micro dédié.
@@ -50,11 +51,8 @@ Liste des choses à faire avec leur degré de prioritée. Les tâches sont suppr
     - Finir les finitions des tissus.
         - ajouter des aimants a certains endroits
         - finit d'agrandir les tissus à cour
-    - lampadaire : trouver des nouvelles goupilles
-    - (!) Soudure cables (1/2 journée)
     
  - Arduino :
-    - Mimi
     - Klan
 
 ### Divers
