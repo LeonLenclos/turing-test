@@ -46,6 +46,7 @@ Liste des choses à faire avec leur degré de prioritée. Les tâches sont suppr
 - Robots pas fait :
     - Dedo
     - Lisa
+    - Toto
 
 - Décors :
     - Finir les finitions des tissus.
