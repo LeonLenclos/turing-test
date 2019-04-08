@@ -25,11 +25,12 @@ Les longs cables passent si possible par le haut.
     - Core <--> Ail (10m, bleu)
 - Trig/Gate/CV = MiniJack
     - Core <--> Moduber
+    - godel <--> Moduber (4m)
     - Core <--> SQ1 (15m, jaune)
-    - Core <--> Echo (5m, vert)
-    - Core <--> Jimi (20m, rouge)
-    - Core <--> Foot (20m, bleu)
-    - Core <--> Dedo (20m, noir)
+    - Core <--> Echo (3m, vert)
+    - Core <--> Jimi (14m, rouge)
+    - Core <--> Foot (14m, bleu)
+    - Core <--> Dedo 
 
 ### Cables courts (Standard Grim)
 
