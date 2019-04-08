@@ -61,7 +61,7 @@ Plusieurs options possibles pour l'alimentation des robots :
 - peut=être moins critique que LIPO en termes de de fragilité
 - format standard.
 
-### Piles rechargeables
+#### Piles rechargeables
 
 - faible rendement
     
