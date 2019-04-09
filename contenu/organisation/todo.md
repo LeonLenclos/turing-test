@@ -16,6 +16,7 @@ Liste des choses à faire avec leur degré de prioritée. Les tâches sont suppr
      - fiche alim 2,1mm/male et femelle
      - voltmettre lipo
      - batterie Li-ion
+     - lampe videoproj
 
 ### Travail avant Graine de rue
 
