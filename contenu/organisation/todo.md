@@ -17,26 +17,26 @@ Liste des choses à faire avec leur degré de prioritée. Les tâches sont suppr
      - voltmettre lipo
      - batterie Li-ion
      - lampe videoproj
+     - vocoder EH V256
 
 ### Travail avant Graine de rue
 
 - Alan :
     - (!) Caisse d'Alan + rangement accessoires.
     - Prendre le control de MVO Chatbot (entrainement)
-    - (!!) Kali, répondre à Michel
+    - (!) Kali, répondre à Michel
+    - Remplacer `alan` par `alanne` et `grim` par `grime` dans pico_adaper
 - Mimi :
-    - Rallonger cable ESC <-> Arduino pour plus de visibilité à la caméra de l'établi.
+    - Voir pour le sucide
+    - Voir fixation carton
 - Klan :
-    - (!) construire le robot
+    - construire le robot
     - Rappetir pieds pour qu'il passe la porte
-- Caro (robot camera) :
+    - embellir pied
+- Caro :
     - (!) fiabiliser
     - Changer connecteur Batterie
-- Foot :
-    - Rajouter une led
-    - Fixation alim
 - Echo :
-    - Faire une base 
     - Trigger
     - Alim
     - Fixation capteur
@@ -51,7 +51,8 @@ Liste des choses à faire avec leur degré de prioritée. Les tâches sont suppr
     - Dedo
     - Lisa
     - Toto
-
+- Lucy :
+    - débuguer
 - Décors :
     - Finir les finitions des tissus.
         - ajouter des aimants a certains endroits
