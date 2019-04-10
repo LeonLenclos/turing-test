@@ -23,9 +23,12 @@ Liste des choses à faire avec leur degré de prioritée. Les tâches sont suppr
 - Alan :
     - (!) Caisse d'Alan + rangement accessoires.
     - Prendre le control de MVO Chatbot (entrainement)
-    - (!!) Kali
+    - (!!) Kali, répondre à Michel
+- Mimi :
+    - Rallonger cable ESC <-> Arduino pour plus de visibilité à la caméra de l'établi.
 - Klan :
     - (!) construire le robot
+    - Rappetir pieds pour qu'il passe la porte
 - Caro (robot camera) :
     - (!) fiabiliser
     - Changer connecteur Batterie
