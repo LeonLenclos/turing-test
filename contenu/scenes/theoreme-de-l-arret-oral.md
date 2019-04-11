@@ -2,6 +2,7 @@
 - On va donc faire boucler delta(x) si S(x,x) est égal à 1
 - Et faire s'arrêter delta(x) si S(x,x) est égal à 0
 - L'argument diagonal va consister à appliquer delta sur delta lui-même
+- Donc soit le programme delta de delta boucle, soit il s'arrête.
 - Supposons que delta de delta boucle:
   si delta de delta boucle, S(delta, delta) est égal à 1
   mais si S(delta, delta) est égal à 0 alors delta de delta s'arrête
