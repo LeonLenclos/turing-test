@@ -2,15 +2,17 @@
 const int seuilFaible = 10; 
 const int seuilMedium = 100;
 const int seuilFort = 300;
-const int attente = 100; //attente entre la détection et la lecture audio (pour éviter que le son du choc interfère avec le cri de foot)
-const int tempsRedeclenchement = 500;
-const long tempsDemarrage = 90; //Temps d'attente avant démarrage (lancement de void loop) en secondes
+//const int attente = 100; //attente entre la détection et la lecture audio (pour éviter que le son du choc interfère avec le cri de foot)
+const int attente = 200;
+//const int tempsRedeclenchement = 500;
+const int tempsRedeclenchement = 100;
+const long tempsDemarrage = 23; //Temps d'attente avant démarrage (lancement de void loop) en secondes
 
 //////////// PINS
 const int LEDPIN = 2;
 const int PIEZZO1 = A0; 
 //const int PIEZZO2 = A2; 
-const int PIEZZO3 = A4; 
+//const int PIEZZO3 = A4; 
 // A3 est en l'air car il définit la graine du générateur aléatoire
 
 /////////////////// VAR
@@ -76,14 +78,16 @@ void loop() {
   //amplitueDetectee est le max des amplitudes detectees par les 3 piezzos
   int piezzo1=analogRead(PIEZZO1);
   //int piezo2=analogRead(PIEZZO2);
-  int piezzo3=analogRead(PIEZZO3);
-  int moyenne = (piezzo1+piezzo3)/2;
+  //int piezzo3=analogRead(PIEZZO3);
+  //int moyenne = (piezzo1+piezzo3)/2;
 
-  int amplitudeDetectee = (max(piezzo1,piezzo3)+moyenne)/2;
-
+  //int amplitudeDetectee = (max(piezzo1,piezzo3)+moyenne)/2;
+  int amplitudeDetectee = piezzo1;
   // debug
   char debug[50];
-  sprintf(debug, "amp=%04d moyenne=%04d piezzo1=%04d piezzo3=%04d", amplitudeDetectee,moyenne,piezzo1,piezzo3);
+  //sprintf(debug, "amp=%04d moyenne=%04d piezzo1=%04d piezzo3=%04d", amplitudeDetectee,moyenne,piezzo1,piezzo3);
+  sprintf(debug, "amp=%04d piezzo1=%04d ", amplitudeDetectee,piezzo1);
+
   Serial.println(debug);
 
   // if the sensor reading is greater than the threshold:
