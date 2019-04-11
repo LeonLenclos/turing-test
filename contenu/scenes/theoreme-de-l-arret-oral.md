@@ -1,6 +1,6 @@
 - Ce que tu voudrais c'est piéger le programme S avec le programme delta
-- On va donc faire boucler delta si S(x,x) est égal à 1
-- Et faire s'arrêter delta si S(x,x) est égal à 0
+- On va donc faire boucler delta(x) si S(x,x) est égal à 1
+- Et faire s'arrêter delta(x) si S(x,x) est égal à 0
 - L'argument diagonal va consister à appliquer delta sur delta lui-même
 - Supposons que delta de delta boucle:
   si delta de delta boucle, S(delta, delta) est égal à 1
