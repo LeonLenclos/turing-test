@@ -5,7 +5,7 @@
 - Donc soit le programme delta de delta boucle, soit il s'arrête.
 - Supposons que delta de delta boucle:
   si delta de delta boucle, S(delta, delta) est égal à 1
-  mais si S(delta, delta) est égal à 0 alors delta de delta s'arrête
+  mais si S(delta, delta) est égal à 1 alors delta de delta s'arrête
   Si je boucle je m'arrete, ce qui est absurde. Donc delta de delta s'arrête
   
 - Mais si delta de delta s'arrête , S(delta,delta) est égal à 0
