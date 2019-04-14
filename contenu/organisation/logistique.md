@@ -667,7 +667,7 @@ Retour le 8/11 déchargement en fin d'aprem.
 
 ##### outillage
 
-- Makita + meches vrac
+- Valise Makita (+meches vrac)
 
 
 
@@ -760,7 +760,7 @@ Retour le 8/11 déchargement en fin d'aprem.
 
 ##### Accessoires Labo :
 
-
+- Fly Metro
 
 
 
@@ -777,36 +777,20 @@ Retour le 8/11 déchargement en fin d'aprem.
 
 ##### Matériel Création sonore et visuelle
 
+- Fly gris (MS20+SQ1+PD+CarteSon+Controlleur+cablasse)
+- Fly cintik + aïl + taps tables
+- Fly Console sonosax
+- Fly modulaire
+- Valise modulaire
+- Valise VP 1
+- Carton ecran iiYama
+- Sac Bras modulaires
+- Sac Bras cablasse (+trousse rose)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-- trousse rose
-- Console sonosax
-- 2 modulaires Ber
-- Cintik
-- Raspberry ognon
-- MS 20 + SQ1
-- Raspberry PD + clavier + ecran iiYama  + carte son + controleur
-- Sac bras
-- ...
 
 ##### Decor :
 
 
-- Kit sieste : tapis de sol + duvet + casquette = casque + lunettes
 
 
 
@@ -860,10 +844,13 @@ Retour le 8/11 déchargement en fin d'aprem.
 
 ##### Robot
 
-- carton Lucy/Echo
-- carton Otto/Matt (avec bras et accessoires Otto)
-- carton Dodo
-- carton Foot
+- Carton Lucy/Echo
+- Carton Otto/Matt (avec bras et accessoires Otto)
+- Carton Dodo
+- Carton Foot
+- Carton Caro (caméra/emméteur/récepteur/accus et accessoires)
+- Fly Core (cables et alim)
+- Fly Turc + mimi (damier et pion)
 
 
 
@@ -874,14 +861,6 @@ Retour le 8/11 déchargement en fin d'aprem.
 - [Alan](../robots/alan.md) : avec son choucko et son clavier
 - [Jimi](../robots/jimi.md) : (en valise souple)
 - [Klan](../robots/klan.md) : (en pièces détachées)
-- [Core](../robots/core.md) : (en flight case)
-- [Caro](../robots/caro.md) : (en carton)
-- [Mimi](../robots/mimi.md) : (en carton)
-- [Toto](../robots/toto.md) : (en carton)
-- [Turc](../robots/turc.md) : en flight case
-- [Dedo](../robots/dedo.md) : (en carton)
-- [Maki](../robots/maki.md) : (en carton)
-- [Café](../robots/cafe.md) (fiche à rédiger) : (en carton)
 
 ----------------------------------------------------------
 
