@@ -431,7 +431,29 @@ Resitution le 23 à 19h.
 - Première le 7 juin
 - Première en soirée le 8 juin
 
+##### Déroulé journée du vendredi 7 (graines de rue)
 
+- de 15h30 à 16h30 spectacle à la salle des fêtes.
+- de 17h00 à 18h30 chatbot en libre service par les collégiens (sous le petit chap ?)
+    - 3 tables (gdr)
+    - 3 écrans (gdr et/ou nokill ?)
+    - 3 ordis (gdr et/ou nokill ?)
+    - 3 claviers+souris (gdr et/ou nokill ?)
+    - 6 chaise (gdr)
+- de 16h00 à 17h30 ballances du groupe sous petit chapiteau
+- de 17h45 à 18h15 install du battle sous petit chapiteau.
+    - Une table (gdr)
+    - Un micro + sonno (gdr)
+    - Un écran (nokill)
+    - Un Vidéoprojecteur (nokill)
+    - Un ordinateur (nokill)
+- de 18h30 à 19h00 battle de chatbot.
+    1- Présentation des 3 chatbots par les collégiens
+    2- Battles
+    3- Vote du jury (composé de 2 humains et 2 robots)
+    4- Alan vs le gagnant
+ 
+ 
 #### Résultats
 
 ----------------------------------------------------------

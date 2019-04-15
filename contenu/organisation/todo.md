@@ -40,6 +40,7 @@ Liste des choses à faire avec leur degré de prioritée. Les tâches sont suppr
 - Foot rajouter une led
 - Foot rajouter un piezzo
 - Echo :
+
     - Alim
     - Fixation capteur
 - Matt :

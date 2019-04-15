@@ -8,6 +8,7 @@ const long tempsDemarrage = 90; //Temps d'attente avant démarrage (lancement de
 
 //////////// PINS
 const int LEDPIN = 2;
+//const int trigPin = 4;
 const int PIEZZO1 = A0; 
 //const int PIEZZO2 = A2; 
 const int PIEZZO3 = A4; 
@@ -16,6 +17,7 @@ const int PIEZZO3 = A4;
 /////////////////// VAR
 
 int aleat;
+int trigState = LOW;
 
 
 //////////////// ADAFRUIT INIT
@@ -110,5 +112,16 @@ void loop() {
     delay(tempsRedeclenchement);
      
   } 
-
+  /*
+  // lire l'etat du trig:
+  trigState = digitalRead(trigPin);
+    // si trig recu
+  if (trigState == HIGH) {
+    sprintf(fileName, "SOFT%d", random(0,9)); 
+    strcat(fileName,".mp3");
+    Serial.println(fileName);
+    musicPlayer.playFullFile(fileName);
+    Serial.println("joué");
+  }
+*/
   }

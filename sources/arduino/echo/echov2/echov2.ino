@@ -37,6 +37,7 @@ int compteur = 0;
 bool objetPresent = false;
 //nmbre de characteres max dans le nom d'un fichier (ne pas dépasser 12 car le shield ne gère pas les fichiers au nom trop long)
 char fileName[12] = "";
+int trigState = LOW;
 
 
 
@@ -154,5 +155,13 @@ void loop()
     else {
       compteur = 0;
     }
-  //}
+  
+  /*
+  // lire l'etat du trig:
+  trigState = digitalRead(trigPin);
+    // si trig recu
+  if (trigState == HIGH) {
+     playSample();
+  }
+*/
 }
