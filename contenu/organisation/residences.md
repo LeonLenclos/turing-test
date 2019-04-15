@@ -297,18 +297,6 @@ life time conversation sur le serveur -> 12h
 
 
 
-
-🔼 🔼 🔼 🔼 🔼 🔼 **Passé** 🔼 🔼 🔼 🔼 🔼 🔼
-
-
--------------------------------------------------------------
-
-
-🔽 🔽 🔽 🔽 🔽 🔽 **Futur** 🔽 🔽 🔽 🔽 🔽 🔽
-
-**J'ai déplacé les todos dans le fichiers [todo.md](todo.md) pour plus de clareté. <small>(La dernière personne qui lit cette ligne peut l'effacer)</small>**
-----------------------------------------------------------
-
 ### Graines de rue - Bessines (87) - du 1 au 13 avril 2019
 
 #### Objectifs
@@ -327,18 +315,71 @@ life time conversation sur le serveur -> 12h
 
 #### Résultats
 
+2 semaines intensives :
 
-----------------------------------------------------------
+##### Ateliers
+
+6 journées d'ateliers à 3 ou à 2 avec des classes des collèges de Bessines et de St Sulpice les feuilles. Les chatbots sont prêts, seront peut-êtres retravaillés par les classes. le programme de battle est presque prêt pour la restitution.
+
+##### Bricolage
+
+Beaucoup de dossiers presques bouclés (Turc, Mimi, Core, Caro, etc.) pendant et entre les ateliers. V0 de Klan + essais software. Ajustements des tulles. Interfaçage réseau et debuggage des robots. mise en place de AÏL pour projection Ognon et ALAN.
+
+##### Mise en scène
+
+Prise de décision importantes (construction en 3 actes + intentions de mise en scène)
+
+##### Plateau
+
+Travail de l'acte 1 + ébauche de l'acte 2. Beaucoiup de filage et travail de scène en individuel avec regards.
+
+##### Sortie de résidence
+
+Mitigé : L'univers et les robots touchent le public mais problèmes de rythme et nombreux bugs.
+
+
+
+
+
+🔼 🔼 🔼 🔼 🔼 🔼 **Passé** 🔼 🔼 🔼 🔼 🔼 🔼
+
+
+-------------------------------------------------------------
+
+
+🔽 🔽 🔽 🔽 🔽 🔽 **Futur** 🔽 🔽 🔽 🔽 🔽 🔽
+
+
+
 
 ### 104 - Paris (75) - du 15 au 21 avril.
 
 #### Objectifs
 
-- Faire un peu de com (2h avec qq1 pour photos + film + visu officiel)
-- scène de fin
-- mise en réseau des robots
-    - Système syncro cv
-- musique et chorégraphie
+##### Objectif principal
+
+Construction de l'acte 3. Musique et chorégraphie.
+
+##### Rendez-vous
+
+- Faire un peu de com (2h avec Thomas pour photos + film + visu officiel?) mercredi aprem
+- Rencontre avec Spoon mercredi matin
+- Présentation du projet jeudi après-m
+
+
+##### Bricolage
+
+- Trig sur FOOT (hw/sw)
+- Trig sur ECHO (hw/sw)
+- Diviseur de clock sur CORE (sw)
+- Souder les cordons trigs (hw)
+
+##### Courses
+
+- Vocoder ( electro-harmonix V256)
+- Cube
+- Piezzo x3
+
 
 #### Résultats
 
@@ -350,7 +391,6 @@ life time conversation sur le serveur -> 12h
 
 - Mise en scène
 - travail sur le jeu
-- répétition et préparation de la restitution le Jeudi
 
 Lundi : montage
 Mardi : filages

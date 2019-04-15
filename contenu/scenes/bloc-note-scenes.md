@@ -16,16 +16,16 @@
 |     .          |   .            |  telephone     |                |
 |   test MIMI    |  test MIMI     |     .          |                |
 |      .         |  ALAN          | test MIMI      |                |
-|   TURC         |  carton        |    TURC        | caro turc      |
+|   TURC         |   .            |    TURC        | caro turc      |
 |    .           |   .            |     .          |                |
 | construct KLAN |  prepa FOOT    |   prepa FOOT   |                |
 |    .           |    .           |   .            |                |
-|    .           |  constructFOOT |   ALAN         |                |
+|    .           |  constructFOOT |    .           |                |
 |    .           |    .           |   .            |                |
 |    .           |    .           | theoreme arret |                |
 |    .           |    .           |   .            |                |
 |   (meuleuse)   | theoreme arret |   .            |                |
-|    .           |    .           |   .            |                |
+|    .           |    .           |  ALAN          |                |
 |    .           | prepa OTTO     |   .            |                |
 |    .           |    .           |   .            |                |
 | prepa OTTO     |    .           | telephone      |                |
