@@ -1,6 +1,6 @@
 from collections import namedtuple
 
-Directive = namedtuple('Directive', 'trig_in address osc_message, clock_div')
+Directive = namedtuple('Directive', 'trig_in address osc_message clock_div')
 
 dispatch_table = [
     # debug (send /debug to ottomann)
