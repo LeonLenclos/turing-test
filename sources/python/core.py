@@ -41,7 +41,7 @@ for directive in dispatch_table:
     if address not in clients:
         clients[address] = udp_client.SimpleUDPClient(*address)
 
-clock_counters = {k:0 for k in trig_patch}
+clock_counters = {trig_index:0 for _, trig_index in trig_patch.items()}
 
 
 def on_trig(button):
