@@ -55,11 +55,12 @@ def on_trig(button):
                     if directive.scheme == 'osc':
                         osc_clients[directive.netloc].send_message(directive.path, directive.content)
                     elif directive.scheme == 'http' :
+
                         requests.post(directive.url, json=directive.content)
                     else :
                         raise Exception('Core dont know the {} protocole'.format(directive.scheme))
                 except Exception as e:
-                    log('\tERROR ! {}'.format(e))
+                    log('\tERROR !')
 buttons = {}
 
 for pin, trig_index in trig_patch.items():

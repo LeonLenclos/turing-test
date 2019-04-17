@@ -76,7 +76,7 @@ void setup() {
 
 //////////////////// LOOP //////////////////////////////////////////////
 void loop() {
-  delay(20);
+  delay(2);
   //amplitueDetectee est le max des amplitudes detectees par les 3 piezzos
   int piezzo1=analogRead(PIEZZO1);
   //int piezo2=analogRead(PIEZZO2);
@@ -87,6 +87,7 @@ void loop() {
 
   // debug
   char debug[50];
+  char fileName[50];
   sprintf(debug, "amp=%04d moyenne=%04d piezzo1=%04d piezzo3=%04d", amplitudeDetectee,moyenne,piezzo1,piezzo3);
   Serial.println(debug);
 
@@ -95,7 +96,7 @@ void loop() {
   if (amplitudeDetectee >= seuilFaible ){
      Serial.println("Knock!");
   
-    char fileName[50];
+    
     if (amplitudeDetectee <= seuilMedium) {
       sprintf(fileName, "SOFT%d", random(0,9)); 
     }  
