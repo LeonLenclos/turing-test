@@ -53,7 +53,7 @@ def on_trig(button):
                 log('\t> doing {}'.format(directive))
                 try:
                     if directive.scheme == 'osc':
-                        osc_clients[directive.netloc].send_message(*directive.content)
+                        osc_clients[directive.netloc].send_message(directive.path, directive.content)
                     elif directive.scheme == 'http' :
                         requests.post(directive.url, json=directive.content)
                     else :
