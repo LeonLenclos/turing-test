@@ -12,7 +12,7 @@ const int DISTANCE_SEUIL = 70; // en cm
 const char DOUT_TRIGGER = 2; // port GPIO correspondant au détecteur d'ultrasons du capteur ultrason (cable vert);
 const char DIN_ECHO = 5; // port digital correspondant au trig du capteur ultrason (cable bleu);
 const int LEDPIN = 1; // port GPIO du shield correspondant à la LED
-const int TRIGPIN = 3; // port digital correspondant à l'entrée jack trigger audio:
+const int TRIGPIN = 6; // port digital correspondant à l'entrée jack trigger audio:
 const int VUMETRE = 2; // Sortie PWM vumetre
 const int PORTPOTENTIOMETRE = A0; // port potentiometre exigence: A0
 // A1 est en l'air car il définit la graine du générateur aléatoire
@@ -37,7 +37,8 @@ int compteur = 0;
 bool objetPresent = false;
 //nmbre de characteres max dans le nom d'un fichier (ne pas dépasser 12 car le shield ne gère pas les fichiers au nom trop long)
 char fileName[12] = "";
-
+int trigState = LOW;
+long int clockUltrason = 0;
 
 
 //////////////////// FUNCTIONS
@@ -55,6 +56,17 @@ void playSample() {
     sprintf(fileName, "JEHAI0%d.mp3", random(0, NB_FICHIERS_JAIMEPAS));
   }
   musicPlayer.playFullFile(fileName);
+}
+
+void TrigDetect() {
+  if (musicPlayer.GPIO_digitalRead(TRIGPIN) != trigState) {
+    trigState = !trigState;
+    if (trigState == LOW) {
+      Serial.println(F("trig detecté"));
+      allumerLED();
+      playSample();
+      eteindreLED();}
+  }
 }
 
 // retourne la distance entre le capteur et l'objet
@@ -96,11 +108,11 @@ void setup() {
   musicPlayer.GPIO_pinMode(LEDPIN, OUTPUT);
   musicPlayer.GPIO_pinMode(DOUT_TRIGGER, OUTPUT);
   pinMode(DIN_ECHO, INPUT);
-  pinMode(TRIGPIN, INPUT);
+  musicPlayer.GPIO_pinMode(TRIGPIN, INPUT);
 
   // La LED clignote 2 fois à l'initialisation
   eteindreLED();
-  for (int i = 0; i < 7; i++) {
+  for (int i = 0; i < 3; i++) {
     Serial.println(F("blink !"));
     delay(500); allumerLED();
     delay(500); eteindreLED();
@@ -113,16 +125,10 @@ void setup() {
 ////////////////// LOOP
 void loop()
 {
-  delay(20);
+  delay(1);
   //Si trig audio reçu, allumer led, jouer fichier audio puis éteindre led
-  /*
-  if (digitalRead(TRIGPIN) == HIGH) {
-    allumerLED();
-    //playSample();
-    eteindreLED();
-  }
-
-  else {*/
+  //Serial.println(musicPlayer.GPIO_digitalRead(TRIGPIN) );
+  
     float distance = distanceObjet();
     Serial.println(distance);
     // minimum entre la distance à la distance seuil et la distance seuil en cm (entre 0 et DISTANCE_SEUIL)
@@ -154,5 +160,5 @@ void loop()
     else {
       compteur = 0;
     }
-  //}
+
 }

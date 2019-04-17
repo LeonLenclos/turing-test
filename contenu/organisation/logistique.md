@@ -662,6 +662,206 @@ Retour le 8/11 déchargement en fin d'aprem.
 - Contacter SPOON pour Rendez vous (Léon)
 - Retour Graulhet lundi 22 avril matin. Départ : 9h arrivée Graulhet : 17h
 
+
+#### Liste matériel
+
+##### outillage
+
+- Valise Makita (+meches vrac)
+
+
+
+
+
+
+
+
+
+
+
+
+- servante rouge avec : meuleuse, sauteuse, scie métaux, boite de mèches, pistolet à colle, decapeur
+- malle 8 (épurée, et la charger avec le reste)
+- caisse electronique bleue
+- planche decoupe + reglet
+- Kit soudure
+- Cales bois
+- selection visserie
+- Materiel sécu (gants, masques, casques)
+- trousse 1ers secours
+
+##### Carton matériaux
+
+
+
+
+
+
+
+
+
+
+
+
+- selection divers matières : alu, plastazote, etc
+- aimants à coudre pour écran
+- cables audio + connecteurs
+
+##### Carton electronic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- alim et accus entre 12V et 5V + chargeurs (LIPO, USB, etc)
+- Raspberry + arduino
+- Caisses composants
+
+##### Divers
+
+
+
+
+
+
+
+
+
+
+
+
+
+- selection cables
+    - cable periph (USB)
+    - RJ45
+    - mini jacques
+    - HDMI
+    - VGA
+    - convertisseurs VGA/DVI/HDMI
+- secteur + triplette
+- Kit diffusion (au fond du camion)
+- sac 550D
+- ordi Ber x 2 + écran + tablette + alims
+- ordi lou
+- ordi ottomann
+- écran de rab
+- des claviers des souris
+- matos couture
+
+##### Accessoires Labo :
+
+- Fly Metro
+
+
+
+
+
+
+
+
+
+
+- enceintes Yamaha
+- livres
+- Jouets sonores
+
+##### Matériel Création sonore et visuelle
+
+- Fly gris (MS20+SQ1+PD+CarteSon+Controlleur+cablasse)
+- Fly cintik + aïl + taps tables
+- Fly Console sonosax
+- Fly modulaire
+- Valise modulaire
+- Valise VP 1
+- Carton ecran iiYama
+- Sac Bras modulaires
+- Sac Bras cablasse (+trousse rose)
+
+
+##### Decor :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- Jouets sonores
+- minotron
+- Tulles avec barres
+- déport lampadaires + néon + tubes fluos
+- écrans
+- 4 plateaux tables
+- 12 barres longues
+- 8 barres courtes
+- 8 cremailleres
+- 16 montants
+- 9 barres 3m
+- crochets
+- barres porte et ecran
+- porte
+- frigo
+- paperboard + recharge
+- 6 planches plastiques (étagères)
+- Cartons standards + renfoncé + scotch marron!!
+- carton acessoires (tokai)
+- etiqueteuse 
+- persos assis
+- fly metro = oscilo + convertisseur universel + reverb à bande
+
+##### Video
+
+
+
+
+
+
+- videoproj pico (alim et télécommande)
+- Valise videoproj Optpma 1 GA + grand VGA
+- videoproj Optpma 2 GA + recepteur hf
+- manfrotto x 3
+- Selection cables video
+- trousse rose
+
+##### Robot
+
+- Carton Lucy/Echo
+- Carton Otto/Matt (avec bras et accessoires Otto)
+- Carton Dodo
+- Carton Foot
+- Carton Caro (caméra/emméteur/récepteur/accus et accessoires)
+- Fly Core (cables et alim)
+- Fly Turc + mimi (damier et pion)
+
+
+
+
+
+
+
+- [Alan](../robots/alan.md) : avec son choucko et son clavier
+- [Jimi](../robots/jimi.md) : (en valise souple)
+- [Klan](../robots/klan.md) : (en pièces détachées)
+
 ----------------------------------------------------------
 
 ##### Relâche + Envol

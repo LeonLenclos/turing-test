@@ -14,52 +14,46 @@ Liste des choses à faire avec leur degré de prioritée. Les tâches sont suppr
 
      - 2 BNC male/RCA male
      - fiche alim 2,1mm/male et femelle
-     - voltmettre lipo
-     - batterie Li-ion
-     - lampe videoproj
-     - vocoder EH V256
+     - voltmettres lipo
+     - Batterie li-on (en 3s ?)
+     - Prise USB/secteur
+     - Clés Alen Fluo
 
-### Travail avant Graine de rue
+### T.A.F Avant Auch
 
-- Alan :
-    - (!) Caisse d'Alan + rangement accessoires.
-    - Prendre le control de MVO Chatbot (entrainement)
-    - (!) Kali, répondre à Michel
-    - Remplacer `alan` par `alanne` et `grim` par `grime` dans pico_adaper
-- Mimi :
-    - Voir pour le sucide
-    - Voir fixation carton
-- Klan :
-    - construire le robot
-    - Rappetir pieds pour qu'il passe la porte
-    - embellir pied
-- Caro :
-    - (!) fiabiliser
-    - Changer connecteur Batterie
+- Répondre à Michel (Kali)
+- Klan racourcir pieds du stand
+- Fiabiliser Caro
+- Réglage sucide Mimi
+- Le bouton /kill sur Lucy
+- Changer systeme fixation hélice
+- Changer standard des connecteurs batterie
+
+### T.A.F Après MIMA
+
+
+- (!) Caisse d'Alan + rangement accessoires.
+- Prendre le control de MVO Chatbot (entrainement)
+- Faire un Klan qui marche
+- Foot rajouter une led
+- Foot rajouter un piezzo
 - Echo :
-    - Trigger
+
     - Alim
     - Fixation capteur
 - Matt :
     - Creer carton-enceinte + micro dédié.
-- Otto racourcir les bras (30min)
 - Jimi :
-    - fixation mediator
-    - deporter alim
-    - Trouver une caisse de guitarre
+    - (!) fixation mediator
+    - (!) deporter alim
 - Robots pas fait :
+    - Toto
     - Dedo
     - Lisa
-    - Toto
-- Lucy :
-    - débuguer
 - Décors :
     - Finir les finitions des tissus.
         - ajouter des aimants a certains endroits
-        - finit d'agrandir les tissus à cour
-    
- - Arduino :
-    - Klan
+        - finir d'agrandir les tissus à cour
 
 ### Divers
 - (!) Rectifier dossiers puis imprimer

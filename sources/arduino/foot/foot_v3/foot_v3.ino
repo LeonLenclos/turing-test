@@ -1,12 +1,18 @@
 ///////////// REGLAGES
-const int seuilFaible = 10; 
+const int seuilFaible = 8; 
 const int seuilMedium = 100;
 const int seuilFort = 300;
+<<<<<<< HEAD
 //const int attente = 100; //attente entre la détection et la lecture audio (pour éviter que le son du choc interfère avec le cri de foot)
 const int attente = 200;
 //const int tempsRedeclenchement = 500;
 const int tempsRedeclenchement = 100;
 const long tempsDemarrage = 23; //Temps d'attente avant démarrage (lancement de void loop) en secondes
+=======
+const int attente = 100; //attente entre la détection et la lecture audio (pour éviter que le son du choc interfère avec le cri de foot)
+const int tempsRedeclenchement = 500;
+const long tempsDemarrage = 25; //Temps d'attente avant démarrage (lancement de void loop) en secondes
+>>>>>>> 1ec151c0938154d811c9f40f863835280bbbd5f1
 
 //////////// PINS
 const int LEDPIN = 2;
@@ -14,10 +20,13 @@ const int PIEZZO1 = A0;
 //const int PIEZZO2 = A2; 
 //const int PIEZZO3 = A4; 
 // A3 est en l'air car il définit la graine du générateur aléatoire
+const int TRIGPIN = 7; 
 
 /////////////////// VAR
 
 int aleat;
+int trigState = LOW;
+
 
 
 //////////////// ADAFRUIT INIT
@@ -57,6 +66,7 @@ void setup() {
   musicPlayer.setVolume(0, 0);
   
   // init pins
+  musicPlayer.GPIO_pinMode(TRIGPIN, INPUT);
   pinMode(LEDPIN, OUTPUT);
   
   // La LED clignote 2 fois à l'initialisation
@@ -74,7 +84,7 @@ void setup() {
 
 //////////////////// LOOP //////////////////////////////////////////////
 void loop() {
-  delay(20);
+  delay(2);
   //amplitueDetectee est le max des amplitudes detectees par les 3 piezzos
   int piezzo1=analogRead(PIEZZO1);
   //int piezo2=analogRead(PIEZZO2);
@@ -85,9 +95,14 @@ void loop() {
   int amplitudeDetectee = piezzo1;
   // debug
   char debug[50];
+<<<<<<< HEAD
   //sprintf(debug, "amp=%04d moyenne=%04d piezzo1=%04d piezzo3=%04d", amplitudeDetectee,moyenne,piezzo1,piezzo3);
   sprintf(debug, "amp=%04d piezzo1=%04d ", amplitudeDetectee,piezzo1);
 
+=======
+  char fileName[50];
+  sprintf(debug, "amp=%04d moyenne=%04d piezzo1=%04d piezzo3=%04d", amplitudeDetectee,moyenne,piezzo1,piezzo3);
+>>>>>>> 1ec151c0938154d811c9f40f863835280bbbd5f1
   Serial.println(debug);
 
   // if the sensor reading is greater than the threshold:
@@ -95,7 +110,7 @@ void loop() {
   if (amplitudeDetectee >= seuilFaible ){
      Serial.println("Knock!");
   
-    char fileName[50];
+    
     if (amplitudeDetectee <= seuilMedium) {
       sprintf(fileName, "SOFT%d", random(0,9)); 
     }  
@@ -114,5 +129,17 @@ void loop() {
     delay(tempsRedeclenchement);
      
   } 
+  
+  if (musicPlayer.GPIO_digitalRead(TRIGPIN) != trigState) {
+    trigState = !trigState;
+    if (trigState == LOW) {
+      Serial.println(F("trig detecté"));
+      sprintf(fileName, "SOFT%d", random(0,9)); 
+      strcat(fileName,".mp3");
+      Serial.println(fileName);
+      musicPlayer.playFullFile(fileName);
+      Serial.println("joué");}
+  }
+  
 
   }
