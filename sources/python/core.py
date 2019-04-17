@@ -51,12 +51,14 @@ def on_trig(button):
         if directive.trig_in == trig_index:
             if directive.clock_div.clock():
                 log('\t> doing {}'.format(directive))
-                if directive.netloc == 'osc':
-                    osc_clients[directive.address]
-                    .send_message(*directive.content)
-                elif directive.netloc == 'http' :
-                    requests.post(directive.url, json=directive.content)
-
+                try:
+                    if directive.netloc == 'osc':
+                        osc_clients[directive.address]
+                        .send_message(*directive.content)
+                    elif directive.netloc == 'http' :
+                        requests.post(directive.url, json=directive.content)
+                except Exception as e:
+                    log('\tERROR !')
 buttons = {}
 
 for pin, trig_index in trig_patch.items():
