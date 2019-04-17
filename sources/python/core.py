@@ -15,7 +15,7 @@ session = requests.session()
 def log(msg):
     """Write a message in the log file."""
     print(msg)
-    print(msg, file=open("log", "a"))
+    print(msg, file=open("/home/pi/log", "a"))
 
 
 log("-"*50)
