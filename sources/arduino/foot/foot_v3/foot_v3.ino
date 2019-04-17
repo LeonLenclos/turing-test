@@ -4,7 +4,7 @@ const int seuilMedium = 100;
 const int seuilFort = 300;
 const int attente = 100; //attente entre la détection et la lecture audio (pour éviter que le son du choc interfère avec le cri de foot)
 const int tempsRedeclenchement = 500;
-const long tempsDemarrage = 90; //Temps d'attente avant démarrage (lancement de void loop) en secondes
+const long tempsDemarrage = 25; //Temps d'attente avant démarrage (lancement de void loop) en secondes
 
 //////////// PINS
 const int LEDPIN = 2;
