@@ -9,7 +9,8 @@ from gpiozero import Button
 
 from dispatch_table import dispatch_table
 
-
+import requests
+session = requests.session()
 
 def log(msg):
     """Write a message in the log file."""
@@ -55,7 +56,7 @@ def on_trig(button):
                     if directive.scheme == 'osc':
                         osc_clients[directive.netloc].send_message(directive.path, directive.content)
                     elif directive.scheme == 'http' :
-                        requests.post(directive.url, json=directive.content)
+                        session.post(directive.url, json=directive.content)
                     else :
                         raise Exception('Core dont know the {} protocole'.format(directive.scheme))
                 except Exception as e:
