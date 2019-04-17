@@ -4,65 +4,19 @@
 À placer dans BEBER : phrase debut
 
 
-| BEBR           | FAB1           | LEON           | AUTRE          |
-|----------------|----------------|----------------|----------------|
-|                |   DODO         |                |                |
-|                |   .            |                | CARO traversée |
-|                |   .            |   SOOP         |                |
-|                | construct MIMI |     .          |                |
-|    ALAN        |   .            |     .          |                |
-|     .          | ménage         |     .          |                |
-| construit MIMI |   .            | ménage         |                |
-|     .          |   .            |  telephone     |                |
-|   test MIMI    |  test MIMI     |     .          |                |
-|      .         |  ALAN          | test MIMI      |                |
-|   TURC         |   .            |    TURC        | caro turc      |
-|    .           |   .            |     .          |                |
-| construct KLAN |  prepa FOOT    |   prepa FOOT   |                |
-|    .           |    .           |   .            |                |
-|    .           |  constructFOOT |    .           |                |
-|    .           |    .           |   .            |                |
-|    .           |    .           | theoreme arret |                |
-|    .           |    .           |   .            |                |
-|   (meuleuse)   | theoreme arret |   .            |                |
-|    .           |    .           |  ALAN          |                |
-|    .           | prepa OTTO     |   .            |                |
-|    .           |    .           |   .            |                |
-| prepa OTTO     |    .           | telephone      |                |
-|    .           |    .           |   .            |                |
-| figurines      | stroboscope    | MATT           |                |
-|    .           |    .           |   .            | LUCY EST MORTE |
-| requiem        | requiem        | requiem        |                |
-|    .           |    .           |   .            |                |
-|   tri          |  rangement     | rangement      |                |
-|                |                |                |                |
-|                | se fait beau   |                |                |
-|                |                |                |                |
-|                |                |                | MIMI SE SUCIDE |
-|                |                |                |                |
-|                |                |                |                |
-|                |                |   ECHO         |                |
-|                |                |                |                |
-|                |                |                |                |
-|                |                |                |                |
-|                |                |                |                |
-|                |                |                |                |
-|                |                |                |                |
-|                |                |                |                |
-|                |                |                |                |
-|                |                |                |                |
-|                |                |                |                |
-|                |                |                |                |
-|                |                |                |                |
-|                |                |                |                |
-|                |                |                |                |
-|                |                |                |                |
-|                |                |                |                |
-
 ## Acte 3
 
 - picoproj
 - flechettes / JIMI
+- Caro joue au piano
+- Caro danse (+ piezzo)
+- Petit singe (+ piezzo)
+- Traversée et chute de Mr Atomic (piezzo)
+- Traversée de Mimi et Matt (course avec Mr atomic?)
+- Clavier korg et jouet dans Reverb à bandes
+- CLavier Turc
+- Les humains dansent
+- Alan improvise
 
 ## Idees a tester à Bessines
 

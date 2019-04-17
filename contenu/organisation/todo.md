@@ -16,9 +16,7 @@ Liste des choses à faire avec leur degré de prioritée. Les tâches sont suppr
      - fiche alim 2,1mm/male et femelle
      - voltmettres lipo
      - Batterie li-on (en 3s ?)
-     - XLR 2 broches (batteries)
      - Prise USB/secteur
-     - Piezzos foot
      - Clés Alen Fluo
 
 ### T.A.F Avant Auch

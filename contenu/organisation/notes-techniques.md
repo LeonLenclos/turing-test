@@ -26,7 +26,7 @@ Les longs cables passent si possible par le haut.
 - Trig/Gate/CV = MiniJack
     - Core <--> Moduber
     - godel <--> Moduber (4m)
-    - Core <--> SQ1 (15m, noir (+jaune))
+    - Core <--> SQ1 (15m, noir (+jaune))    
     - Core <--> Echo (3m, noir (+vert))
     - Core <--> Jimi (14m, noir (+rouge))
     - Core <--> Foot (14m, noir (+bleu))
