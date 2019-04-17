@@ -60,7 +60,7 @@ def on_trig(button):
                     else :
                         raise Exception('Core dont know the {} protocole'.format(directive.scheme))
                 except Exception as e:
-                    log('\tERROR !')
+                    log('\tERROR ! {}'.format(e))
 buttons = {}
 
 for pin, trig_index in trig_patch.items():
