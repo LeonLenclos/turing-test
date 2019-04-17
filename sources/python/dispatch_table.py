@@ -47,5 +47,15 @@ debug_table = [
     Directive(1, 'http://ottomann.local:8000/debug', {}, ClockDiv(4)),
 ]
         
+grim_table = [
+    Directive(1, 'osc://godel.local:4242/clock', []),
+    Directive(1, 'osc://ottomann.local:50460/control/navigator/run', ['default']),
 
-dispatch_table = debug_table
+    Directive(2, 'osc://lucy.local:4242/dance', []),
+
+    Directive(3, 'http://alan.local:8000/talk', {'msg': 'dis lalala', 'conversation_id':-1}),
+
+    Directive(4, 'http://alan.local:8000/talk_alone', {'conversation_id':-1}),
+]
+
+dispatch_table = grim_table
