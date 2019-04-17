@@ -4,7 +4,7 @@
 
 ///////////// REGLAGES
 const int vitesse_Max = 180;
-const int temps_Suicide = 1000;// en millisecondes
+const int temps_Suicide = 500;// en millisecondes
 const int vitesse_Initiale = 95;
 const int pas_Incrementation_vitesse = 5;
 // Messages Télécommande:
@@ -53,6 +53,10 @@ void eteindre_moteur(){
 void suicide(){
   Serial.println(F("suicide"));
   moteur_On = true;
+  changer_vitesse_moteur(100);
+  delay(500);
+  changer_vitesse_moteur(110);
+  delay(500);
   changer_vitesse_moteur(vitesse_Max);
   delay(temps_Suicide);
   eteindre_moteur();

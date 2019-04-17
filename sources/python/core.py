@@ -9,6 +9,18 @@ from gpiozero import Button
 
 from dispatch_table import dispatch_table
 
+
+
+def log(msg):
+    """Write a message in the log file."""
+    print(msg)
+    print(msg, file=open("log", "a"))
+
+log("-"*50)
+log("CORE : new session ({})".format(datetime.datetime.now()))
+
+
+
 # keys are trig_index values are pin number
 trig_patch = {
     'GPIO4' :1,
@@ -16,16 +28,6 @@ trig_patch = {
     'GPIO22':3,
     'GPIO27':4,
 }
-
-def log(msg):
-    """
-    write a message in the log file
-    """
-    print(msg)
-    print(msg, file=open("log", "a"))
-
-log("-"*50)
-log("CORE : new session ({})".format(datetime.datetime.now()))
 
 # `clients` is a dict containing all osc client.
 # Because we need one osc client by ip adress.
@@ -39,20 +41,24 @@ for directive in dispatch_table:
     if address not in clients:
         clients[address] = udp_client.SimpleUDPClient(*address)
 
+clock_counters = {trig_index:0 for _, trig_index in trig_patch.items()}
+
 
 def on_trig(button):
     """
     Send the osc messages for all the directives that listen to trig_index
     """
     trig_index = trig_patch[repr(button.pin)]
-    log('TRIG IN : {}'.format(trig_index))
+    clock_counters[trig_index] += 1
+    log('TRIG IN : {} ({})'.format(trig_index, clock_counters[trig_index]))
     for directive in dispatch_table:
         if directive.trig_in == trig_index:
-            clients[directive.address].send_message(*directive.osc_message)
-            log('\t-> OSC OUT : {osc_message} to {address}'.format(
-                osc_message=directive.osc_message,
-                address=directive.address)
-            )
+            if clock_counters[trig_index] % directive.clock_div == 0:
+                clients[directive.address].send_message(*directive.osc_message)
+                log('\t-> OSC OUT : {osc_message} to {address}'.format(
+                    osc_message=directive.osc_message,
+                    address=directive.address)
+                )
 
 
 buttons = {}
