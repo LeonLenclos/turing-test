@@ -52,8 +52,7 @@ def on_trig(button):
             if directive.clock_div.clock():
                 log('\t> doing {}'.format(directive))
                 if directive.netloc == 'osc':
-                    osc_clients[directive.address]
-                    .send_message(*directive.content)
+                    osc_clients[directive.address].send_message(*directive.content)
                 elif directive.netloc == 'http' :
                     requests.post(directive.url, json=directive.content)
 
