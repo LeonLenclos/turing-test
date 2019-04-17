@@ -16,10 +16,9 @@ def log(msg):
     print(msg)
     print(msg, file=open("log", "a"))
 
+
 log("-"*50)
 log("CORE : new session ({})".format(datetime.datetime.now()))
-
-
 
 # keys are trig_index values are pin number
 trig_patch = {
@@ -32,43 +31,41 @@ trig_patch = {
 # `clients` is a dict containing all osc client.
 # Because we need one osc client by ip adress.
 # So, keys are (ip, port) and values are SimpleUDPClient(ip, port)
-clients = {}
+osc_clients = {}
 
 log("DISPATCH TABLE :")
 for directive in dispatch_table:
     log("\t- {}".format(directive))
-    address = directive.address
-    if address not in clients:
-        clients[address] = udp_client.SimpleUDPClient(*address)
-
-clock_counters = {trig_index:0 for _, trig_index in trig_patch.items()}
+    address = directive.hostname, directive.port
+    if directive.scheme == 'osc' and directive.netloc not in osc_clients:
+        osc_clients[directive.netloc] = udp_client.SimpleUDPClient(directive.hostname, directive.port)
 
 
 def on_trig(button):
     """
-    Send the osc messages for all the directives that listen to trig_index
+    Do the directives.
     """
     trig_index = trig_patch[repr(button.pin)]
-    clock_counters[trig_index] += 1
-    log('TRIG IN : {} ({})'.format(trig_index, clock_counters[trig_index]))
+    log('TRIG IN : {}'.format(trig_index))
     for directive in dispatch_table:
         if directive.trig_in == trig_index:
-            if clock_counters[trig_index] % directive.clock_div == 0:
-                clients[directive.address].send_message(*directive.osc_message)
-                log('\t-> OSC OUT : {osc_message} to {address}'.format(
-                    osc_message=directive.osc_message,
-                    address=directive.address)
-                )
-
-
+            if directive.clock_div.clock():
+                log('\t> doing {}'.format(directive))
+                try:
+                    if directive.scheme == 'osc':
+                        osc_clients[directive.netloc].send_message(directive.path, directive.content)
+                    elif directive.scheme == 'http' :
+                        requests.post(directive.url, json=directive.content)
+                    else :
+                        raise Exception('Core dont know the {} protocole'.format(directive.scheme))
+                except Exception as e:
+                    log('\tERROR ! {}'.format(e))
 buttons = {}
 
 for pin, trig_index in trig_patch.items():
-    log('PATCH: trig {} on GPIO{}'.format(trig_index, pin))
+    log('PATCH: trig {} on {}'.format(trig_index, pin))
     buttons[trig_index] = Button(pin)
     buttons[trig_index].when_released = on_trig
-    # buttons[trig_index].when_released = lambda : on_trig(trig_index)
-
 
 log('START SERVING...')
 
