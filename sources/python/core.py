@@ -37,8 +37,8 @@ log("DISPATCH TABLE :")
 for directive in dispatch_table:
     log("\t- {}".format(directive))
     address = directive.hostname, directive.port
-    if directive.scheme == 'osc' and address not in osc_clients:
-        osc_clients[address] = udp_client.SimpleUDPClient(*address)
+    if directive.scheme == 'osc' and directive.netloc not in osc_clients:
+        osc_clients[directive.netloc] = udp_client.SimpleUDPClient(directive.hostname, directive.port)
 
 
 def on_trig(button):
@@ -52,11 +52,12 @@ def on_trig(button):
             if directive.clock_div.clock():
                 log('\t> doing {}'.format(directive))
                 try:
-                    if directive.netloc == 'osc':
-                        osc_clients[directive.address]
-                        .send_message(*directive.content)
-                    elif directive.netloc == 'http' :
+                    if directive.scheme == 'osc':
+                        osc_clients[directive.netloc].send_message(*directive.content)
+                    elif directive.scheme == 'http' :
                         requests.post(directive.url, json=directive.content)
+                    else :
+                        raise Exception('Core dont know the {} protocole'.format(directive.scheme))
                 except Exception as e:
                     log('\tERROR !')
 buttons = {}
