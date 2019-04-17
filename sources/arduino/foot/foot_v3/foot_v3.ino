@@ -76,7 +76,7 @@ void setup() {
 
 //////////////////// LOOP //////////////////////////////////////////////
 void loop() {
-  delay(20);
+  delay(2);
   //amplitueDetectee est le max des amplitudes detectees par les 3 piezzos
   int piezzo1=analogRead(PIEZZO1);
   //int piezo2=analogRead(PIEZZO2);
