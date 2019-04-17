@@ -1,5 +1,5 @@
 ///////////// REGLAGES
-const int seuilFaible = 10; 
+const int seuilFaible = 8; 
 const int seuilMedium = 100;
 const int seuilFort = 300;
 const int attente = 100; //attente entre la détection et la lecture audio (pour éviter que le son du choc interfère avec le cri de foot)
@@ -8,16 +8,17 @@ const long tempsDemarrage = 25; //Temps d'attente avant démarrage (lancement de
 
 //////////// PINS
 const int LEDPIN = 2;
-//const int trigPin = 4;
 const int PIEZZO1 = A0; 
 //const int PIEZZO2 = A2; 
 const int PIEZZO3 = A4; 
 // A3 est en l'air car il définit la graine du générateur aléatoire
+const int TRIGPIN = 7; 
 
 /////////////////// VAR
 
 int aleat;
 int trigState = LOW;
+
 
 
 //////////////// ADAFRUIT INIT
@@ -57,6 +58,7 @@ void setup() {
   musicPlayer.setVolume(0, 0);
   
   // init pins
+  musicPlayer.GPIO_pinMode(TRIGPIN, INPUT);
   pinMode(LEDPIN, OUTPUT);
   
   // La LED clignote 2 fois à l'initialisation
@@ -112,16 +114,17 @@ void loop() {
     delay(tempsRedeclenchement);
      
   } 
-  /*
-  // lire l'etat du trig:
-  trigState = digitalRead(trigPin);
-    // si trig recu
-  if (trigState == HIGH) {
-    sprintf(fileName, "SOFT%d", random(0,9)); 
-    strcat(fileName,".mp3");
-    Serial.println(fileName);
-    musicPlayer.playFullFile(fileName);
-    Serial.println("joué");
+  
+  if (musicPlayer.GPIO_digitalRead(TRIGPIN) != trigState) {
+    trigState = !trigState;
+    if (trigState == LOW) {
+      Serial.println(F("trig detecté"));
+      sprintf(fileName, "SOFT%d", random(0,9)); 
+      strcat(fileName,".mp3");
+      Serial.println(fileName);
+      musicPlayer.playFullFile(fileName);
+      Serial.println("joué");}
   }
-*/
+  
+
   }

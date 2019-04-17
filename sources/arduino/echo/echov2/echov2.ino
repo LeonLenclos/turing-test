@@ -38,6 +38,7 @@ bool objetPresent = false;
 //nmbre de characteres max dans le nom d'un fichier (ne pas dépasser 12 car le shield ne gère pas les fichiers au nom trop long)
 char fileName[12] = "";
 int trigState = LOW;
+long int clockUltrason = 0;
 
 
 //////////////////// FUNCTIONS
@@ -55,6 +56,17 @@ void playSample() {
     sprintf(fileName, "JEHAI0%d.mp3", random(0, NB_FICHIERS_JAIMEPAS));
   }
   musicPlayer.playFullFile(fileName);
+}
+
+void TrigDetect() {
+  if (musicPlayer.GPIO_digitalRead(TRIGPIN) != trigState) {
+    trigState = !trigState;
+    if (trigState == LOW) {
+      Serial.println(F("trig detecté"));
+      allumerLED();
+      playSample();
+      eteindreLED();}
+  }
 }
 
 // retourne la distance entre le capteur et l'objet
@@ -115,15 +127,8 @@ void loop()
 {
   delay(1);
   //Si trig audio reçu, allumer led, jouer fichier audio puis éteindre led
-  Serial.println(musicPlayer.GPIO_digitalRead(TRIGPIN) );
-  if (musicPlayer.GPIO_digitalRead(TRIGPIN) != trigState) {
-    trigState = !trigState;
-    if (trigState == LOW) {
-      Serial.println(F("trig detecté"));
-      allumerLED();
-      playSample();
-      eteindreLED();}
-  }
+  //Serial.println(musicPlayer.GPIO_digitalRead(TRIGPIN) );
+  
     float distance = distanceObjet();
     Serial.println(distance);
     // minimum entre la distance à la distance seuil et la distance seuil en cm (entre 0 et DISTANCE_SEUIL)
