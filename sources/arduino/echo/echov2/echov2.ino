@@ -128,9 +128,10 @@ void loop()
   delay(1);
   //Si trig audio reçu, allumer led, jouer fichier audio puis éteindre led
   //Serial.println(musicPlayer.GPIO_digitalRead(TRIGPIN) );
-  
+    TrigDetect();
     float distance = distanceObjet();
     Serial.println(distance);
+    Serial.println(TRIGPIN);
     // minimum entre la distance à la distance seuil et la distance seuil en cm (entre 0 et DISTANCE_SEUIL)
     int distanceAffichee = DISTANCE_SEUIL - min(distance, DISTANCE_SEUIL);
     // On normalise entre 0 et le calibrage du vumetre
