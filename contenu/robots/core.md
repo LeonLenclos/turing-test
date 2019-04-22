@@ -25,7 +25,7 @@ Ses fonctions principales sont :
 
 #### Trig <-> OSC
 
-Le server OSC (raspberry) dispose de 4 entrées trig (mini-jack) ainsi que d'une sortie ethernet (RJ45). Son rôle est de dispatcher les trig à differentes adresses IP sous forme de messages OSC.
+Le server OSC (raspberry) dispose de 4 entrées trig (mini-jack) ainsi que d'une sortie ethernet (RJ45). Son rôle est de dispatcher les trigs à differentes adresses IP sous forme de messages OSC.
 
 #### Patch RJ45
 
@@ -46,7 +46,7 @@ Voilà le schéma du réseau :
 (source : [grim-network.dia](/sources/dia/grim-network.dia))
 
 - Foot, Jimi et Echo sont des robots en arduino avec un entrée gate
-- Lucy et Alan des robots qui fonctionne en raspberry ou PC.
+- Lucy et Alan des robots qui fonctionnent en raspberry ou PC.
 - SEQ = [doepfer A 157-1/2/3](http://www.doepfer.de/a157.htm)
 - CLK = [Clock O'Pawn Shakmat Modular](http://www.shakmatmodular.com/products/cop.html)
 - OSC SERVEUR = Raspberry Pi
@@ -104,8 +104,8 @@ Le programme est lancé au demarrage du raspberry avec une commande dans `/etc/r
 
 - Centraliser les alims
 - Voyant quand le serveur OSC est en route (boffement utile)
-- 2 sortie trig pour le serveur OSC
-- Le serveur écoute les message OSC de type `/trig/ n` et envoie un trig sur la sortie `n`.
+- 2 sorties trig pour le serveur OSC
+- Le serveur écoute les messages OSC de type `/trig/ n` et envoie un trig sur la sortie `n`.
 - Problème : il semble que core se met en veille (???)
 ## Moment envisagé pour la construction et/ou les améliorations.
 
