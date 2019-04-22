@@ -14,7 +14,7 @@ Fixé sur une structure mobile à 4 roues, un mat prolongé d'un col de cygne es
 
 La strucure mobile est un hacking de Crawler télécommandé. La télécommande est gérée par le régisseur.
 
-La caméra fixée au col de cygne délivre un signal à un émméteur HF qui transmet l'image jusqu'au vidéoprojecteur situé derrière l'écran de l'établi.
+La caméra fixée au col de cygne délivre un signal à un émetteur HF qui transmet l'image jusqu'au vidéoprojecteur situé derrière l'écran de l'établi.
 
 ![robot_camera_V_01](/ressources/photos/robot_camera_V_01.jpg)
 
