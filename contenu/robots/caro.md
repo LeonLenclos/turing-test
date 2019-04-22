@@ -2,7 +2,7 @@
 
 ## Description générale
 
-Caro, le robot-caméra, filme les évènements du labo et projette les images sur l'écran A du labo. Elle est autonome et se déplace dans le labo pour composer ses images.
+Caro, le robot-caméra, filme les événements du labo et projette les images sur l'écran A du labo. Elle est autonome et se déplace dans le labo pour composer ses images.
 
 <small>(Prénom en ref à [Caroline Champetier](https://fr.wikipedia.org/wiki/Caroline_Champetier))</small>
 
