@@ -3,7 +3,7 @@
 
 ## Description générale
 
-Robot muni d'un doigt, il appuye sur les touches de jouets sonores ou de synthétiseurs pour enfants. Il a une entrée trigger et peut être détourné pour servir à nourrir Lucy.
+Robot muni d'un doigt, il appuie sur les touches de jouets sonores ou de synthétiseurs pour enfants. Il a une entrée trigger et peut être détourné pour servir à nourrir Lucy.
 
 
 ![Dedo_croquis](/ressources/croquis/Dedo_croquis.jpeg)
@@ -13,7 +13,7 @@ Robot muni d'un doigt, il appuye sur les touches de jouets sonores ou de synthé
 
 3 hypothèses de construction -
 
-- Version 1D : un axe (vertical). un servo, un moyeu, une bielette, un segment doigt et un ressort pour amortir le contact avec l'instrument. Fixation sur spiggo et accessoire (bras magique, pied, rotule...)
+- Version 1D : un axe (vertical). un servo, un moyeu, une bielette, un segment doigt et un ressort pour amortir le contact avec l'instrument. Fixation sur spiggo et accessoires (bras magique, pied, rotule...)
 
 - Version 2D : Même chose que la V 1D avec une rotation de l'ensemble. Plusieurs boutons de plusieurs jouets peuvent être enfoncés.
 
