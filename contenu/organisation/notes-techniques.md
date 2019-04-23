@@ -104,6 +104,32 @@ Le Git d'un shield pour interfacer modulaires et arduino : Synapse de chez Shadu
 
 ![shéma arduino/servo](/ressources/divers/cablage_servo_arduino.png)
 
+
+## arduino et Grains de GinkoSynthèse
+
+Un firmware alternatif Pour le module Grains de GinkoSynthèse qui fait diviseur et multiplicateur de clock
+
+Implantation :
+
+Pot 1/Input 1
+Multiplication
+
+Pot 2/Input 2
+Division
+
+Pot 3
+CCW: Simple ratios (1,2,4,8,16...)
+Middle pos: Stopped
+CW: Prime ratios (1,3,5,7,11,13...)
+
+Input 3
+Clock in
+
+Out
+Clock out
+
+[lien vers le Github](https://github.com/attejensen/grains)
+
 ## mesures minimales Scene
 
 Mesures prises à Bessines :
