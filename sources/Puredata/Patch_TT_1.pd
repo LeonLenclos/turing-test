@@ -1,133 +1,133 @@
-#N canvas 2 135 1265 891 10;
-#X obj 744 44 tgl 15 0 empty onoff empty 17 7 0 10 -262144 -1 -1 0
+#N canvas 25 115 1798 875 10;
+#X obj 744 28 tgl 15 0 empty onoff empty 17 7 0 10 -262144 -1 -1 0
 1;
-#X obj 832 182 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144
+#X obj 832 166 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144
 -1 -1;
-#X obj 901 184 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144
+#X obj 901 168 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144
 -1 -1;
-#X obj 880 183 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144
+#X obj 880 167 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144
 -1 -1;
-#X obj 857 183 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144
+#X obj 857 167 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144
 -1 -1;
-#X floatatom 927 159 5 0 0 0 - - -, f 5;
-#X obj 1400 112 hradio 15 1 0 4 empty empty empty 0 -8 0 10 -262144
+#X floatatom 927 143 5 0 0 0 - - -, f 5;
+#X obj 1400 96 hradio 15 1 0 4 empty empty empty 0 -8 0 10 -262144
 -1 -1 2;
-#X obj 673 204 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144
+#X obj 673 188 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144
 -1 -1;
-#X obj 730 202 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144
+#X obj 730 186 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144
 -1 -1;
-#X obj 756 203 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144
+#X obj 756 187 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144
 -1 -1;
-#X obj 724 227 1.2;
-#X floatatom 613 360 5 0 0 0 - - -, f 5;
-#X floatatom 667 173 5 0 0 0 - - -, f 5;
-#X obj 700 204 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144
+#X obj 724 211 1.2;
+#X floatatom 613 344 5 0 0 0 - - -, f 5;
+#X floatatom 667 157 5 0 0 0 - - -, f 5;
+#X obj 700 188 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144
 -1 -1;
-#X obj 680 227 1.1111;
-#X obj 655 226 1;
-#X obj 629 498 phasor~;
-#X obj 750 227 1.5;
-#X obj 677 409 dbtorms;
-#X obj 647 533 *~;
-#X obj 738 432 dbtorms;
-#X obj 419 120 vsl 15 128 0 127 0 0 empty empty empty 0 -9 0 10 -262144
+#X obj 680 211 1.1111;
+#X obj 655 210 1;
+#X obj 629 482 phasor~;
+#X obj 750 211 1.5;
+#X obj 677 393 dbtorms;
+#X obj 647 517 *~;
+#X obj 738 416 dbtorms;
+#X obj 419 104 vsl 15 128 0 127 0 0 empty empty empty 0 -9 0 10 -262144
 -1 -1 0 1;
-#X obj 693 533 *~;
-#X obj 572 498 phasor~;
-#X obj 614 531 *~;
-#X obj 608 429 dbtorms;
-#X obj 321 118 vsl 15 128 0 127 0 0 empty empty empty 0 -9 0 10 -262144
+#X obj 693 517 *~;
+#X obj 572 482 phasor~;
+#X obj 614 515 *~;
+#X obj 608 413 dbtorms;
+#X obj 321 102 vsl 15 128 0 127 0 0 empty empty empty 0 -9 0 10 -262144
 -1 -1 0 1;
-#X obj 460 477 *;
-#X floatatom 738 355 5 0 0 0 - - -, f 5;
-#X obj 876 526 *~;
-#X obj 1216 93 vsl 15 128 10 127 0 0 empty empty empty 0 -9 0 10 -262144
+#X obj 460 461 *;
+#X floatatom 738 339 5 0 0 0 - - -, f 5;
+#X obj 876 510 *~;
+#X obj 1216 77 vsl 15 128 10 127 0 0 empty empty empty 0 -9 0 10 -262144
 -1 -1 0 1;
-#X text 1292 49 Gain;
-#X obj 877 476 clip~ -1 1;
-#X obj 1301 91 vsl 15 128 1 80 0 0 empty empty empty 0 -9 0 10 -262144
+#X text 1292 33 Gain;
+#X obj 877 460 clip~ -1 1;
+#X obj 1301 75 vsl 15 128 1 80 0 0 empty empty empty 0 -9 0 10 -262144
 -1 -1 0 1;
-#X obj 471 348 line;
-#X obj 471 327 pack f f;
-#X obj 255 115 vsl 15 128 0 350 0 0 empty empty empty 0 -9 0 10 -262144
+#X obj 471 332 line;
+#X obj 471 311 pack f f;
+#X obj 255 99 vsl 15 128 0 350 0 0 empty empty empty 0 -9 0 10 -262144
 -1 -1 0 1;
-#X text 249 47 Glide;
-#X msg 608 451 \$1 75;
-#X obj 608 474 line~;
-#X msg 685 431 \$1 75;
-#X obj 685 454 line~;
-#X msg 740 455 \$1 75;
-#X obj 744 478 line~;
-#X msg 932 409 \$1 75;
-#X obj 929 428 line~;
-#X msg 983 456 \$1 75;
-#X obj 983 478 line~;
-#X obj 356 118 vsl 15 128 1 127 0 0 empty empty empty 0 -9 0 10 -262144
+#X text 249 31 Glide;
+#X msg 608 435 \$1 75;
+#X obj 608 458 line~;
+#X msg 685 415 \$1 75;
+#X obj 685 438 line~;
+#X msg 740 439 \$1 75;
+#X obj 744 462 line~;
+#X msg 932 393 \$1 75;
+#X obj 929 412 line~;
+#X msg 983 440 \$1 75;
+#X obj 983 462 line~;
+#X obj 356 102 vsl 15 128 1 127 0 0 empty empty empty 0 -9 0 10 -262144
 -1 -1 0 1;
-#X obj 827 713 dac~;
-#X text 745 16 On-Off;
-#X text 1448 77 Lent;
-#X text 1376 80 Rapide;
-#X obj 1402 172 hradio 15 1 0 5 empty empty empty 0 -8 0 10 -262144
--1 -1 3;
-#X text 1375 146 Léger;
-#X text 1447 143 Dense;
-#X obj 662 121 f;
-#X obj 705 175 select 0 1 2 3 4;
-#X obj 777 203 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144
+#X obj 827 697 dac~;
+#X text 745 0 On-Off;
+#X text 1448 61 Lent;
+#X text 1376 64 Rapide;
+#X obj 1402 156 hradio 15 1 0 5 empty empty empty 0 -8 0 10 -262144
+-1 -1 4;
+#X text 1375 130 Léger;
+#X text 1447 127 Dense;
+#X obj 662 105 f;
+#X obj 705 159 select 0 1 2 3 4;
+#X obj 777 187 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144
 -1 -1;
-#X obj 779 227 2;
-#X obj 488 209 4;
-#X obj 553 212 7;
-#X obj 494 156 select 1 2 3 4 5 6 7 8;
-#X floatatom 497 247 5 0 0 0 - - -, f 5;
-#X obj 527 186 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144
+#X obj 779 211 2;
+#X obj 488 193 4;
+#X obj 553 196 7;
+#X obj 494 140 select 1 2 3 4 5 6 7 8;
+#X floatatom 497 231 5 0 0 0 - - -, f 5;
+#X obj 527 170 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144
 -1 -1;
-#X obj 554 185 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144
+#X obj 554 169 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144
 -1 -1;
-#X obj 502 186 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144
+#X obj 502 170 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144
 -1 -1;
-#X obj 580 183 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144
+#X obj 580 167 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144
 -1 -1;
-#X obj 521 210 6;
-#X obj 579 213 9;
-#X floatatom 494 132 5 0 0 0 - - -, f 5;
-#X obj 844 361 line;
-#X obj 843 340 pack f 10;
-#X obj 968 92 select 0 1 2 3 4;
-#X text 466 63 générateur de temps forts;
-#X obj 620 601 lop~;
-#X obj 454 390 receive detune;
-#X obj 461 301 receive Glide;
-#X obj 216 360 hsl 128 15 35 110 0 0 empty empty empty -2 -8 0 10 -262144
+#X obj 521 194 6;
+#X obj 579 197 9;
+#X floatatom 494 116 5 0 0 0 - - -, f 5;
+#X obj 844 345 line;
+#X obj 843 324 pack f 10;
+#X obj 968 76 select 0 1 2 3 4;
+#X text 466 47 générateur de temps forts;
+#X obj 620 585 lop~;
+#X obj 454 374 receive detune;
+#X obj 461 285 receive Glide;
+#X obj 216 344 hsl 128 15 35 110 0 0 empty empty empty -2 -8 0 10 -262144
 -1 -1 8467 1;
-#X obj 205 479 send lop;
-#X obj 682 594 mtof;
-#X obj 707 263 * 110;
-#X obj 933 588 mtof;
-#X obj 920 607 lop~;
-#X obj 935 520 receive lop2;
-#X obj 1141 262 hsl 128 15 50 127 0 0 empty empty empty -2 -8 0 10
+#X obj 205 463 send lop;
+#X obj 682 578 mtof;
+#X obj 707 247 * 110;
+#X obj 933 572 mtof;
+#X obj 920 591 lop~;
+#X obj 935 504 receive lop2;
+#X obj 1141 246 hsl 128 15 50 127 0 0 empty empty empty -2 -8 0 10
 -262144 -1 -1 8247 1;
-#X obj 1141 281 send lop2;
-#X msg 981 240 100;
-#X obj 924 341 r Gain;
-#X obj 1328 207 s Gain;
-#X obj 1322 262 hsl 128 15 0 127 0 0 empty empty empty -2 -8 0 10 -262144
+#X obj 1141 265 send lop2;
+#X msg 981 224 100;
+#X obj 924 325 r Gain;
+#X obj 1328 191 s Gain;
+#X obj 1322 246 hsl 128 15 0 127 0 0 empty empty empty -2 -8 0 10 -262144
 -1 -1 4000 1;
-#X obj 1320 286 send hip;
-#X obj 1008 553 receive hip;
-#X obj 920 648 hip~;
-#X msg 1035 240 40;
-#X obj 241 547 vsl 15 128 0.001 127 0 0 empty empty empty 0 -9 0 10
+#X obj 1320 270 send hip;
+#X obj 1008 537 receive hip;
+#X obj 920 632 hip~;
+#X msg 1035 224 40;
+#X obj 241 531 vsl 15 128 0.001 127 0 0 empty empty empty 0 -9 0 10
 -262144 -1 -1 0 1;
-#X obj 974 215 loadbang;
-#X obj 211 458 hsl 128 15 35 110 0 0 empty empty empty -2 -8 0 10 -262144
+#X obj 974 199 loadbang;
+#X obj 211 442 hsl 128 15 35 110 0 0 empty empty empty -2 -8 0 10 -262144
 -1 -1 8467 1;
-#X obj 301 549 vsl 15 128 0.001 127 0 0 empty empty empty 0 -9 0 10
+#X obj 301 533 vsl 15 128 0.001 127 0 0 empty empty empty 0 -9 0 10
 -262144 -1 -1 0 1;
-#X text 232 298 ====LPF====;
-#X text 219 331 Fréq coupure;
+#X text 232 282 ====LPF====;
+#X text 219 315 Fréq coupure;
 #N canvas 299 139 450 300 lfo 0;
 #X obj 132 69 loadbang;
 #X msg 173 87 90;
@@ -159,18 +159,18 @@
 #X connect 11 0 5 0;
 #X connect 12 0 6 1;
 #X connect 13 0 3 1;
-#X restore 147 408 pd lfo;
-#X obj 285 689 s lfoamount;
-#X obj 210 689 s lfofreq;
-#X obj 148 429 +;
-#X text 237 402 ====LFO====;
-#X text 221 502 LFO Fréq;
-#X text 285 502 LFO Amount;
-#X obj 133 364 loadbang;
-#X msg 144 384 85;
-#X text 1340 50 Séquenceur Aléatoire;
-#X floatatom 670 356 5 0 0 0 - - -, f 5;
-#X text 672 332 Sub;
+#X restore 147 392 pd lfo;
+#X obj 285 673 s lfoamount;
+#X obj 210 673 s lfofreq;
+#X obj 148 413 +;
+#X text 237 386 ====LFO====;
+#X text 221 486 LFO Fréq;
+#X text 285 486 LFO Amount;
+#X obj 133 348 loadbang;
+#X msg 144 368 85;
+#X text 1340 34 Séquenceur Aléatoire;
+#X floatatom 670 340 5 0 0 0 - - -, f 5;
+#X text 672 316 Sub;
 #N canvas 2 95 1596 817 adsr 0;
 #X obj 115 121 inlet;
 #X obj 445 161 inlet;
@@ -267,158 +267,158 @@ This patch is used as an abstraction in various examples.;
 #X connect 39 1 40 0;
 #X connect 40 0 8 0;
 #X connect 59 0 8 0;
-#X restore 1096 622 pd adsr;
-#X text 637 309 Fréquence (Hz):;
-#X text 1199 372 attack;
-#X text 1262 370 decay;
-#X text 1315 370 sustain;
-#X text 1379 370 release;
-#X text 1150 373 hold;
-#X obj 1150 410 vsl 15 128 0 1000 0 0 empty empty empty 0 -9 0 10 -262144
+#X restore 1096 606 pd adsr;
+#X text 637 293 Fréquence (Hz):;
+#X text 1199 356 attack;
+#X text 1262 354 decay;
+#X text 1315 354 sustain;
+#X text 1379 354 release;
+#X text 1150 357 hold;
+#X obj 1150 394 vsl 15 128 0 1000 0 0 empty empty empty 0 -9 0 10 -262144
 -1 -1 0 1;
-#X obj 1212 406 vsl 15 128 0 2000 0 0 empty empty empty 0 -9 0 10 -262144
+#X obj 1212 390 vsl 15 128 0 2000 0 0 empty empty empty 0 -9 0 10 -262144
 -1 -1 0 1;
-#X obj 1274 407 vsl 15 128 0 1000 0 0 empty empty empty 0 -9 0 10 -262144
+#X obj 1274 391 vsl 15 128 0 1000 0 0 empty empty empty 0 -9 0 10 -262144
 -1 -1 2286 1;
-#X obj 1330 410 vsl 15 128 0 100 0 0 empty empty empty 0 -9 0 10 -262144
+#X obj 1330 394 vsl 15 128 0 100 0 0 empty empty empty 0 -9 0 10 -262144
 -1 -1 0 1;
-#X obj 1388 408 vsl 15 128 0 1500 0 0 empty empty empty 0 -9 0 10 -262144
+#X obj 1388 392 vsl 15 128 0 1500 0 0 empty empty empty 0 -9 0 10 -262144
 -1 -1 2455 1;
-#X obj 1011 502 loadbang;
-#X msg 1018 526 1;
-#X obj 878 447 *~;
-#X obj 1134 352 bng 15 80 50 0 empty empty empty 17 7 0 10 -262144
+#X obj 1011 486 loadbang;
+#X msg 1018 510 1;
+#X obj 878 431 *~;
+#X obj 1134 336 bng 15 80 50 0 empty empty empty 17 7 0 10 -262144
 -1 -1;
-#X msg 1070 452 \; triger 0;
-#X obj 1267 596 r triger;
-#X obj 1072 430 del 250;
-#X text 1159 230 ====LPF====;
-#X text 1343 232 ====HPF====;
-#X text 1211 328 ====ADSR Envellope====;
-#X obj 472 373 * 0.5;
-#X obj 114 94 vu 15 120 empty empty -1 -8 0 10 -66577 -1 1 0;
-#X obj 594 656 env~;
-#X obj 850 583 env~;
-#X obj 595 679 - 100;
-#X obj 850 605 - 100;
-#X obj 594 698 s bassvol;
-#X obj 114 47 r bassvol;
-#X obj 206 117 vsl 15 128 0 127 0 0 empty empty empty 0 -9 0 10 -262144
+#X msg 1070 436 \; triger 0;
+#X obj 1267 580 r triger;
+#X obj 1072 414 del 250;
+#X text 1159 214 ====LPF====;
+#X text 1343 216 ====HPF====;
+#X text 1211 312 ====ADSR Envellope====;
+#X obj 472 357 * 0.5;
+#X obj 114 78 vu 15 120 empty empty -1 -8 0 10 -66577 -1 1 0;
+#X obj 594 640 env~;
+#X obj 850 567 env~;
+#X obj 595 663 - 100;
+#X obj 850 589 - 100;
+#X obj 594 682 s bassvol;
+#X obj 114 31 r bassvol;
+#X obj 206 101 vsl 15 128 0 127 0 0 empty empty empty 0 -9 0 10 -262144
 -1 -1 0 1;
-#X obj 767 681 *~;
-#X obj 766 594 dbtorms;
-#X msg 762 615 \$1 75;
-#X obj 758 638 line~;
-#X obj 171 253 s bassamp;
-#X obj 767 549 receive bassamp;
-#X obj 835 637 s leadvol;
-#X obj 1132 98 vu 15 120 empty empty -1 -8 0 10 -66577 -1 1 0;
-#X obj 1129 75 r leadvol;
-#X text 123 23 ****************************BASS****************************
+#X obj 767 665 *~;
+#X obj 766 578 dbtorms;
+#X msg 762 599 \$1 75;
+#X obj 758 622 line~;
+#X obj 171 237 s bassamp;
+#X obj 767 533 receive bassamp;
+#X obj 835 621 s leadvol;
+#X obj 1132 82 vu 15 120 empty empty -1 -8 0 10 -66577 -1 1 0;
+#X obj 1129 59 r leadvol;
+#X text 123 7 ****************************BASS****************************
 ;
-#X text 1117 16 ****************************LEAD****************************
+#X text 1117 0 ****************************LEAD****************************
 ;
-#X obj 1239 201 s leadamp;
-#X obj 979 387 r leadamp;
-#X text 1212 53 Amp;
-#X text 203 47 Amp;
-#X obj 679 388 r dualosc;
-#X obj 610 389 r dualosc;
-#X obj 374 253 s detune;
-#X obj 314 251 s dualosc;
-#X obj 253 255 s Glide;
-#X obj 429 254 s Sub;
-#X text 318 59 Amp;
-#X text 353 60 Detune;
-#X text 324 44 Dual Osc:;
-#X text 404 47 Sub Amp;
-#X obj 1071 338 trigger b;
-#X obj 1135 316 r trig;
-#X obj 1328 129 s turing;
-#X obj 1333 166 s test;
-#X obj 967 68 r test;
-#X obj 857 693 +~;
-#X obj 681 701 loadbang;
-#X obj 682 722 metro 100;
-#X obj 1130 732 tabwrite~ leadsortie;
-#X obj 1138 671 loadbang;
-#X obj 1139 692 metro 100;
-#X text 657 15 Turing Test :;
-#X obj 969 183 table leadsortie;
-#X obj 332 283 table basssortie;
-#X obj 683 747 tabwrite~ basssortie;
-#X obj 869 386 phasor~;
-#X obj 972 633 mtof;
-#X obj 929 567 line;
-#X obj 978 606 line;
-#X obj 982 581 pack f 200;
-#X obj 928 546 pack f 200;
-#X obj 184 88 ctlin 9;
-#X obj 981 434 dbtorms;
-#X obj 1216 70 ctlin 8;
-#X obj 767 571 * 0.8;
-#X obj 981 411 * 0.8;
-#X obj 1286 67 ctlin 7;
-#X obj 1234 233 ctlin 6;
-#X obj 298 521 ctlin 4;
-#X obj 933 387 * 0.5;
-#X obj 925 284 select 69;
-#X obj 924 241 notein;
-#X obj 925 263 stripnote;
-#X obj 976 340 loadbang;
-#X msg 976 361 100;
-#X text 611 335 Bass;
-#X text 734 331 lead;
-#X obj 220 521 ctlin 5;
-#X obj 127 336 ctlin 0;
-#X obj 392 94 ctlin 1;
-#X obj 339 91 ctlin 2;
-#X obj 281 91 ctlin 3;
-#X obj 459 454 pack;
-#X obj 458 432 + 1;
-#X obj 738 408 * 1;
-#X obj 608 410 * 0.9;
-#X obj 456 411 * 0.00023622;
-#X obj 1406 597 loadbang;
-#X msg 1413 621 290;
-#X obj 1345 595 loadbang;
-#X obj 1673 129 notein;
-#X obj 1669 153 stripnote;
-#X msg 1713 204 3;
-#X msg 1651 201 1;
-#X msg 1582 201 0;
-#X msg 1681 204 2;
-#X msg 1744 207 4;
-#X obj 762 707 *~ 4;
-#X obj 817 406 phasor~;
-#X obj 876 499 *~;
-#X obj 817 384 * 1.5;
-#X obj 815 427 *~ 0.1;
-#X obj 663 150 random 5;
-#X obj 746 138 random 7;
-#X obj 872 241 * 2;
-#X obj 842 316 *;
-#X obj 690 497 osc~;
-#X obj 1108 678 *~ 8;
-#X msg 1072 381 \; pd dsp 1 \; triger 1 \;;
-#X obj 832 160 select 0 1 2 3;
-#X obj 1071 117 4;
-#X obj 1041 119 6;
-#X obj 1014 118 13;
-#X obj 986 119 20;
-#X msg 1352 619 180;
-#X obj 823 205 0.75;
-#X obj 855 204 1;
-#X obj 886 206 1.5;
-#X obj 916 206 2;
-#X obj 937 115 1e+06;
-#X obj 1522 13 loadbang;
-#X msg 1542 42 2;
-#X obj 1071 319 moses 4;
-#X obj 738 388 r Sub;
-#X obj 682 574 r lop;
-#X obj 924 304 s onoff;
-#N canvas 2 105 1254 931 turingsync 1;
+#X obj 1239 185 s leadamp;
+#X obj 979 371 r leadamp;
+#X text 1212 37 Amp;
+#X text 203 31 Amp;
+#X obj 679 372 r dualosc;
+#X obj 610 373 r dualosc;
+#X obj 374 237 s detune;
+#X obj 314 235 s dualosc;
+#X obj 253 239 s Glide;
+#X obj 429 238 s Sub;
+#X text 318 43 Amp;
+#X text 353 44 Detune;
+#X text 324 28 Dual Osc:;
+#X text 404 31 Sub Amp;
+#X obj 1071 322 trigger b;
+#X obj 1135 300 r trig;
+#X obj 1328 113 s turing;
+#X obj 1333 150 s test;
+#X obj 967 52 r test;
+#X obj 857 677 +~;
+#X obj 681 685 loadbang;
+#X obj 682 706 metro 100;
+#X obj 1130 716 tabwrite~ leadsortie;
+#X obj 1138 655 loadbang;
+#X obj 1139 676 metro 100;
+#X text 657 -1 Turing Test :;
+#X obj 969 167 table leadsortie;
+#X obj 332 267 table basssortie;
+#X obj 683 731 tabwrite~ basssortie;
+#X obj 869 370 phasor~;
+#X obj 972 617 mtof;
+#X obj 929 551 line;
+#X obj 978 590 line;
+#X obj 982 565 pack f 200;
+#X obj 928 530 pack f 200;
+#X obj 184 72 ctlin 9;
+#X obj 981 418 dbtorms;
+#X obj 1216 54 ctlin 8;
+#X obj 767 555 * 0.8;
+#X obj 981 395 * 0.8;
+#X obj 1286 51 ctlin 7;
+#X obj 1234 217 ctlin 6;
+#X obj 298 505 ctlin 4;
+#X obj 933 371 * 0.5;
+#X obj 925 268 select 69;
+#X obj 924 225 notein;
+#X obj 925 247 stripnote;
+#X obj 976 324 loadbang;
+#X msg 976 345 100;
+#X text 611 319 Bass;
+#X text 734 315 lead;
+#X obj 220 505 ctlin 5;
+#X obj 127 320 ctlin 0;
+#X obj 392 78 ctlin 1;
+#X obj 339 75 ctlin 2;
+#X obj 281 75 ctlin 3;
+#X obj 459 438 pack;
+#X obj 458 416 + 1;
+#X obj 738 392 * 1;
+#X obj 608 394 * 0.9;
+#X obj 456 395 * 0.00023622;
+#X obj 1406 581 loadbang;
+#X msg 1413 605 290;
+#X obj 1345 579 loadbang;
+#X obj 1673 113 notein;
+#X obj 1669 137 stripnote;
+#X msg 1713 188 3;
+#X msg 1651 185 1;
+#X msg 1582 185 0;
+#X msg 1681 188 2;
+#X msg 1744 191 4;
+#X obj 762 691 *~ 4;
+#X obj 817 390 phasor~;
+#X obj 876 483 *~;
+#X obj 817 368 * 1.5;
+#X obj 815 411 *~ 0.1;
+#X obj 663 134 random 5;
+#X obj 746 122 random 7;
+#X obj 872 225 * 2;
+#X obj 842 300 *;
+#X obj 690 481 osc~;
+#X obj 1108 662 *~ 8;
+#X msg 1072 365 \; pd dsp 1 \; triger 1 \;;
+#X obj 832 144 select 0 1 2 3;
+#X obj 1071 101 4;
+#X obj 1041 103 6;
+#X obj 1014 102 13;
+#X obj 986 103 20;
+#X msg 1352 603 180;
+#X obj 823 189 0.75;
+#X obj 855 188 1;
+#X obj 886 190 1.5;
+#X obj 916 190 2;
+#X obj 937 99 1e+06;
+#X obj 1522 -3 loadbang;
+#X msg 1542 26 2;
+#X obj 1071 303 moses 4;
+#X obj 738 372 r Sub;
+#X obj 682 558 r lop;
+#X obj 924 288 s onoff;
+#N canvas 23 127 1798 875 turingsync 1;
 #X obj 364 76 bng 15 100 50 0 empty empty empty 0 -6 0 8 -262144 -1
 -1;
 #X obj 390 224 noteout;
@@ -530,7 +530,6 @@ This patch is used as an abstraction in various examples.;
 #X obj 857 267 iemnet/udpsend;
 #X obj 855 244 packOSC;
 #X obj 63 -345 unpackOSC;
-#X obj 62 -363 iemnet/udpreceive;
 #X obj 62 -325 route /clock;
 #X obj 1270 -98 select 1 9 17 25;
 #X obj 103 -273 + 1;
@@ -539,7 +538,6 @@ This patch is used as an abstraction in various examples.;
 #X obj 54 -228 mod 2;
 #X obj 50 -175 select 1;
 #X obj 55 -253 float 0;
-#X obj 48 -204 float 0;
 #X obj 49 -142 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144
 -1 -1;
 #X obj 59 -297 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144
@@ -552,6 +550,8 @@ This patch is used as an abstraction in various examples.;
 #X text 56 -382 Clock Core;
 #X text 480 -385 Clock interne;
 #X msg 771 169 connect 10.0.0.2 50460;
+#X obj 48 -204 float 1;
+#X obj 62 -363 iemnet/udpreceive 4242;
 #X connect 0 0 5 0;
 #X connect 2 0 1 2;
 #X connect 3 0 8 2;
@@ -572,7 +572,7 @@ This patch is used as an abstraction in various examples.;
 #X connect 16 0 35 0;
 #X connect 17 0 25 0;
 #X connect 19 0 18 0;
-#X connect 19 0 102 0;
+#X connect 19 0 101 0;
 #X connect 22 0 31 0;
 #X connect 22 0 62 0;
 #X connect 22 0 75 0;
@@ -582,7 +582,6 @@ This patch is used as an abstraction in various examples.;
 #X connect 26 0 27 0;
 #X connect 26 0 28 0;
 #X connect 26 0 2 0;
-#X connect 26 0 115 0;
 #X connect 27 0 4 0;
 #X connect 28 0 3 0;
 #X connect 34 0 78 0;
@@ -590,7 +589,7 @@ This patch is used as an abstraction in various examples.;
 #X connect 36 0 80 0;
 #X connect 37 0 36 0;
 #X connect 38 0 40 0;
-#X connect 38 0 100 0;
+#X connect 38 0 99 0;
 #X connect 39 0 38 0;
 #X connect 39 1 38 1;
 #X connect 41 0 91 0;
@@ -649,38 +648,38 @@ This patch is used as an abstraction in various examples.;
 #X connect 92 0 95 0;
 #X connect 93 0 94 0;
 #X connect 94 0 95 0;
-#X connect 97 0 99 0;
-#X connect 98 0 97 0;
-#X connect 99 0 108 0;
-#X connect 100 0 89 0;
-#X connect 100 1 86 0;
-#X connect 100 2 87 0;
-#X connect 100 3 90 0;
-#X connect 101 0 105 1;
-#X connect 102 0 105 0;
-#X connect 103 0 106 1;
-#X connect 103 0 109 0;
-#X connect 104 0 107 0;
-#X connect 105 0 101 0;
-#X connect 105 0 103 0;
-#X connect 106 0 104 0;
-#X connect 107 0 14 0;
-#X connect 108 0 106 0;
-#X connect 115 0 95 0;
-#X restore 744 78 pd turingsync;
-#X obj 744 112 r step1;
-#X obj 641 89 r step3;
-#X obj 870 272 s hit1;
-#X obj 1034 912 r test;
-#X obj 533 90 float;
-#X obj 587 90 + 1;
-#X obj 534 115 mod 8;
-#X obj 534 141 + 1;
-#X obj 492 96 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144 -1
+#X connect 97 0 98 0;
+#X connect 98 0 106 0;
+#X connect 99 0 89 0;
+#X connect 99 1 86 0;
+#X connect 99 2 87 0;
+#X connect 99 3 90 0;
+#X connect 100 0 104 1;
+#X connect 101 0 104 0;
+#X connect 102 0 107 0;
+#X connect 102 0 114 1;
+#X connect 103 0 105 0;
+#X connect 104 0 100 0;
+#X connect 104 0 102 0;
+#X connect 105 0 14 0;
+#X connect 106 0 114 0;
+#X connect 113 0 95 0;
+#X connect 114 0 103 0;
+#X connect 115 0 97 0;
+#X restore 744 62 pd turingsync;
+#X obj 744 96 r step1;
+#X obj 641 73 r step3;
+#X obj 870 256 s hit1;
+#X obj 1034 896 r test;
+#X obj 533 74 float;
+#X obj 587 74 + 1;
+#X obj 534 99 mod 8;
+#X obj 534 125 + 1;
+#X obj 492 80 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144 -1
 -1;
-#X obj 920 703 *~ 0.5;
-#X obj 920 668 rev2~ 100 90 3000 20;
-#X obj 1599 177 select 0 8 16 24 32;
+#X obj 920 687 *~ 0.5;
+#X obj 920 652 rev2~ 100 90 3000 20;
+#X obj 1599 161 select 0 8 16 24 32;
 #X connect 0 0 255 0;
 #X connect 1 0 244 0;
 #X connect 2 0 247 0;
@@ -927,4 +926,4 @@ This patch is used as an abstraction in various examples.;
 #X connect 267 2 224 0;
 #X connect 267 3 221 0;
 #X connect 267 4 225 0;
-#X coords 0 891 1 890 85 60 0;
+#X coords 0 875 1 874 85 60 0;

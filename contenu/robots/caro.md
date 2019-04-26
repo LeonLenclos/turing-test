@@ -2,7 +2,7 @@
 
 ## Description générale
 
-Caro, le robot-caméra, filme les évènements du labo et projette les images sur l'écran A du labo. Elle est autonome et se déplace dans le labo pour composer ses images.
+Caro, le robot-caméra, filme les événements du labo et projette les images sur l'écran A du labo. Elle est autonome et se déplace dans le labo pour composer ses images.
 
 <small>(Prénom en ref à [Caroline Champetier](https://fr.wikipedia.org/wiki/Caroline_Champetier))</small>
 
@@ -14,7 +14,7 @@ Fixé sur une structure mobile à 4 roues, un mat prolongé d'un col de cygne es
 
 La strucure mobile est un hacking de Crawler télécommandé. La télécommande est gérée par le régisseur.
 
-La caméra fixée au col de cygne délivre un signal à un émméteur HF qui transmet l'image jusqu'au vidéoprojecteur situé derrière l'écran de l'établi.
+La caméra fixée au col de cygne délivre un signal à un émetteur HF qui transmet l'image jusqu'au vidéoprojecteur situé derrière l'écran de l'établi.
 
 ![robot_camera_V_01](/ressources/photos/robot_camera_V_01.jpg)
 
