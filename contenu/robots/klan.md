@@ -6,7 +6,7 @@ Klan est un robot doté de capacités de locomotion évoluées qui lui permetten
 
 ![](/ressources/divers/F4-motion.gif)
 
-Animation répétitive du mécanisme de Klann
+Animation répétitive du mécanisme de Klan
 
 
 ## Allure
@@ -27,7 +27,7 @@ Motorisation CC, transmission vélo-hacking et commande par arduino + schield mo
 
 Le mécanisme d'une jambe se compose d'un segment qui entre en contact avec le sol, d’une manivelle, de deux culbuteurs, et deux biellettes tous reliés par des liaisons pivots.
 
-Dans notre adaptation, la rotation des pivots s'effectue grace à des rondelles en Téflon, sauf pour les axes moteur, fixés sur des paliers appliques à la structure du corps.
+Dans notre adaptation, la rotation des pivots s'effectue grace à des rondelles en Téflon, sauf pour les axes moteur, fixés sur des paliers appliqués à la structure du corps.
 
 ![klan_detail_transmission](/ressources/croquis/klan_detail_transmission.jpeg)
 
@@ -47,7 +47,7 @@ Dans notre adaptation, la rotation des pivots s'effectue grace à des rondelles 
 
 ##### Structure
 
-4 plaque alu ep 5mm selon dessin (aquabrasion)
+4 plaques alu ep 5mm selon dessin (aquabrasion)
 
 ##### Visserie
 
@@ -59,16 +59,16 @@ Dans notre adaptation, la rotation des pivots s'effectue grace à des rondelles 
 ##### vélo-hacking / transmission
 
 - 2 manivelles avec plateaux 32 dents
-- 2 boitier + axe pedalier
+- 2 boitiers + axe pedalier
 - 2 plateaux 44 dents
 - 2 tendeurs de chaines
-- pièce à créer : raccord axe moteur 8mm + plateau 44 dents
+- pièces à créer : raccord axe moteur 8mm + plateau 44 dents
 - Chaines
 - 2 entretoises 68mm
 
 - [pedalier (manivelles:170mm)](https://www.ultimebike.com/ville/transmission/pedaliers/pedalier-city-monoplateau-33-dents-alu-l-170-mm-carre-argent.html?gclid=CjwKCAjwvbLkBRBbEiwAChbckQsCsgaN81SR-jGQMndwdmhDWQEbAijvN5KcBueUTV1TndRFm6VdURoCpTYQAvD_BwE)
 
-##### Pièce à créer : raccord axe moteur 8mm + plateau 44 dents
+##### Pièces à créer : raccord axe moteur 8mm + plateau 44 dents
 
 ![klan_accord_moteur_plateau](/ressources/croquis/klan_accord_moteur_plateau.jpeg)
 
