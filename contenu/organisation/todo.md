@@ -12,20 +12,14 @@ Liste des choses à faire avec leur degré de prioritée. Les tâches sont suppr
 
 ### Courses
 
- - 2 BNC male/RCA male
- - fiche alim 2,1mm/male et femelle
- - voltmettres lipo
- - Batterie li-on (en 3s ?)
- - Prise USB/secteur
  - Clés Alen Fluo
- - Petits piezzo ronds
  - Alim korg
  - Batteries usb avec on/of ?
- - Minotron
+ - Monotron
 
 ### T.A.F Avant Auch
 
-- Connecteur speciaux alim+module Minotron
+- Connecteur speciaux alim+module Monotron
 - mediator JIMI
 - Klan racourcir pieds du stand
 - Fiabiliser Caro
@@ -55,6 +49,7 @@ Liste des choses à faire avec leur degré de prioritée. Les tâches sont suppr
     - Toto
     - Dedo
     - Lisa
+    - Bébé Klan
 - Décors :
     - Finir les finitions des tissus.
         - ajouter des aimants a certains endroits

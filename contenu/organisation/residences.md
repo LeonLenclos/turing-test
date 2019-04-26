@@ -340,14 +340,8 @@ Mitigé : L'univers et les robots touchent le public mais problèmes de rythme e
 
 
 
+----------------------------------------------------------
 
-🔼 🔼 🔼 🔼 🔼 🔼 **Passé** 🔼 🔼 🔼 🔼 🔼 🔼
-
-
--------------------------------------------------------------
-
-
-🔽 🔽 🔽 🔽 🔽 🔽 **Futur** 🔽 🔽 🔽 🔽 🔽 🔽
 
 
 
@@ -383,7 +377,26 @@ Construction de l'acte 3. Musique et chorégraphie.
 
 #### Résultats
 
-----------------------------------------------------------
+Peu de temps mais les objectifs ont étés remplis :
+
+- Ébauche de acte 3
+- Tous les robots et les instruments sont connectés (même si améliorations possibles)
+- Rencontre avec Spoon : Très positif
+- Séance prise de vue avec Thomas : Teaser en préparation
+- Sortie de résidence : RAS
+
+
+
+🔼 🔼 🔼 🔼 🔼 🔼 **Passé** 🔼 🔼 🔼 🔼 🔼 🔼
+
+
+-------------------------------------------------------------
+
+
+🔽 🔽 🔽 🔽 🔽 🔽 **Futur** 🔽 🔽 🔽 🔽 🔽 🔽
+
+
+
 
 ### MJC Rodez (12) du 29 avril au 3 mai 2019. restitution le 2 mai 2019.
 
