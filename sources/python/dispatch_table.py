@@ -55,7 +55,7 @@ grim_table = [
 
     Directive(3, 'http://alan.local:8000/talk', {'msg': 'dis lalala', 'conversation_id':-1}),
 
-    Directive(4, 'http://alan.local:8000/talk_alone', {'conversation_id':-1}),
+    Directive(4, 'http://alan.local:8000/talk_alone', {'conversation_id':-1}, ClockDiv(4)),
 ]
 
 dispatch_table = grim_table
