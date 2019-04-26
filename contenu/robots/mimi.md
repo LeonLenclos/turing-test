@@ -10,7 +10,7 @@ Une hélice de drone fixée sur un carton. Le carton contient un Arduino qui env
 
 ## Protocoles d'allumage et d'extinction
 
-- Brancher la fiche de l'ESC au shield (cable brun à droite et le jaune à gauche lorsque l'on regarde le récepteur infrarouge de face)
+- Brancher la fiche de l'ESC au shield (cable brun à droite et le jaune à gauche lorsqu'on regarde le récepteur infrarouge de face)
 - Mettre l'arduino sous tension
 - Appuyer sur le bouton Standby de la télécommande. A partir de ce moment vous avez 6 secondes pour effectuer l'étape suivante
 - Brancher la batterie à l'ESC
@@ -29,9 +29,9 @@ Code arduino disponible [ici](https://github.com/LeonLenclos/turing-test/blob/ma
 ### Shield
 
 Shield fait maison comportant un récepteur infrarouge et une fiche pour brancher l'ESC.
-Si l'on regarde le récepteur infrarouge de face (croix métallique X visible), l'avant du Shield est placé sur l'arduino sur les PinsDigital 9 jusqu'à GND. A l'arrière le shield est placé sur la Pin 5V et va jusqu'à la fin de la barette Power, une branche du connecteur dépasse de la barette.
+Si on regarde le récepteur infrarouge de face (croix métallique X visible), l'avant du Shield est placé sur l'arduino sur les PinsDigital 9 jusqu'à GND. A l'arrière le shield est placé sur la Pin 5V et va jusqu'à la fin de la barette Power, une branche du connecteur dépasse de la barette.
 
-Le connecteur de l'ESC doit être branché avec le cable brun à droite et le jaune à gauche lorsque l'on regarde le récepteur infrarouge de face.
+Le connecteur de l'ESC doit être branché avec le cable brun à droite et le jaune à gauche lorsqu'on regarde le récepteur infrarouge de face.
 
 ### Telecommande
 
