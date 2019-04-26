@@ -33,7 +33,17 @@ Le server OSC (raspberry) dispose de 4 entrées trig (mini-jack) ainsi que d'une
 - Le serveur OSC est connecté à un des deux switchs
 - Les machines du GRIM sont connectés indiferament à l'un des deux switch
 
-#### Patch m
+#### Patch provisoire
+
+Sorties trig-seq :
+- 1 Trig ber
+- 2 Alan lalaléla (rpi 3)
+- 3 SQ1
+- 4 Lucy (rpi 2)
+- 5 Jimi
+- 6 Acte 2 (rpi 1)
+- 7 Alan talk_alone (rpi 4)
+- 8 Beatbox
 
 ### Réseau
 

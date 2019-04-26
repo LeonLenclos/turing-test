@@ -128,6 +128,61 @@ Le rpi qui diffuse ognon :
 - lance chrome au demarrage grace au contenu de `/home/pi/.config/lxsession/LXDE-pi/autostart` https://raspberrypi.stackexchange.com/questions/40631/setting-up-a-kiosk-with-chromium
  
 
+## Réglages machines
+
+### Jimi
+
+Mi bémole
+
+### Cube rouge
+
+Entrée micro-line (Porte) : 
+- Basses 10
+- Treble 5
+- Volume 10
+- Piezzo Klan
+- Piezzo Porte (Delay 4.8)
+
+Entrée guitarre (Jimi) :
+- Volume 5
+- Gain 5
+- Ampli Brit Combo 5
+- Egaliseur 5, 5, 5
+- EFX 10 (tremolo)
+- Delay/Reverb 7,5 (Reverb)
+
+### Cube noir
+
+Entrée micro-line (Vocoder)
+- Basse,Aigue 5,5
+- Delay 0
+- Volume ?
+
+Entrée guitarre (ECHO)
+- Basse,medium,aigue 5,5,5
+- EFX 0
+- Delay 0
+- Ampli Mic 10
+- Gain 0
+- Volume ?
+
+### V256 (vocoder)
+
+- Bend 10
+- Bands 8
+- Tone 6.5
+- Gender 10
+- Pitch 10
+- Reflextune
+
+### Minotron
+
+- Game 0 (chromatique)
+- VCO1 0/7
+- xmode 10
+- VCO2 10
+- Cut 5
+- Peak 5
 
 ----
 

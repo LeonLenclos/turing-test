@@ -1,12 +1,97 @@
-
 # Bloc note de travail mise en scene.
-
-À placer dans BEBER : phrase debut
-
 
 ## Acte 3
 
+### Testé au 104
+
+
+#### Déroulé
+
+##### Recopiage paper-board dernière journée 104
+
+Mise :
+- Mute 2, 4, 6 et 7
+
+
+Déroulé :
+- Demuter Lucy (4)
+- Beat
+- JIMI
+- Bass
+- Fab voix intro
+- Fab voix petit moyen grand
+- ALAN impro + fab
+- ALAN impro seul
+- ECHO
+- Fabien parle d'ECHO
+- ALAN lalaléla
+- FOOT
+- ALAN lalaléla
+- Solo TURC
+- Solo CARO
+- Break OTTO
+- ALAN Lalaléla/2
+- Générique
+
+##### (Tentative de transcription de l'acte 3 en [notation W](https://organon.pw/la-notation-w/))
+
+```
+> (B,F, L) Commencer la fête
+    // (B) Commencer la fête
+        > Entrer
+        > Allumer la Lumière
+        > Ouvrir la boite à rhytme
+        > Prendre deux bières
+        > Jouer aux flechettes
+            // Lancer les aimants en rythme
+            // Boire une bière
+    // (F) Commencer la fête
+        > Ouvrir entrée piezzo
+        > Jouer aux flechettes
+    // (L) Commencer la fête
+        > Troisième flechette > Entrer avec un carton
+        > Sortir Jimi du carton
+        > Brancher Jimi
+            > Brancher son
+            > Ouvrir la piste
+            > Brancher le trig
+> (B,F,L) Faire la fête
+    // (F) Ambiancer
+        // Chanter dans le reflextune
+            | Commenter ce qu'il se passe
+            | Répondre à Alan
+            | Donner la parole aux robots
+        // Danser
+            | Danser avec le boa
+            | Danser sur le fly gris
+            | Danser dans un coin
+    // (B) Jouer de la musique
+        // Mixer les instruments sur CORE
+        // Faire la ligne de basse avec le minotron
+            > Mi bemole
+            > Mi bemole
+            > Fa
+        // Faire des glissendo avec le minotron
+        // Jouer du turc
+    // (L) Déployer les robots
+        > Débarasser la table
+        > Aligner les objets de la table au sol
+        > Ajouter les deux claviers jouers a cette ligne
+        > Disposer les robots dans l'espace et les brancher si necessaire
+> (B,F,L) Finir la fête
+    > (L) Déguiser F et B en robots
+        > Leur mettre un carton sur la tête
+        > Dessiner un visage sur le carton
+    > (L) Lancer le générique
+    > (L) Se déguiser en robot
+    > (B, L, F) Danser en avant scène
+```
+
+
+### Vieilles idées
+
 - picoproj
+
 - flechettes / JIMI
 - Caro joue au piano
 - Caro danse (+ piezzo)

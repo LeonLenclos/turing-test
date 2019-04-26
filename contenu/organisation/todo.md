@@ -12,16 +12,21 @@ Liste des choses à faire avec leur degré de prioritée. Les tâches sont suppr
 
 ### Courses
 
-     - 2 BNC male/RCA male
-     - fiche alim 2,1mm/male et femelle
-     - voltmettres lipo
-     - Batterie li-on (en 3s ?)
-     - Prise USB/secteur
-     - Clés Alen Fluo
+ - 2 BNC male/RCA male
+ - fiche alim 2,1mm/male et femelle
+ - voltmettres lipo
+ - Batterie li-on (en 3s ?)
+ - Prise USB/secteur
+ - Clés Alen Fluo
+ - Petits piezzo ronds
+ - Alim korg
+ - Batteries usb avec on/of ?
+ - Minotron
 
 ### T.A.F Avant Auch
 
-- Répondre à Michel (Kali)
+- Connecteur speciaux alim+module Minotron
+- mediator JIMI
 - Klan racourcir pieds du stand
 - Fiabiliser Caro
 - Réglage sucide Mimi
