@@ -8,7 +8,7 @@ Lucy est une référence aux [tamagotchis](https://fr.wikipedia.org/wiki/Tamagot
 
 ## Esthétique, allure du robot
 
-Un simple écran avec un bouton au dessus : nourrir. Un personnage très pixellisé s'affiche à l'écran, en temps normal il bouge de légèrement dans son écran. Quand il est nourri, une animation est lancée. Il peut avoir l'air maigre, normal ou gros.
+Un simple écran avec un bouton au-dessus : nourrir. Un personnage très pixellisé s'affiche à l'écran, en temps normal il bouge légèrement dans son écran. Quand il est nourri, une animation est lancée. Il peut avoir l'air maigre, normal ou gros.
 
 ![](/ressources/photos/lucy1.JPG)![](/ressources/photos/lucy2.JPG)![](/ressources/photos/lucy3.JPG)![](/ressources/photos/lucy4.JPG)
 
@@ -26,7 +26,7 @@ Lucy tourne sur un Raspberry 3B+ avec un [écran 10.1" 1024x600 HDMI LCD](https:
 
 Pour les infos sur le fonctionnment du programme consultez [le dépõt git de Lucy](https://github.com/LeonLenclos/lucy)
 
-Le programme est lancé au demarrage du raspberry grace à crontab (voir : `sudo crontab -e`)
+Le programme est lancé au demarrage du raspberry grâce à crontab (voir : `sudo crontab -e`)
 
 ## Améliorations
 
@@ -34,7 +34,7 @@ Le programme est lancé au demarrage du raspberry grace à crontab (voir : `sudo
 
 ### Facultatif
 
-- Déporter le RJ45 en facade.
-- Mettre un schuko en facade pour l'alimentation.
+- Déporter le RJ45 en façade.
+- Mettre un schuko en façade pour l'alimentation.
 
 [Retour à la liste des robots du laboratoire](.)

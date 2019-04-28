@@ -3,10 +3,10 @@ Anthropomorphisme
 
 Comment notre tendance naturelle à l'anthropomorphisme pervertit notre relation aux robots.
 
-Question soulevées par l'existence de foot
+Question soulevée par l'existence de foot
 ------------------------------------------
 
-### La question de l'antropomorphisme
+### La question de l'anthropomorphisme
 
 Notre tendance naturelle à considérer le monde à travers le prisme de l'humanité, notre vision anthropomorphique de ce qui nous entoure, s'applique aussi à notre [façon de percevoir les robots](http://faculty.chicagobooth.edu/nicholas.epley/waytzepleycacioppocdips.pdf). On peut souffrir, ressentir de la peine, de la pitié ou de l'amour pour un robot. Le cinéma nous en donne quelques exemples : Dans les films Métropolis de Fritz Lang (1927) ou dans Ex machina d'Alex Garland (2015) le héros tombe amoureux d'un robot qui a l'apparence d'une femme. Dans Her de Spike Jonze (2014) Joaquin Phoenix succombe même aux charmes d'une intelligence artificielle désincarnée, Samantha, avec qui il entretient une relation purement verbale.
 
@@ -14,14 +14,14 @@ On trouve d'autres exemples dans la réalité. Sur la chaine YouTube de Boston D
 
 ### La question de la perversité
 
-Est-ce que le sadisme de celui qui tappe dans foot est comparabmle a celui de celui qui donne des coups de pieds à un enfant ?
+Est-ce que le sadisme de celui qui tape dans foot est comparable à celui de celui qui donne des coups de pied à un enfant ?
 
 Est-ce que ce n'est pas de construire ce robot qui est sadique ?
 
 
 ### Proteger un corps par sa capactité à souffrir
 
-Il souffre donc on ne le tappe pas donc il s'abime moins vite.
+Il souffre donc on ne le tape pas donc il s'abime moins vite.
 
 ### Est-ce  vraiment de la douleur
 
@@ -31,28 +31,28 @@ C'est quoi la difference entre foot qui souffre et un humain qui souffre ?
 Mise en scène de foot
 ---------------------
 
-1. Léon viens avec un carton et un bloc note et demande à Fabien de donner un coup de pied dans le carton. Il prend des notes
-2. Plus tard, Bertrand et Fabien de temps en temps, l'air de rien, machinalement, donnent des petits coups de pieds dans des cartons.
-3. Un jour, lors d'un petit coup de pied, un carton gémit. Très leger etonnement se dessine sur le visage de celui qui l'a frappé. Peut s'en suivre un test informel de foot. Coups de pieds de differentes intensités, et autres interactions.
-4. (optionel) Un jour, foot est évoqué pour répondre à des questions precises d'intelligence machine parmis celles évoquées dans la premiere partie de ce fichier.
+1. Léon vient avec un carton et un bloc note et demande à Fabien de donner un coup de pied dans le carton. Il prend des notes
+2. Plus tard, Bertrand et Fabien de temps en temps, l'air de rien, machinalement, donnent des petits coups de pied dans des cartons.
+3. Un jour, lors d'un petit coup de pied, un carton gémit. Très leger etonnement se dessine sur le visage de celui qui l'a frappé. Peut s'en suivre un test informel de foot. Coups de pied de differentes intensités, et autres interactions.
+4. (optionel) Un jour, foot est évoqué pour répondre à des questions precises d'intelligence machine parmi celles évoquées dans la premiere partie de ce fichier.
 
 
 ###Exemple de texte d'intro du test
 
 ```
-Je vourai te faire passer un test Fabien. Est-tu d'accord ?
+Je voudrais te faire passer un test Fabien. Es-tu d'accord ?
 Réponse : _______
 Il s'agit d'un test à objectif caché.
 Je ne peux rien te dévoiler sur la finalité de cette experience.
 Je te demande donc de te contenter d'obéir aux consignes sans poser de questions.
 Le protocole de ce test m'interdit de prononcer autre chose que ce qui est écrit sur cette feuille. [montrer la feuille].
-Accepte tu ces conditions ?
-Réponses : ______
+Acceptes-tu ces conditions ?
+Réponse : ______
 [poser le carton à un mètre des pieds du cobaye]
 Frappe dans le carton.
 Observations : __________________________________________
 ```
-Mise en scène de foot, version adresse publique
+Mise en scène de foot, version adresse public
 -----------------------------------------------
 
 Soumettons le public à un test de sensibilité anthropomorphique :

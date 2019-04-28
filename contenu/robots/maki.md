@@ -19,7 +19,7 @@ Embouts :
 - Une makita éventuellement modifiée avec une possibilité de télécommande.
 - trident sur axe
 - couteau soudé sur axe
-- cuillère soudée sur ase
+- cuillère soudée sur axe
 - gant sur axe
 
 ## Hypothèses de construction, description technique

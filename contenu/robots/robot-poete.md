@@ -5,7 +5,7 @@
 
 ## Esthétique, allure du robot
 
-Il n'y a vraiment aucune contrainte pour le forme d'un robot poète, il doit juste pouvoir contenir une enceinte et un Arduino. Il pourrait donc être le robot qu'on code au début mais dont on attends la fin de la construction pour voir l'allure du laboratoire et pour lui donner forme et ainsi ajuster l'équilibre visuel du plateau. Si on n'a plus le temps ou l'argent on peut l'intégrer facilement à Alan.
+Il n'y a vraiment aucune contrainte pour le forme d'un robot poète, il doit juste pouvoir contenir une enceinte et un Arduino. Il pourrait donc être le robot qu'on code au début mais dont on attend la fin de la construction pour voir l'allure du laboratoire et pour lui donner forme et ainsi ajuster l'équilibre visuel du plateau. Si on n'a plus le temps ou l'argent on peut l'intégrer facilement à Alan.
 
 ## Matériaux envisagés
 
