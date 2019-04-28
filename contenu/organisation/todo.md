@@ -19,12 +19,12 @@ Liste des choses à faire avec leur degré de prioritée. Les tâches sont suppr
 
 ### T.A.F Avant Auch
 
+- (!!) Le bouton /kill sur Lucy (plaque arriere lucy)
 - Connecteur speciaux alim+module Monotron
 - mediator JIMI
 - Klan racourcir pieds du stand
 - Fiabiliser Caro
 - Réglage sucide Mimi
-- Le bouton /kill sur Lucy
 - Changer systeme fixation hélice
 - Changer standard des connecteurs batterie
 
