@@ -13,20 +13,24 @@ Liste des choses à faire avec leur degré de prioritée. Les tâches sont suppr
 ### Courses
 
  - Clés Alen Fluo
- - Alim korg
  - Batteries usb avec on/of ?
- - Monotron
+ - Monotron 
+ - Carton standard fin
+ - Carton format Cubi pour turc
+ - Papier kraft
+ - Aimants ronds (pour tulle et écran) ET carrés (pour fléchettes)
+ - Petits fusibles electroniques pour Lucy
+ 
 
 ### T.A.F Avant Auch
 
-- (!!) Le bouton /kill sur Lucy (plaque arriere lucy)
+- plaque arriere lucy rajouter fusible
 - Connecteur speciaux alim+module Monotron
 - mediator JIMI
-- Klan racourcir pieds du stand
 - Fiabiliser Caro
-- Réglage sucide Mimi
+- Réglage suicide Mimi
 - Changer systeme fixation hélice
-- Changer standard des connecteurs batterie
+- Rallonger jack piezzo
 
 ### T.A.F Après MIMA
 
