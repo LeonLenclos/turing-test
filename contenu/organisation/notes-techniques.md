@@ -28,8 +28,8 @@ Les longs cables passent si possible par le haut.
     - godel <--> Moduber (4m)
     - Core <--> SQ1 (15m, noir (+jaune))    
     - Core <--> Echo (3m, noir (+vert))
-    - Core <--> Jimi (14m, noir (+rouge))
-    - Core <--> Foot (14m, noir (+bleu))
+    - Core <--> Jimi (14m, noir (+bleu))
+    - Core <--> Foot (14m, noir (+rouge))
     - Core <--> Dedo 
 
 ### Cables courts (Standard Grim)
@@ -158,7 +158,7 @@ Le rpi qui diffuse ognon :
 
 ### Jimi
 
-Mi bémole
+Mi bémole (E♭)
 
 ### Cube rouge
 
@@ -211,6 +211,7 @@ Entrée guitarre (ECHO)
 - Peak 5
 
 ----
+
 
 
 [Retour à l'organisation de la création](.)
