@@ -32,6 +32,13 @@ Liste des choses à faire avec leur degré de prioritée. Les tâches sont suppr
 - Changer systeme fixation hélice
 - Rallonger jack piezzo
 
+## Modifications pure Data
+- (!!!) Step qui est relié au son (le son se coupe en mode step et l'appui sur step déclenche note)
+- (!!!) Virer son de basse pour éviter glitch
+- Recherche au niveau du timbre pour le son aigu pour plus de variations
+- Moins de notes dans la gamme pour plus de joie et de ludisme
+- Faire un second son plus épuré (type cloche, synthèse FM, changement filtre en fction du pitch et de l'enveloppe-->Low pass gate)
+
 ### T.A.F Après MIMA
 
 
