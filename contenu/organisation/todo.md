@@ -20,7 +20,7 @@ Liste des choses à faire avec leur degré de prioritée. Les tâches sont suppr
  - Papier kraft
  - Aimants ronds (pour tulle et écran) ET carrés (pour fléchettes)
  - Petits fusibles electroniques pour Lucy
- 
+ - Clavier
 
 ### T.A.F Avant Auch
 
@@ -31,6 +31,9 @@ Liste des choses à faire avec leur degré de prioritée. Les tâches sont suppr
 - Réglage suicide Mimi
 - Changer systeme fixation hélice
 - Rallonger jack piezzo
+- 2x Jack de 4m (3m utiles) pour pédale Lucy et Echo
+- Caisse VP
+- Recup petit pied vp
 
 ### T.A.F Après MIMA
 

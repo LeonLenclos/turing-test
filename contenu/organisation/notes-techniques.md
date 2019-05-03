@@ -210,6 +210,20 @@ Entrée guitarre (ECHO)
 - Cut 5
 - Peak 5
 
+
+## Réseau
+
+Les trucs à faire en réseau dans le grim
+
+### Git pull - Alan
+
+    $ ssh grim@alan.local
+    mot de passe grim@alan = [ALORS ALAN GRIM]
+    $ cd alan
+    $ git pull grim develop
+    mot de passe ssh key = vide
+    mot de passe git@10.0.0.2 = [GIT LÉON]
+
 ----
 
 
