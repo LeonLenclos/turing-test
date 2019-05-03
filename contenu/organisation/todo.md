@@ -12,53 +12,99 @@ Liste des choses à faire avec leur degré de prioritée. Les tâches sont suppr
 
 ### Courses
 
- - Clés Alen Fluo
- - Batteries usb avec on/of ?
- - Monotron 
- - Carton standard fin
- - Carton format Cubi pour turc
- - Papier kraft
- - Aimants ronds (pour tulle et écran) ET carrés (pour fléchettes)
+#### Internet
+- Batteries usb avec on/of (si distribué en Europe)
+- Monotron
+- RAJA
+    - Carton standards fin (foot, final fab, etc.) = 10 - reserve
+    - Carton standard épais  = 10
+    - Cartons final Léon 220x370x560 = 5
+    - Cartons final Beb (et table morpion) 170x230x300 = 5
+    - Scotcheuse
+    - Scotch carton
+- Aimants ronds (pour tulle et écran) x 25 ET carrés (pour fléchettes) x 25
+- Papier craft
+- Gotronic
+    - Caisse deuxième VP
+    - Caisse Micro
+    - Valise batteries
+    - Connectreurs 4 broches pour capteur Echo.
+
+#### Courses Graulhet
+ - Clés Alen
+ - Barnier
  - Petits fusibles electroniques pour Lucy
- - Clavier
+ - Roulettes
+
+#### Courses Paris
+ - Clavier Alan (~100€)
+ - Caméra IP Xiaomi 360
+
+### Récuperer à Graulhet
+- Mousse autocollante
+- Petit pied du VP
+- Stock de piles rechargeables + chargeur
+- valise de conférence
+- Rétroviseur sucide mimi
+- Lame scie sauteuse
+- Tube PVC pour grand écran (1m50?)
 
 ### T.A.F Avant Auch
 
-- plaque arriere lucy rajouter fusible
-- Connecteur speciaux alim+module Monotron
-- mediator JIMI
-- Fiabiliser Caro
-- Réglage suicide Mimi
-- Changer systeme fixation hélice
-- Rallonger jack piezzo
-- 2x Jack de 4m (3m utiles) pour pédale Lucy et Echo
-- Caisse VP
-- Recup petit pied vp
+- (!!!) Courriel recommandé université de Caen (kali) 
 
-## Modifications pure Data
+- (!!!) Klan : Mettre des roue
+- Souder piezzo pour le tableau
+- Trouver micro pince pour paper board
+- Hack Monotron
+- mediator JIMI
+- (!!!) Caro : lester
+- (!!!) Caro : Remplacer col de signe par tige filetée
+- (!!!) Caro : Setup camera IP
+- (!!!) Caro : Platine caméra
+- Mimi : Changer systeme fixation hélice
+
+- (!!!) Optimiser Ognon
+- (!!) Echo : Plaque d'embase
+- (!!) Echo : réparer
+- Echo : Capteur remplacable
+
+- Léon : Ramener des costumes
+- Fabien : Ramener des costumes
+
+- Hachoir Soop + raccourcir broche.
+- Se renseigner pour inifuger cartons
+- Étudier doc batterie
+- Bout de tapis de danse
+
+- (!!!) 2x Jack de 4m (3m utiles) pour pédale Lucy et Echo
+- Rallonger 1 jack piezzo
+
+#### Modifications pure Data
+
 - (!!!) Step qui est relié au son (le son se coupe en mode step et l'appui sur step déclenche note)
 - (!!!) Virer son de basse pour éviter glitch
 - Recherche au niveau du timbre pour le son aigu pour plus de variations
 - Moins de notes dans la gamme pour plus de joie et de ludisme
 - Faire un second son plus épuré (type cloche, synthèse FM, changement filtre en fction du pitch et de l'enveloppe-->Low pass gate)
 
-### T.A.F Après MIMA
+### T.A.F
 
+
+- Tout passer en batteries standard Lion
+- (!!) Alan : Protocole SOS
+- (!!) Alan : régler problème son
+
+- (!) Fixer Lucy (avec du scratch ou du double face) sur la plaque jaune découpée aux dimensions du carton.
+
+- Plaque connecteurs Lucy, passer on top
 
 - (!) Caisse d'Alan + rangement accessoires.
 - Prendre le control de MVO Chatbot (entrainement)
 - Faire un Klan qui marche
 - Foot rajouter une led
 - Foot rajouter un piezzo
-- Echo :
-
-    - Alim
-    - Fixation capteur
-- Matt :
-    - Creer carton-enceinte + micro dédié.
-- Jimi :
-    - (!) fixation mediator
-    - (!) deporter alim
+- Echo : déporter alim
 - Robots pas fait :
     - Toto
     - Dedo

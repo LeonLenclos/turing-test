@@ -387,13 +387,6 @@ Peu de temps mais les objectifs ont étés remplis :
 
 
 
-🔼 🔼 🔼 🔼 🔼 🔼 **Passé** 🔼 🔼 🔼 🔼 🔼 🔼
-
-
--------------------------------------------------------------
-
-
-🔽 🔽 🔽 🔽 🔽 🔽 **Futur** 🔽 🔽 🔽 🔽 🔽 🔽
 
 
 
@@ -413,7 +406,31 @@ Vendredi : retour
 
 #### Résultats
 
+- Révision de l'acte 1
+- Peaufination de l'acte 3
+- Mise en place musicale et visuelle de l'acte 2. Début de travail sur les textes de l'acte 2
+- Essais Lumière de Francis, préparation du plan de feu et travail des déplacements de Caro.
+- Réflexions autour de la création sonore de l'acte 1, a base de piezzo et de micros placés dans le décor
+- Améliorations des sources d'énergie (Batteries)
+- Petites améliorations sur Alan
+- Retour à une synchronisation d'ognon depuis Pure Data (Pure Data étant synchronisé avec Core)
+- Entrée en scène de la TR 808
+
+#### Bilan moral 
+
+- Test de 0.05% des plats par l'équipe
+- Nette différence entre le premier et le dernier fillage
+- Légère fatigue, rhumes à répétition, compensation par citrobiotic
+
 ----------------------------------------------------------
+
+🔼 🔼 🔼 🔼 🔼 🔼 **Passé** 🔼 🔼 🔼 🔼 🔼 🔼
+
+
+-------------------------------------------------------------
+
+
+🔽 🔽 🔽 🔽 🔽 🔽 **Futur** 🔽 🔽 🔽 🔽 🔽 🔽
 
 ##### Relâche !!
 
