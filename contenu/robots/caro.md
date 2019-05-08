@@ -1,5 +1,7 @@
 # Caro V 0.1
 
+La robot curieuse.
+
 ## Description générale
 
 Caro, le robot-caméra, filme les événements du labo et projette les images sur l'écran A du labo. Elle est autonome et se déplace dans le labo pour composer ses images.
@@ -14,8 +16,6 @@ Fixé sur une structure mobile à 4 roues, un mat prolongé d'un col de cygne es
 
 La strucure mobile est un hacking de Crawler télécommandé. La télécommande est gérée par le régisseur.
 
-La caméra fixée au col de cygne délivre un signal à un émetteur HF qui transmet l'image jusqu'au vidéoprojecteur situé derrière l'écran de l'établi.
-
 ![robot_camera_V_01](/ressources/photos/robot_camera_V_01.jpg)
 
 ### Mécanique
@@ -26,7 +26,28 @@ La caméra fixée au col de cygne délivre un signal à un émetteur HF qui tran
 
 ![crawler_kino](/ressources/divers/crawler_kino.jpg)
 
-#### Note relative aux objectifs utilisables sur la caméra
+### La vidéo
+
+Deux systèmes actuellements developpés :
+- Liaison HF
+- Liaison IP
+
+#### Liaison HF
+
+La caméra fixée au col de cygne délivre un signal à un émetteur HF qui transmet l'image jusqu'au vidéoprojecteur situé derrière l'écran de l'établi.
+
+##### Materiel
+
+Sur Caro :
+- Mini caméra (rugissant)
+- Émetteur HF
+
+Reception :
+- 1,2 G TX 1000 mW 1000mW 8CH Transmitter RX02
+
+![emetteur_kino](/ressources/divers/emetteur_kino.jpg)
+
+##### Note relative aux objectifs utilisables sur la mini caméra
 
 4 Objectifs :
 
@@ -48,16 +69,31 @@ Autres signes distinctifs :
 
 Pour l'instant on selectionne le **2**
 
-### Electronique
 
-1,2 G TX 1000 mW 1000mW 8CH Transmitter RX02
+#### Liaison IP
 
-![emetteur_kino](/ressources/divers/emetteur_kino.jpg)
+##### Materiel
+
+Sur Caro :
+- Caméra Mi Hom Security Camera 360 (MJSXJ02CM)
+
+La caméra est équipée d'une platine ammovible avec deux trous de 3mm de diametre espacés de 36mm (centre à centre)
+
+Reception :
+- Routeur wifi
+- ordinateur.
+
+##### Fonctionnement
+
+Grace à un delicieux hack de [telmomarques](https://github.com/telmomarques) on peut récuperer le flux vidéo de la caméra.
+
+- suivre https://github.com/telmomarques/xiaomi-360-1080p-hacks
+- suivre https://github.com/telmomarques/xiaomi-360-1080p-video-stream
+- et enfin https://github.com/telmomarques/xiaomi-360-1080p-hacks/issues/2#issuecomment-490490622
+
+Sur l'ordi qui diffuse la commande est : `ffplay udp://<your_computer_ip>:12345`
 
 
-## Améliorations envisagées
-
-- Un petit coffre sur la voiture pour ranger les accessoires.
 
 ----
 
