@@ -14,31 +14,16 @@ Liste des choses à faire avec leur degré de prioritée. Les tâches sont suppr
 
 #### Internet
 - Batteries usb avec on/of (si distribué en Europe)
-- Monotron
-- RAJA
-    - Carton standards fin (foot, final fab, etc.) = 10 - reserve
-    - Carton standard épais  = 10
-    - Cartons final Léon 220x370x560 = 5
-    - Cartons final Beb (et table morpion) 170x230x300 = 5
-    - Scotcheuse
-    - Scotch carton
 - Aimants ronds (pour tulle et écran) x 25 ET carrés (pour fléchettes) x 25
 - Papier craft
-- Gotronic
-    - Caisse deuxième VP
-    - Caisse Micro
-    - Valise batteries
-    - Connectreurs 4 broches pour capteur Echo.
 
 #### Courses Graulhet
  - Clés Alen
  - Barnier
  - Petits fusibles electroniques pour Lucy
- - Roulettes
 
 #### Courses Paris
  - Clavier Alan (~100€)
- - Caméra IP Xiaomi 360
 
 ### Récuperer à Graulhet
 - Mousse autocollante
