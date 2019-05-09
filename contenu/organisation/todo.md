@@ -45,11 +45,9 @@ Liste des choses à faire avec leur degré de prioritée. Les tâches sont suppr
 - mediator JIMI
 - (!!!) Caro : lester
 - (!!!) Caro : Remplacer col de signe par tige filetée
-- (!!!) Caro : Setup camera IP
 - (!!!) Caro : Platine caméra
 - Mimi : Changer systeme fixation hélice
 
-- (!!!) Optimiser Ognon
 - (!!) Echo : Plaque d'embase
 - (!!) Echo : réparer
 - Echo : Capteur remplacable
@@ -77,7 +75,6 @@ Liste des choses à faire avec leur degré de prioritée. Les tâches sont suppr
 
 
 - Tout passer en batteries standard Lion
-- (!!) Alan : Protocole SOS
 - (!!) Alan : régler problème son
 
 - (!) Fixer Lucy (avec du scratch ou du double face) sur la plaque jaune découpée aux dimensions du carton.
