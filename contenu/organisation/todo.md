@@ -37,7 +37,7 @@ Liste des choses à faire avec leur degré de prioritée. Les tâches sont suppr
 - (!!!) Klan : Mettre des roue
 - Souder piezzo pour le tableau
 - Trouver micro pince pour paper board
-- Hack Monotron
+
 - mediator JIMI
 - (!!!) Caro : lester
 - (!!!) Caro : Remplacer col de signe par tige filetée
