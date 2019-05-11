@@ -14,7 +14,6 @@ Liste des choses à faire avec leur degré de prioritée. Les tâches sont suppr
 
 #### Internet
 - Batteries usb avec on/of (si distribué en Europe)
-- Aimants ronds (pour tulle et écran) x 25 ET carrés (pour fléchettes) x 25
 - Papier craft
 
 #### Courses Graulhet
@@ -27,18 +26,13 @@ Liste des choses à faire avec leur degré de prioritée. Les tâches sont suppr
 
 ### Récuperer à Graulhet
 - Mousse autocollante
-- Petit pied du VP
 - Stock de piles rechargeables + chargeur
-- valise de conférence
-- Rétroviseur sucide mimi
 - Lame scie sauteuse
 - Tube PVC pour grand écran (1m50?)
-- Routeur WIFI !!
 
 ### T.A.F Avant Auch
 
 - (!!!) Courriel recommandé université de Caen (kali) 
-
 - (!!!) Klan : Mettre des roue
 - Souder piezzo pour le tableau
 - Trouver micro pince pour paper board
@@ -47,7 +41,6 @@ Liste des choses à faire avec leur degré de prioritée. Les tâches sont suppr
 - (!!!) Caro : lester
 - (!!!) Caro : Remplacer col de signe par tige filetée
 - (!!!) Caro : Platine caméra
-- Mimi : Changer systeme fixation hélice
 
 - (!!) Echo : Plaque d'embase
 - (!!) Echo : réparer
@@ -60,9 +53,6 @@ Liste des choses à faire avec leur degré de prioritée. Les tâches sont suppr
 - Se renseigner pour inifuger cartons
 - Étudier doc batterie
 - Bout de tapis de danse
-
-- (!!!) 2x Jack de 4m (3m utiles) pour pédale Lucy et Echo
-- Rallonger 1 jack piezzo
 
 #### Modifications pure Data
 
