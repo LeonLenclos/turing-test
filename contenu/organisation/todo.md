@@ -33,6 +33,7 @@ Liste des choses à faire avec leur degré de prioritée. Les tâches sont suppr
 - Rétroviseur sucide mimi
 - Lame scie sauteuse
 - Tube PVC pour grand écran (1m50?)
+- Routeur WIFI !!
 
 ### T.A.F Avant Auch
 
