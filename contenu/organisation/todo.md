@@ -29,6 +29,7 @@ Liste des choses à faire avec leur degré de prioritée. Les tâches sont suppr
 - Stock de piles rechargeables + chargeur
 - Lame scie sauteuse
 - Tube PVC pour grand écran (1m50?)
+- routeur WIFI
 
 ### T.A.F Avant Auch
 
