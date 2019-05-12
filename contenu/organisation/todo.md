@@ -19,7 +19,6 @@ Liste des choses à faire avec leur degré de prioritée. Les tâches sont suppr
 #### Courses Graulhet
  - Clés Alen
  - Barnier
- - Petits fusibles electroniques pour Lucy
 
 #### Courses Paris
  - Clavier Alan (~100€)
@@ -29,13 +28,11 @@ Liste des choses à faire avec leur degré de prioritée. Les tâches sont suppr
 - Stock de piles rechargeables + chargeur
 - Lame scie sauteuse
 - Tube PVC pour grand écran (1m50?)
-- routeur WIFI
 - Encore du cable RJ45 (Core <-> VP A)
 
 ### T.A.F Avant Auch
 
 - (!!!) Courriel recommandé université de Caen (kali) 
-- (!!!) Klan : Mettre des roue
 - Souder piezzo pour le tableau
 - Trouver micro pince pour paper board
 
