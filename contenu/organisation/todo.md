@@ -14,7 +14,7 @@ Liste des choses à faire avec leur degré de prioritée. Les tâches sont suppr
 
 #### Internet
 - Batteries usb avec on/of (si distribué en Europe)
-- Papier craft
+- raspberry
 
 #### Courses Graulhet
  - Clés Alen
