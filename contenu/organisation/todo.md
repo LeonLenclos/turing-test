@@ -30,6 +30,7 @@ Liste des choses à faire avec leur degré de prioritée. Les tâches sont suppr
 - Lame scie sauteuse
 - Tube PVC pour grand écran (1m50?)
 - routeur WIFI
+- Encore du cable RJ45 (Core <-> VP A)
 
 ### T.A.F Avant Auch
 
