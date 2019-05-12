@@ -40,9 +40,7 @@ Liste des choses à faire avec leur degré de prioritée. Les tâches sont suppr
 - Trouver micro pince pour paper board
 
 - mediator JIMI
-- (!!!) Caro : lester
-- (!!!) Caro : Remplacer col de signe par tige filetée
-- (!!!) Caro : Platine caméra
+
 
 - (!!) Echo : Plaque d'embase
 - (!!) Echo : réparer
@@ -51,7 +49,7 @@ Liste des choses à faire avec leur degré de prioritée. Les tâches sont suppr
 - Léon : Ramener des costumes
 - Fabien : Ramener des costumes
 
-- Hachoir Soop + raccourcir broche.
+- raccourcir broche.
 - Se renseigner pour inifuger cartons
 - Étudier doc batterie
 - Bout de tapis de danse
