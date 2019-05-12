@@ -25,13 +25,13 @@ Ses fonctions principales sont :
 
 #### Trig <-> OSC
 
-Le server OSC (raspberry) dispose de 4 entrées trig (mini-jack) ainsi que d'une sortie ethernet (RJ45). Son rôle est de dispatcher les trigs à differentes adresses IP sous forme de messages OSC.
+Le server OSC (raspberry) dispose de 4 entrées trig (mini-jack) ainsi que d'une sortie ethernet (RJ45). Son rôle est de dispatcher les trigs à différentes adresses IP sous forme de messages OSC.
 
 #### Patch RJ45
 
 - Les deux switchs sont connectés entre eux
 - Le serveur OSC est connecté à un des deux switchs
-- Les machines du GRIM sont connectés indiferament à l'un des deux switch
+- Les machines du GRIM sont connectées indifféremment à l'un des deux switchs
 
 #### Patch provisoire
 
