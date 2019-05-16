@@ -130,6 +130,9 @@ Clock out
 
 [lien vers le Github](https://github.com/attejensen/grains)
 
+## bass bot tt 303
+[manuel](https://medias.audiofanzine.com/files/tt303mk2-481402.pdf)
+
 ## mesures minimales Scene
 
 Mesures prises à Bessines :
