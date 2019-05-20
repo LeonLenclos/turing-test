@@ -85,10 +85,10 @@ Les connexions du switch sont les suivantes
 Le bouton steps est sur la position 2
 
 Switching
- 1   2   PD/PD
- 0   0
- 3   0   AL/
- 0   4   /AL
+ - 1   2   PD/PD
+ - 0   0
+ - 3   0   AL/
+ - 0   4   /AL
  
  Avec : 
  - 1 Pure Data in
