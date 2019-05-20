@@ -213,6 +213,27 @@ Entrée guitarre (ECHO)
 - Cut 5
 - Peak 5
 
+### MS20
+
+Morceau  cube qui tourne :
+Ring ou square
+sustain max
+attack 5
+release 5
+
+Envelop pitch:
+release 5
+prise en compte de l'enveloppe 5
+
+morceau 2
+sawtooth
+octaves 8 et 4
+Attack 6
+
+Morceau 3
+Pitch 2.8 pour accords
+attack 0
+
 
 ## Réseau
 
