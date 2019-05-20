@@ -73,6 +73,29 @@ Voilà le schéma du réseau :
 - Un raspberry qui dispatche du OSC sur du Trig et vice versa
 - Un module Switch pour les trig (switch by RYO), situé au dos de Core
 
+#### Module Switch by RYO
+
+Ce module permet de basculer l'envoi de trig au raspberry.
+En position 1 (LED allumée en haut) le trig Pure data venant de Core est envoyée vers le raspberry, le trig d'Alan est envoyé vers une sortie vide.
+En position 2 (LED allumée un cran plus bas) le trig Pure data est envoyé vers une sortie vide venant de Core, le trig d'Alan est envoyée vers le raspberry.
+Pour passer de la position 1 à 2 et inversement, il suffit d'appuyer sur le bouton FWD. A l'avenir, il suffira d'envoyer un trig dans l'entrée FWD du switch.
+
+Les connexions du switch sont les suivantes
+
+Le bouton steps est sur la position 2
+
+Switching
+ 1   2   PD/PD
+ 0   0
+ 3   0   AL/
+ 0   4   /AL
+ 
+ Avec : 
+ - 1 Pure Data in
+ - 2 Pure Data out
+ - 3 Alan in
+ - 4 Alan out
+
 #### Patch du module maison
 
     VCC     : PIN1      (3.3V)
@@ -119,7 +142,8 @@ Le programme est lancé au demarrage du raspberry avec une commande dans `/etc/r
 - Le serveur écoute les messages OSC de type `/trig/ n` et envoie un trig sur la sortie `n`.
 - Bug?? : il semble que core se met en veille (??? à confirmer, pas l'impression d'avoir vu ça depuis la v0)
 - Bug : Core ne peut pas recevoir deux trigs à la fois
-- Bug : Core lag et saute donc des pas quand il cherche à envoyer de l'osc à un ordi etteint.
+- Bug : Core lag et saute donc des pas quand il cherche à envoyer de l'osc à un ordi éteint.
+- Rajouter un bouton trig vers l'entrée FWD du module Switch by RYO
 
 ## Moment envisagé pour la construction et/ou les améliorations.
 
