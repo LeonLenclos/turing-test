@@ -116,7 +116,10 @@ Le programme est lancé au demarrage du raspberry avec une commande dans `/etc/r
 - Voyant quand le serveur OSC est en route (boffement utile)
 - 2 sorties trig pour le serveur OSC
 - Le serveur écoute les messages OSC de type `/trig/ n` et envoie un trig sur la sortie `n`.
-- Problème : il semble que core se met en veille (???)
+- Bug?? : il semble que core se met en veille (??? à confirmer, pas l'impression d'avoir vu ça depuis la v0)
+- Bug : Core ne peut pas recevoir deux trigs à la fois
+- Bug : Core lag et saute donc des pas quand il cherche à envoyer de l'osc à un ordi etteint.
+
 ## Moment envisagé pour la construction et/ou les améliorations.
 
 Du 15/3/2019 au 31/3/2019 à Graulhet puis résidence 104 du 15 au 21 avril 2019
