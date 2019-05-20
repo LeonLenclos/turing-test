@@ -77,7 +77,7 @@ Pour l'instant on selectionne le **2**
 Sur Caro :
 - Caméra Mi Hom Security Camera 360 (MJSXJ02CM)
 
-La caméra est équipée d'une platine ammovible avec deux trous de 3mm de diametre espacés de 36mm (centre à centre)
+La caméra est équipée d'une platine ammovible avec deux trous de 3mm de diamètre espacés de 36mm (centre à centre)
 
 Reception :
 - Routeur wifi
@@ -85,7 +85,7 @@ Reception :
 
 ##### Fonctionnement
 
-Grace à un delicieux hack de [telmomarques](https://github.com/telmomarques) on peut récuperer le flux vidéo de la caméra.
+Grâce à un delicieux hack de [telmomarques](https://github.com/telmomarques) on peut récuperer le flux vidéo de la caméra.
 
 - suivre https://github.com/telmomarques/xiaomi-360-1080p-hacks
 - suivre https://github.com/telmomarques/xiaomi-360-1080p-video-stream

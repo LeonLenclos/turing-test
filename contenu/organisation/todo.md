@@ -14,57 +14,28 @@ Liste des choses à faire avec leur degré de prioritée. Les tâches sont suppr
 
 #### Internet
 - Batteries usb avec on/of (si distribué en Europe)
-- Monotron
-- RAJA
-    - Carton standards fin (foot, final fab, etc.) = 10 - reserve
-    - Carton standard épais  = 10
-    - Cartons final Léon 220x370x560 = 5
-    - Cartons final Beb (et table morpion) 170x230x300 = 5
-    - Scotcheuse
-    - Scotch carton
-- Aimants ronds (pour tulle et écran) x 25 ET carrés (pour fléchettes) x 25
-- Papier craft
-- Gotronic
-    - Caisse deuxième VP
-    - Caisse Micro
-    - Valise batteries
-    - Connectreurs 4 broches pour capteur Echo.
+- raspberry
 
 #### Courses Graulhet
  - Clés Alen
  - Barnier
- - Petits fusibles electroniques pour Lucy
- - Roulettes
 
 #### Courses Paris
  - Clavier Alan (~100€)
- - Caméra IP Xiaomi 360
 
 ### Récuperer à Graulhet
 - Mousse autocollante
-- Petit pied du VP
-- Stock de piles rechargeables + chargeur
-- valise de conférence
-- Rétroviseur sucide mimi
-- Lame scie sauteuse
-- Tube PVC pour grand écran (1m50?)
+- Encore du cable RJ45 (Core <-> VP A)
 
 ### T.A.F Avant Auch
 
 - (!!!) Courriel recommandé université de Caen (kali) 
-
-- (!!!) Klan : Mettre des roue
 - Souder piezzo pour le tableau
 - Trouver micro pince pour paper board
-- Hack Monotron
-- mediator JIMI
-- (!!!) Caro : lester
-- (!!!) Caro : Remplacer col de signe par tige filetée
-- (!!!) Caro : Setup camera IP
-- (!!!) Caro : Platine caméra
-- Mimi : Changer systeme fixation hélice
 
-- (!!!) Optimiser Ognon
+- mediator JIMI
+
+
 - (!!) Echo : Plaque d'embase
 - (!!) Echo : réparer
 - Echo : Capteur remplacable
@@ -72,13 +43,10 @@ Liste des choses à faire avec leur degré de prioritée. Les tâches sont suppr
 - Léon : Ramener des costumes
 - Fabien : Ramener des costumes
 
-- Hachoir Soop + raccourcir broche.
+- raccourcir broche.
 - Se renseigner pour inifuger cartons
 - Étudier doc batterie
 - Bout de tapis de danse
-
-- (!!!) 2x Jack de 4m (3m utiles) pour pédale Lucy et Echo
-- Rallonger 1 jack piezzo
 
 #### Modifications pure Data
 
@@ -92,7 +60,6 @@ Liste des choses à faire avec leur degré de prioritée. Les tâches sont suppr
 
 
 - Tout passer en batteries standard Lion
-- (!!) Alan : Protocole SOS
 - (!!) Alan : régler problème son
 
 - (!) Fixer Lucy (avec du scratch ou du double face) sur la plaque jaune découpée aux dimensions du carton.

@@ -1,11 +1,11 @@
 Intentions
 ==========
 
-Ici, des notes d'intentions. Comment on voit les choses, comment on veux que ça soit et pourquoi.
+Ici, des notes d'intentions. Comment on voit les choses, comment on veut que ça soit et pourquoi.
 
 - [Mise en scène](mise-en-scene).
 
-    ![warning-old](/ressources/icons/warning-old.png) Certains de ces textes peuvent être obsolètes. La plus-part a été écrite au tout début de la création. ![warning-old](/ressources/icons/warning-old.png)
+    ![warning-old](/ressources/icons/warning-old.png) Certains de ces textes peuvent être obsolètes. La plupart ont été écrits au tout début de la création. ![warning-old](/ressources/icons/warning-old.png)
 
 - [Méthode de travail](methode-de-travail.md), Comment nous écrivons.
 - [Présentation du projet de création](presentation-du-projet-de-creation.md), intentions, motivations, hypothèses de recherche.

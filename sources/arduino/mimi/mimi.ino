@@ -16,6 +16,7 @@ const long diminuer_vitesse = 284134260; //bouton <<
 const long init_Esc = 284158740; // bouton Standby
 const long demarrer_a_fond = 284129670; // bouton 9
 const long demarrer_suicide = 284141910; // bouton 1
+const long demarrer_beug = 284099580; // bouton sleep
 
 
 //////////// PINS
@@ -53,13 +54,25 @@ void eteindre_moteur(){
 void suicide(){
   Serial.println(F("suicide"));
   moteur_On = true;
-  changer_vitesse_moteur(100);
+  changer_vitesse_moteur(105);
   delay(500);
-  changer_vitesse_moteur(110);
-  delay(500);
-  changer_vitesse_moteur(vitesse_Max);
-  delay(temps_Suicide);
   eteindre_moteur();
+  delay(500);
+  
+   }
+
+void beug(){
+  Serial.println(F("beug"));
+  for (int i = 0; i <= 2; i++) {
+    moteur_On = true;
+    changer_vitesse_moteur(95);
+    delay(500);
+    changer_vitesse_moteur(110);
+    delay(500);
+    moteur_On = false;
+    eteindre_moteur();
+    delay(500);
+    }
    }
 
 //////////////////// SETUP
@@ -120,6 +133,10 @@ void loop() {
         myservo.write(vitesse_Max);
         Serial.println(vitesse_Max);
         }
+      }
+
+      if (results.value == demarrer_beug) {
+      beug();
       }
 
       if (results.value == demarrer_suicide) {
