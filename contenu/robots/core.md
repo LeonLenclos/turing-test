@@ -71,6 +71,7 @@ Voilà le schéma du réseau :
 - Un générateur d'horloge 
 - Un sequenceur trig
 - Un raspberry qui dispatche du OSC sur du Trig et vice versa
+- Un module Switch pour les trig (switch by RYO), situé au dos de Core
 
 #### Patch du module maison
 
