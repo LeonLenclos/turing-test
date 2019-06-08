@@ -64,7 +64,7 @@ void setup() {
   musicPlayer.setVolume(0, 0);
   
   // init pins
-  //musicPlayer.GPIO_pinMode(TRIGPIN, INPUT);
+  musicPlayer.GPIO_pinMode(TRIGPIN, INPUT);
   pinMode(LEDPIN, OUTPUT);
   
   // La LED clignote 2 fois à l'initialisation

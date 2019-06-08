@@ -24,7 +24,8 @@ Accueil en résidence :
 - Quai des savoir - Toulouse (31)
 - 104 - Paris (75)
 - MJC Rodez (12)
-- Théâtre d'Auch (32)
+- CIRCa
+ (32)
 - MIMA - Mirepoix (09)
 - Espace Bonnefoy - Toulouse (31)
 - Théâtre des Mazades - Toulouse (31)
