@@ -2,9 +2,9 @@
 
 ### dimensions
 
-affiche = 400mm x 600mm
-fond perdu = 5mm
-total = 410mm x 610mm
+- affiche = 400mm x 600mm
+- fond perdu = 5mm
+- total = 410mm x 610mm
 
 ### exporter en pdf
 
