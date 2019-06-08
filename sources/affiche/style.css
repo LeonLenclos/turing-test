@@ -1,0 +1,69 @@
+html, body {
+    padding: 0;     
+    margin: 0;
+    width: 400mm;
+    height: 600mm;
+
+}
+#affiche{
+    margin:0;
+    position: relative;
+}
+
+#affiche {
+    
+    overflow: hidden;
+    background: #fff;
+    font-family: mono;
+    padding:5mm;
+
+}
+#corps {
+    position: relative;
+    height: 90%;
+    margin:-5mm;
+    background: #aaa;
+}
+#visu{
+    width:100%;
+}
+#pied{
+    width:calc(100% - 20mm);
+    position: absolute;
+    bottom: 10mm;
+    left:10mm;
+}
+#infos p {
+    margin:2mm;
+}
+#soustitre {
+    font-style: italic;
+}
+#infos {
+    position:absolute;
+    bottom: 0;
+    color:white;
+    font-family: mono;
+    font-size: 18pt;
+    margin: 20mm;
+}
+#logos{
+    text-align: center;
+    margin-top: 2mm;
+}
+.cat {
+    font-size: 12pt;
+    text-transform: uppercase;
+    margin: 1mm 7mm;
+    display: inline-block;
+}
+.catname{
+    text-align: left;
+}
+.logos-group{
+    /*border-top:0.5mm solid black;*/
+}
+.logo {
+    height: 12mm;
+    margin:2mm;
+}
