@@ -11,5 +11,5 @@
 https://wkhtmltopdf.org/downloads.html
 
 ```
-wkhtmltopdf -T 0mm -B 0mm -L 0mm -R 0mm --page-width 410mm --page-height 610mm --disable-smart-shrinking http://turing-test.cienokill.fr/sources/affiche/ affiche-turing-test.pdf
+wkhtmltopdf -T 0mm -B 0mm -L 0mm -R 0mm --page-width 410mm --page-height 610mm --disable-smart-shrinking http://turing-test.cienokill.fr/sources/affiche/index.html affiche-turing-test.pdf
 ```
