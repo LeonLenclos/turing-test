@@ -15,19 +15,6 @@ Liste des choses à faire avec leur degré de prioritée. Les tâches sont suppr
 #### Internet
 - raspberry spare
 
-##### THOMANN:
-
-- 8 PAR 36 F1 
-https://www.thomann.de/fr/stairville_par36_pinspotset_schwarz.htm
-- 8 LAMPES GE 
-https://www.thomann.de/fr/ge_4515.htm
-- 1 COLLIER 
-https://www.thomann.de/fr/doughty_t21101.htm
-- 1 EMBASE POUR PIED 
-https://www.thomann.de/fr/stairville_ts_1_light_adapter.htm
-- 2 DI NEUTRIK 
-- 8 XLR male et femelle 4pts pour alim led
-
 ##### FERAILLE:
 Pour les led:
 - 4 x 1,20m U ACIER 20X10MM
@@ -35,6 +22,8 @@ Pour les F1
 - 2 barres de 90 cm de haut
 
 ### Cablage
+
+cable acheté, à souder.
 
 - micro établi 13 m
 - vox Alan 20 m
