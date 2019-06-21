@@ -6,6 +6,7 @@ Core est un robot chef d'orchestre. Il donne le tempo à toutes les autres créa
 
 ![CORE V1](/ressources/photos/CORE V1.jpg)
 
+
 Le cerveau de Core
 
 
