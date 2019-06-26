@@ -12,9 +12,6 @@ Liste des choses à faire avec leur degré de prioritée. Les tâches sont suppr
 
 ### Courses
 
-#### Internet
-- raspberry spare
-
 ##### FERAILLE:
 Pour les led:
 - 4 x 1,20m U ACIER 20X10MM
@@ -47,19 +44,14 @@ BOITE MICRO Bebert à mima
 
 - (!!) Barre led pour le dessous des tables
 - (!!) REFLECHIR A UN CABLAGE POUR OTTO JUSQU’A DI
-
-
 - (!!!) Courriel recommandé université de Caen (kali) 
-- Echo : Plaque d'embase
-- Echo : réparer
-- raccourcir broche.
+- Echo : fusion echo/haut parleur
 - Tout passer en batteries standard Lion
 - (!) Caisse d'Alan + rangement accessoires.
 - Prendre le control de MVO Chatbot (entrainement)
 - Faire un Klan qui marche
 - Foot rajouter une led
 - Foot rajouter un piezzo
-- Echo : déporter alim
 - Robots pas fait :
     - Toto
     - Dedo
@@ -71,4 +63,4 @@ BOITE MICRO Bebert à mima
         - finir d'agrandir les tissus à cour
 
 ### Divers
-- (!) Rectifier dossiers puis imprimer
+- (!) Faire une com pour MIMA
