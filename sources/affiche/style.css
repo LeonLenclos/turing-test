@@ -1,9 +1,8 @@
 html, body {
     padding: 0;     
     margin: 0;
-    width: 400mm;
-    height: 600mm;
-
+    width: 420mm;  /* TAILLE */
+    height: 594mm;  /* TAILLE */
 }
 #affiche{
     margin:0;
@@ -11,17 +10,18 @@ html, body {
 }
 
 #affiche {
-    
+    /* useless ???
     overflow: hidden;
+    */
     background: #fff;
     font-family: mono;
-    padding:5mm;
+    padding:1mm;  /* FOND PERDU */
 
 }
 #corps {
     position: relative;
     height: 90%;
-    margin:-5mm;
+    margin:-1mm; /* FOND PERDU */
     background: #aaa;
 }
 #visu{
@@ -30,7 +30,7 @@ html, body {
 #pied{
     width:calc(100% - 20mm);
     position: absolute;
-    bottom: 10mm;
+    bottom: 7mm;
     left:10mm;
 }
 #infos p {
@@ -54,7 +54,7 @@ html, body {
 .cat {
     font-size: 12pt;
     text-transform: uppercase;
-    margin: 1mm 7mm;
+    margin: 1mm 12.5mm;
     display: inline-block;
 }
 .catname{
