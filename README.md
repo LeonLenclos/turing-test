@@ -11,6 +11,10 @@ Fabien Carbo-Gil, Bertrand Lenclos et Léon Lenclos, [Cie Nokill](http://cienoki
 
 ---------------------------------------------------
 
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/334768743?color=ffffff&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+---------------------------------------------------
+
 Le spectacle est actuellement en cours de création. Nous avons décidé de rendre le processus de création ouvert. Vous trouverez ici les textes que nous sommes en train d'écrire, les idées qui germent, le spectacle qui jours après jours prend forme.
 
 ![warning-wip](/ressources/icons/warning-wip.png) Travail en cours. ![warning-wip](/ressources/icons/warning-wip.png)
@@ -30,3 +34,8 @@ et aussi
 -  [![organisation](/ressources/icons/organisation.png)L'organisation de la création](contenu/organisation)
 
 <small>L'ensemble de ces textes est placé sous [License Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Bonne lecture.</small>
+
+---------------------------------------------------
+
+<iframe src="../sources/affiche/"></iframe>
+- [Cliquez ici pour l'affiche en pdf](sources/affiche/affiche.pdf)
