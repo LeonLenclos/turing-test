@@ -1,5 +1,7 @@
 <p class="github-pages-ignore">Vous pouvez retrouver le contenu de ce dépôt à cette adresse : <a href="http://turing-test.cienokill.fr">turing-test.cienokill.fr</a> pour une lecture plus agréable</p>
 
+<img id="visu" alt="le visuel de l'affiche" src="/sources/affiche/visu.png">
+
 Turing Test
 ===========
 
@@ -37,4 +39,3 @@ et aussi
 
 ---------------------------------------------------
 
-- ![l'affiche en pdf](sources/affiche/affiche.pdf)
