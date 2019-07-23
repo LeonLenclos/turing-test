@@ -22,7 +22,7 @@ Le spectacle est actuellement en cours de création. Nous avons décidé de rend
 Sommaire
 --------
 
--  [![dossier](/ressources/icons/dossier.png)Le dossier de création](dossier/dossier)
+-  [![dossier](/ressources/icons/dossier.png)Le dossier de création](dossier/dossier.pdf)
 -  [![robot](/ressources/icons/robot.png)La liste des robots du laboratoire](contenu/robots)
 -  [![intentions](/ressources/icons/intentions.png)Des notes d'intentions](contenu/intentions)
 -  [![textes](/ressources/icons/textes.png)Des textes à lire, textes théoriques, petites histoires](contenu/textes)
