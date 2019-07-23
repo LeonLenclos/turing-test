@@ -37,5 +37,4 @@ et aussi
 
 ---------------------------------------------------
 
-<iframe src="../sources/affiche/"></iframe>
-- [Cliquez ici pour l'affiche en pdf](sources/affiche/affiche.pdf)
+- ![l'affiche en pdf](sources/affiche/affiche.pdf)
