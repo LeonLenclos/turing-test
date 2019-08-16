@@ -1,6 +1,9 @@
 Notes Techniques
 ================
 
+    Sauf necessité extrême, aucune mise à jour de robot ne devra être faite le jour d'une représentation.
+    (Loi n°3 de La cellule risques du GRIM)
+
 ## Les cables <3
 
 indentification des cables : `(longueur, couleur du cable, (+couleur du repère))`
@@ -11,12 +14,23 @@ Les longs cables passent si possible par le haut.
 
 - Audio = XLR (+ DI + raccord minijack/jack)
     - Console Sonosax  <--> MS20 (12m, jaune (+bleu))
-    - Console Sonosax  <--> Godel R (12m, jaune (+rouge))
     - Console Sonosax  <--> Godel L (12m, jaune (+vert))
-    - Console Sonosax  <--> micro fab (12m, rouge (+jaune))
-    - Console Sonosax  <--> micro leon (10m, rouge (+vert))
-    - Console Sonosax  <--> reverb metro (15m, rouge (+noir))
-    - Console Sonosax  <--> boite à rythme (15m, jaune (+noir))
+    - Multipaire  <--> micro leon (10m, rouge (+vert))
+    - Multipaire  <--> reverb metro (15m, rouge (+noir))
+    - Multipaire  <--> boite à rythme (15m, jaune (+noir))
+    - Multipaire  <--> tt303 (?)
+    - Multipaire  <--> Alan vox (?)
+    - Multipaire  <--> Alan key (?)
+    - Multipaire  <--> Établi (?)
+    - Multipaire  <--> Klan (?)
+    - Multipaire  <--> Cube Jimi (?)
+    - Multipaire  <--> paper board (?)
+    - Multipaire  <--> Echo (?)
+    - Multipaire  <--> Café (?)
+    - Multipaire  <--> Cube Matt (?)
+    - Multipaire  <--> Micro Matt (?)
+    - Reverb  <--> Jouet (?)
+    - ...
 - Ethernet = RJ45
     - Core <--> Alan (25m, blanc)
     - Core <--> Lucy (15m, vert)
@@ -25,15 +39,14 @@ Les longs cables passent si possible par le haut.
     - Core <--> Ail (10m, bleu)
 - Trig/Gate/CV = MiniJack
     - Core <--> Moduber
-    - godel <--> Moduber (4m)
-    - Core <--> SQ1 (15m, noir (+jaune))    
+    - Core <--> Fab (15m, noir (+jaune))    
     - Core <--> Echo (3m, noir (+vert))
     - Core <--> Jimi (14m, noir (+bleu))
     - Core <--> Foot (14m, noir (+rouge))
-    - Core <--> Dedo 
 
 ### Cables courts (Standard Grim)
 
+NON EXHAUSTIF
 
 - Audio = XLR (+ DI + raccord minijack/jack)
     - Console Sonosax <--> Moduber stero 1 et 2 (2m50, rouge)
@@ -49,17 +62,17 @@ Plusieurs options possibles pour l'alimentation des robots :
 
 ####  Alimentation secteur. 
 
-- Idéal si les robots restent en place (Lucy, Alan, Core, etc)
+- Pour robots qui restent en place (Lucy, Alan, Core, etc)
     
 ####  LIPO 
 
-- Déliat, fragile, dangeureux mais puissant
-- Connecteurs CSIX2 (+ = carré / - = rond / femelle = vers batterie)
+- Délicat, fragile, dangeureux mais puissant (pour Mimi)
+- Connecteurs XLR 4 broches (+ = 4 / - = 1 / femelle = vers batterie)
          
 ####  LI-ion
 
 - peut=être moins critique que LIPO en termes de de fragilité
-- format standard.
+- Connecteurs XLR 4 broches (+ = 4 / - = 1 / femelle = vers batterie)
 
 #### Piles rechargeables
 
@@ -70,6 +83,7 @@ Plusieurs options possibles pour l'alimentation des robots :
 - Bon rapport energie/prix 
 - Deux gros défauts : Limité à 5V et s'etteind innopinément (voir ci-dessous)
 
+<small>
 Ça a marché avec certains arduino mais ça ne semble pas très fiable. Problème : ça s'eteind
 tout seul quand cela détecte une trop faible consomation.
 
@@ -79,7 +93,7 @@ tout seul quand cela détecte une trop faible consomation.
 
 1- Hackage : faire consommer à la batterie ce qu'il faut pour pas qu'elle ne s'etteigne ([exemple](https://hackaday.com/2013/11/08/tricking-a-usb-power-supply/))
 2- Achat : trouver des batteries avec un mode 'always on' ([exemple](https://www.amazon.com/gp/product/B00ME3ZH7C/ref=oh_aui_detailpage_o09_s00?ie=UTF8&psc=1))
-
+</small>
 
 ## arduino, cv et gate.
 
@@ -133,12 +147,12 @@ Clock out
 ## bass bot tt 303
 [manuel](https://medias.audiofanzine.com/files/tt303mk2-481402.pdf)
 
-## mesures minimales Scene
+## mesures miniminimales plateau
 
 Mesures prises à Bessines :
 - Profondeur minimale : 6m
 - Ouverture minimale : 7,75m
-- Hauteur minimale : 3m 
+- Hauteur minimale : 3,50m 
 
 ## Réseau
 
@@ -153,7 +167,7 @@ Les machines connectées au réseau :
 ## Ail
 
 Le rpi qui diffuse ognon :
-- est mis en vertical grace à une ligne dans `/boot/config.txt` (https://www.raspberrypi.org/forums/viewtopic.php?t=120793)
+- display est mis en vertical grace à une ligne dans `/boot/config.txt` (https://www.raspberrypi.org/forums/viewtopic.php?t=120793)
 - lance chrome au demarrage grace au contenu de `/home/pi/.config/lxsession/LXDE-pi/autostart` https://raspberrypi.stackexchange.com/questions/40631/setting-up-a-kiosk-with-chromium
  
 
@@ -161,16 +175,9 @@ Le rpi qui diffuse ognon :
 
 ### Jimi
 
-Mi bémole (E♭)
+Mi bémol (E♭)
 
 ### Cube rouge
-
-Entrée micro-line (Porte) : 
-- Basses 10
-- Treble 5
-- Volume 10
-- Piezzo Klan
-- Piezzo Porte (Delay 4.8)
 
 Entrée guitarre (Jimi) :
 - Volume 5
@@ -182,20 +189,15 @@ Entrée guitarre (Jimi) :
 
 ### Cube noir
 
-Entrée micro-line (Vocoder)
-- Basse,Aigue 5,5
+Entrée micro-line (Matt)
+- Basse,Aigue 0, 10
 - Delay 0
 - Volume ?
 
-Entrée guitarre (ECHO)
-- Basse,medium,aigue 5,5,5
-- EFX 0
-- Delay 0
-- Ampli Mic 10
-- Gain 0
-- Volume ?
 
 ### V256 (vocoder)
+
+PRESET REFLEX TUNE
 
 - Bend 10
 - Bands 8
@@ -204,7 +206,7 @@ Entrée guitarre (ECHO)
 - Pitch 10
 - Reflextune
 
-### Minotron
+### Monotron
 
 - Game 0 (chromatique)
 - VCO1 0/7
