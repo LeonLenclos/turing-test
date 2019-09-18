@@ -502,4 +502,23 @@ Resitution le 23 à 19h.
 🔽 🔽 🔽 🔽 🔽 🔽 **Futur** 🔽 🔽 🔽 🔽 🔽 🔽
 
 
+----------------------------------------------------------
+
+#### Espace Bonnefoy - Toulouse (31) - du 23 au 27 septembre 2019. Reprise.
+
+Fabien n'arrivera que le 25 à cette résidence, on privilégiera les 25, 26 et 27 pour le travail au plateau.
+Le 27 à 17h sortie de résidence avec des chercheurs de l'IRIT à laquelle sont invités leurs partenaires institutionnels.
+
+#### Objectifs
+
+	- Répétitions pour avoir le spectacle bien en main
+	- Optimisation du montage démontage : Echo et Jimi sont rangés de manière à ne pas nécessiter de montage lorsqu'on 	les sort de leurs boîtes
+	- Exploration de nouvelles pistes au plateau : interventions de Bebert et fabien pendant l'acte 2, voix of au début de l'acte 1
+	- Stabilisation de la musique, réduire la place de l'improvisation et mettre en place quelques éléments musicaux qui marchent et sur lesquels on peut s'appuyer
+	- Documentation (révision fiche robots)
+	- Préparation sortie de résidence
+
+#### Résultats
+
+
 [Retour à l'organisation de la création](.)
