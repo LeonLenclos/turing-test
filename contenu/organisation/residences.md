@@ -515,7 +515,7 @@ Le 27 à 17h sortie de résidence avec des chercheurs de l'IRIT à laquelle sont
 - Optimisation du montage démontage : Echo et Jimi sont rangés de manière à ne pas nécessiter de montage lorsqu'on 	les sort de leurs boîtes
 - Improvement Robots et décor (trouver solution pour augmenter volume de foot, avoir un vrai interrupteur pour la lumière, bouton trig pour libérer le sq1)
 - Exploration de nouvelles pistes au plateau : interventions de Bebert et fabien pendant l'acte 2, voix of au début de l'acte 1
-- Stabilisation de la musique, réduire la place de l'improvisation et mettre en place quelques éléments musicaux qui marchent et sur lesquels on peut s'appuyer
+- Stabilisation de la musique, réduire la place de l'improvisation et mettre en place quelques éléments musicaux qui marchent et sur lesquels on peut s'appuyer. Régler problème son sur Pure Data
 - Documentation (révision fiche robots)
 - Préparation sortie de résidence
 
