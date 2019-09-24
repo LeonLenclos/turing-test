@@ -49,13 +49,16 @@ debug_table = [
         
 grim_table = [
     Directive(1, 'osc://godel.local:4242/clock', []),
-    Directive(1, 'osc://ottomann.local:50460/control/navigator/run', ['default']),
+#    Directive(1, 'osc://ottomann.local:50460/control/navigator/run', ['default']),
 
     Directive(2, 'osc://lucy.local:4242/dance', []),
 
-    Directive(3, 'http://alan.local:8000/talk', {'msg': 'dis lalala', 'conversation_id':-1}),
+    Directive(3, 'http://alan.local:8000/talk', {'msg': 'dis laaaaa', 'conversation_id':-1}, ClockDiv(4,0)),
+    Directive(3, 'http://alan.local:8000/talk', {'msg': 'dis alala', 'conversation_id':-1}, ClockDiv(4,1)),
+    Directive(3, 'http://alan.local:8000/talk', {'msg': 'dis lalaléla', 'conversation_id':-1}, ClockDiv(4,2)),
+    Directive(3, 'http://alan.local:8000/talk', {'msg': 'dis alala', 'conversation_id':-1}, ClockDiv(4,3)),
 
-    Directive(4, 'http://alan.local:8000/talk_alone', {'conversation_id':-1}, ClockDiv(4)),
+    Directive(4, 'http://alan.local:8000/talk_alone', {'conversation_id':-1}, ClockDiv(2)),
 ]
 
 dispatch_table = grim_table
