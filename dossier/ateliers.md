@@ -10,6 +10,17 @@ Contexte
 --------
 
 Turing Test est un spectacle de Fabien Carbo-Gil, Léon Lenclos et Bertrand Lenclos (cie Nokill) qui met en scène trois chercheurs et des dizaines de robots dans un laboratoire de recherche en intelligence machine. Un de ces robots, Alan, est un chatbot : Une intelligence artificielle conçue pour parler avec des humains. Une partie de ce robot a été programmé avec un langage informatique qui s'appelle RiveScript, spécialement conçu pour créer des chatbots. Nous proposons à la classe de s'approprier cet outil pour créer collectivement un chatbot unique.
+Je suis 
+Spécifications techniques
+---------------
+
+- durée minimum : 2×3h
+- effectif maximum : 40 personnes
+- matériel nécessaire :
+    - un ordi pour 2 (ou 3) avec connexion internet.
+    - un vidéo projecteur.
+    - un tableau.
+
 
 Déroulé
 -------
