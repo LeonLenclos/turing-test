@@ -12,34 +12,24 @@ Liste des choses à faire avec leur degré de prioritée. Les tâches sont suppr
 
 ### Courses
 
-#### Internet
-- Batteries usb avec on/of (si distribué en Europe)
-- raspberry
+### Cablage
 
-#### Courses Graulhet
- - Clés Alen
- - Barnier
-
-#### Courses Paris
- - Clavier Alan (~100€)
-#### Modifications pure Data
-
-- Recherche au niveau du timbre pour le son aigu pour plus de variations
-- Faire un second son plus épuré (type cloche, synthèse FM, changement filtre en fction du pitch et de l'enveloppe-->Low pass gate)
+- Micro fab
+- prolongation du jouet de léon que je n'ai pas calculé à voir si on récupère des cables qui ne servent pas ...
 
 ### T.A.F
 
+
+- (!!) REFLECHIR A UN CABLAGE POUR FOOT JUSQU’A DI
 - (!!!) Courriel recommandé université de Caen (kali) 
-- Echo : Plaque d'embase
-- Echo : réparer
-- raccourcir broche.
+- Echo : fusion echo/haut parleur
 - Tout passer en batteries standard Lion
 - (!) Caisse d'Alan + rangement accessoires.
 - Prendre le control de MVO Chatbot (entrainement)
 - Faire un Klan qui marche
 - Foot rajouter une led
 - Foot rajouter un piezzo
-- Echo : déporter alim
+- Foot amplification
 - Robots pas fait :
     - Toto
     - Dedo
@@ -48,7 +38,7 @@ Liste des choses à faire avec leur degré de prioritée. Les tâches sont suppr
 - Décors :
     - Finir les finitions des tissus.
         - ajouter des aimants a certains endroits
-        - finir d'agrandir les tissus à cour
-
-### Divers
-- (!) Rectifier dossiers puis imprimer
+        - finir d'agrandir / refaire les tissus à cour
+    - Percer losanges dans lampadaires 6, 7 et 8, 10
+    - cable + inter néon
+- Boules Turc

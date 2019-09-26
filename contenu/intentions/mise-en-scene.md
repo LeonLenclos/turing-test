@@ -1,7 +1,9 @@
 Mise en scène
 =============
 
-*Ce texte décrit la mise en scène telle qu'elle est envisagée dès avril 19 (2 mois avant la première à Graines de Rue)*
+Ce texte décrit les principales intentions de mise en scène
+
+*(envisagées dès avril 19 (2 mois avant la première à Graines de Rue))*
 
 L'espace est divisé en deux :
 - L'interieur du Labo
@@ -28,21 +30,19 @@ Les scènes sont souvent plus contemplatives que narratives avec un minimum de d
 
 Un ou deux commédiens peuvent être spectateurs d'une scène joué par un ou deux autres.
 
-Peu d'entrée/sortie du labo.
+Pas d'entrée/sortie du labo.
 
 L'attention du spectateur est souvent sur une scène "au premier plan". Mais peut être dérrangée par un évennement dans "la profondeur".
 
 ## acte 2
 
-On produit un film avec principalement trois elements :
+On produit un "film" avec principalement trois elements :
 - Musique/sons
-- Textes lus en voix off
-- Dessins (fixes et animés)
+- Textes dit en voix off
+- Dessins animés
 
 ## acte 3
 
 Ambiance festive.
 
 Chorégraphie mélangeant humains et ronots.
-
-Garder un maximum de surprise sur le fonctionnement des robots pour cet acte (ne pas dévoiler trop de robots dans l'acte 1)

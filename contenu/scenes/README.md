@@ -1,6 +1,9 @@
 Déroulé restitution
 ===================
 
+- [Déroulé du spectacle](deroule.md)
+
+
 Indications sommaires pour se souvenir des propositions de continuités expérimentées en sortie de résidence
 
 - [Déroulé MIXART MYRYS - 14/4/2018](deroule_mixart.md)

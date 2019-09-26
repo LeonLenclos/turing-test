@@ -1,12 +1,6 @@
 # Résidences
 
-## Type
-
-Organisation
-
-## Résumé
-
-Les différentes résidences prévues et leur contenu
+Les différentes résidences 
 
 ## Planning résidence
 
@@ -418,19 +412,15 @@ Vendredi : retour
 
 #### Bilan moral 
 
-- Test de 0.05% des plats par l'équipe
+- Test de 0.05% des plats du divan par l'équipe (c'est beaucoup)
 - Nette différence entre le premier et le dernier fillage
 - Légère fatigue, rhumes à répétition, compensation par citrobiotic
 
+#### Notes
+
+**Rencontre de Zidane à la pizzeria des remparts !!**
+
 ----------------------------------------------------------
-
-🔼 🔼 🔼 🔼 🔼 🔼 **Passé** 🔼 🔼 🔼 🔼 🔼 🔼
-
-
--------------------------------------------------------------
-
-
-🔽 🔽 🔽 🔽 🔽 🔽 **Futur** 🔽 🔽 🔽 🔽 🔽 🔽
 
 ##### Relâche !!
 
@@ -438,24 +428,28 @@ Vendredi : retour
 
 ### Théâtre d'Auch (32) du 13 au 24 mai 2019. restitutions le 23 mai 2019.
 
-#### Objectifs
+#### Déroulé
 
 Première semaine : Regard exterieur avec Laurent.
 
-Deuxième semaine : Création Lumière avec Francis.
+Deuxième semaine : Création lumière, son et Caro avec Francis.
 
 Resitution le 23 à 19h.
 
-#### Résultats
+#### Bilan
+
+- Gros progrès grâce à Laurent
+- Sortie de résidence chouette 
 
 ----------------------------------------------------------
 
-### Première : Graines de rue - Bessines (87) - du 27 mai au 10 juin Théâtre Gérard Philipe à Bessines (87)
+### Avant-Première : Graines de rue - Bessines (87) - du 27 mai au 10 juin Théâtre Gérard Philipe à Bessines (87)
 
 
 #### Objectifs
 
 - Dernières finitions 
+- Regard exterieur Juliette
 - Résitution des ateliers
 - Première scolaire le 6 juin
 - Première le 7 juin
@@ -484,7 +478,12 @@ Resitution le 23 à 19h.
     4- Alan vs le gagnant
  
  
-#### Résultats
+
+#### Bilan
+
+- Gros progrès grâce à Juliette
+- avant-premières chouettes
+
 
 ----------------------------------------------------------
 
@@ -493,7 +492,34 @@ Resitution le 23 à 19h.
 - Reprise la semaine
 - Premières le week-end (2, 3, 4)
 
----
+
+🔼 🔼 🔼 🔼 🔼 🔼 **Passé** 🔼 🔼 🔼 🔼 🔼 🔼
+
+
+-------------------------------------------------------------
+
+
+🔽 🔽 🔽 🔽 🔽 🔽 **Futur** 🔽 🔽 🔽 🔽 🔽 🔽
+
+
+----------------------------------------------------------
+
+#### Espace Bonnefoy - Toulouse (31) - du 23 au 27 septembre 2019. Reprise.
+
+Fabien n'arrivera que le 25 à cette résidence, on privilégiera les 25, 26 et 27 pour le travail au plateau.
+Le 27 à 17h sortie de résidence avec des chercheurs de l'IRIT à laquelle sont invités leurs partenaires institutionnels.
+
+#### Objectifs
+
+- Répétitions pour avoir le spectacle bien en main
+- Optimisation du montage démontage : Echo et Jimi sont rangés de manière à ne pas nécessiter de montage lorsqu'on 	les sort de leurs boîtes
+- Improvement Robots et décor (trouver solution pour augmenter volume de foot, avoir un vrai interrupteur pour la lumière, bouton trig pour libérer le sq1)
+- Exploration de nouvelles pistes au plateau : interventions de Bebert et fabien pendant l'acte 2, voix of au début de l'acte 1
+- Stabilisation de la musique, réduire la place de l'improvisation et mettre en place quelques éléments musicaux qui marchent et sur lesquels on peut s'appuyer. Régler problème son sur Pure Data
+- Documentation (révision fiche robots)
+- Préparation sortie de résidence
+
+#### Résultats
 
 
 [Retour à l'organisation de la création](.)

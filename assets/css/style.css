@@ -81,6 +81,12 @@ img {
  max-width:90%
 }
 
+img#visu {
+   background:none;
+ border:none;
+
+}
+
 img[src*="ressources/icons"] {
   background: none;
   border :none;

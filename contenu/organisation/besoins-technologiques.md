@@ -1,7 +1,7 @@
 Besoins technologiques
 ======================
 
-Présentation des besoins technologiques clairement identifiés. D'autres apparaitront au fil des résidences.
+**Présentation des besoins technologiques identifiés avant le début de la création. Certains ont étés abandonnés, d'autres sont apparus au fil des résidences.**
 
 Alan
 ---------
