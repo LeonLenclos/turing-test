@@ -537,7 +537,7 @@ Le 27 à 17h sortie de résidence avec des chercheurs de l'IRIT à laquelle sont
 - Optimisation du montage démontage : Echo et Jimi sont rangés de manière à ne pas nécessiter de montage lorsqu'on les sort de leurs boîtes
 - Répétitions
 - Optimisation du montage démontage : Echo et Jimi sont rangés de manière à ne pas nécessiter de montage lorsqu'on les sort de leurs boîtes
-- COnstruction de nouveaux robots: Klan V2 et Dedo
+- COnstruction de nouveaux robots: Klan V2, Toto et Dedo
 - Documentation (révision fiche robots)
 - Préparation sortie de résidence
 
