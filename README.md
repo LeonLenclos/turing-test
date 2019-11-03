@@ -17,7 +17,7 @@ Fabien Carbo-Gil, Bertrand Lenclos et Léon Lenclos, [Cie Nokill](http://cienoki
 
 ---------------------------------------------------
 
-Le spectacle est actuellement en cours de création. Nous avons décidé de rendre le processus de création ouvert. Vous trouverez ici les textes que nous sommes en train d'écrire, les idées qui germent, le spectacle qui jours après jours prend forme.
+Vous pouvez retrouver les dates de Turing Test [ici](http://cienokill.fr/dates). Le spectacle contiue d'évoluer et la création se poursuit, notamment avec la conception et la fabrication de nouveaux robots. Nous avons très tôt décidés de rendre le processus de création ouvert. Vous trouverez donc ici un ensemble de textes, d'idées, de plans et de tout ce qui témoigne de l'évolution passée et future de Turing Test.
 
 ![warning-wip](/ressources/icons/warning-wip.png) Travail en cours. ![warning-wip](/ressources/icons/warning-wip.png)
 
