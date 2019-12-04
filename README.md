@@ -9,7 +9,7 @@ Turing Test est une création théâtrale qui traite du rapport que l'humain ent
 
 *Dans un laboratoire de recherche en intelligence machine, trois chercheurs developpent une créature artificielle capable de passer le test de Turing, une machine impossible à differencier d'un humain. Une plongée dans l'imaginaire et le quotidien de ce laboratoire foisonnant de robots en tout genre et d'objets détournés.*
 
-Fabien Carbo-Gil, Bertrand Lenclos et Léon Lenclos, [Cie Nokill](http://cienokill.fr).
+Fabien Banief, Bertrand Lenclos et Léon Lenclos, [Cie Nokill](http://cienokill.fr).
 
 ---------------------------------------------------
 
