@@ -2,7 +2,7 @@
 
 ## À l'origine
 
-En juin 2017, à l’Usinotopie, Léon Lenclos, Fabien Carbo-Gil et Bertrand Lenclos de la compagnie Nokill se sont retrouvés autour d’un dispositif scénique combinant dessin improvisé projeté sur grand écran et musique électronique.
+En juin 2017, à l’Usinotopie, Léon Lenclos, Fabien Banief et Bertrand Lenclos de la compagnie Nokill se sont retrouvés autour d’un dispositif scénique combinant dessin improvisé projeté sur grand écran et musique électronique.
 
 De cette première performance publique et d’un intérêt commun pour les machines, les mathématiques et l’informatique, est né le projet Turing Test.
 
