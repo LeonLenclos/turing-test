@@ -931,7 +931,27 @@ Dépose Léon à Toulouse.
 - Reprise la semaine
 - Premières le week-end (2, 3, 4)
 
----
+----------------------------------------------------------
+
+- Odyssud - Théatre de St Expère - Blagnac (31) - du 6 au 10 janvier 2020. Reprise.
+Objectifs
+Lundi 6 : (Leon, Fabien, Ber, F6, Martin, Arthur) 
+		arrivée 10h pour montage et préparation 
+		en plus Bricolage pour Leon, Fabien, Ber et entrainement Caro pour Martin, Arthur.
+		Arthur amène sa console et sa Clio (caler Covoit avec Martin ?). 
+
+Mardi 7 : (Leon, Fabien, Ber, F6, Martin, Arthur) 
+		10h : filages 
+
+Mercredi 8 : (Leon, Fabien, Ber, F6, Arthur) 
+		 10h accueil groupe adulte et scolaires
+		AM : filages
+
+Jeudi 9 : (Leon, Fabien, Ber, Arthur, Florian) 
+		Tournage Teaser + divers
+
+Vendredi 10 : (Leon, Fabien, Ber, Martin) 
+		Démontage et rationalisation du Rangement + Liste
 
 [Retour à l'organisation de la création](.)
 

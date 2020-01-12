@@ -3,7 +3,7 @@
 ## Equipe :
 
 - Auteurs et comédiens :
-Fabien Carbo-Gil, Bertrand Lenclos et Léon Lenclos
+Fabien Banief, Bertrand Lenclos et Léon Lenclos
 
 - Création et régie lumière et son :
 Francis Lopez

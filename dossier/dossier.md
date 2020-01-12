@@ -2,7 +2,7 @@
 
 ## À l'origine
 
-En juin 2017, à l’Usinotopie, Léon Lenclos, Fabien Carbo-Gil et Bertrand Lenclos de la compagnie Nokill se sont retrouvés autour d’un dispositif scénique combinant dessin improvisé projeté sur grand écran et musique électronique.
+En juin 2017, à l’Usinotopie, Léon Lenclos, Fabien Banief et Bertrand Lenclos de la compagnie Nokill se sont retrouvés autour d’un dispositif scénique combinant dessin improvisé projeté sur grand écran et musique électronique.
 
 De cette première performance publique et d’un intérêt commun pour les machines, les mathématiques et l’informatique, est né le projet Turing Test.
 
@@ -86,7 +86,7 @@ Je ne sais pas ce qu’est un ordinateur, je ne sais pas ce que c’est qu’un 
 ## L'équipe
 
 - Le spectacle est écrit et interprété par : 
-Fabien Carbo-Gil, Bertrand Lenclos et Léon Lenclos
+Fabien Banief, Bertrand Lenclos et Léon Lenclos
 
 - Création et régie lumière et son :
 Francis Lopez
@@ -100,7 +100,7 @@ Michael Vo
 - Couture :
 Eva Ricard
 
-### Fabien Carbo-Gil
+### Fabien Banief
 
 Né le 08 avril 1994, il étudie les mathématiques à l’université Paul Sabatier de Toulouse puis l’histoire et la philosophie des sciences à l’université d’Aix-Marseille. Il est ainsi amené à travers son parcours à explorer les notions de langages formels, de calcul, de machine de Turing et d’intelligence artificielle. Il mène en parallèle un travail de création musicale, explorant les possibilités de la musique assistée par ordinateur puis de la synthèse analogique.
 

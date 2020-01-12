@@ -23,7 +23,7 @@ Les différentes résidences
 - Graines de rue - Bessines (87) - Théâtre Gérard Philipe à Bessines (87)- représentation le vendredi 7 et samedi 8 juin 2019.
 - MIMA - Mirepoix (09) - du 25 au 31 aout 2019 - représentation le 1 et 2 aout 2019.
 - Espace Bonnefoy - Toulouse (31) - du 23 au 27 septembre 2019. Reprise.
-- Théatre des Mazades - Toulouse (31) - du 6 au 10 janvier 2020. Reprise.
+- Odyssud - Théatre de St Expère - Blagnac (31) - du 6 au 10 janvier 2020. Reprise.
 
 ## Programme des Résidences
 
@@ -492,6 +492,35 @@ Resitution le 23 à 19h.
 - Reprise la semaine
 - Premières le week-end (2, 3, 4)
 
+----------------------------------------------------------
+
+### Espace Bonnefoy - Toulouse (31) - du 23 au 27 septembre 2019. Reprise.
+
+Fabien n'arrivera que le 25 à cette résidence, on privilégiera les 25, 26 et 27 pour le travail au plateau.
+Le 27 à 17h sortie de résidence avec des chercheurs de l'IRIT à laquelle sont invités leurs partenaires institutionnels.
+
+#### Objectifs
+
+- Répétitions pour avoir le spectacle bien en main
+- Optimisation du montage démontage : Echo et Jimi sont rangés de manière à ne pas nécessiter de montage lorsqu'on les sort de leurs boîtes
+- Improvement Robots et décor (trouver solution pour augmenter volume de foot, avoir un vrai interrupteur pour la lumière, bouton trig pour libérer le sq1)
+- Exploration de nouvelles pistes au plateau : interventions de Bebert et fabien pendant l'acte 2, voix of au début de l'acte 1
+- Stabilisation de la musique, réduire la place de l'improvisation et mettre en place quelques éléments musicaux qui marchent et sur lesquels on peut s'appuyer. Régler problème son sur Pure Data
+- Documentation (révision fiche robots)
+- Préparation sortie de résidence
+
+#### Résultats
+
+- Installation de l'interrupteur pour controler les néons.
+- Amélioration de Core qui peut désormais recevoir et traiter plusieurs trig simultanément
+- Disparition magique du problème de Pure Data
+- Ecriture et ajout d'une intro d'Alan au début du spectacle
+- Modification d'Alan  pour qu'il ne tienne en compte la réception de trigs que en mode impro, ce qui libère le SQ1 (désormais utilisé pour déclencher Echo pendant l'intro d'Alan).
+- Gros travail sur l'acte 2: Stabilisation du texte et de la musique.
+- Répétitions.
+- Bon échange avec les lycéens lors de la sortie de résidence. Nous avons aussi bien profité de la présence des chercheurs de l'IRIT pour échanger avec eux, évoquer notre venue à Paul Sabatier, pareler du robot poète avec Tim ou encore reparler de la reconnaissance vocale et faire des nouveaux test qui ont permis de constaterles progrès faits sur cette technologie.
+
+----------------------------------------------------------
 
 🔼 🔼 🔼 🔼 🔼 🔼 **Passé** 🔼 🔼 🔼 🔼 🔼 🔼
 
@@ -500,6 +529,18 @@ Resitution le 23 à 19h.
 
 
 🔽 🔽 🔽 🔽 🔽 🔽 **Futur** 🔽 🔽 🔽 🔽 🔽 🔽
+
+### - Odyssud - Théatre de St Expère - Blagnac (31) - du 6 au 10 janvier 2020. Reprise.
+
+#### Objectifs
+
+- Optimisation du montage démontage : 
+	- rangement Jimi et autres robots
+	- liste matos
+- Passassion régie Martin et Arthur
+- Répétitions
+- Documentation (révision fiche robots)
+- Tournage Teaser (Le 9/1)
 
 
 [Retour à l'organisation de la création](.)

@@ -1,8 +1,8 @@
 
 ///////////// REGLAGES
 const int seuilFaible = 8; 
-const int seuilMedium = 100;
-const int seuilFort = 300;
+const int seuilMedium = 80;
+const int seuilFort = 200;
 
 //const int attente = 100; //attente entre la détection et la lecture audio (pour éviter que le son du choc interfère avec le cri de foot)
 const int attente = 300;

@@ -5,11 +5,11 @@
 Turing Test
 ===========
 
-Turing Test est un projet de création théâtrale qui traite du rapport que l'humain entretient avec les machines qu’il crée.
+Turing Test est une création théâtrale qui traite du rapport que l'humain entretient avec les machines qu’il crée.
 
 *Dans un laboratoire de recherche en intelligence machine, trois chercheurs developpent une créature artificielle capable de passer le test de Turing, une machine impossible à differencier d'un humain. Une plongée dans l'imaginaire et le quotidien de ce laboratoire foisonnant de robots en tout genre et d'objets détournés.*
 
-Fabien Carbo-Gil, Bertrand Lenclos et Léon Lenclos, [Cie Nokill](http://cienokill.fr).
+Fabien Banief, Bertrand Lenclos et Léon Lenclos, [Cie Nokill](http://cienokill.fr).
 
 ---------------------------------------------------
 
@@ -17,7 +17,7 @@ Fabien Carbo-Gil, Bertrand Lenclos et Léon Lenclos, [Cie Nokill](http://cienoki
 
 ---------------------------------------------------
 
-Le spectacle est actuellement en cours de création. Nous avons décidé de rendre le processus de création ouvert. Vous trouverez ici les textes que nous sommes en train d'écrire, les idées qui germent, le spectacle qui jours après jours prend forme.
+Vous pouvez retrouver les dates de Turing Test [ici](http://cienokill.fr/dates). Le spectacle contiue d'évoluer et la création se poursuit, notamment avec la conception et la fabrication de nouveaux robots. Nous avons très tôt décidés de rendre le processus de création ouvert. Vous trouverez donc ici un ensemble de textes, d'idées, de plans et de tout ce qui témoigne de l'évolution passée et future de Turing Test.
 
 ![warning-wip](/ressources/icons/warning-wip.png) Travail en cours. ![warning-wip](/ressources/icons/warning-wip.png)
 
