@@ -1,14 +1,14 @@
 Besoins technologiques
 ======================
 
-**Présentation des besoins technologiques identifiés avant le début de la création. Certains ont étés abandonnés, d'autres sont apparus au fil des résidences.**
+**Présentation des besoins technologiques identifiés avant le début de la création ou apparus au fil des résidences. Certaines options ont été temporairement ou définitivement abandonnées, certaines sont encore en développement.**
 
 Alan
 ---------
 Alan est un agent conversationnel qui échange sur scène avec les comédiens pendant le spectacle. En dehors de la scène, il est accessible au public via le site de la compagnie. Ses domaines de compétence : L'intelligence artificielle, la conscience de soi, le spectacle vivant.
 
 Besoins logiciel :
--  Un logiciel de reconnaissance vocale.
+-  Un logiciel de reconnaissance vocale. (en développement)
 -  Un logiciel de Chatbot. (question/réponse, apprentissage, etc)
 -  Un logiciel de synthèse vocale
 -  Une base de données
@@ -16,15 +16,15 @@ Besoins logiciel :
 Besoins matériel :
 -  Un ordinateur dédié.
 -  Un écran.
--  Un micro + préampli + carte son.
+-  Un micro + préampli + carte son.(en développement)
 -  Un ampli + haut-parleur.
 
 Particularités :
--  Il reconnait la voix de celui des trois comédiens qui lui parle.
 -  Il est opérationnel en ligne et hors ligne quand le spectacle est joué sans connexion internet.
 -  Son interface est suffisamment accessible pour permettre aux trois auteurs de l'administrer (apprentissage, mise à jour de la librairie, censure, etc.).
 
-Hypothèses d'extension :
+Hypothèses d'extension abandonnées :
+-  Il reconnait la voix de celui des trois comédiens qui lui parle.
 -  Alan peut aussi faire de la reconnaissance visuelle.
 -  Alan est équipé d'une caméra.
 -  Alan est bilingue (ou plus).
@@ -89,7 +89,7 @@ Synthétiseur modulaire
 Outil de création musicale
 
 Besoins matériel :
--  Interface midi
+-  Interface cv/reseau
 -  Modules additionnels 
 
 
