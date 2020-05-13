@@ -7,7 +7,7 @@ Ce qu'il faut savoir pour être au bon endroit au bon moment et ne rien oublier.
 ## Planning résidence
 
 - Auditorium de Graulhet (81) - du 2 au 5 Janvier 2018.
-- Cie Nokill - Graulhet (81) - du 5 au 9 mars 2018.
+- Cie Nokill - Graulhet (81) - du 28 fevrier au 2 mars 2018.
 - IRIT - Toulouse (31) - du 5 au 9 mars 2018.
 - Usinotopie Villemur (31) - du 12 au 23 mars 2018 - Restitution le 23 mars à 19h.
 - Été de Vaour (81) - du 2 au 6 avril 2018 - Restitution le 6 avril à 18h30.
