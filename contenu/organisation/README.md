@@ -14,3 +14,5 @@ Ces fichiers sont des outils qui nous permettent de nous organiser. Puisque nous
 - [![todo](/ressources/icons/todo.png)Todo](todo), Trucs à faire.
 
 - [![notes-techniques](/ressources/icons/notes-techniques.png)Notes techniques](notes-techniques), Petit bloc-note technique.
+
+- [![ateliers](/ressources/icons/ateliers.png)Ateliers](http://turing-test.cienokill.fr/dossier/ateliers.html), les ateliers chatbot (en collège). 
