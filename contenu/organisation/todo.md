@@ -1,7 +1,7 @@
 # TO DO LIST
 
 
-Liste des choses à faire avec leur degré de prioritée. Les tâches sont supprimées de la liste après avoir été effectuée.
+Liste des choses à faire avec leur degré de priorité. Les tâches sont supprimées de la liste après avoir été effectuées.
 
 ## Légende :
 
@@ -12,24 +12,27 @@ Liste des choses à faire avec leur degré de prioritée. Les tâches sont suppr
 
 ### Courses
 
+- RAS
+
 ### Cablage
 
-- Micro fab
-- prolongation du jouet de léon que je n'ai pas calculé à voir si on récupère des cables qui ne servent pas ...
+- RAS
 
 ### T.A.F
 
-
-- (!!) REFLECHIR A UN CABLAGE POUR FOOT JUSQU’A DI
-- (!!!) Courriel recommandé université de Caen (kali) 
-- Echo : fusion echo/haut parleur
-- Tout passer en batteries standard Lion
+- (!!) Trouver une solution pour reprendre le son de foot dans acte 3.
+- (!!!) Courriel recommandé université de Caen (kali).
 - (!) Caisse d'Alan + rangement accessoires.
-- Prendre le control de MVO Chatbot (entrainement)
+- (!) Caisse F1 + rangement accessoires.
+- (!) Caisse Néons + rangement accessoires.
+- Prendre le control de MVO Chatbot (entrainement).
+- Formater le corpus de sous-titres rassemblés par nous même.
+- Finaliser la mise en ligne d'Alan (Stabilité, implantation à Graulhet, etc...).
+- tester l'implantation du speach to text de Samova
+- Continuer à enrichir Alan.
 - Faire un Klan qui marche
 - Foot rajouter une led
 - Foot rajouter un piezzo
-- Foot amplification
 - Robots pas fait :
     - Toto
     - Dedo
@@ -39,6 +42,3 @@ Liste des choses à faire avec leur degré de prioritée. Les tâches sont suppr
     - Finir les finitions des tissus.
         - ajouter des aimants a certains endroits
         - finir d'agrandir / refaire les tissus à cour
-    - Percer losanges dans lampadaires 6, 7 et 8, 10
-    - cable + inter néon
-- Boules Turc
