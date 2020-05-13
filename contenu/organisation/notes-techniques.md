@@ -1,5 +1,6 @@
 Notes Techniques
 ================
+Bloc note technique ou l'on rassemble toute information qui n'a pas sa place dans les fiches individuelles des robots.
 
     Sauf necessité extrême, aucune mise à jour de robot ne devra être faite le jour d'une représentation.
     (Loi n°3 de La cellule risques du GRIM)
@@ -10,35 +11,41 @@ indentification des cables : `(longueur, couleur du cable, (+couleur du repère)
 
 ### Longs cables (Standard Grim)
 
-Les longs cables passent si possible par le haut.
+Les longs cables passent par le haut.
 
-- Audio = XLR (+ DI + raccord minijack/jack)
-    - Console Sonosax  <--> MS20 (12m, jaune (+bleu))
-    - Console Sonosax  <--> Godel L (12m, jaune (+vert))
-    - Multipaire  <--> micro leon (10m, rouge (+vert))
-    - Multipaire  <--> reverb metro (15m, rouge (+noir))
-    - Multipaire  <--> boite à rythme (15m, jaune (+noir))
-    - Multipaire  <--> tt303 (?)
-    - Multipaire  <--> Alan vox (?)
-    - Multipaire  <--> Alan key (?)
-    - Multipaire  <--> Établi (?)
-    - Multipaire  <--> Klan (?)
-    - Multipaire  <--> Cube Jimi (?)
-    - Multipaire  <--> paper board (?)
-    - Multipaire  <--> Echo (?)
-    - Multipaire  <--> Café (?)
-    - Multipaire  <--> Cube Matt (?)
-    - Multipaire  <--> Micro Matt (?)
+- Audio = XLR (+ DI + raccord vers DI)
+    - Console Midas  <--> MS20 (12m, jaune (+bleu))
+    - Console Midas  <--> Godel L (12m, jaune (+vert))
+    - Multipaire  <--> console Midas
+    - Multipaire  <--> micro SM 58 leon (10m, rouge (+vert))
+    - Multipaire  <--> reverb metro DI (15m, rouge (+noir))
+    - Multipaire  <--> boite à rythme TR 808 DI (15m, jaune (+noir))
+    - Multipaire  <--> tt303 DI (?)
+    - Multipaire  <--> Alan vox DI (?)
+    - Multipaire  <--> Alan key DI (?)
+    - Multipaire  <--> Établi micro (?)
+    - Multipaire  <--> Klan DI (?)
+    - Multipaire  <--> Cube Jimi Micro (?)
+    - Multipaire  <--> paper board DI (?)
+    - Multipaire  <--> Echo DI (?)
+    - Multipaire  <--> Café DI (?)
     - Reverb  <--> Jouet (?)
-    - ...
+    - Reverb  <--> Monotron (?)
+    - Multipaire  <--> Micro Fabien (?)
+    
+- HF Sennheiser
+    - Récepteur  <--> Cube Matt
+    - Eméteur <--> Micro Matt
+    
 - Ethernet = RJ45
     - Core <--> Alan (25m, blanc)
     - Core <--> Lucy (15m, vert)
     - Core <--> Godel (15m, vert)
     - Core <--> Ottomann (15m, vert)
     - Core <--> Ail (10m, bleu)
+    
 - Trig/Gate/CV = MiniJack
-    - Core <--> Moduber
+    - Core <--> Modulaire Ber
     - Core <--> Fab (15m, noir (+jaune))    
     - Core <--> Echo (3m, noir (+vert))
     - Core <--> Jimi (14m, noir (+bleu))
@@ -49,8 +56,7 @@ Les longs cables passent si possible par le haut.
 NON EXHAUSTIF
 
 - Audio = XLR (+ DI + raccord minijack/jack)
-    - Console Sonosax <--> Moduber stero 1 et 2 (2m50, rouge)
-    - Console Sonosax  <--> micro ber (5m, rouge (+bleu))
+    - Console Midas <--> Moduber stero 1 et 2 (2m50, rouge)
 - Ethernet = RJ45
     - Core <--> Core (15cm, rouge) x2
 - Trig/Gate/CV = MiniJack
@@ -67,16 +73,16 @@ Plusieurs options possibles pour l'alimentation des robots :
 ####  LIPO 
 
 - Délicat, fragile, dangeureux mais puissant (pour Mimi)
-- Connecteurs XLR 4 broches (+ = 4 / - = 1 / femelle = vers batterie)
+- Connecteurs XLR 4 broches (+ = pin4 / - = pin1 / femelle = batterie)
          
 ####  LI-ion
 
-- peut=être moins critique que LIPO en termes de de fragilité
-- Connecteurs XLR 4 broches (+ = 4 / - = 1 / femelle = vers batterie)
+- peut=être moins critique que LIPO en termes de de fragilité.
+- Connecteurs XLR 4 broches (+ = pin4 / - = pin1 / femelle = batterie)
 
 #### Piles rechargeables
 
-- faible rendement
+- faible rendement. Pour HF sennheiser.
     
 ####  5V = USB Power Bank.
 
