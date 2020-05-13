@@ -25,7 +25,7 @@ Ce qu'il faut savoir pour être au bon endroit au bon moment et ne rien oublier.
 - Graines de rue - Bessines (87) - Théâtre Gérard Philipe à Bessines (87)- représentation le vendredi 7 et samedi 8 juin 2019.
 - MIMA - Mirepoix (09) - du 25 au 31 aout 2019 - représentation le 1 et 2 aout 2019.
 - Espace Bonnefoy - Toulouse (31) - du 23 au 27 septembre 2019. Reprise.
-- Théatre des Mazades - Toulouse (31) - du 6 au 10 janvier 2020. Reprise.
+- Odyssud - Théatre de St Expère - Blagnac (31) - du 6 au 10 janvier 2020. Reprise.
 
 ## transport résidences
 
@@ -933,7 +933,7 @@ Dépose Léon à Toulouse.
 
 ----------------------------------------------------------
 
-- Odyssud - Théatre de St Expère - Blagnac (31) - du 6 au 10 janvier 2020. Reprise.
+### Odyssud - Théatre de St Expère - Blagnac (31) - du 6 au 10 janvier 2020. Reprise.
 Objectifs
 Lundi 6 : (Leon, Fabien, Ber, F6, Martin, Arthur) 
 		arrivée 10h pour montage et préparation 
