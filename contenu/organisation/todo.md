@@ -38,6 +38,7 @@ Liste des choses à faire avec leur degré de priorité. Les tâches sont suppri
     - Dedo
     - Lisa
     - Bébé Klan
+    - Karl
 - Décors :
     - Finir les finitions des tissus.
         - ajouter des aimants a certains endroits
