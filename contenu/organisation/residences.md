@@ -520,16 +520,6 @@ Le 27 à 17h sortie de résidence avec des chercheurs de l'IRIT à laquelle sont
 - Répétitions.
 - Bon échange avec les lycéens lors de la sortie de résidence. Nous avons aussi bien profité de la présence des chercheurs de l'IRIT pour échanger avec eux, évoquer notre venue à Paul Sabatier, pareler du robot poète avec Tim ou encore reparler de la reconnaissance vocale et faire des nouveaux test qui ont permis de constaterles progrès faits sur cette technologie.
 
-----------------------------------------------------------
-
-🔼 🔼 🔼 🔼 🔼 🔼 **Passé** 🔼 🔼 🔼 🔼 🔼 🔼
-
-
--------------------------------------------------------------
-
-
-🔽 🔽 🔽 🔽 🔽 🔽 **Futur** 🔽 🔽 🔽 🔽 🔽 🔽
-
 ### - Odyssud - Théatre de St Expère - Blagnac (31) - du 6 au 10 janvier 2020. Reprise.
 
 #### Objectifs
@@ -542,5 +532,13 @@ Le 27 à 17h sortie de résidence avec des chercheurs de l'IRIT à laquelle sont
 - Documentation (révision fiche robots)
 - Tournage Teaser (Le 9/1)
 
+#### Résultats
+
+- Le rangement du spectacle est calé à 90% (reste à faire : Caisses Alan, F1 et Néons)
+- La liste Matos est à jour
+- La prise en main de la régie par Arthur et Martin est effective.
+- Ognon lag beaucoup moins, ce qui rend l'acte 2 beaucoup plus fluide.
+- Foot est plus fort grace à l'implantation d'un ampli plus puissant et d'une Li-on.
+- Finalement nous avons tourné le teaser nous même.
 
 [Retour à l'organisation de la création](.)
