@@ -13,6 +13,6 @@ Ces fichiers sont des outils qui nous permettent de nous organiser. Puisque nous
 
 - [![logistique](/ressources/icons/logistique.png)Logistique](logistique), organisation de la création :  planning résidences, transports et régie, listes de matériel, achats.
 
-- [![todo](/ressources/icons/todo.png)Todo](todo.md), Trucs à faire.
+- [![todo](/ressources/icons/todo.png)Todo](todo), Trucs à faire.
 
-- [![notes-techniques](/ressources/icons/notes-techniques.png)Notes techniques](notes-techniques.md), Petit bloc-note technique.
+- [![notes-techniques](/ressources/icons/notes-techniques.png)Notes techniques](notes-techniques), Petit bloc-note technique.
