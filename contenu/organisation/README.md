@@ -5,8 +5,6 @@ Ces fichiers sont des outils qui nous permettent de nous organiser. Puisque nous
 
 - [![residences](/ressources/icons/residences.png)Résidences](residences), les différentes résidences prévues et leur contenu.
 
-- [![ateliers](/ressources/icons/ateliers.png)Ateliers](ateliers), les ateliers chatbot (en collège). ![warning-404](/ressources/icons/warning-404.png)
-
 - [![partenaires](/ressources/icons/partenaires.png)Partenaires](partenaires), liste des partenaires de la création.
 
 - [![generique](/ressources/icons/generique.png)Générique](generique), liste des collaborateurs de la création.
