@@ -110,8 +110,11 @@ L'interface arduino/gate ressemble à ça :
 Le Git d'un shield pour interfacer modulaires et arduino : Synapse de chez Shaduzlabs
 
 [lien vers le Github](https://github.com/shaduzlabs/synapse)
+
 [lien vers le Blog](http://www.shaduzlabs.com/blog/21/synapse-a-diyfriendly-cv-io-shield-for-arduino.html)
+
 ![shéma synapse 1](/ressources/divers/synapse_4.png)
+
 ![shéma synapse 2](/ressources/divers/synapse_5.png)
 
 ## arduino et servomoteur.
@@ -175,7 +178,8 @@ Le rpi qui diffuse ognon :
 
 ### Jimi
 
-Mi bémol (E♭)
+Pendant la création JIMI était accordé en Mi bémol (E♭)
+Dans les dernières représentations en Ré (D)
 
 ### Cube rouge
 
