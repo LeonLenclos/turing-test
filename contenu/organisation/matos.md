@@ -1,6 +1,6 @@
 Matos TT
 ========
-# Liste du matériel nécessaire et suffisant pour une représentation de Turing Test
+Liste du matériel nécessaire et suffisant pour une représentation de Turing Test
 
 ## Matériel commun à Turing Test et L'Envol
 
