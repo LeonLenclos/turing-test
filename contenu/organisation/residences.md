@@ -534,11 +534,12 @@ Le 27 à 17h sortie de résidence avec des chercheurs de l'IRIT à laquelle sont
 
 #### Résultats
 
-- Le rangement du spectacle est calé à 90% (reste à faire : Caisses Alan, F1 et Néons)
-- La liste Matos est à jour
+- Le rangement du spectacle est calé à 90% (reste à faire : Caisses Alan, F1 et Néons).
+- La liste Matos est à jour.
 - La prise en main de la régie par Arthur et Martin est effective.
 - Ognon lag beaucoup moins, ce qui rend l'acte 2 beaucoup plus fluide.
 - Foot est plus fort grace à l'implantation d'un ampli plus puissant et d'une Li-on.
+- La camion est enfin équipé d'un sound-system efficace.
 - Finalement nous avons tourné le teaser nous même.
 
 [Retour à l'organisation de la création](.)
