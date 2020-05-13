@@ -1,8 +1,8 @@
 Matos TT
 ========
+# Liste du matériel nécessaire et suffisant pour une représentation de Turing Test
 
-
-## Turing Test / L'Envol
+## Matériel commun à Turing Test et L'Envol
 
 - CAISSE 3
         - TR 808 ROLAND (avec pédale)
@@ -15,7 +15,7 @@ Matos TT
         - SAC scotch
         - SAC BIJOUTE (divers Clamp, spigot, pinces)
         - CAISSE OUTIL ROUGE (divers outils avec Clé Klan et Pince étau)
-        - CAISEE VIS BLEUE (vis et clous)
+        - CAISSE VIS BLEUE (vis et clous)
         - KIT SOUDURE (poste, electrode, masque et sécurité)
 
 - SAC BRAS 1 
@@ -28,7 +28,7 @@ Matos TT
         - affiches, cartes postales et dossiers du spectacle
 
 - VALISE MICS (30)
-        - MICRO + DI
+        - MICROS + DI
 
 - VALISE 32 (VP SECOUR) (**AJOUTER UNE ROTULE**)
         - Optoma Grand angle
@@ -40,9 +40,9 @@ Matos TT
 
 - VENTILO
 
+## Matériel spécifique à Turing Test
 
-## Valises
-
+### Valises
 
 - VALISE VP CARO
         - Optoma Grand angle + obturateur + chouko + télécommande
@@ -63,9 +63,9 @@ Matos TT
 - VALISE - synthétiseur modulaire 2
         - SYNTHÉ MODULAIRE 2 (mini) avec alim
 
-## Caisses
+### Caisses
 
-- FLIGHT MUSIQUE
+- FLIGHT VALISE MUSIQUE
         - TT303 + alim
         - PS20 (jouet)
         - Clavier Casino (jouet)
@@ -77,7 +77,6 @@ Matos TT
         - controlleur Livid BLOCK
         - RaspberryPi (3b+) + Alim + Carte son Focusrite Scarlet 2i2 + petit cable gris + câbles Jack +  D.I.
         - Clavier + souris
-
 
 - FLIGHT CINTIQ
         - tablette cintiq (+ stylet + clavier ognon + alim)
@@ -103,11 +102,11 @@ Matos TT
         - double stack cable noir
         - Cables de patch
 
-- CAISSE METRO
+- FLIGHT METRO
         - 1 Jack + 2 Bananes
         - Reverb + Oscilloscope + Patch
 
-## Cartons
+### Cartons
 
 - CARTON CABLES 
 
@@ -200,7 +199,7 @@ Matos TT
         - Poche avec 3 paires de Chaussures
 
 
-## Sacs Plastiques
+### Sacs Plastiques
 
 - SAC TRIPLETTES
         - 5 grandes Noires
@@ -215,19 +214,19 @@ Matos TT
         - 3 Prolon 10 m
         - 2 prolon de 2 m
 
-## Grands Sacs toile
+### Grands Sacs toile
 
 - 2 Sacs Noirs ferraille :
         - Croisillon Klan
         - 4 jambes
         - 7 étagères grises
-        - 2 pieds VP
+        - 2 pieds Manfrotto VP
 
-- Sac Tul
-        - Tuls
+- Sac Tulle
+        - Tulles
         - Ecrans
 
-## Autre
+### Autre
 
 - CAISSE electronique bleue
         - fer + soudure + support + testeur + outils electronique
@@ -240,7 +239,7 @@ Matos TT
         - VALISE KLAN (cerveau de klan)
         - VALISE BATTERY (1 lion 3s + 6 lion 2s + 2 lipo 3s)
 
-## Vrac
+### Vrac
 
 - 2 Pieds Bois Klan
 - Corp Klan
