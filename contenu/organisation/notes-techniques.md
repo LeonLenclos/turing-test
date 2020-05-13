@@ -240,12 +240,11 @@ Morceau 3
 Pitch 2.8 pour accords
 attack 0
 
-
-## Réseau
+## Réseau
 
 Les trucs à faire en réseau dans le grim
 
-### Git pull - Alan
+### Git pull - Alan
 
     $ ssh grim@alan.local
     mot de passe grim@alan = [ALORS ALAN GRIM]
