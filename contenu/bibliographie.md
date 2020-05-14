@@ -27,7 +27,7 @@ Dès que possible, lors de nos déplacements (résidences, présentations, ateli
 Les films et séries
 -------------------
 
-
+- **Imitation Game** de Morten Tyldum - production Bear Pictures et Ampersand Pictures
 - **Eva** de Kike Maillo - production Escándalo Films et Ran Entertainment
 - **Her** de Spike Jonze - production Annapurna Pictures
 - **Westworld** de Jonathan Nolan et Lisa Joy - production J. J. Abrams
