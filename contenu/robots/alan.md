@@ -109,7 +109,7 @@ Finalisation de la mise en ligne. Intégration et réglage du mode impro, débug
 - Résidence au quai des savoirs du 16 au 21 novembre 2018 pour une confrontation au public et pour avancer sur les améliorations en vue de la version 2.0.0 .
 - Améliorations suite à la mise en ligne d'Alan au printemps 2020.
 
-![](../../ressources/alan_software.JPG)
+![](/ressources/photos/alan_software.JPG)
 
 Programmation pendant la résidence à l'IRIT, 
 
