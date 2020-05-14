@@ -1,6 +1,6 @@
 # Alan v1.5.2
 
-![alan](/ressources/photos/alan.JPG)
+![alan](/ressources/photos/ALAN_104_1.jpg)
 
 ## Description générale
 
