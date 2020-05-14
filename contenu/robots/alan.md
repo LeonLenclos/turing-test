@@ -1,6 +1,6 @@
 # Alan v1.5.2
 
-![alan](/ressources/photos/ALAN_104_1.jpg)
+![alan](/ressources/photos/ALAN_104_1_CROP_SMALL.jpg)
 
 ## Description générale
 
@@ -23,7 +23,7 @@ A une époque où la frontière entre le monde virtuel et l'IRL (la [vraie vie](
 Structure  d'aluminium qui se replie sur elle-même pour ne former qu'un parallélépipède rectangle qui se range facilement.
 
 
-![alan_structure](/ressources/photos/alan_structure.png)
+![alan_structure](/ressources/photos/ALAN_STRUCTURE_SMALL.jpg)
 
 
 Dans la structure sont fixés les éléments du hardware qui sont décrits dans la description technique.
@@ -66,7 +66,7 @@ Vous pouvez également  installer le programme de Alan sur votre ordinateur.
 
 **Version de python requise : Python 3.5**
 
-Le projet est encore en cours de développement, github est un outil adapté à ce contexte : il existe plusieurs "branches" qui sont des versions plus ou moins avancées d'Alan. Le Alan contenu dans la branche `master` doit normalement pouvoir fonctionner, il en est pour l'instant à la version 1. Il existe par exemple une branche développement sur laquelle nous travaillons et qui peut donc contenir un certain nombre de problèmes pas encore résolus. En attendant de pouvoir parler avec Alan sur internet vous pouvez suivre les indications suivantes pour installer Alan sur votre ordinateur ! Tout d'abord il vous faut télécharger ce dossier git en cliquant sur clone or download, puis rentrer les commandes suivantes dans le terminal depuis le dossier alan :
+Le projet est encore en cours de développement, github est un outil adapté à ce contexte : il existe plusieurs "branches" qui sont des versions plus ou moins avancées d'Alan. Le Alan contenu dans la branche `master` doit normalement pouvoir fonctionner, il en est pour l'instant à la version 1.5.2 Il existe par exemple une branche développement plus avancée sur laquelle nous travaillons et qui peut donc contenir un certain nombre de problèmes pas encore résolus. En attendant de pouvoir parler avec Alan sur internet vous pouvez suivre les indications suivantes pour installer Alan sur votre ordinateur ! Tout d'abord il vous faut télécharger ce dossier git en cliquant sur clone or download, puis rentrer les commandes suivantes dans le terminal depuis le dossier alan :
 
  ```
   $ pip install -r requirements.txt
@@ -100,16 +100,14 @@ Pour noter les deux dernières répliques dans la liste todo.md
 
 ## Améliorations envisagées
 
-Remplacement de l'écran et mise en ligne. Intégration et réglage du mode impro, débuggage général. Fabrication d'une housse pour pouvoir couvrir Alan. Intégration d'enceintes au hardware. 
-système d'amplification envisagé :
-wondon 2X50W
-https://www.audiophonics.fr/fr/modules-amplificateur/wondom-aa-ja32171-jab-2-50-module-amplificateur-stereo-class-d-2x50w-4-ohm-bluetooth-40-p-10847.html
+Finalisation de la mise en ligne. Intégration et réglage du mode impro, débuggage général. Fabrication d'une caisse pour transporter Alan. 
 
-## Moment envisagé pour la construction et/ou les améliorations
+## Étapes pour la construction et/ou les améliorations de Alan
 
-Résidences de programmation à l'IRIT au printemps 2018.
-Montage et fabrication du hardware à l'usinotopie (mars 2018) et à Bessines (octobre-novembre 2018).
-Résidence au quai des savoirs du 16 au 21 novembre 2018 pour une confrontation au public et pour avancer sur les améliorations en vue de la version 2.0.0 .
+- Résidences de programmation à l'IRIT au printemps 2018.
+- Montage et fabrication du hardware à l'usinotopie (mars 2018) et à Bessines (octobre-novembre 2018).
+- Résidence au quai des savoirs du 16 au 21 novembre 2018 pour une confrontation au public et pour avancer sur les améliorations en vue de la version 2.0.0 .
+- Améliorations suite à la mise en ligne d'Alan au printemps 2020.
 
 ![](../../ressources/alan_software.JPG)
 
