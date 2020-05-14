@@ -37,7 +37,7 @@ La strucure mobile est un hacking de Crawler télécommandé. La télécommande 
 
 - Émetteur/recepteur vidéo HD Teradek ACE 500
 
-![ACE TERRADEK 500](/ressources/photos/ACE TERRADEK 500.jpg)
+![ACE TERRADEK 500](/ressources/photos/ACE_TERRADEK_500.jpg)
 
 ## Anciennes version
 
