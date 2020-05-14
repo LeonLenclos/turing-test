@@ -1,6 +1,6 @@
 # Caro V2
 
-![robot_camera_V_01](/ressources/photos/CARO_V1_3_SMALL.jpg)
+![CARO_V1_3_SMALL](/ressources/photos/CARO_V1_3_SMALL.jpg)
 
 La robot curieuse.
 
@@ -24,27 +24,26 @@ La strucure mobile est un hacking de Crawler télécommandé. La télécommande 
 - Mat téléscopique type pied de micro en alu
 - col de cygne
 
-![crawler_kino](/ressources/divers/crawler_kino.jpg)
-![robot_camera_V_01](/ressources/photos/CARO_V2_SMALL.jpg)
+![CARO_V2_SMALL](/ressources/photos/CARO_V2_SMALL.jpg)
 
 #### La vidéo
-
-![robot_camera_V_01](/ressources/photos/CARO_V1_1_SMALL.jpg)
 
 - caméra Blackmagic Micro Cinéma 2K
 - objectif Samyang 7,5mm
 
+![CARO_V1_1_SMALL](/ressources/photos/CARO_V1_1_SMALL.jpg)
+
 #### Liaison HF
 
-![robot_camera_V_01](/ressources/photos/ACE TERRADEK 500.jpg)
-
 - Émetteur/recepteur vidéo HD Teradek ACE 500
+
+![ACE TERRADEK 500](/ressources/photos/ACE TERRADEK 500.jpg)
 
 ## Anciennes version
 
 Plusieurs versions de caméra et d'émetteur/récepteur HF ont été testés avant d'aboutir à la version 1.
 
-### version 0.1 - Caméra analogique et émeteur/récepteur 1,2 GHz
+### V1.1 - Caméra analogique et émeteur/récepteur 1,2 GHz
 
 ![robot_camera_V_01](/ressources/photos/robot_camera_V_01.jpg)
 
@@ -83,7 +82,7 @@ Autres signes distinctifs :
 
 on selectionne le **2**
 
-### version 0.2 - Caméra analogique et liaison IP
+### V1.2 - Caméra analogique et liaison IP
 
 Cette version a été abandonnée à cause du délai de transmission des images via IP.
 
