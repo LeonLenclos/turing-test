@@ -16,8 +16,6 @@ Fixé sur une structure mobile à 4 roues, un mat prolongé d'un col de cygne es
 
 La strucure mobile est un hacking de Crawler télécommandé. La télécommande est gérée par le régisseur.
 
-
-
 ### Mécanique
 
 - crawler modifié
@@ -26,20 +24,14 @@ La strucure mobile est un hacking de Crawler télécommandé. La télécommande 
 
 ![crawler_kino](/ressources/divers/crawler_kino.jpg)
 
-### La vidéo
+#### La vidéo
 
-Deux systèmes actuellements developpés :
-- Liaison HF
-- Liaison IP
+- caméra Blackmagic Micro Cinéma 2K
+- objectif Samyang 7,5mm
 
 #### Liaison HF
 
-La caméra fixée au col de cygne délivre un signal à un émetteur HF qui transmet l'image jusqu'au vidéoprojecteur situé derrière l'écran de l'établi.
-
-##### Materiel
-
-
-
+- Émetteur/recepteur vidéo HD Teradek ACE 500
 
 ## Anciennes version
 
@@ -51,11 +43,13 @@ Plusieurs versions de caméra et d'émetteur/récepteur HF ont été testés ava
 
 Cette version a été abandonnée à cause du manque de qualité des images et du manque de fiabilité de la liaison HF.
 
-##### Matériel
+#### La vidéo
 
 Sur Caro :
 - caméra sd + série d'objectifs miniatures
 - Émetteur HF
+
+#### Liaison HF
 
 Emission/Reception :
 - 1,2 G TX 1000 mW 1000mW 8CH Transmitter RX02
@@ -86,14 +80,15 @@ on selectionne le **2**
 
 Cette version a été abandonnée à cause du délai de transmission des images via IP.
 
-#### Liaison IP
 
-##### Materiel
+#### La vidéo
 
 Sur Caro :
 - Caméra Mi Hom Security Camera 360 (MJSXJ02CM)
 
 La caméra est équipée d'une platine ammovible avec deux trous de 3mm de diamètre espacés de 36mm (centre à centre)
+
+#### Liaison HF
 
 Reception :
 - Routeur wifi
