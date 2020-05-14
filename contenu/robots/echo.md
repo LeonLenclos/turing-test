@@ -8,9 +8,9 @@ Quand on lui présente un objet, il dit ce qu'il en pense. C'est un robot qui a 
 
 ## Allure
 Petit buste fait d'un assemblage de pièces de PVC, peint à la bombe pour un effet métallisé.
-Un manomètre et un potentiomètre sont en façade sur son buste, à la place des yeux il possède un capteur de distance à ultrasons. Dans sa dernière version, le buste est fixé à une enceinte préamplifiée qui lui donne une voix claire et puissante.
+Un manomètre, un potentiomètre et une led sont en façade sur son buste, à la place des yeux il possède un capteur de distance à ultrasons. Dans sa dernière version, le buste est fixé à une enceinte préamplifiée qui lui donne une voix claire et puissante.
 
-![](/ressources/photos/ECHO_V1_1_SMALL.jpg
+![](/ressources/photos/ECHO_V1_1_SMALL.jpg)
 
 ## Matériaux
 Assemblage de raccords en PVC avec l'électronique fixée dedans.
