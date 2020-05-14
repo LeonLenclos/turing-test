@@ -41,7 +41,7 @@ La strucure mobile est un hacking de Crawler télécommandé. La télécommande 
 
 ## Anciennes version
 
-Plusieurs versions de caméra et d'émetteur/récepteur HF ont été testés avant d'aboutir à la version 1.
+Plusieurs versions de caméra et d'émetteur/récepteur HF ont été testés avant d'aboutir à la version 2.
 
 ### V1.1 - Caméra analogique et émeteur/récepteur 1,2 GHz
 
