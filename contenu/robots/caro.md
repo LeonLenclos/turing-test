@@ -1,4 +1,6 @@
-# Caro V 1
+# Caro V2
+
+![robot_camera_V_01](/ressources/photos/CARO_V1_3_SMALL.jpg)
 
 La robot curieuse.
 
@@ -23,13 +25,18 @@ La strucure mobile est un hacking de Crawler télécommandé. La télécommande 
 - col de cygne
 
 ![crawler_kino](/ressources/divers/crawler_kino.jpg)
+![robot_camera_V_01](/ressources/photos/CARO_V2_SMALL.jpg)
 
 #### La vidéo
+
+![robot_camera_V_01](/ressources/photos/CARO_V1_1_SMALL.jpg)
 
 - caméra Blackmagic Micro Cinéma 2K
 - objectif Samyang 7,5mm
 
 #### Liaison HF
+
+![robot_camera_V_01](/ressources/photos/ACE TERRADEK 500.jpg)
 
 - Émetteur/recepteur vidéo HD Teradek ACE 500
 
