@@ -1,4 +1,4 @@
-# Alan v1.2.1
+# Alan v1.5.2
 
 ![alan](/ressources/photos/alan.JPG)
 
@@ -7,9 +7,8 @@
 Alan est un agent conversationel en cours de développement créé pour le spectacle [Turing Test](https://github.com/LeonLenclos/turing-test) avec la collaboration de l'[IRIT](https://www.irit.fr/) (Institut de Recherche en Informatique de Toulouse) et plus particulièrement des équipes de recherche SAMoVA et MELODI. C'est un robot spécialisé dans la communication verbale, conçu pour donner l'illusion d'être conscient.
 On peut discuter avec lui de choses et d'autres mais sa spécialité c'est la conscience de soi. Il a été programmé pour donner l'illusion qu'il est conscient d'exister.
 Alan est capable de progresser en s'entrainant à converser avec des humains, il mémorise ainsi des concepts et des informations au détour de ces conversations. Il fait partie de cette famille de robots qui finissent un jour par échapper à leur concepteur. Grâce à l'aide de l'IRIT, Alan peut improviser des réponses en se fondant sur un apprentissage profond basé sur un corpus de répliques de films récupérées via les fichiers de sous-titres.  
-Bientôt même quand il ne sera pas sur scène, Alan sera quand même là, sur le site de la compagnie, disponible pour parler avec le premier venu.
+Quand il n'est pas sur scène, Alan est quand même là, sur le site de la compagnie, disponible pour parler avec le monde entier.
 A la date suivante, Alan aura un peu changé. Comme nous.
-
 
 ![irit](/ressources/photos/irit.JPG)
 
