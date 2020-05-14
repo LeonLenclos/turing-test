@@ -1,4 +1,4 @@
-# Caro V 0.1
+# Caro V 1
 
 La robot curieuse.
 
@@ -16,7 +16,7 @@ Fixé sur une structure mobile à 4 roues, un mat prolongé d'un col de cygne es
 
 La strucure mobile est un hacking de Crawler télécommandé. La télécommande est gérée par le régisseur.
 
-![robot_camera_V_01](/ressources/photos/robot_camera_V_01.jpg)
+
 
 ### Mécanique
 
@@ -38,11 +38,26 @@ La caméra fixée au col de cygne délivre un signal à un émetteur HF qui tran
 
 ##### Materiel
 
+
+
+
+## Anciennes version
+
+Plusieurs versions de caméra et d'émetteur/récepteur HF ont été testés avant d'aboutir à la version 1.
+
+### version 0.1 - Caméra analogique et émeteur/récepteur 1,2 GHz
+
+![robot_camera_V_01](/ressources/photos/robot_camera_V_01.jpg)
+
+Cette version a été abandonnée à cause du manque de qualité des images et du manque de fiabilité de la liaison HF.
+
+##### Matériel
+
 Sur Caro :
-- Mini caméra (rugissant)
+- caméra sd + série d'objectifs miniatures
 - Émetteur HF
 
-Reception :
+Emission/Reception :
 - 1,2 G TX 1000 mW 1000mW 8CH Transmitter RX02
 
 ![emetteur_kino](/ressources/divers/emetteur_kino.jpg)
@@ -50,9 +65,7 @@ Reception :
 ##### Note relative aux objectifs utilisables sur la mini caméra
 
 4 Objectifs :
-
 On les range dans l'ordre de la plus courte à la plus longue focale.
-
 On peut regarder la taille de l'iris : Plus petit trou = Plus courte focale
 
 1.  très grand angle = .
@@ -67,8 +80,11 @@ Autres signes distinctifs :
 3.  Inscriptions sur l'objectif
 4.  Le dernier
 
-Pour l'instant on selectionne le **2**
+on selectionne le **2**
 
+### version 0.2 - Caméra analogique et liaison IP
+
+Cette version a été abandonnée à cause du délai de transmission des images via IP.
 
 #### Liaison IP
 
