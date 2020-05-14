@@ -10,14 +10,41 @@ Les livres qui nous accompagnent
 
 Dès que possible, lors de nos déplacements (résidences, présentations, ateliers,...) nous nous accompagons d'un certains nombre d'ouvrages. Nous ne les consultons presque jamais. Mais lorsque nous les ouvrons, ils savent nous donner le meilleur d'eux-même.
 
-- *Lettres à Alan Turing*, Réunies par Jean-Marc Lévy-Leblond - éd. Thierry Marchaise.
-- *Ferraille Science* - Les Requins Marteaux.
-- *Le grand livre des robots - 1. Prélude à Trantor*, Asimov - omnibus
-- *Robots Fouban*, Hervé Di Rosa, éditions R.L.D.
-- *Robots et avatars*, Jean-Claude Heudin - éd. Odile Jacob
-- *Robots*, Jasia Reichardt - T&H (Prêt)
-- *Dr Slump*, Akira Toriyama - Glénat (Prêt)
-- *La France contre les robots*, Georges Bernanos - Le Castor Astral
+- **Lettres à Alan Turing**, Réunies par Jean-Marc Lévy-Leblond - éd. Thierry Marchaise.
+- **Ferraille Science** - Les Requins Marteaux.
+- **Le cycle des robots - tome 1 - Les robots**, Asimov - J'ai Lu Poche
+- **Le cycle des robots - tome 2 - Un défilé de robots**, Asimov - J'ai Lu Poche
+- **Le cycle des robots - tome 3 - Les cavernes d'acier**, Asimov - J'ai Lu Poche
+- **Le cycle des robots - tome 4 - Face Aux Feux Du Soleil**, Asimov - J'ai Lu Poche
+- **Le cycle de Fondation - tome 1 - Fondation**, Asimov - Folio Poche
+- **Le cycle de Fondation - tome 2 - Fondation et Empire**, Asimov - Folio Poche
+- **Robots Fouban**, Hervé Di Rosa, éditions R.L.D.
+- **Robots et avatars**, Jean-Claude Heudin - éd. Odile Jacob
+- **Robots**, Jasia Reichardt - T&H (Prêt)
+- **Dr Slump**, Akira Toriyama - Glénat (Prêt)
+- **La France contre les robots**, Georges Bernanos - Le Castor Astral
+
+Les films et séries
+-------------------
+
+
+- **Eva** de Kike Maillo - production Escándalo Films et Ran Entertainment
+- **Her** de Spike Jonze - production Annapurna Pictures
+- **Westworld** de Jonathan Nolan et Lisa Joy - production J. J. Abrams
+- **Blade Runner** de Ridley Scott - production The Ladd Company
+- **Real Humans** de Äkta människor - production Stefan Baron, Henrik Widman
+- **Robots** de  	Chris Wedge et Carlos Saldanha - production 20th Century Fox
+- **Wall-e** de Andrew Stanton - production Pixar Animation Studios
+- **Les nouveaux heros** de Don Hall et Chris Williams - production Walt Disney Pictures
+- **Le géand de fer** de Brad Bird - production	Warner Bros
+- **Terminator** de	James Cameron - production Hemdale Film Corporation
+- **Le monde sur le fil** de Rainer Werner Fassbinder - production TV (Welt am draht).
+- **2001** de Stanley Kubrick - production	Metro-Goldwyn-Mayer
+- **Tron** de Steven Lisberger - production Walt Disney Productions
+- **Alien** de Ridley Scott - production Brandywine Productions et 20th Century Fox
+- **I robot** de Alex Proyas - production Davis Entertainment et Overbrook Entertainment
+- **eXistenz** de David Cronenberg - production Alliance Atlantis Communications
+- **A.I. Intelligence artificielle** de Steven Spielberg - Warner Bros
 
 Radio
 -----
