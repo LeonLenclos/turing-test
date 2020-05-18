@@ -12,7 +12,7 @@ L'idée était de tester Alan sur des contradiction et des paradoxe. Dès qu'un 
 
 Ces quelques lignes prouve qu'il y a une limite que les machines ne peuvent pas dépasser.
 
-[La démonstration du Théorème de l'arrêt](/contenu/scenes/theoreme-de-l-arret-oral.md)
+ [La démonstration du Théorème de l'arrêt](/contenu/scenes/theoreme-de-l-arret-oral.md)
 
 ---
 
