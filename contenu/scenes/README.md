@@ -1,6 +1,8 @@
 Déroulé du spectacle
 ====================
 
+Continuité du spectacle dans sa forme actuelle.
+
 - [Déroulé du spectacle](deroule.md)
 - [Texte Acte 2](texte-acte-deux.md)
 
