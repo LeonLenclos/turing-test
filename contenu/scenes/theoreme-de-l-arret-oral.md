@@ -17,4 +17,4 @@ Fabien explique le Théorème de l'arrêt à Léon
 - Si je m'arrête je boucle et si je boucle je m'arrête!
 - Contradiction !
 
-![théorème de l'arrêt](./ressources/divers/theoreme_de_l_arret.jpg)
+![théorème de l'arrêt](/ressources/divers/theoreme_de_l_arret.jpg)
