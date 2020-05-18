@@ -1,5 +1,7 @@
-Théorème de l'arrêt - Oral
-==========================
+Théorème de l'arrêt
+===================
+
+Fabien explique le Théorème de l'arrêt à Léon 
 
 - Ce que tu voudrais c'est piéger le programme S avec le programme delta
 - On va donc faire boucler delta(x) si S(x,x) est égal à 1
@@ -14,3 +16,5 @@ Théorème de l'arrêt - Oral
   Donc delta de delta boucle
 - Si je m'arrête je boucle et si je boucle je m'arrête!
 - Contradiction !
+
+![théorème de l'arrêt](./arret.png)
