@@ -11,7 +11,7 @@ Indications sommaires pour se souvenir des propositions de continuités expérim
 
 - [Déroulé MIXART MYRYS - 14/4/2018](deroule_mixart.md)
 - [Déroulé VAOUR - 6/4/2018](deroule_vaour.md)
-- [Déroulé MONTAUBAN - 28/92018](deroule_montauban.md)
+- [Déroulé MONTAUBAN - 28/9/2018](deroule_montauban.md)
 
 Hypothèse de scènes
 ===================
