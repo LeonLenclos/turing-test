@@ -72,7 +72,7 @@ Heteroptera : l'algorithme darwiniste
 
 Au départ il y a dix individus dans un nid. Pour se reproduire, ils doivent aller manger au point de nourriture et revenir au nid. Seul le premier qui reviendra au nid pourra se reproduire. Il fera dix enfants qui auront tous beaucoup de points communs avec lui et quelques différences. Au début de l'histoire leur seule stratégie est d'aller dans tous les sens au hasard, à l'aveugle.
 
-Alors on voit bien que c'est limité : Le mieux que ces insectes pourront faire au bout de 40 générations c'est prendre le chemin le plus court. Jamais ils ne s'organiseront pour infiltrer l'ordinateur, acquérir toutes les connaissances de l'humanité sur internet, pirater le compte twiter d'un président et déclencher une guerre mondiale, croyez moi ça n'arrivera jamais, il y a infiniment plus de chance que les poules aient des dents.
+Alors on voit bien que c'est limité : Le mieux que ces insectes pourront faire au bout de 40 générations c'est prendre le chemin le plus court. Jamais ils ne s'organiseront pour infiltrer l'ordinateur, acquérir toutes les connaissances de l'humanité sur internet, pirater le compte twitter d'un président et déclencher une guerre mondiale, croyez moi ça n'arrivera jamais, il y a infiniment plus de chance que les poules aient des dents.
 
 Jamais ces insectes ne pourront faire autre chose que ce que les règles de leur monde leur permettent de faire. Et les règles de leur monde sont plutôt limitées, je les ai presque décrites entièrement en un paragraphe, le programme qui les énonce précisément tient en une centaine de lignes de code. Mais il ne faut pas se moquer d'eux. Nous non plus nous ne pourrons jamais faire plus que ce que les règles de notre monde nous permettent de faire.
 
