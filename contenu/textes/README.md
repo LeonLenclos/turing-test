@@ -1,7 +1,7 @@
 Textes
 ======
 
-Ici, les textes de Turing Test.
+Ici, des des textes à lire, textes théoriques, petites histoires qui ont nourri la création.
 
 - [Des machines qui parlent](des-machines-qui-parlent.md), rapide aperçu de l'histoire des chatbots qui sera complétée au fil de la création.
 
