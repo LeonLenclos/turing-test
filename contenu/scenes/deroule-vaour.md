@@ -1,4 +1,4 @@
-Sortie de résidence à la Commanderier à Vaour - 6 Avril 2018
+Sortie de résidence à la Commanderie à Vaour - 6 Avril 2018
 ============================================================
 
 Voici le déroulé de la sortie de résidence à Vaour.
