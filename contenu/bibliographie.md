@@ -45,6 +45,8 @@ Les films et séries
 - **I robot** de Alex Proyas - production Davis Entertainment et Overbrook Entertainment
 - **eXistenz** de David Cronenberg - production Alliance Atlantis Communications
 - **A.I. Intelligence artificielle** de Steven Spielberg - Warner Bros
+- **Métropolis** de Fritz Lang - UFA (Universum-Film AG)
+- **Ex machina** d'Alex Garland - DNA Films
 
 Radio
 -----
