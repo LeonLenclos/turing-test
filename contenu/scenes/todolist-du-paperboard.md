@@ -20,3 +20,6 @@ Liste des tâches qui apparaissent sur le paperboard pendant le spectacle.
 - [ ] SOUDER TRIG
 - [ ] TESTER LE BON GOÛT D'ÉCHO
 - [ ] RANGER
+
+![Todolist du Paperboard 1](/ressources/photos/TODO_1_SMALL.jpg)
+![Todolist du Paperboard 2](/ressources/photos/TODO_2_SMALL.jpg)
