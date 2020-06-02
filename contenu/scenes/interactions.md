@@ -1,7 +1,7 @@
 Interactions
 ============
 
-Description de quelques interactions entre les comédiens et leurs machines.
+Description de quelques interactions entre les comédiens et leurs machines imaginées tout au début de la création.
 
 Le robot qui a de la répartie
 -----------------------------
@@ -34,20 +34,21 @@ Exemple de dialogue :
         ROBOT
     ...
 
-Voir la fiche de Luna, le chatbot mécanique : [Luna](../robots/luna.md)
+Ce robot qui devait s'appeler Luna, n'a pas été construit.
 
 Le concours de tri
 ------------------
 
 Deux comédiens sont chacun devant une table avec 7 objets de différentes tailles disposés dans le désordre. Ils doivent les remettre dans l'ordre. L'un suit un algorithme de tri réputé pour être performant. L'autre tri les objets en suivant son instinct d'humain.
 
-Voir la fiche du robot qui range : [Le robot qui range](../robots/robot-qui-range.md)
-
+Cette proposition a été simplifiée et est devenue la scène du tri, interprétée par Léon en fin d'acte 1.
 
 Le face à face
 ---------------
 
 Un comédien utilise un robot-marteau. Il y a un bouton sur le robot. Lorsqu'on appuie dessus, le robot donne un coup de marteau 50cm devant lui. Le comédien essaye de planter un clou avec ce robot. Puis il amène un autre robot quasiment identique au premier et place les deux robots face à face. Il appuie sur le bouton du premier robot, celui-ci donne alors un coup de marteau 50cm devant lui : sur le bouton de l'autre robot qui donne à son tour un coup de marteau sur le bouton du premier et ainsi de suite. Le comédien observe ces deux robots s'actionner mutuellement.
+
+Malheureusement, cette proposition n'a donné lieu à aucune scène.
 
 Le bon public
 -------------
@@ -56,15 +57,17 @@ Le robot étonné est un robot entièrement mécanique. Lorsqu'on pose un objet 
 
 Le robot qui a du goût est un robot qui donne son avis sur des choses qu'il voit ou entend lorsqu'on lui demande ce qu'il en pense. Il lui arrive aussi de donner son avis lorsqu'on ne lui a rien demandé. Ses avis sont toujours positifs voire excessivement dithyrambiques.
 
-Voir la fiche d'Otto, le robot étonnable : [Otto](../robots/otto.md)
+Ces deux pistes ont abouti à la construction de deux robots :
 
+- Otto, le robot étonnable : [Otto](../robots/otto.md)
+- Echo, le robot qui a du goût : Echo](../robots/echo.md)
 
 La partie de dames
 ------------------
 
 Un comédien joue aux dames avec un robot joueur de dames. Le robot n'est pas très au point et fait un peu n'importe quoi sur le plateau. Au début il se contente de faire des coups stratégiquement mauvais, mais très vite il se met à bouger les pièces de son adversaire. Le comédien reste calme et compréhensif, il essaye de jouer quand même. À la fin le robot fait violemment tomber le plateau. Le comédien quitte la table sans faire de commentaires.
 
-Voir la fiche du robot qui perd aux jeux : [Le robot qui perd aux jeux](../robots/robot-qui-perd-aux-jeux.md)
+Cette scène est devenue la scène du morpion avec [Turc](../robots/turc.md)
 
 
 ---
