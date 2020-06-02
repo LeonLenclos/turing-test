@@ -27,9 +27,10 @@ Il souffre donc on ne le tape pas donc il s'abime moins vite.
 
 C'est quoi la difference entre Foot qui souffre et un humain qui souffre ?
 
+Mise en scène de foot, hypothèses de travail.
+--------------------------------------------
 
-Mise en scène de foot, version 3 (validée)
----------------------------------
+### version 3 (validée)
 
 1. Fabien introduit foot dans son carton et lui donne des coups de pied de plus en plus fort.
 2. Foot crie de plus en plus fort.
@@ -37,8 +38,7 @@ Mise en scène de foot, version 3 (validée)
 4. C'est finalement Alan qui ordonne à Fabien d'arrêter.
 5. Bertrand repose Foot délicatement sur son étagère.
 
-Mise en scène de foot, version 2 (abandonnée)
---------------------------------
+### version 2 (abandonnée)
 
 1. Léon vient avec un carton et un bloc note et demande à Fabien de donner un coup de pied dans le carton. Il prend des notes
 2. Plus tard, Bertrand et Fabien de temps en temps, l'air de rien, machinalement, donnent des petits coups de pied dans des cartons.
@@ -46,7 +46,7 @@ Mise en scène de foot, version 2 (abandonnée)
 4. (optionel) Un jour, foot est évoqué pour répondre à des questions precises d'intelligence machine parmi celles évoquées dans la premiere partie de ce fichier.
 
 
-### Exemple de texte d'intro du test
+#### Exemple de texte d'intro du test
 
 ```
 Je voudrais te faire passer un test Fabien. Es-tu d'accord ?
@@ -61,8 +61,7 @@ Réponse : ______
 Frappe dans le carton.
 Observations : __________________________________________
 ```
-Mise en scène de foot, version 1 (abandonnée)
---------------------------------
+### version 1 (abandonnée)
 
 Soumettons le public à un test de sensibilité anthropomorphique :
 Sur le plateau un carton dans lequel Bertrand donne un coup de pied. Pas de réaction dans le public.
