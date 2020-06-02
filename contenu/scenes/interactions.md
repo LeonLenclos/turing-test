@@ -60,7 +60,7 @@ Le robot qui a du goût est un robot qui donne son avis sur des choses qu'il voi
 Ces deux pistes ont abouti à la construction de deux robots :
 
 - Otto, le robot étonnable : [Otto](../robots/otto.md)
-- Echo, le robot qui a du goût : Echo](../robots/echo.md)
+- Echo, le robot qui a du goût : [Écho](../robots/écho.md)
 
 La partie de dames
 ------------------
