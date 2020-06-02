@@ -11,7 +11,7 @@ En cours d'écriture
 - Bertrand entre, regarde ses collègues, nourrit [Lucy](../robots/lucy.md), enfile son bleu, récupère 2 verres de bouillon préparé par Léon, en apporte un à Fabien, et s'installe en face d'[Alan](../robots/alan.md). Il entame avec lui une conversation au sujet de sa peur de la mort, et de l'immortalité d'[Alan](../robots/alan.md).
 - Léon range la cuisine.
 - À l'établi, fabien a réussi a démarrer l'hélice de [Mimi](../robots/mimi.md) qui s'est emballée, emportant tout sur son passage. Il ramasse et balaye ce qu'il peut et va cocher "réparer hélice" sur la [todolist du Paperboard](../scenes/todolist-du-paperboard.md).
-- Bertrand récupère les pièces détachées de [Mimi](../robots/mimi.md) et entreprend de les assembler au sol pour tester le robot qui traverse le labo en virevoltant.
+- Bertrand récupère les pièces détachées de [Mimi](../robots/mimi.md) et entreprend de les assembler au sol pour tester le robot qui traverse le labo en virevoltant. Il range Mimi et va cocher "fixer hélice sur carton" sur la [todolist du Paperboard](../scenes/todolist-du-paperboard.md).
 - Léon accroche le plateau de morpion à [Caro](../robots/caro.md) qui vient le placer au centre du labo.
 - Fabien entame avec [Alan](../robots/alan.md) une conversation sur le genre.
 
