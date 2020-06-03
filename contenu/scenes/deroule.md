@@ -4,14 +4,14 @@ En cours d'écriture
 
 # Acte 1
 
-## Nuit
+### Nuit
 
 *Lent*
 
 - Fabien dort sur scène avec [Dodo](../robots/dodo.md).
 - [Caro](../robots/caro.md) démarre, percute les pieds de Fabien, jette un coup d'oeil sur la cuisine, et longe le corps de Fabien pour se diriger vers l'établi.
 
-##  Matin
+###  Matin
 
 *Calme, lent*
 
@@ -20,7 +20,7 @@ En cours d'écriture
 - Bertrand entre, regarde ses collègues, nourrit [Lucy](../robots/lucy.md), enfile son bleu, récupère 2 verres de bouillon préparé par Léon, en apporte un à Fabien, et s'installe en face d'[Alan](../robots/alan.md). Il entame avec lui une conversation au sujet de sa peur de la mort, et de l'immortalité d'[Alan](../robots/alan.md).
 - Léon range la cuisine et prépare le plateau de morpions.
 
-## Début de journée
+### Début de journée
 
 *Rapide, efficace*
 
@@ -28,14 +28,14 @@ En cours d'écriture
 - Bertrand récupère les pièces détachées de [Mimi](../robots/mimi.md) et entreprend de les assembler au sol pour tester le robot qui traverse le labo en virevoltant sous l'oeil de [Caro](../robots/caro.md). Il range Mimi et va cocher "Fixer hélice sur carton" sur la [todolist du Paperboard](../scenes/todolist-du-paperboard.md).
 - Léon accroche le plateau de morpion à [Caro](../robots/caro.md) qui vient le placer au centre du labo. Léon va nourrir [Lucy](../robots/lucy.md).
 
-## Pause
+### Pause
 
 *Réfléchit, lent*
 
 - Fabien entame avec [Alan](../robots/alan.md) une conversation sur le genre.
 - Léon et Bertrand récupèrent [Turc](../robots/turc.md) et l'installent devant le plateau de morpion. [Caro](../robots/caro.md) filme la partie qui commence entre Léon et [Turc](../robots/turc.md), commandé par Bertrand.
 
-## Travail
+### Travail
 
 *Rapide, efficace*
 
@@ -49,7 +49,7 @@ En cours d'écriture
 - Bertrand récupère [Foot](../robots/foot.md) délicatement et le remet sur son étagère. Puis il finit le montage et les tests sur Klan et va cocher "Finir maquette Klan" sur la [todolist du Paperboard](../scenes/todolist-du-paperboard.md).
 - Fabien entreprend le montage de [Otto](../robots/otto.md).
 
-## Doutes
+### Doutes
 
 *Doux, lent*
 
@@ -61,7 +61,7 @@ En cours d'écriture
 - Les trois chercheurs se lèvent, vont se saisir chacun d'un synthé portable et interprètent un réquiem en traversant le labo.
 - Léon réssucite [Lucy](../robots/lucy.md).
 
-# Rangement
+### Rangement
 
 *Rapide, efficace*
 
@@ -71,7 +71,7 @@ En cours d'écriture
 - Léon aligne les objets sur la table de la cuisine et les range par taille croissante en utilisant un algorythme de tri à bulle. Il coche "Ranger" sur la [todolist du Paperboard](../scenes/todolist-du-paperboard.md) et quitte le labo.
 - Bertrand dévérouille [Klan](../robots/klan.md) et quitte le Labo.
 
-# Soir
+### Soir
 
 *Doux, lent*
 
