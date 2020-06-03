@@ -36,3 +36,7 @@ En cours d'écriture
 - Léon coche "Tester le bon goût d'Écho" et "Ranger" sur la [todolist du Paperboard](../scenes/todolist-du-paperboard.md) et quitte le labo.
 - Fabien sort un rouge à lèvre de sa trousse rose et s'installe à l'établi devant [Caro](../robots/caro.md) pour se maquiller. Il ferme sa trousse rose et la pose dans les bras de [Otto](../robots/otto.md) qui s'étonne. Il se dirige vers
 [Écho](../robots/echo.md) et se place en face de lui pour déclencher un commentaire. Puis il sort du Labo en éteignant [Lucy](../robots/lucy.md) et la lumière.
+
+# Acte 2
+
+- Les trois chercheurs sont installés devant des synthétiseurs et des tablettes graphiques, face au public, en dehors du labo. Fabien et Bertrand interprètent des compositions de musique électronique, pendant que Léon s'adresse au public en dessinant avec son stilet des animations projetées sur le mur.
