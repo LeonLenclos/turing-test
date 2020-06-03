@@ -6,7 +6,7 @@ En cours d'écriture
 
 - Fabien dort sur scène avec [Dodo](../robots/dodo.md).
 - [Caro](../robots/caro.md) démarre, percute les pieds de Fabien, jette un coup d'oeil sur la cuisine, et longe le corps de Fabien pour se diriger vers l'établi.
-- Léon entre, surprend [Caro](../robots/caro.md), allume [Lucy](../robots/lucy.md) et se dirige en fredonnant vers le frigo pour en sortir un navet et un poireau qu'il pose à la cuisine. Puis, il va chercher la visseuse posée sur l'établi, allume la lumière du labo en pointant son pistolet/visseuse vers Fabien. De retour à la cuisine, il entame sa recette de la soupe (épluchage/découpage à la visseuse/infusion à la cafétière électrique) en chantant la chanson du troisième acte : Grand Moyen, Petit.
+- Léon entre, surprend [Caro](../robots/caro.md), allume [Lucy](../robots/lucy.md) et se dirige en fredonnant vers le frigo pour en sortir un navet et un poireau qu'il pose à la cuisine. Puis, il va chercher la visseuse posée sur l'établi, allume la lumière du labo en pointant son pistolet/visseuse vers Fabien. De retour à la cuisine, il entame sa recette de la soupe (épluchage/découpage à la visseuse/infusion à la cafétière électrique) en chantant la chanson du troisième acte : Grand, moyen, petit.
 - Pendant ce temps Fabien se réveille, s'étire, salue Léon, range [Dodo](../robots/dodo.md),et se dirige vers l'établi pour nourrir [Lucy](../robots/lucy.md) et se mettre au travail sur [Mimi](../robots/mimi.md).
 - Bertrand entre, regarde ses collègues, nourrit [Lucy](../robots/lucy.md), enfile son bleu, récupère 2 verres de bouillon préparé par Léon, en apporte un à Fabien, et s'installe en face d'[Alan](../robots/alan.md). Il entame avec lui une conversation au sujet de sa peur de la mort, et de l'immortalité d'[Alan](../robots/alan.md).
 - Léon range la cuisine.
@@ -21,12 +21,12 @@ En cours d'écriture
 - Fabien frappe [Foot](../robots/foot.md) qui réagit en criant de plus en plus fort.
 - [Alan](../robots/alan.md) demande à Fabien d'arrêter d'embêter [Foot](../robots/foot.md).
 - Léon coche "Éprouver Foot" sur la [todolist du Paperboard](../scenes/todolist-du-paperboard.md).
-- Bertrand récupère [Foot](../robots/foot.md) délicatement et le remet sur son étagère. Puis il finit le montage et les test sur Klan et va cocher "Finir maquette Klan" sur la [todolist du Paperboard](../scenes/todolist-du-paperboard.md).
+- Bertrand récupère [Foot](../robots/foot.md) délicatement et le remet sur son étagère. Puis il finit le montage et les tests sur Klan et va cocher "Finir maquette Klan" sur la [todolist du Paperboard](../scenes/todolist-du-paperboard.md).
 - Fabien entreprend le montage de [Otto](../robots/otto.md).
 - Léon installe [Matt](../robots/matt.md) sur la table de la cuisine et entame avec lui une conversation sur la réalité de ses organes sensoriels et sa conscience d'exister.
 - Fabien coche "Assembler Otto" sur la [todolist du Paperboard](../scenes/todolist-du-paperboard.md), entre dans un carton et s'immobilise.
 - Bertrand s'installe à l'établi pour souder Trig.
-- Alan annonce que [Lucy](../robots/lucy.md) que tout le monde a oublié de nourrir est morte.
+- Alan annonce que [Lucy](../robots/lucy.md) est morte.
 - Les trois chercheurs se lèvent, vont se saisir chacun d'un synthé portable et interprètent un réquiem en traversant le labo.
 - Léon réssucite [Lucy](../robots/lucy.md).
 - Fabien fait le ménage.
