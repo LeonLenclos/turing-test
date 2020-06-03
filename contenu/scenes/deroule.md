@@ -132,8 +132,9 @@ Et donc dans l'acte 3 nous on est occupé on peut pas aller lui parler. du coup 
 - Bertrand va vers le frigo et envoye le riff de basse de la TT303. il installe la poignée de [Otto](../robots/otto.md).
 - Léon pose [Otto](../robots/otto.md) sous l'écran, accroche la trousse rose à la poignée, ouvre le délai, prépare [Matt](../robots/matt.md) et [Mimi](../robots/mimi.md), et installe son instrument/jouet. 
 - Fabien prend le micro et annonce : "Humains ! Robots ! C'est la fête..."
-- Bertrand envoie la boite à rhytme TR808.
+- Bertrand envoie la boite à rhytme TR808 et anime [Otto](../robots/otto.md).
 - Léon commence à danser avec [Dodo](../robots/dodo.md) et envoie [Matt](../robots/matt.md) et [Mimi](../robots/mimi.md) à fond à travers le labo.
+- Fabien saute en l'air pour ne pas se faire découper les jambes par [Mimi](../robots/mimi.md).
 - Refrain 1 : Bertrand mute [Alan](../robots/alan.md) avec [Core](../robots/core.md) et envoie les lalala.
 - Fabien attaque le refrain : Grand, moyen, moyen, petit, tout petit, petit, moyen, grand. (bis)
 - Couplet 1 : Bertrand mute les Lalala et relance [Alan](../robots/alan.md).
@@ -144,6 +145,8 @@ Et donc dans l'acte 3 nous on est occupé on peut pas aller lui parler. du coup 
 - Refrain 3
 - Solo 2 : Caro en solo sur le clavier 2.
 - Couplet 3 avec monotron et Lalala
-- Léon envoie le générique mute core, pose les cartons sur les têtes, dessine des visages.
-- Shunt du morçeau et saluts
+- Léon envoie le générique, mute core, pose les cartons sur les têtes, dessine des visages.
+- Shunt du morçeau et saluts.
+
+# Fin
 
