@@ -20,7 +20,7 @@ En cours d'écriture
 - Bertrand finit le montage de [Klan](../robots/klan.md)
 - Fabien frappe [Foot](../robots/foot.md) qui réagit en criant de plus en plus fort.
 - [Alan](../robots/alan.md) demande à Fabien d'arrêter d'embêter [Foot](../robots/foot.md).
-- Léon coche "Éprouver Foot" sur la [todolist du Paperboard](../scenes/todolist-du-paperboard.md).
+- Léon coche "Éprouver Foot" sur la [todolist du Paperboard](../scenes/todolist-du-paperboard.md) puis va parler avec [Alan](../robots/alan.md) en lui demandant pourquoi il dit ça ?
 - Bertrand récupère [Foot](../robots/foot.md) délicatement et le remet sur son étagère. Puis il finit le montage et les tests sur Klan et va cocher "Finir maquette Klan" sur la [todolist du Paperboard](../scenes/todolist-du-paperboard.md).
 - Fabien entreprend le montage de [Otto](../robots/otto.md).
 - Léon installe [Matt](../robots/matt.md) sur la table de la cuisine et entame avec lui une conversation sur la réalité de ses organes sensoriels et sa conscience d'exister.
@@ -35,13 +35,14 @@ En cours d'écriture
 - Bertrand dévérouille [Klan](../robots/klan.md) et quitte le Labo.
 - Léon coche "Tester le bon goût d'Écho" et "Ranger" sur la [todolist du Paperboard](../scenes/todolist-du-paperboard.md) et quitte le labo.
 - Fabien sort un rouge à lèvre de sa trousse rose et s'installe à l'établi devant [Caro](../robots/caro.md) pour se maquiller. Il ferme sa trousse rose et la pose dans les bras de [Otto](../robots/otto.md) qui s'étonne. Il se dirige vers
-[Écho](../robots/echo.md) et se place en face de lui pour déclencher un commentaire. Puis il sort du Labo en éteignant [Lucy](../robots/lucy.md) et la lumière.
+[Écho](../robots/echo.md) et se place en face de lui pour déclencher un commentaire. Puis il déplace Klan vers l'établi et sort du Labo en éteignant [Lucy](../robots/lucy.md) et la lumière.
 
 # Acte 2
 
 - Les trois chercheurs sont installés devant des synthétiseurs et des tablettes graphiques, face au public, en dehors du labo. Fabien et Bertrand interprètent des compositions de musique électronique, pendant que Léon s'adresse au public en dessinant avec son stilet des animations projetées sur le mur.
 
 **Texte :**
+
 Léon : 
 Voilà c'était l'acte 1 de Turing Test. Parce que turing test c'est un spectacle en 3 actes.
 
@@ -58,6 +59,7 @@ Un humain et un robot sont face à face. L'humain peut visualiser le robot en es
 
 **Texte :**
 
+Léon : 
 Turing Test (le titre du spectacle). C'est de l'anglais, ça veut dire le Test de Turing.
 
 Ça fait référence à une experience de pensée qu'a fait un mathématicien qui s'appellait Alan Turing.
@@ -72,10 +74,11 @@ Donc le test de turing en gros c'est pour tester ça. On discute avec quelqu'un 
 
 **Dessin :**
 
-Un humain et le robot parlent d'amour.
+L' humain et le robot parlent d'amour.
 
 **Texte :**
 
+Léon : 
 Alors la premiere fois qu'Alan turing parle de ça, c'est en 1950 et lui il appelle pas ça le Test de Turing. Il appelle ça le jeu de l'immitation. Et en fait c'est un meilleur titre. Parce ce qui est important c'est vraiment la notion d'immitation.
 
 Comment on va faire des machines qui vont immiter l'humain. Alors Alan Turing lui il parle seulement d'imiter la faculté humaine qui est celle de pouvoir avoir une conversation. Mais aujourd'hui quand on parle de test de turing on se permet d'employer l'expression dans un sens plus large pour parler de machines qui vont immiter d'autres facultés humaines.
@@ -92,6 +95,7 @@ L'humain jette le petit robot dans les airs.
 
 **Texte :**
 
+Léon : 
 Et donc dans l'article de 1950 ou Alan Turing parle de ça, il fait une petite prédiction. Selon lui, 50 ans plus tard on verra apparaitre les premières machines qui passeront le test de turing. Donc 50 ans après 1950 ça fait 2000. Et du coup c'est drôle parce que 2000 c'est une année sur laquelle on a pas mal de recul aujourd'hui et on voit bien qu'en 2000 on y etait pas du tout. Enfait encore aujourd'hui des machines qui passent le test de turing ça existe pas. En vérité on en est même très très loin.
 
 Et c'est drôle de voir quelqu'un comme Turing qui était à la fois très intelligent et très pointu dans un domaine, comment il a pu totalement se planter sur une prédiction qui concernait justement sa spécialité. 
@@ -104,16 +108,42 @@ Enfait naturellement on a un peu tendence à surrestimer les machines fabrique. 
 
 **Dessin :**
 
-L'umain utilise le robot pour se déguiser.
+L'humain utilise le robot pour se déguiser.
 
 **Texte :**
 
+Léon : 
 Alors dans l'acte 3 il y a un truc à savoir concernant Alan, donc Alan c'est le robot qui parle. C'est que il est en mode impro.
 
 Donc en fait Alan il a deux modes, le mode normal c'est ce qu'on utilise dans l'acte 1. Alors quand on lui parle on sait pas exactement ce qu'il va nous dire. Mais toutes les phrases quil dit c'est des phrases qu'on a écrite.
 
-Le mode impro c'est pas des phrases qu'on a écrite c'est un algorythme d'apprentiasse profond en réseau de neuronne qui s'est entrainé sur une enorme corpus de +10M de lignes de sous-titre de film. Et donc il a lu et rellu en boucle ces sous-titres et il s'est créé ce qu'on appelle un modèle du langage. Donc comment on fabrique une phrase, quelles sont les differents mots qui existent et comment ils peuvent s'agencer entre eux, etc. Et comme c'était des sous-titre de film, il en a aussi profiter pour se creer un modèle de qu'est ce que c'est qu'une bonne réplique de cinema. Quand on me dit une phrase, quelle est la bonne phrase a répondre.
+Le mode impro c'est pas des phrases qu'on a écrite c'est un algorythme d'apprentiasse profond en réseau de neuronne qui s'est entrainé sur une enorme corpus de +10M de lignes de sous-titre de film. Et donc il a lu et relu en boucle ces sous-titres et il s'est créé ce qu'on appelle un modèle du langage. Donc comment on fabrique une phrase, quelles sont les differents mots qui existent et comment ils peuvent s'agencer entre eux, etc. Et comme c'était des sous-titre de film, il en a aussi profiter pour se creer un modèle de qu'est ce que c'est qu'une bonne réplique de cinema. Quand on me dit une phrase, quelle est la bonne phrase a répondre.
 
 Et donc dans l'acte 3 nous on est occupé on peut pas aller lui parler. du coup on a trouvé une petite astuce c'est qu'on lui fait se parler à lui même. Et puis pendant les refrains on lui fait dire lalala.
 
+- À la fin de sa phrase, Léon envoye [Alan](../robots/alan.md) en mode impro. Les phrases d'[Alan](../robots/alan.md) réapparaissent sur l'écran du labo. 
+
+# Acte 3
+
+- Léon entre dans le Labo et allume [Lucy](../robots/lucy.md). Il a un carton dans les bras. Il en extrait [Jimi](../robots/jimi.md) qu'il branche dans son ampli. Il connecte le trig en entrée et [Jimi](../robots/jimi.md) se met à jouer. La musique de l'acte 3 démarre.
+- Bertrand entre dans le labo, replace [Klan](../robots/klan.md) au centre, et joue aux fléchettes sur la porte avec des aimants.
+- Léon suspend [Foot](../robots/foot.md) au lampadaire et branche le trig. [Foot](../robots/foot.md) se met à crier.
+- Fabien entre, observe [Foot](../robots/foot.md), et installe les claviers en bord de scène.
+- Bertrand va vers le frigo et envoye le riff de basse de la TT303. il installe la poignée de [Otto](../robots/otto.md).
+- Léon pose [Otto](../robots/otto.md) sous l'écran, accroche la trousse rose à la poignée, ouvre le délai, prépare [Matt](../robots/matt.md) et [Mimi](../robots/mimi.md), et installe son instrument/jouet. 
+- Fabien prend le micro et annonce : "Humains ! Robots ! C'est la fête..."
+- Bertrand envoie la boite à rhytme TR808.
+- Léon commence à danser avec [Dodo](../robots/dodo.md) et envoie [Matt](../robots/matt.md) et [Mimi](../robots/mimi.md) à fond à travers le labo.
+- Refrain 1 : Bertrand mute [Alan](../robots/alan.md) avec [Core](../robots/core.md) et envoie les lalala.
+- Fabien attaque le refrain : Grand, moyen, moyen, petit, tout petit, petit, moyen, grand. (bis)
+- Couplet 1 : Bertrand mute les Lalala et relance [Alan](../robots/alan.md).
+- Fabien reprend une phrase improvisée d'Alan en boucle.
+- Refrain 2
+- Couplet 2
+- Solo 1 : Turc en solo sur le clavier 1.
+- Refrain 3
+- Solo 2 : Caro en solo sur le clavier 2.
+- Couplet 3 avec monotron et Lalala
+- Léon envoie le générique mute core, pose les cartons sur les têtes, dessine des visages.
+- Shunt du morçeau et saluts
 
