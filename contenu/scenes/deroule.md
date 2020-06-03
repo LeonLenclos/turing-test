@@ -205,7 +205,6 @@ Léon :
 - Fabien prend le micro et annonce : "Humains ! Robots ! C'est la fête..."
 - Bertrand envoie la boite à rhytme TR808 et anime [Otto](../robots/otto.md).
 - Léon commence à danser avec [Dodo](../robots/dodo.md) et à jouer 
-
 - Léon envoie [Matt](../robots/matt.md) et [Mimi](../robots/mimi.md) à fond à travers le labo.
 - Fabien saute en l'air pour ne pas se faire découper les jambes par [Mimi](../robots/mimi.md).
 
