@@ -189,7 +189,7 @@ Léon :
 
 ## Préparatifs
 
-* Efficace, accelerando*
+*Efficace, accelerando*
 
 - Léon entre dans le Labo et allume [Lucy](../robots/lucy.md). Il a un carton dans les bras. Il en extrait [Jimi](../robots/jimi.md) qu'il branche dans son ampli. Il connecte le trig en entrée et [Jimi](../robots/jimi.md) se met à jouer. La musique de l'acte 3 démarre.
 - Bertrand entre dans le labo, replace [Klan](../robots/klan.md) au centre, et joue aux fléchettes sur la porte avec des aimants.
