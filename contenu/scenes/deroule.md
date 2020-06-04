@@ -99,9 +99,9 @@ L'acte trois je vais pas trop vous en dire pour pas vous gacher la surprise mais
 
 CUBE
 
-Improvisation en D- sur MS 20, synthé modulaire.
-Modules impliqués : Stillson Hammer (14), Clouds (white noise en entrée), Telharmonic, Turing Machine, Harmonic Oscilateur, Twin Waves.
-MS 20 : ligne de basse modulée.
+- Improvisation en D- sur MS 20, synthé modulaire.
+- Modules impliqués : Stillson Hammer (14), Clouds (white noise en entrée), Telharmonic, Turing Machine, Harmonic Oscilateur, Twin Waves.
+- MS 20 : ligne de basse modulée.
 
 ### Dessin
 
@@ -129,11 +129,11 @@ Donc le test de turing en gros c'est pour tester ça. On discute avec quelqu'un 
 
 AMOUR
 
-Improvisation sur MS 20 et Synthé modulaire et Pure Data.
-Stillson Hammer (15), Obstinato de Basse avec Richter Oscilateur et Wasp Filter, apparition de Vowel en fin.
-Autres modules impliqués : Clouds (load 4), Telharmonic, Harmonic Oscilateur.
-MS 20 : improvisation mélodique.
-Pure data : en synchro avec animation.
+- Improvisation sur MS 20 et Synthé modulaire et Pure Data.
+- Stillson Hammer (15), Obstinato de Basse avec Richter Oscilateur et Wasp Filter, apparition de Vowel en fin.
+- Autres modules impliqués : Clouds (load 4), Telharmonic, Harmonic Oscilateur.
+- MS 20 : improvisation mélodique.
+- Pure data : en synchro avec animation.
 
 ### Dessin
 
@@ -159,11 +159,11 @@ Léon :
 
 JE T'AI RATRAPPÉ
 
-Improvisation sur MS 20 et Synthé modulaire et Pure Data.
-apparition progressive de glissando et interventions impromptues de sons synthétiques : 
-Modules impliqués : Stillson Hammer (16), Clouds (load 3 en mode LFO sur Tune), Telharmonic, Harmonic Oscilateur et Richter.
-MS 20 : improvisation dynamique.
-Pure data : en synchro avec animation.
+- Improvisation sur MS 20 et Synthé modulaire et Pure Data.
+- Apparition progressive de glissando et interventions impromptues de sons synthétiques : 
+- Modules impliqués : Stillson Hammer (16), Clouds (load 3 en mode LFO sur Tune), Telharmonic, Harmonic Oscilateur et Richter.
+- MS 20 : improvisation dynamique.
+- Pure data : en synchro avec animation.
 
 ### Dessin
 
@@ -189,11 +189,11 @@ Léon :
 
 LE MASQUE
 
-Improvisation sur MS 20 et Synthé modulaire et Pure Data.
-Balade Tonale (D-)
-Modules impliqués : Stillson Hammer (28), Clouds (White noise en mode LFO sur Tune), Telharmonic, Harmonic Oscilateur et Richter.
-MS 20 : improvisation tonale.
-Pure data : en synchro avec animation.
+- Improvisation sur MS 20 et Synthé modulaire et Pure Data.
+- Balade Tonale (D-)
+- Modules impliqués : Stillson Hammer (28), Clouds (White noise en mode LFO sur Tune), Telharmonic, Harmonic Oscilateur et Richter.
+- MS 20 : improvisation tonale.
+- Pure data : en synchro avec animation.
 
 ### Dessin
 
