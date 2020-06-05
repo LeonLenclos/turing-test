@@ -160,7 +160,7 @@ Léon :
 JE T'AI RATRAPPÉ
 
 - Improvisation sur MS 20 et Synthé modulaire et Pure Data.
-- Apparition progressive de glissando et interventions impromptues de sons synthétiques : 
+- Apparition progressive de glissando et interventions impromptues de sons synthétiques.
 - Modules impliqués : Stillson Hammer (16), Clouds (load 3 en mode LFO sur Tune), Telharmonic, Harmonic Oscilateur et Richter.
 - MS 20 : improvisation dynamique.
 - Pure data : en synchro avec animation.
