@@ -4,8 +4,8 @@ Mise en scène
 Ce texte décrit les principales hypothèses de mise en scène envisagées dès avril 2019 (2 mois avant la première à Graines de Rue). La plupart de ces intentions ont été validées dans [la mise en scène finale](/contenu/scenes/deroule.md).
 
 L'espace est divisé en deux :
-- L'interieur du Labo
-- L'exterieur du Labo
+- L'intérieur du Labo
+- L'extérieur du Labo
 
 Le temps est divisé en trois :
 - Acte 1 : Le GRIM (INT LABO)
@@ -18,11 +18,11 @@ Le temps est divisé en trois :
 
 - Les scènes en solo, duo ou trio sont tuilées de manière à ce qu'il n'y ait pas de rupture temporelle.
 
-- La plus part du temps il se passe plusieurs choses à la fois : souvent 3 scènes (solo) ou 2 scènes (une duo et une solo) en même temps
+- La plupart du temps il se passe plusieurs choses à la fois : souvent 3 scènes (solo) ou 2 scènes (une duo et une solo) en même temps.
 
 - On mélange des temps longs et des temps courts : Pendant qu'une scène "longue" est jouée en solo, deux ou trois autres scènes peuvent être interprétées par les autres.
 
-- Les distributions des scènes sont flottantes : une scène solo de A peut être rejointe par B et devenir duo AB puis être quittée par A pour devenir solo de B.
+- Les distributions des scènes sont évolutives : une scène solo de A peut être rejointe par B et devenir duo AB puis être quittée par A pour devenir solo de B.
 
 - Les scènes sont muettes sauf entre robots et chercheurs.
 
