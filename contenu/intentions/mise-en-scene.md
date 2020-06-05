@@ -14,21 +14,21 @@ Le temps est divisé en trois :
 
 ## acte 1
 
-L'acte 1 raconte une journée de travail du GRIM, dans son laboratoire de recherche en intelligence machine.
+- L'acte 1 raconte une journée de travail du GRIM dans son laboratoire.
 
-Les scènes en solo, duo ou trio sont tuilées de manière à ce qu'il n'y ait pas de rupture ni d'ellipse de temps.
+- Les scènes en solo, duo ou trio sont tuilées de manière à ce qu'il n'y ait pas de rupture temporelle.
 
-La plus part du temps il se passe plusieurs choses à la fois : souvent 3 scènes (solo) ou 2 scènes (une duo et une solo) en même temps
+- La plus part du temps il se passe plusieurs choses à la fois : souvent 3 scènes (solo) ou 2 scènes (une duo et une solo) en même temps
 
-On mélange des temps longs et des temps courts : Pendant qu'une scène "longue" est jouée en solo, deux ou trois autres scènes peuvent être joués par les autres.
+- On mélange des temps longs et des temps courts : Pendant qu'une scène "longue" est jouée en solo, deux ou trois autres scènes peuvent être interprétées par les autres.
 
-Les distributions des scènes sont flottantes : une scène solo de A peut être rejointe par B et devenir duo AB puis être quittée par A pour devenir solo de B.
+- Les distributions des scènes sont flottantes : une scène solo de A peut être rejointe par B et devenir duo AB puis être quittée par A pour devenir solo de B.
 
-Les scènes sont muettes sauf entre robots et chercheurs.
+- Les scènes sont muettes sauf entre robots et chercheurs.
 
-Un ou deux commédiens peuvent être spectateurs d'une scène joué par un ou deux autres.
+- Un ou deux commédiens peuvent être spectateurs d'une scène joué par un ou deux autres.
 
-L'attention du spectateur est souvent focalisée sur une scène "au premier plan". Mais peut être détournée par un évennement qui se joue dans "la profondeur".
+- L'attention du spectateur est souvent focalisée sur une scène "au premier plan", mais peut être détournée par un évènement qui se joue dans "la profondeur".
 
 Le travail sur l'ambiance sonore aide à guider l'attention du spectacteur sur des actions précises.
 
@@ -43,4 +43,4 @@ On produit une série de film courts d'animations avec principalement trois elem
 
 Ambiance festive.
 
-Musique et chorégraphie mélangeant humains et robots.
+- Musique et chorégraphie mélangeant humains et robots.
