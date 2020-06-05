@@ -12,4 +12,4 @@ Ici, des notes d'intentions qui nous ont guidé pendant la création.
 - [Mise en situation](mise-en-situation.md), Trois chercheurs dans un laboratoire éduquent une intelligence artificielle et font du cinéma.
 - [Le laboratoire](le-laboratoire.md), Quelques intentions scénographiques.
 - [Esthétique](esthetique.md), Choix esthétiques concernant les robots du laboratoire.
-- [Les outils](les-outils.md), Réflexion sur la nature des outils que nous utilisons pour produire des sons et des images.
+- [Les outils](les-outils.md), Réflexion sur la nature des outils que nous utilisons pour produire des sons et des images dans l'acte 2.
