@@ -7,7 +7,7 @@ Ici, des notes d'intentions qui nous ont guidé pendant la création.
 
 - [Méthode de travail](methode-de-travail.md), Comment nous écrivons.
 - [Présentation du projet de création](presentation-du-projet-de-creation.md), intentions, motivations, hypothèses de recherche.
-- [Mise en scène](mise-en-scene.md).
+- [Mise en scène](mise-en-scene.md). Hypothèse de mise en scène en trois actes
 - [Pratiques croisées](pratiques-croisees.md), Turing Test est une œuvre théâtrale où sont conviées plusieurs techniques et pratiques artistiques.
 - [Mise en situation](mise-en-situation.md), Trois chercheurs dans un laboratoire éduquent une intelligence artificielle et font du cinéma.
 - [Le laboratoire](le-laboratoire.md), Quelques intentions scénographiques.
