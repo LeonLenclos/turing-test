@@ -44,3 +44,5 @@ Production à l'extérieur du labo d'une série de film courts d'animations avec
 ## acte 3
 
 *L'acte 3 est une tentative de mise en réseau de toutes les machines du GRIM dans le but de créer une oeuvre musicale et chorégraphie mélangeant humains et robots.*
+
+[Retour aux notes d'intention](.)
