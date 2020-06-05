@@ -30,7 +30,7 @@ Le temps est divisé en trois :
 
 - L'attention du spectateur est souvent focalisée sur une scène "au premier plan", mais peut être détournée par un évènement qui se joue dans "la profondeur".
 
-Le travail sur l'ambiance sonore aide à guider l'attention du spectacteur sur des actions précises.
+- Le travail sur l'ambiance sonore aide à guider l'attention du spectacteur sur des actions précises.
 
 ## acte 2
 
