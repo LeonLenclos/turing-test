@@ -36,7 +36,7 @@ Les films et séries
 - **Robots** de  	Chris Wedge et Carlos Saldanha - production 20th Century Fox
 - **Wall-e** de Andrew Stanton - production Pixar Animation Studios
 - **Les nouveaux heros** de Don Hall et Chris Williams - production Walt Disney Pictures
-- **Le géand de fer** de Brad Bird - production	Warner Bros
+- **Le géant de fer** de Brad Bird - production	Warner Bros
 - **Terminator** de	James Cameron - production Hemdale Film Corporation
 - **Le monde sur le fil** de Rainer Werner Fassbinder - production TV (Welt am draht).
 - **2001** de Stanley Kubrick - production	Metro-Goldwyn-Mayer
