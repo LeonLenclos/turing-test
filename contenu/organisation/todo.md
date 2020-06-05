@@ -43,3 +43,5 @@ Liste des choses à faire avec leur degré de priorité. Les tâches sont suppri
     - Finir les finitions des tissus.
         - ajouter des aimants a certains endroits
         - finir d'agrandir / refaire les tissus à cour
+        
+[Retour à l'organisation de la création](.)
