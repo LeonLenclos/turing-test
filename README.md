@@ -28,7 +28,7 @@ Sommaire
 -  [![robot](/ressources/icons/robot.png)La liste des robots du laboratoire](contenu/robots)
 -  [![intentions](/ressources/icons/intentions.png)Des notes d'intentions](contenu/intentions)
 -  [![textes](/ressources/icons/textes.png)Des textes à lire, textes théoriques, petites histoires](contenu/textes)
--  [![scene](/ressources/icons/scene.png)Des premières idées de scènes jusqu'à la continuité finale](contenu/scenes)
+-  [![scene](/ressources/icons/scene.png)Des premières idées de scènes, jusqu'à la continuité finale](contenu/scenes)
 
 et aussi
 
