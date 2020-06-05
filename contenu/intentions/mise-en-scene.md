@@ -14,7 +14,7 @@ Le temps est divisé en trois :
 
 ## acte 1
 
-- L'acte 1 raconte une journée de travail du GRIM dans son laboratoire.
+*L'acte 1 raconte une journée de travail du GRIM dans son laboratoire.*
 
 - Les scènes en solo, duo ou trio sont tuilées de manière à ce qu'il n'y ait pas de rupture temporelle.
 
@@ -26,13 +26,15 @@ Le temps est divisé en trois :
 
 - Les scènes sont muettes sauf entre robots et chercheurs.
 
-- Un ou deux commédiens peuvent être spectateurs d'une scène joué par un ou deux autres.
+- Un ou deux commédiens peuvent être spectateurs d'une scène jouée par un ou deux autres.
 
 - L'attention du spectateur est souvent focalisée sur une scène "au premier plan", mais peut être détournée par un évènement qui se joue dans "la profondeur".
 
-- Le travail sur l'ambiance sonore aide à guider l'attention du spectacteur sur des actions précises.
+- Le travail sur le sound design et les ambiances sonores aide à guider l'attention du spectacteur sur des actions précises.
 
 ## acte 2
+
+*L'acte 2 invite le spectacteur a poser un regard distancié sur ce qui se joue entre l'humain et les machines pendant le spectacle et en dehors.
 
 On produit une série de film courts d'animations avec principalement trois elements :
 - Musiques et sons interprétés en live.
@@ -41,6 +43,4 @@ On produit une série de film courts d'animations avec principalement trois elem
 
 ## acte 3
 
-Ambiance festive.
-
-- Musique et chorégraphie mélangeant humains et robots.
+*L'acte 3 est une tentative de mise en réseau de toutes les machines du GRIM dans le but de créer une oeuvre musicale et chorégraphie mélangeant humains et robots.*
