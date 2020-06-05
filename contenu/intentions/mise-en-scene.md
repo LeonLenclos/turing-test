@@ -34,9 +34,9 @@ Le temps est divisé en trois :
 
 ## acte 2
 
-*L'acte 2 invite le spectacteur a poser un regard distancié sur ce qui se joue entre l'humain et les machines pendant le spectacle et en dehors.
+*L'acte 2 invite le spectacteur a poser un regard distancié sur ce qui se joue entre l'humain et les machines pendant le spectacle et en dehors.*
 
-On produit une série de film courts d'animations avec principalement trois elements :
+Production sur scène d'une série de film courts d'animations avec principalement trois elements :
 - Musiques et sons interprétés en live.
 - Textes adressés au public.
 - Animations dessinées en direct.
