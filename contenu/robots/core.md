@@ -61,7 +61,7 @@ Le server OSC (raspberry) dispose de 4 entrées trig (mini-jack) ainsi que d'une
 
 #### Patch de l'interface trig/RPI
 
-Le GRIM a conçu une interface pour ajouter des entrée trig 10v au raspberry. Pour plus d'informations concernant le circuit électronique, consulter cette [note technique](/contenu/organisation/notes-techniques.md).
+Le GRIM a conçu une interface pour ajouter des entrées trig 10v au raspberry. Pour plus d'informations concernant le circuit électronique, consulter le chapitre *interface Raspberry/Arduino/trig* dans cette [note technique](/contenu/organisation/notes-techniques.md).
 
     VCC     : PIN1      (3.3V)
     GND     : PIN9      (GND)
@@ -92,19 +92,15 @@ Petit fly rack 3U avec une pochette intégrée dans laquelle :
     - 1 alim modulaire
     - La doc
 
-(e.g. *Switch réseau Gigabit RJ45 Netgear ProSAFE GS108GE 8 ports*)
-
 ## Software
 
 Le serveur écoute les trigs sur ses entrées et envoie les messages correspondants sur sa table de dispatch. Voir le [code](/sources/python/core.py)
-
 
 ### Table de dispatch
 
 indique quel message envoyer à quelle adresse ip en fonction des trigs qu'il reçoit
 
 Par exemple : [dispatch_table.py](/sources/python/dispatch_table.py)
-
 
 ### Comment mettre à jour la table de dispatch
 
