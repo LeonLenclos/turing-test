@@ -85,16 +85,16 @@ Le GRIM a conçu une interface pour ajouter des entrées trig 10v au raspberry. 
 - seq out trig 5 ---> A162 doepfer (trig to gate) ---> Foot (gate)
 - seq out trig 7 ---> Synthé modulaire (trig)
 
-*note : l'insertion d'un module trig to gate [A162 doepfer](http://www.doepfer.de/a162.htm) à résolu un problème de déclenchement (impulsion trop courte) de certains robots basé sur un module Arduino.
+*note : l'insertion d'un module trig to gate [A162 doepfer](http://www.doepfer.de/a162.htm) à résolu un problème de déclenchement (impulsion trop courte) de certains robots basé sur un module Arduino.*
 
 ### Intégration
 
 Petit fly rack 3U avec une pochette intégrée dans laquelle :
-    - cables RJ45
-    - 2 alim netgear
-    - 1 alim rbpi
-    - 1 alim modulaire
-    - La doc
+- cables RJ45
+- 2 alim netgear
+- 1 alim rbpi
+- 1 alim modulaire
+- La doc
 
 ## Software
 
