@@ -99,9 +99,9 @@ Plusieurs options possibles pour l'alimentation des robots :
     - Hackage : faire consommer à la batterie ce qu'il faut pour pas qu'elle ne s'etteigne ([exemple](https://hackaday.com/2013/11/08/tricking-a-usb-power-supply/))
     - Achat : trouver des batteries avec un mode 'always on' ([exemple](https://www.amazon.com/gp/product/B00ME3ZH7C/ref=oh_aui_detailpage_o09_s00?ie=UTF8&psc=1))
 
-## arduino, cv et gate.
+## raspberry, arduino, cv et gate.
 
-L'interface arduino/gate ressemble à ça :
+L'interface raspberry/gate ressemble à ça :
 
 ![interface-gate](/ressources/divers/interface-gate.png)
 
