@@ -6,11 +6,9 @@ Core est un robot chef d'orchestre. Il donne le tempo et la partition à toutes 
 
 ![CORE V1](/ressources/photos/CORE_V1.jpg)
 
+Core, le cerveau du GRIM.
 
-Le cerveau de Core
-
-
-## Description technique
+### Description technique
 
 Core est un petit rack format eurorack équipé de :
 - Une clock
@@ -43,14 +41,24 @@ Voilà le schéma du réseau :
 
 ### Patch
 
-#### Trig <-> OSC
+#### Patch interne
 
-Le server OSC (raspberry) dispose de 4 entrées trig (mini-jack) ainsi que d'une sortie ethernet (RJ45). Son rôle est de dispatcher les trigs à différentes adresses IP sous forme de messages OSC.
+- Le server OSC (raspberry) dispose de 4 entrées trig (mini-jack) ainsi que d'une sortie ethernet (RJ45). Son rôle est de dispatcher les trigs à différentes adresses IP sous forme de messages OSC via les deux switch.
+- Les deux switchs sont connectés entre eux
+- Le serveur OSC est connecté à un des deux switchs
+- Les machines du GRIM sont connectées indifféremment à l'un des deux switc
 
-#### Patch
+#### Patch du module maison
 
-En spectacle Core reçoit l'horloge directement de la sortie Trig 3 de la TR 808 et le reset de la TT 303.
-Le générateur d'horloge n'est utilisé qu'en stand alone pour test ou dépannage.
+    VCC     : PIN1      (3.3V)
+    GND     : PIN9      (GND)
+    TRIG 1  : PIN7      GPIO04
+    TRIG 2  : PIN11     GPIO17
+    TRIG 3  : PIN13     GPIO27
+    TRIG 4  : PIN15     GPIO22
+    GND     : PIN 39    (GND)
+
+#### Sorties
 
 Sorties trig-seq :
 - 1 Jimi (trig)
@@ -62,10 +70,11 @@ Sorties trig-seq :
 - 7 Synthé modulaire (trig)
 - 8 Pure Data (rpi 1)
 
-- Les deux switchs sont connectés entre eux
-- Le serveur OSC est connecté à un des deux switchs
-- Les machines du GRIM sont connectées indifféremment à l'un des deux switc
 
+#### Entrées
+
+- En spectacle Core reçoit l'horloge directement de la sortie Trig 3 de la TR 808 et le reset de la TT 303.
+- Le générateur d'horloge n'est utilisé qu'en stand alone pour test ou dépannage.
 
 
 ### Intégration
@@ -80,15 +89,7 @@ Petit fly rack 3U avec une pochette intégrée dans laquelle :
 (e.g. *Switch réseau Gigabit RJ45 Netgear ProSAFE GS108GE 8 ports*)
 
 
-#### Patch du module maison
 
-    VCC     : PIN1      (3.3V)
-    GND     : PIN9      (GND)
-    TRIG 1  : PIN7      GPIO04
-    TRIG 2  : PIN11     GPIO17
-    TRIG 3  : PIN13     GPIO27
-    TRIG 4  : PIN15     GPIO22
-    GND     : PIN 39    (GND)
 
 ### Software
 
