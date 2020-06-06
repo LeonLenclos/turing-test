@@ -8,7 +8,7 @@ Core est un robot chef d'orchestre. Il donne le tempo et la partition à toutes 
 
 Core, le cerveau du GRIM.
 
-## Hardware
+## Description technique
 
 Core est un petit rack format eurorack équipé de :
 - Une clock
@@ -22,7 +22,7 @@ Ses fonctions principales sont :
 - Composer un rythme qui peut être distribué aux machines du GRIM en Trig (minijack) ou en OSC (RJ45)
 - Connecter toutes les machines équipées d'une interface réseau sur un même réseau.
 
-### Réseau
+### Intégration au réseau
 
 Voilà le schéma du réseau :
 
@@ -38,22 +38,30 @@ Voilà le schéma du réseau :
 - PD = pure date sur un Raspberry pour synthèse sonore
 - OGN/OGN VIEW = Sur un PC + un Raspberry, [OGNON](https://github.com/LeonLenclos/Ognon), logiciel de création d'animation en temps réel.
 
-
-### Patch
+### Patch et cablage des modules
 
 #### Entrées
 
-- En spectacle Core reçoit l'horloge directement de la sortie Trig 3 de la TR 808 et le reset de la TT 303.
-- Le générateur d'horloge n'est utilisé qu'en stand alone pour test ou dépannage.
+En spectacle Core reçoit l'horloge directement de la sortie Trig 3 de la TR 808 et le reset de la TT 303. (Le générateur d'horloge n'est utilisé qu'en stand alone pour test ou dépannage.)
+
+- TR 808 out trig 3 ---> in seq click in
+- TT 303 reset out ---> in seq reset
 
 #### Patch interne
 
-- Le server OSC (raspberry) dispose de 4 entrées trig (mini-jack) ainsi que d'une sortie ethernet (RJ45). Son rôle est de dispatcher les trigs à différentes adresses IP sous forme de messages OSC via les deux switch.
+Le server OSC (raspberry) dispose de 4 entrées trig (mini-jack) ainsi que d'une sortie ethernet (RJ45). Son rôle est de dispatcher les trigs à différentes adresses IP sous forme de messages OSC via les deux switch.
+
+- seq out trig 2 ---> in RPI 4
+- seq out trig 3 ---> in RPI 3
+- seq out trig 6 ---> in RPI 2
+- seq out trig 8 ---> in RPI 1
 - Les deux switchs sont connectés entre eux
 - Le serveur OSC est connecté à un des deux switchs
 - Les machines du GRIM sont connectées indifféremment à l'un des deux switchs.
 
-#### Patch du module maison
+#### Patch de l'interface trig/RPI
+
+Le GRIM a conçu une interface pour ajouter des entrée trig 10v au raspberry. Pour plus d'informations concernant le circuit électronique, consulter cette [note technique](/contenu/organisation/notes-techniques.md).
 
     VCC     : PIN1      (3.3V)
     GND     : PIN9      (GND)
@@ -114,33 +122,22 @@ Puis il faut `sudo reboot`
 
 Le programme est lancé au demarrage du raspberry avec une commande dans `/etc/rc.local`
 
-
-
-
-
-
-
-
-
 ## Améliorations envisagées
 
 - Centraliser les alims
 - Voyant quand le serveur OSC est en route (boffement utile)
 - 2 sorties trig pour le serveur OSC
 - Le serveur écoute les messages OSC de type `/trig/ n` et envoie un trig sur la sortie `n`.
-- Bug?? : il semble que core se met en veille (??? à confirmer, pas l'impression d'avoir vu ça depuis la v0)
 - Bug : Core ne peut pas recevoir deux trigs à la fois
 - Bug : Core lag et saute donc des pas quand il cherche à envoyer de l'osc à un ordi éteint.
-- Rajouter un bouton trig vers l'entrée FWD du module Switch by RYO
 
 ## Moment envisagé pour la construction et/ou les améliorations.
 
 Du 15/3/2019 au 31/3/2019 à Graulhet puis résidence 104 du 15 au 21 avril 2019
 
+## note concernant l'utilisation du PATHS by RYO (abandonné)
 
-##
-#### Module Switch by RYO
-
+A une certaine phase de développement du robot, nous avons été amené à télécommander le patch des sorties trig du séquenceur avec un module PATHS de chez RYO.
 Ce module permet de basculer l'envoi de trig au raspberry.
 En position 1 (LED allumée en haut) le trig Pure data venant de Core est envoyée vers le raspberry, le trig d'Alan est envoyé vers une sortie vide.
 En position 2 (LED allumée un cran plus bas) le trig Pure data est envoyé vers une sortie vide venant de Core, le trig d'Alan est envoyée vers le raspberry.
