@@ -47,14 +47,14 @@ En spectacle Core reçoit l'horloge directement de la sortie Trig 3 de la TR 808
 - TR 808 out trig 3 ---> in seq click in
 - TT 303 reset out ---> in seq reset
 
-#### Patch interne
+#### Patch OSC
 
 Le server OSC (raspberry) dispose de 4 entrées trig (mini-jack) ainsi que d'une sortie ethernet (RJ45). Son rôle est de dispatcher les trigs à différentes adresses IP sous forme de messages OSC via les deux switch.
 
-- seq out trig 2 ---> in RPI 4
-- seq out trig 3 ---> in RPI 3
-- seq out trig 6 ---> in RPI 2
-- seq out trig 8 ---> in RPI 1
+- seq out trig 2 ---> in RPI 4 ---> Alan talk_alone
+- seq out trig 3 ---> in RPI 3 ---> Alan lalala
+- seq out trig 6 ---> in RPI 2 ---> Lucy
+- seq out trig 8 ---> in RPI 1 ---> Pure Data
 - Les deux switchs sont connectés entre eux
 - Le serveur OSC est connecté à un des deux switchs
 - Les machines du GRIM sont connectées indifféremment à l'un des deux switchs.
@@ -65,23 +65,18 @@ Le GRIM a conçu une interface pour ajouter des entrées trig 10v au raspberry. 
 
     VCC     : PIN1      (3.3V)
     GND     : PIN9      (GND)
-    TRIG 1  : PIN7      GPIO04
-    TRIG 2  : PIN11     GPIO17
-    TRIG 3  : PIN13     GPIO27
-    TRIG 4  : PIN15     GPIO22
+    RPI 1  : PIN7      GPIO04
+    RPI 2  : PIN11     GPIO17
+    RPI 3  : PIN13     GPIO27
+    RPI 4  : PIN15     GPIO22
     GND     : PIN 39    (GND)
 
-#### Sorties
+#### Patch analogique
 
-Sorties trig-seq :
-- 1 Jimi (trig)
-- 2 Alan talk_alone (rpi 4)
-- 3 Alan lalala (rpi 3)
-- 4 Écho (trig)
-- 5 Foot (trig)
-- 6 Lucy (rpi 2)
-- 7 Synthé modulaire (trig)
-- 8 Pure Data (rpi 1)
+- seq out trig 1 ---> A162 doepfer (trig to gate) ---> Jimi (gate)
+- seq out trig 4 ---> Écho (trig)
+- seq out trig 5 ---> A162 doepfer (trig to gate) ---> Foot (gate)
+- seq out trig 7 ---> Synthé modulaire (trig)
 
 ### Intégration
 
