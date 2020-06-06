@@ -153,7 +153,7 @@ Pour passer de la position 1 à 2 et inversement, il suffit d'appuyer sur le bou
  - 3   0   AL/
  - 0   4   /AL
  
- *Avec : *
+ *Avec* :
  - 1 Pure Data in
  - 2 Pure Data out
  - 3 Alan in
