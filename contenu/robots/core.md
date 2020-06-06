@@ -68,7 +68,7 @@ Le server OSC (raspberry) dispose de 4 entrées trig (mini-jack) ainsi que d'une
 
 #### Patch de l'interface trig/RPI
 
-Le GRIM a conçu une interface pour ajouter des entrées trig 10v au raspberry. Pour plus d'informations concernant le circuit électronique, consulter le chapitre *interface Raspberry/Arduino/trig* dans cette [note technique](/contenu/organisation/notes-techniques.md).
+Le GRIM a conçu une interface pour ajouter les entrées trig 10v au raspberry. Pour plus d'informations concernant le circuit électronique, consulter le chapitre *interface Raspberry/Arduino/trig* dans cette [note technique](/contenu/organisation/notes-techniques.md).
 
     VCC     : PIN1      (3.3V)
     GND     : PIN9      (GND)
