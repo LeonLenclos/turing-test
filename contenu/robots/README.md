@@ -24,6 +24,7 @@ Les Robots
 - [Maki](maki.md)
 - [Matt](matt.md) (fiche à rédiger)
 - [Lisa](lisa.md) (fiche à rédiger)
+- [Dodo](dodo.md) (fiche à rédiger)
 
 Autres idées de robots :
 
