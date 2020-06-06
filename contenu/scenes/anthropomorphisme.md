@@ -19,13 +19,13 @@ Est-ce que le sadisme de celui qui tape dans notre robot, Foot, est comparable �
 Est-ce que ce n'est pas de construire ce robot qui est sadique ?
 
 
-### Proteger un corps par sa capactité à souffrir
+### Protéger un corps par sa capactité à souffrir
 
 Il souffre donc on ne le tape pas donc il s'abime moins vite.
 
-### Est-ce  vraiment de la douleur
+### Est-ce vraiment de la douleur
 
-C'est quoi la difference entre Foot qui souffre et un humain qui souffre ?
+C'est quoi la différence entre Foot qui souffre et un humain qui souffre ?
 
 Mise en scène de foot, hypothèses de travail.
 --------------------------------------------
@@ -42,8 +42,8 @@ Mise en scène de foot, hypothèses de travail.
 
 1. Léon vient avec un carton et un bloc note et demande à Fabien de donner un coup de pied dans le carton. Il prend des notes
 2. Plus tard, Bertrand et Fabien de temps en temps, l'air de rien, machinalement, donnent des petits coups de pied dans des cartons.
-3. Un jour, lors d'un petit coup de pied, un carton gémit. Très leger etonnement se dessine sur le visage de celui qui l'a frappé. Peut s'en suivre un test informel de foot. Coups de pied de differentes intensités, et autres interactions.
-4. (optionel) Un jour, foot est évoqué pour répondre à des questions precises d'intelligence machine parmi celles évoquées dans la premiere partie de ce fichier.
+3. Un jour, lors d'un petit coup de pied, un carton gémit. Très léger étonnement se dessine sur le visage de celui qui l'a frappé. Peut s'ensuivre un test informel de foot. Coups de pied de différentes intensités, et autres interactions.
+4. (optionnel) Un jour, foot est évoqué pour répondre à des questions précises d'intelligence machine parmi celles évoquées dans la première partie de ce fichier.
 
 
 #### Exemple de texte d'intro du test
