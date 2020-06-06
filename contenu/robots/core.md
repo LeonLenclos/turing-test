@@ -2,7 +2,7 @@
 
 ## Description générale
 
-Core est un robot chef d'orchestre. Il donne le tempo à toutes les autres créatures artificielles du Labo.
+Core est un robot chef d'orchestre. Il donne le tempo et la partition à toutes les autres créatures artificielles du Labo.
 
 ![CORE V1](/ressources/photos/CORE_V1.jpg)
 
@@ -15,6 +15,7 @@ Le cerveau de Core
 Core est un petit rack format eurorack équipé de :
 - Une clock
 - Un sequenceur de trig
+- Un utilitaire de trig (retard et allongement)
 - Un serveur OSC
 - Un switch ethernet
 
@@ -28,23 +29,24 @@ Ses fonctions principales sont :
 
 Le server OSC (raspberry) dispose de 4 entrées trig (mini-jack) ainsi que d'une sortie ethernet (RJ45). Son rôle est de dispatcher les trigs à différentes adresses IP sous forme de messages OSC.
 
-#### Patch RJ45
+#### Patch
+
+En spectacle Core reçoit l'horloge directement de la sortie Trig 3 de la TR 808 et le reset de la TT 303.
+Le générateur d'horloge n'est utilisé qu'en stand alone pour test ou dépannage.
+
+Sorties trig-seq :
+- 1 Jimi (trig)
+- 2 Alan talk_alone (rpi 4)
+- 3 Alan lalala (rpi 3)
+- 4 Écho (trig)
+- 5 Foot (trig)
+- 6 Lucy (rpi 2)
+- 7 Synthé modulaire (trig)
+- 8 Pure Data (rpi 1)
 
 - Les deux switchs sont connectés entre eux
 - Le serveur OSC est connecté à un des deux switchs
-- Les machines du GRIM sont connectées indifféremment à l'un des deux switchs
-
-#### Patch provisoire
-
-Sorties trig-seq :
-- 1 Trig ber
-- 2 Alan lalaléla (rpi 3)
-- 3 SQ1
-- 4 Lucy (rpi 2)
-- 5 Jimi
-- 6 Acte 2 (rpi 1)
-- 7 Alan talk_alone (rpi 4)
-- 8 Beatbox
+- Les machines du GRIM sont connectées indifféremment à l'un des deux switc
 
 ### Réseau
 
@@ -58,44 +60,26 @@ Voilà le schéma du réseau :
 
 - Foot, Jimi et Echo sont des robots en arduino avec un entrée gate
 - Lucy et Alan des robots qui fonctionnent en raspberry ou PC.
-- SEQ = [doepfer A 157-1/2/3](http://www.doepfer.de/a157.htm)
-- CLK = [Clock O'Pawn Shakmat Modular](http://www.shakmatmodular.com/products/cop.html)
+- SEQ = séquenceur de trig [doepfer A 157-1/2/3](http://www.doepfer.de/a157.htm)
+- CLK = générateur d'horloge [Clock O'Pawn Shakmat Modular](http://www.shakmatmodular.com/products/cop.html)
 - OSC SERVEUR = Raspberry Pi
+- SWITCH = Gigabit RJ45 Netgear ProSAFE GS108GE 8 ports
 - Mod = Synthé modulaire
 - PD = pure date sur un Raspberry pour synthèse sonore
 - OGN/OGN VIEW = Sur un PC + un Raspberry, [OGNON](https://github.com/LeonLenclos/Ognon), logiciel de création d'animation en temps réel.
 
 
-### Electronique
+### Intégration
 
-- Un commutateur 8 ports (e.g. *Switch réseau Gigabit RJ45 Netgear ProSAFE GS108GE 8 ports*)
-- Un générateur d'horloge 
-- Un sequenceur trig
-- Un raspberry qui dispatche du OSC sur du Trig et vice versa
-- Un module Switch pour les trig (switch by RYO), situé au dos de Core
+Petit fly rack 3U avec une pochette intégrée dans laquelle :
+    - cables RJ45
+    - 2 alim netgear
+    - 1 alim rbpi
+    - 1 alim modulaire
+    - La doc
 
-#### Module Switch by RYO
+(e.g. *Switch réseau Gigabit RJ45 Netgear ProSAFE GS108GE 8 ports*)
 
-Ce module permet de basculer l'envoi de trig au raspberry.
-En position 1 (LED allumée en haut) le trig Pure data venant de Core est envoyée vers le raspberry, le trig d'Alan est envoyé vers une sortie vide.
-En position 2 (LED allumée un cran plus bas) le trig Pure data est envoyé vers une sortie vide venant de Core, le trig d'Alan est envoyée vers le raspberry.
-Pour passer de la position 1 à 2 et inversement, il suffit d'appuyer sur le bouton FWD. A l'avenir, il suffira d'envoyer un trig dans l'entrée FWD du switch.
-
-Les connexions du switch sont les suivantes
-
-Le bouton steps est sur la position 2
-
-Switching
- - 1   2   PD/PD
- - 0   0
- - 3   0   AL/
- - 0   4   /AL
- 
- Avec : 
- - 1 Pure Data in
- - 2 Pure Data out
- - 3 Alan in
- - 4 Alan out
 
 #### Patch du module maison
 
@@ -150,13 +134,31 @@ Le programme est lancé au demarrage du raspberry avec une commande dans `/etc/r
 
 Du 15/3/2019 au 31/3/2019 à Graulhet puis résidence 104 du 15 au 21 avril 2019
 
+
+#### Module Switch by RYO
+
+Ce module permet de basculer l'envoi de trig au raspberry.
+En position 1 (LED allumée en haut) le trig Pure data venant de Core est envoyée vers le raspberry, le trig d'Alan est envoyé vers une sortie vide.
+En position 2 (LED allumée un cran plus bas) le trig Pure data est envoyé vers une sortie vide venant de Core, le trig d'Alan est envoyée vers le raspberry.
+Pour passer de la position 1 à 2 et inversement, il suffit d'appuyer sur le bouton FWD. A l'avenir, il suffira d'envoyer un trig dans l'entrée FWD du switch.
+
+Les connexions du switch sont les suivantes
+
+Le bouton steps est sur la position 2
+
+Switching
+ - 1   2   PD/PD
+ - 0   0
+ - 3   0   AL/
+ - 0   4   /AL
+ 
+ Avec : 
+ - 1 Pure Data in
+ - 2 Pure Data out
+ - 3 Alan in
+ - 4 Alan out
+
 [Retour à la liste des robots du laboratoire](.)
 
-## Logistique
 
-Petit fly rack avec une pochette intégrée dans laquelle :
-    - cables RJ45
-    - 2 alim netgear
-    - 1 alim rbpi
-    - 1 alim modulaire
-    - La doc
+
