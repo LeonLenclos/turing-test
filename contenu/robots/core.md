@@ -28,8 +28,8 @@ Voilà le schéma du réseau :
 
 ![grim-network](/ressources/divers/grim-network.png)
 
-- Foot, Jimi et Echo sont des robots en arduino avec un entrée gate
-- Lucy et Alan des robots qui fonctionnent en raspberry ou PC.
+- [Foot](../robots/foot.md), [Jimi](../robots/jimi.md) et [Écho](../robots/echo.md) sont des robots en arduino avec un entrée gate
+- [Lucy](../robots/lucy.md) et [Alan](../robots/alan.md) des robots qui fonctionnent en raspberry ou PC.
 - SEQ = séquenceur de trig [doepfer A 157-1/2/3](http://www.doepfer.de/a157.htm)
 - CLK = générateur d'horloge [Clock O'Pawn Shakmat Modular](http://www.shakmatmodular.com/products/cop.html)
 - OSC SERVEUR = Raspberry Pi équipé d'une interface d'entrée 4 trigs
