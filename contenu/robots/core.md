@@ -135,25 +135,25 @@ Le programme est lancé au demarrage du raspberry avec une commande dans `/etc/r
 
 Du 15/3/2019 au 31/3/2019 à Graulhet puis résidence 104 du 15 au 21 avril 2019
 
-## note concernant l'utilisation du PATHS by RYO (abandonné)
+#### note concernant l'utilisation du PATHS by RYO (abandonné)
 
-A une certaine phase de développement du robot, nous avons été amené à télécommander le patch des sorties trig du séquenceur avec un module PATHS de chez RYO.
+*A une certaine phase de développement du robot, nous avons été amené à télécommander le patch des sorties trig du séquenceur avec un module PATHS de chez RYO.
 Ce module permet de basculer l'envoi de trig au raspberry.
 En position 1 (LED allumée en haut) le trig Pure data venant de Core est envoyée vers le raspberry, le trig d'Alan est envoyé vers une sortie vide.
 En position 2 (LED allumée un cran plus bas) le trig Pure data est envoyé vers une sortie vide venant de Core, le trig d'Alan est envoyée vers le raspberry.
-Pour passer de la position 1 à 2 et inversement, il suffit d'appuyer sur le bouton FWD. A l'avenir, il suffira d'envoyer un trig dans l'entrée FWD du switch.
+Pour passer de la position 1 à 2 et inversement, il suffit d'appuyer sur le bouton FWD. A l'avenir, il suffira d'envoyer un trig dans l'entrée FWD du switch.*
 
-Les connexions du switch sont les suivantes
+*Les connexions du switch sont les suivantes*
 
-Le bouton steps est sur la position 2
+*Le bouton steps est sur la position 2*
 
-Switching
+*Switching*
  - 1   2   PD/PD
  - 0   0
  - 3   0   AL/
  - 0   4   /AL
  
- Avec : 
+ *Avec : *
  - 1 Pure Data in
  - 2 Pure Data out
  - 3 Alan in
