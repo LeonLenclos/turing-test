@@ -13,7 +13,7 @@ Core, le cerveau du GRIM.
 Core est un petit rack format eurorack équipé de :
 - Une clock
 - Un sequenceur de trig
-- Un utilitaire de trig (retard et allongement)
+- Un utilitaire de trig (retard et trig to gate)
 - Un serveur OSC
 - Un switch ethernet
 
