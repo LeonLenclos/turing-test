@@ -281,4 +281,6 @@ Léon :
 - Le public est invité à parler avec [Alan](../robots/alan.md).
 - Bertrand, Fabien et Léon répondent échangent avec le public et font tester certains robots.
 
+[retour aux idées de scènes](.)
+
 
