@@ -45,7 +45,7 @@ Voilà le schéma du réseau :
 En spectacle Core reçoit l'horloge directement de la sortie Trig 3 de la TR 808 et le reset de la TT 303. (Le générateur d'horloge n'est utilisé qu'en stand alone pour test ou dépannage.)
 
 - TR 808 out trig 3 ---> in seq click in
-- TT 303 reset out ---> in seq reset
+- TT 303 run out ---> in seq reset
 
 #### Patch OSC
 
@@ -79,6 +79,13 @@ Le GRIM a conçu une interface pour ajouter des entrées trig 10v au raspberry. 
 - seq out trig 7 ---> Synthé modulaire (trig)
 
 *note : l'insertion d'un module trig to gate [A162 doepfer](http://www.doepfer.de/a162.htm) à resolu un problème de déclenchement (impulsion trop courte) de certains robots basé sur un module Arduino.
+
+#### Patch externe
+
+Core intervient dans un environnement de production musicale dont la partie rythmique est prise en charge par une TR 808 (boite à Rythme) et une TT 303 (Bass Line, clone de TB 303). Dans cette configuration, La TT 303 est maitre.
+
+- TT 303 clock out ---> TR 808 Sync clock in (SYNC-DIN 5 broches / Sync ext sur TR  808)
+- TT 303 run out ---> TR 808 Sync reset in (SYNC-DIN 5 broches / Sync ext sur TR  808)
 
 ### Intégration
 
