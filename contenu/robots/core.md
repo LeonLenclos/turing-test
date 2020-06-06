@@ -20,8 +20,26 @@ Core est un petit rack format eurorack équipé de :
 - Un switch ethernet
 
 Ses fonctions principales sont :
+
 - Composer un rythme qui peut être distribué aux machines du GRIM en Trig (minijack) ou en OSC (RJ45)
 - Connecter toutes les machines équipées d'une interface réseau sur un même réseau.
+
+### Réseau
+
+Voilà le schéma du réseau :
+
+![grim-network](/ressources/divers/grim-network.png)
+
+- Foot, Jimi et Echo sont des robots en arduino avec un entrée gate
+- Lucy et Alan des robots qui fonctionnent en raspberry ou PC.
+- SEQ = séquenceur de trig [doepfer A 157-1/2/3](http://www.doepfer.de/a157.htm)
+- CLK = générateur d'horloge [Clock O'Pawn Shakmat Modular](http://www.shakmatmodular.com/products/cop.html)
+- OSC SERVEUR = Raspberry Pi
+- SWITCH = Gigabit RJ45 Netgear ProSAFE GS108GE 8 ports
+- Mod = Synthé modulaire
+- PD = pure date sur un Raspberry pour synthèse sonore
+- OGN/OGN VIEW = Sur un PC + un Raspberry, [OGNON](https://github.com/LeonLenclos/Ognon), logiciel de création d'animation en temps réel.
+
 
 ### Patch
 
@@ -48,25 +66,6 @@ Sorties trig-seq :
 - Le serveur OSC est connecté à un des deux switchs
 - Les machines du GRIM sont connectées indifféremment à l'un des deux switc
 
-### Réseau
-
-Core est une machine pour synchroniser et mettre en reseau toutes les machines du Grim.
-
-Voilà le schéma du réseau :
-
-![grim-network](/ressources/divers/grim-network.png)
-
-(source : [grim-network.dia](/sources/dia/grim-network.dia))
-
-- Foot, Jimi et Echo sont des robots en arduino avec un entrée gate
-- Lucy et Alan des robots qui fonctionnent en raspberry ou PC.
-- SEQ = séquenceur de trig [doepfer A 157-1/2/3](http://www.doepfer.de/a157.htm)
-- CLK = générateur d'horloge [Clock O'Pawn Shakmat Modular](http://www.shakmatmodular.com/products/cop.html)
-- OSC SERVEUR = Raspberry Pi
-- SWITCH = Gigabit RJ45 Netgear ProSAFE GS108GE 8 ports
-- Mod = Synthé modulaire
-- PD = pure date sur un Raspberry pour synthèse sonore
-- OGN/OGN VIEW = Sur un PC + un Raspberry, [OGNON](https://github.com/LeonLenclos/Ognon), logiciel de création d'animation en temps réel.
 
 
 ### Intégration
