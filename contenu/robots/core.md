@@ -8,7 +8,7 @@ Core est un robot chef d'orchestre. Il donne le tempo et la partition à toutes 
 
 Core, le cerveau du GRIM.
 
-### Description technique
+## Hardware
 
 Core est un petit rack format eurorack équipé de :
 - Une clock
@@ -32,7 +32,7 @@ Voilà le schéma du réseau :
 - Lucy et Alan des robots qui fonctionnent en raspberry ou PC.
 - SEQ = séquenceur de trig [doepfer A 157-1/2/3](http://www.doepfer.de/a157.htm)
 - CLK = générateur d'horloge [Clock O'Pawn Shakmat Modular](http://www.shakmatmodular.com/products/cop.html)
-- OSC SERVEUR = Raspberry Pi
+- OSC SERVEUR = Raspberry Pi équipé d'une interface d'entrée 4 trigs
 - SWITCH = Gigabit RJ45 Netgear ProSAFE GS108GE 8 ports
 - Mod = Synthé modulaire
 - PD = pure date sur un Raspberry pour synthèse sonore
@@ -41,12 +41,17 @@ Voilà le schéma du réseau :
 
 ### Patch
 
+#### Entrées
+
+- En spectacle Core reçoit l'horloge directement de la sortie Trig 3 de la TR 808 et le reset de la TT 303.
+- Le générateur d'horloge n'est utilisé qu'en stand alone pour test ou dépannage.
+
 #### Patch interne
 
 - Le server OSC (raspberry) dispose de 4 entrées trig (mini-jack) ainsi que d'une sortie ethernet (RJ45). Son rôle est de dispatcher les trigs à différentes adresses IP sous forme de messages OSC via les deux switch.
 - Les deux switchs sont connectés entre eux
 - Le serveur OSC est connecté à un des deux switchs
-- Les machines du GRIM sont connectées indifféremment à l'un des deux switc
+- Les machines du GRIM sont connectées indifféremment à l'un des deux switchs.
 
 #### Patch du module maison
 
@@ -70,13 +75,6 @@ Sorties trig-seq :
 - 7 Synthé modulaire (trig)
 - 8 Pure Data (rpi 1)
 
-
-#### Entrées
-
-- En spectacle Core reçoit l'horloge directement de la sortie Trig 3 de la TR 808 et le reset de la TT 303.
-- Le générateur d'horloge n'est utilisé qu'en stand alone pour test ou dépannage.
-
-
 ### Intégration
 
 Petit fly rack 3U avec une pochette intégrée dans laquelle :
@@ -88,22 +86,19 @@ Petit fly rack 3U avec une pochette intégrée dans laquelle :
 
 (e.g. *Switch réseau Gigabit RJ45 Netgear ProSAFE GS108GE 8 ports*)
 
-
-
-
-### Software
+## Software
 
 Le serveur écoute les trigs sur ses entrées et envoie les messages correspondants sur sa table de dispatch. Voir le [code](/sources/python/core.py)
 
 
-#### Table de dispatch
+### Table de dispatch
 
 indique quel message envoyer à quelle adresse ip en fonction des trigs qu'il reçoit
 
 Par exemple : [dispatch_table.py](/sources/python/dispatch_table.py)
 
 
-#### Comment mettre à jour la table de dispatch
+### Comment mettre à jour la table de dispatch
 
 Pour se connecter en ssh à core
 
@@ -115,9 +110,17 @@ Puis il faut modifier `~/dispatch_table.py`
 
 Puis il faut `sudo reboot`
 
-#### Notes techniques
+### Notes techniques
 
 Le programme est lancé au demarrage du raspberry avec une commande dans `/etc/rc.local`
+
+
+
+
+
+
+
+
 
 ## Améliorations envisagées
 
@@ -135,6 +138,7 @@ Le programme est lancé au demarrage du raspberry avec une commande dans `/etc/r
 Du 15/3/2019 au 31/3/2019 à Graulhet puis résidence 104 du 15 au 21 avril 2019
 
 
+##
 #### Module Switch by RYO
 
 Ce module permet de basculer l'envoi de trig au raspberry.
