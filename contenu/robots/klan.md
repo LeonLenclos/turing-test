@@ -2,7 +2,7 @@
 
 ## Description générale
 
-Klan est un projet de robot doté de capacités de locomotion évoluées qui lui permettront de se déplacer dans des environnements encombrés. Il sera équipé de 8 jambes actionnées par deux moteurs indépendants. Dans sa version actuelle, Klan est un prototype doté uniquement de 4 jambes et d'un moteur et ne peut se déplacer en autonomie. Il apparaît dans le spectacle comme "un robot en cours d'élaboration"   
+Klan est un projet de robot doté de capacités de locomotion évoluées qui lui permettront de se déplacer dans des environnements encombrés. Il sera équipé de 8 jambes actionnées par deux moteurs indépendants. Dans sa version actuelle, Klan est un prototype doté uniquement de 4 jambes et d'un seul moteur et ne peut se déplacer en autonomie. Il apparaît dans le spectacle comme "un robot en cours d'élaboration"   
 
 ![Klan](/ressources/photos/KLAN_1_SMALL.jpg)
 
