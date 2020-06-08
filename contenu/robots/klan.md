@@ -1,20 +1,22 @@
-# Klan V 0.1
+# Klan V 0.2
 
 ## Description générale
 
-Klan est un robot doté de capacités de locomotion évoluées qui lui permettent de se déplacer dans des environnements encombrés. Il est équipé de 8 jambes actionnées par deux moteurs indépendants. Sa structure s'inspire du ([mécanisme de Klann/Klann's linkage](https://fr.wikipedia.org/wiki/Mécanisme_de_Klann)), développée par Joe Klann en 1994.
+Klan est un projet de robot doté de capacités de locomotion évoluées qui lui permettront de se déplacer dans des environnements encombrés. Il sera équipé de 8 jambes actionnées par deux moteurs indépendants. Dans sa version actuelle, Klan est un prototype doté uniquement de 4 jambes et d'un moteur et ne peut se déplacer en autonomie. Il apparaît dans le spectacle comme "un robot en cours d'élaboration"   
+
+![Klan](/ressources/photos/KLAN_1_SMALL.jpg)
+
+Sa structure s'inspire du ([mécanisme de Klann/Klann's linkage](https://fr.wikipedia.org/wiki/Mécanisme_de_Klann)), développée par Joe Klann en 1994.
 
 ![](/ressources/divers/F4-motion.gif)
 
 Animation répétitive du mécanisme de Klan
 
-
 ## Allure
 
-Klan mesure environ 1,4m de haut pour 1,2m de long et 0,8m de large.
+Klan V 0.2 mesure environ 1,4m de haut pour 1,2m de long et 0,8m de large.
 Sa structure ouverte et sans carter laisse apparaître l'intégralité du mécanisme.
-Chaque jambe a l'apparence d'un tibia et d'un pied humain.
-L'ensemble simule une marche synchronisée d'un groupe de quatre humains faisant les 100 pas.
+Une version plus petite de Klan est à l'étude et devrait mesurer 70cm x 60cm x 50cm.
 
 ![](/ressources/croquis/klan_croquis.jpeg)
 
@@ -145,10 +147,11 @@ fonction boucle()
 ```
 ## Améliorations envisagées
 
-A venir
+Fabriquer une version de Klan plus petit capable de se mouvoir en autonomie
 
 ## Moment envisagé pour la construction et/ou les améliorations.
 
 Construction mécanisme du 15/3/2019 au 31/3/2019 à Graulhet.
+Améliorations : 2020/2021
 
 [Retour à la liste des robots du laboratoire](.)
