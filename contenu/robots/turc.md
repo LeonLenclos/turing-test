@@ -4,7 +4,7 @@
 
 Turc est un robot qui sait jouer au morpion, mais qui n'aime pas perdre.
 
-![Turc-Vue d'ensemble](/ressources/photos/turc5.JPG)
+![Turc au 104](/ressources/photos/TURC_1_SMALL.jpg)
 
 ## Allure
 
@@ -15,6 +15,8 @@ C'est un quadripède avec un bras articulé au bout duquel est fixé un électro
 - Parties fixes et mobiles en Aluminium. Rondelle en Téflon PTFE et Visserie BTR M10 avec écrous Stop
 - Verins pneumatiques
 - articulations sur paliers et rotules
+
+![Turc au 104](/ressources/photos/TURC_3_SMALL.jpg)
 
 ### Note sur l'entretien des verins.
 
