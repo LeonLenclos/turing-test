@@ -18,20 +18,19 @@ Les Robots
 - [Core](core.md)
 - [Caro](caro.md)
 - [Mimi](mimi.md)
-- [Toto](toto.md)
 - [Turc](turc.md)
-- [Dedo](dedo.md)
 - [Maki](maki.md)
 - [Matt](matt.md) (fiche à rédiger)
-- [Lisa](lisa.md) (fiche à rédiger)
 - [Dodo](dodo.md) (fiche à rédiger)
 
 Autres idées de robots :
 
+- [Dedo](dedo.md)
+- [Toto](toto.md)
+- [Lisa](lisa.md) (fiche à rédiger)
 - [Robot Poète](robot-poete.md)
 - [Robot qui applaudit](robot-qui-applaudit.md)
 - [Robot taciturne](robot-taciturne.md)
-
 
 Rédaction des fiches
 ---------------------
