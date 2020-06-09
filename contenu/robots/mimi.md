@@ -33,8 +33,7 @@ Code arduino disponible [ici](https://github.com/LeonLenclos/turing-test/blob/ma
 - Shield fait maison comportant un récepteur infrarouge et une fiche pour brancher l'ESC.
 - Si on regarde le récepteur infrarouge de face (croix métallique X visible), l'avant du Shield est placé sur l'arduino sur les PinsDigital 9 jusqu'à GND. 
 - A l'arrière le shield est placé sur la Pin 5V et va jusqu'à la fin de la barette Power, une branche du connecteur dépasse de la barette.
-
-Le connecteur de l'ESC doit être branché avec le cable brun à droite et le jaune à gauche lorsqu'on regarde le récepteur infrarouge de face.
+- Le connecteur de l'ESC doit être branché avec le cable brun à droite et le jaune à gauche lorsqu'on regarde le récepteur infrarouge de face.
 
 ### Telecommande
 
