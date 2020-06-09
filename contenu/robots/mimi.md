@@ -49,3 +49,6 @@ Code arduino disponible [ici](https://github.com/LeonLenclos/turing-test/blob/ma
 ## Améliorations envisagées
 
 Bouton suicide à placer sur le Shield. Ce bouton doit déclencher après un délai de temporisation la fonction suicide.
+
+
+[Retour à la liste des robots du laboratoire](.)
