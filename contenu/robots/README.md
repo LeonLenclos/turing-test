@@ -31,7 +31,6 @@ Autres idées de robots :
 
 - [Robots marionnette](robots-marionnette.md)
 - [Robot Poète](robot-poete.md)
-- [Robot qui perd aux jeux](robot-qui-perd-aux-jeux.md)
 - [Robot qui applaudit](robot-qui-applaudit.md)
 - [Robot taciturne](robot-taciturne.md)
 
