@@ -28,8 +28,6 @@ Les Robots
 
 Autres idées de robots :
 
-
-- [Robots marionnette](robots-marionnette.md)
 - [Robot Poète](robot-poete.md)
 - [Robot qui applaudit](robot-qui-applaudit.md)
 - [Robot taciturne](robot-taciturne.md)
