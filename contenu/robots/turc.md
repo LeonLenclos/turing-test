@@ -16,7 +16,7 @@ C'est un quadripède avec un bras articulé au bout duquel est fixé un électro
 - Verins pneumatiques
 - articulations sur paliers et rotules
 
-![Turc au 104](/ressources/photos/TURC_3_SMALL.jpg)
+![Turc-Détail des articulations](/ressources/photos/turc4.JPG)
 
 ### Note sur l'entretien des verins.
 
@@ -24,7 +24,7 @@ Il convient de décrasser régulièrement les verins à l'alcool à 90° puis de
 
 ![think-exclamation](/ressources/icons/think-exclamation.png) Attention : pensez à vous laver les mains entre l'utilisation de l'alcool à 90 et la collecte de votre graisse de nez.
 
-![Turc-Détail des articulations](/ressources/photos/turc4.JPG)
+![Turc gros plan verrin](/ressources/photos/TURC_3_SMALL.jpg)
 
 ## Description technique
 
