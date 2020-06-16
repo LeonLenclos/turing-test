@@ -12,7 +12,7 @@ Le GRIM est un groupe de trois chercheurs animés par la volonté de concevoir e
 
 ![Portrait Fabien Banief](/ressources/photos/FABIEN_2_SMALL.jpg)
 
-Philosophie, mathématiques, musique
+Responsable philosophie, mathématiques et musique au sein du GRIM.
 
 ### Bertrand Lenclos
 
@@ -20,7 +20,7 @@ Philosophie, mathématiques, musique
 
 ![Portrait Bertrand Lenclos](/ressources/photos/BERTRAND_1_SMALL.jpg)
 
-Mécanique, électronique, musique
+Responsable mécanique, électronique et musique au sein du GRIM.
 
 ### Léon Lenclos
 
@@ -28,7 +28,8 @@ Mécanique, électronique, musique
 
 ![Portrait Léon Lenclos](/ressources/photos/LEON_1_SMALL.jpg)
 
-Esthétique, informatique, dessin
+Responsable esthétique, informatique et dessin au sein du GRIM.
+
 
 
 
