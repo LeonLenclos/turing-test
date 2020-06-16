@@ -19,8 +19,9 @@ Matt a belle allure. Il trouve probablement ses origines dans ce croquis prépar
 
 ## Description technique
 
+Comme beaucoup de robots du GRIM, Matt a une étiquette en Dymo avec son nom.
+
 ![Matt](/ressources/photos/MATT_2_SMALL.jpg)
 
-## Hypothèses de construction abandonnées
 
 [Retour à la liste des robots du laboratoire](.)
