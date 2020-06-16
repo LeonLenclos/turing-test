@@ -20,7 +20,7 @@ Les Robots
 - [Mimi](mimi.md)
 - [Turc](turc.md)
 - [Maki](maki.md)
-- [Matt](matt.md) (fiche à rédiger)
+- [Matt](matt.md)
 - [Dodo](dodo.md) (fiche à rédiger)
 
 Autres idées de robots à construire :
