@@ -21,13 +21,13 @@ Les Robots
 - [Turc](turc.md)
 - [Maki](maki.md)
 - [Matt](matt.md)
-- [Dodo](dodo.md) (fiche à rédiger)
+- [Dodo](dodo.md)
 
 Autres idées de robots à construire :
 
 - [Dedo](dedo.md)
 - [Toto](toto.md)
-- [Lisa](lisa.md) (fiche à rédiger)
+- [Lisa](lisa.md)
 - [Luna](luna.md)
 - [Karl](karl.md)
 - [Clap](clap.md)
