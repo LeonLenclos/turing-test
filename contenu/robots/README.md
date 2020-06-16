@@ -29,8 +29,8 @@ Autres idées de robots :
 - [Toto](toto.md)
 - [Lisa](lisa.md) (fiche à rédiger)
 - [Luna](luna.md)
-- [Robot Poète](robot-poete.md)
-- [Robot qui applaudit](robot-qui-applaudit.md)
+- [Karl](karl.md)
+- [Clap](clap.md)
 
 
 Rédaction des fiches
