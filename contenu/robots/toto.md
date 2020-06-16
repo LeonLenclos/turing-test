@@ -5,7 +5,7 @@
 
 Toto est un véhicule autonome équipé d'une pelle et d'une balayette
 
-![](/ressources/croquis/robot_menage_croquis.jpg)
+![TOTO](/ressources/croquis/robot_menage_croquis.jpg)
 
 ## Hypothèses de construction, description technique
 
@@ -25,9 +25,8 @@ Les trois servos sont commandés par un arduino auquel plusieurs capteurs sont c
 Mécanisme de jansen : cotes
 
 
-
 ## Moment envisagé pour la construction
 
-?
+En cours.
 
 [Retour à la liste des robots du laboratoire](.)

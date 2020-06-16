@@ -11,8 +11,6 @@ Trois chercheurs travaillent dans un laboratoire de robotique et d'intelligence 
 
 C'est avec Alan, le chatbot du labo que les échanges verbaux sont les plus nombreux. Alan est une intelligence qui se matérialise sur scène à travers sa voix. Alan enrichit son vocabulaire et sa compréhension en communiquant avec son entourage. La façon "d'éduquer" Alan est une source de discussion et parfois de conflit entre les chercheurs.
 
-Les passages où les trois scientifiques fabriquent des films d'animation en direct ponctuent l'action, sans justification, comme quand les gens se mettent à danser sans raison dans une comédie musicale.
-
 ![dessin3](/ressources/dessins/dessin3.png)
 
 ---

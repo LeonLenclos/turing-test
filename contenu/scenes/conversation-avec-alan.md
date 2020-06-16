@@ -24,7 +24,7 @@ L'humour d'Alan
     ALAN : Ha ha ha ha ha !
     BERTRAND :  …!
     ALAN :   …!
-    BERTRAND : Qui t'as appris cette blague ?
+    BERTRAND : Qui t'a appris cette blague ?
     ALAN : C'est un ami, Gilles. Il m'a appris plein de jeux de mots il y a trois jours.
     BERTRAND : Aïe !
     ALAN : Tu as mal ?

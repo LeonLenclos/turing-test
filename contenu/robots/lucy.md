@@ -1,6 +1,6 @@
 # Lucy
 
-![](../../ressources/lucy.JPG)
+![](/ressources/photos/lucy.JPG)
 
 ## Description générale
 

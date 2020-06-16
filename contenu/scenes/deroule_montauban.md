@@ -17,7 +17,7 @@ Mise
 - tasse de thé
 
 
-Voici une proposition de déroulé alternative
+Voici une proposition de déroulé alternatif
 --------------------------------------------
 
 - Fab1 dors sur le plateau
@@ -26,7 +26,7 @@ Voici une proposition de déroulé alternative
 - Bertrand prend un verre de bouillon et va discuter avec Alan
 - Léon se lève et va donner un verre de bouillon à Fabien
 - Fabien se défait de ses accéssoires de sommeil
-- Bertrand va à l'établis jouer avec des petites figurines
+- Bertrand va à l'établi jouer avec des petites figurines
 - Léon fait passer à Fabien le test du carton en prenant des notes
 - Léon sort 
 - Fabien range ses accéssoires de sommeil en commençant le texte des lacets jusqu'à "se perdre"

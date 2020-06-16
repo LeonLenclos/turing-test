@@ -5,11 +5,11 @@ Voilà c'était l'acte 1 de Turing Test.
 
 Parce que turing test c'est un spectacle en 3 actes.
 
-Donc là c'était l'acte 1, on est trois chercheurs dans un laboratoire de recherche en intelligence machine. Et on construit des robots, on répare des robots, on test des robots, on imagine des nouveaux robots. C'est un peu des tranches de vie.
+Donc là c'était l'acte 1, on est trois chercheurs dans un laboratoire de recherche en intelligence machine. Et on construit des robots, on répare des robots, on teste des robots, on imagine des nouveaux robots. C'est un peu des tranches de vie du laboratoire.
 
-L'acte deux qui commence maintenant c'est un peu different, en fait c'est pas vraiment un acte dans le sens ou on est pas vraiment acteurs. On sors de nos personnages, on sors du décors. Fabien et Bertrand vont faire de la musique et moi je vais parler et faire des dessins.
+L'acte deux qui commence maintenant c'est un peu different, en fait c'est pas vraiment un acte dans le sens ou on est pas vraiment acteurs. On sort de nos personnages, on sort du décors. Fabien et Bertrand vont faire de la musique et moi je vais parler et faire des dessins.
 
-L'acte trois je vais pas trop vous en dire pour pas vous gacher la surprise mais en gros on retourne dans le décors, on reprend nos personnages. Ça ressemble pas mal à l'acte 1 sauf que au lieu que ce soit des scenes de travail c'est plutot un moment ou on s'ammuse.
+L'acte trois je vais pas trop vous en dire pour pas vous gacher la surprise mais en gros on retourne dans le décor et on reprend nos personnages. Ça ressemble pas mal à l'acte 1 sauf que au lieu que ce soit des scenes de travail c'est plutot un moment ou on s'ammuse.
 
 
 **Dessin :** 
@@ -20,11 +20,11 @@ Un humain et un robot sont face à face. L'humain peut visualiser le robot en es
 
 Turing Test (le titre du spectacle). C'est de l'anglais, ça veut dire le Test de Turing.
 
-Ça fait référence à une experience de pensée qu'a fait un mathematicien qui s'appellait Alan Turing.
+Ça fait référence à une experience de pensée qu'a fait un mathématicien qui s'appellait Alan Turing.
 
 Souvent Alan Turing quand on le présente on dit que c'est le premier qui a vraiment commencé à réfléchir à l'informatique, avant que l'informatique existe.
 
-Donc il se doutait qu'on aurait bientot des ordinateurs, lui il les avait déjà construit un peu dans sa tête. Et il se disait qu'assez vite on serait capable de faire des programmes avec lesquels ce serait dispossible de discuter. d'avoir une conversation.
+Donc il se doutait qu'on aurait bientot des ordinateurs, lui il les avait déjà construit un peu dans sa tête. Et il se disait qu'assez vite on serait capable de faire des programmes avec lesquels ce serait possible de discuter, d'avoir une conversation.
 
 Et il pensait même que assez vite on serait capable de faire ces programmes tellement bien, que quand on dscuterait avec lui on pourrait plus faire la difference avec des humains, tellement ce serait bien fait.
 
