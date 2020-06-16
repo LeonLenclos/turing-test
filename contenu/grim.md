@@ -10,15 +10,14 @@ Le GRIM est un groupe de trois chercheurs animés par la volonté de concevoir e
 
 *Directeur scientifique*
 
-#### Domaines 
 Philosophie, mathématiques, informatique, musique
-
 
 ![Portrait Fabien Banief](/ressources/photos/FABIEN_2_SMALL.jpg)
 
 ### Bertrand Lenclos
 
-#### Compétences 
+*Directeur technique*
+
 Ingénerie, Construction, électronique, musique
 
 ![Portrait Bertrand Lenclos](/ressources/photos/BERTRAND_1_SMALL.jpg)
@@ -27,8 +26,7 @@ Ingénerie, Construction, électronique, musique
 
 *Directeur artistique*
 
-#### Compétences 
-Esthétique,  informatique, graphique
+Esthétique, informatique, dessin
 
 ![Portrait Léon Lenclos](/ressources/photos/LEON_1_SMALL.jpg)
 
