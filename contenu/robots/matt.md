@@ -7,18 +7,15 @@ Le robot qui ne sait rien faire mais qui n'en pense pas moins.
 
 ## Esthétique, allure du robot
 
-C'est une perceuse sans fil Makita avec toute une gamme d'embouts.
+Matt a belle allure. Il trouve probablement ses origines dans ce croquis préparatoire :
 
-Embouts :
-
-- Embout à tourner les navet
-- Embout à tourner les poireaux
-- Embout à touiller
+![Matt](/ressources/croquis/croquis-robot-rouge.jpg)
 
 ## Matériaux envisagés
 
 - PVC
 - Peinture
+- Mousse jaune
 
 ## Description technique
 
