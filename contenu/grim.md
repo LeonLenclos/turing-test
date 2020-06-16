@@ -6,9 +6,7 @@ Le GRIM est un groupe de trois chercheurs animés par la volonté de concevoir e
 
 ## Les membres du GRIM
 
-### Fabien Banief
-
-*Directeur scientifique*
+### Fabien Banief *Directeur scientifique*
 
 ![Portrait Fabien Banief](/ressources/photos/FABIEN_2_SMALL.jpg)
 
