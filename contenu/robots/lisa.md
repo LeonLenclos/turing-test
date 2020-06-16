@@ -1,11 +1,12 @@
 
-# Lisa*, robot flutiste
+# Lisa, robot flutiste
 
-**en référence à Lisa Simpson.*
 
 ## Description générale
 
-Lisa est une créature artificielle flutiste.
+Lisa* est une créature artificielle flutiste.
+
+**en référence à Lisa Simpson.*
 
 ## Hypothèses de création
 
