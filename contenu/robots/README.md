@@ -28,9 +28,10 @@ Autres idées de robots :
 - [Dedo](dedo.md)
 - [Toto](toto.md)
 - [Lisa](lisa.md) (fiche à rédiger)
+- [Luna](luna.md)
 - [Robot Poète](robot-poete.md)
 - [Robot qui applaudit](robot-qui-applaudit.md)
-- [Robot taciturne](robot-taciturne.md)
+
 
 Rédaction des fiches
 ---------------------
