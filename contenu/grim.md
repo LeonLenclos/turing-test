@@ -33,17 +33,25 @@ Responsable esthétique, informatique et dessin au sein du GRIM.
 
 Construction d'Alan - Atelier mobile du GRIM au centre Gérard philipe / Graines de rue à Bessines.
 
+
 ![Atelier du GRIM](/ressources/photos/otto_leon.JPG)
 
 Construction de Otto - Atelier mobile du GRIM à l' Usinotopie / Villemur sur Tarn.
 
+
 ![Atelier du GRIM](/ressources/photos/BERTRAND_3_SMALL.jpg)
 
 Construction de Otto - Atelier mobile du GRIM à l' Usinotopie / Villemur sur Tarn.ur Tarn.
+
 
 ![Atelier du GRIM](/ressources/photos/FABIEN_4_SMALL.jpg)
 
 Construction de Otto - Atelier mobile du GRIM à l' Usinotopie / Villemur sur Tarn.
 
 
+
 ![Atelier du GRIM](/ressources/photos/fabi-bessines-avril19.JPG)
+
+Atelier mobile du GRIM au centre Gérard philipe / Graines de rue à Bessines.
+
+
