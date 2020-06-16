@@ -9,27 +9,25 @@ C'est une perceuse sans fil Makita avec toute une gamme d'embouts.
 
 Embouts :
 
-- Embout à tourner les carottes
-- Embout à hacher les poireaux
+- Embout à tourner les navet
+- Embout à tourner les poireaux
 - Embout à touiller
-- Embout à applaudir
 
 ## Matériaux envisagés
 
 - Une makita éventuellement modifiée avec une possibilité de télécommande.
-- trident sur axe
-- couteau soudé sur axe
+- trident à navet sur axe
 - cuillère soudée sur axe
-- gant sur axe
+- Collier porte poireau sur axe
 
-## Hypothèses de construction, description technique
+## Description technique
 
-Deux options pour la commande de la Makita :
-- commande mécanique de la gachette
+- commande mécanique de la gachette au doigt.
+- Accessoires : économe et mandoline victorinox.
+
+## Hypothèses de construction abandonnées
+
 - Commande électronique (arduino+shield)
-
-## Moment envisagé pour la construction
-
-Hier.
+- couteau soudé sur axe pour hacher les poireaux (abandonné car trop dangeureux)
 
 [Retour à la liste des robots du laboratoire](.)
