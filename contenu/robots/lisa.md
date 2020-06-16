@@ -4,7 +4,7 @@
 
 ## Description générale
 
-Lisa* est une créature artificielle flutiste.
+Lisa* est une créature artificielle capable de jouer de la flute.
 
 **en référence à Lisa Simpson.*
 
