@@ -37,8 +37,20 @@ Responsable esthétique, informatique et dessin au sein du GRIM.
 
 ### Mécanique
 
+![Atelier du GRIM](/ressources/photos/GRIM_2_SMALL.jpg)
 
-![CARO_V2_SMALL](/ressources/photos/CARO_V2_SMALL.jpg)
+Atelier mobile du GRIM au centre Gérard philipe / Graines de rue à Bessines.
 
+![Atelier du GRIM](/ressources/photos/otto_leon.JPG)
+
+Atelier mobile du GRIM à l' Usinotopie / Villemur sur Tarn.
+
+![Atelier du GRIM](/ressources/photos/BERTRAND_3_SMALL.jpg)
+
+Atelier mobile du GRIM à l' Usinotopie / Villemur sur Tarn.
+
+![Atelier du GRIM](/ressources/photos/FABIEN_4_SMALL.jpg)
+
+Atelier mobile du GRIM à l' Usinotopie / Villemur sur Tarn.
 
 
