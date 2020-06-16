@@ -23,7 +23,7 @@ Les Robots
 - [Matt](matt.md) (fiche à rédiger)
 - [Dodo](dodo.md) (fiche à rédiger)
 
-Autres idées de robots :
+Autres idées de robots à construire :
 
 - [Dedo](dedo.md)
 - [Toto](toto.md)
