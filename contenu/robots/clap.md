@@ -1,5 +1,5 @@
 
-# Robot qui applaudit
+# Clap, le robot qui applaudit
 
 ## Esthétique, allure du robot
 
@@ -12,5 +12,7 @@ Peut être connecté au robot qui a du goût pour que l'applaudissement se mette
 Peut éventuellement se brancher à un ordinateur pour applaudir en rythme avec la musique lors de la dernière séquence musicale dans laquelle tous les robots pourraient s'animer.
 
 ## Moment envisagé pour la construction
+
+On y pense...
 
 [Retour à la liste des robots du laboratoire](.)
