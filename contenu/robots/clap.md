@@ -1,9 +1,14 @@
 
 # Clap, le robot qui applaudit
 
+
 ## Esthétique, allure du robot
 
+À définir
+
 ## Matériaux envisagés
+
+À définir
 
 ## Hypothèses de construction, description technique
 Peut être connecté au robot qui a du goût pour que l'applaudissement se mette en marche à chaque fois que le robot qui a du goût donne son avis. 
