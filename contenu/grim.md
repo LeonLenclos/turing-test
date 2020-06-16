@@ -1,6 +1,6 @@
 # Le GRIM
 
-![GRIM](/ressources/photos/GRIM_3_SMALL.jpg)
+![GRIM](/sources/grim-logo/grim-logo-blanc.png)
 
 Le GRIM est un groupe de trois chercheurs animés par la volonté de concevoir et fabriquer une créature artificielle qui serait tellement parfaite qu'on ne pourrait pas la distinguer d'un être humain.
 
@@ -53,5 +53,7 @@ Construction de Otto - Atelier mobile du GRIM à l' Usinotopie / Villemur sur Ta
 ![Atelier du GRIM](/ressources/photos/fabi-bessines-avril19.JPG)
 
 Atelier mobile du GRIM au centre Gérard Philipe / Graines de rue à Bessines.
+
+![GRIM](/ressources/photos/GRIM_3_SMALL.jpg)
 
 
