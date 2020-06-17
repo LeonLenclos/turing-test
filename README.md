@@ -9,7 +9,7 @@ Turing Test est une création théâtrale qui traite du rapport que l'humain ent
 
 *Dans un laboratoire de recherche en intelligence machine, trois chercheurs developpent une créature artificielle capable de passer le test de Turing, une machine impossible à differencier d'un humain. Une plongée dans l'imaginaire et le quotidien de ce laboratoire foisonnant de robots en tout genre et d'objets détournés.*
 
-Fabien Banief, Bertrand Lenclos et Léon Lenclos, [Cie Nokill](http://cienokill.fr).
+Fabien Banief, Bertrand Lenclos et [Léon Lenclos](http://leonlenclos.net), [Cie Nokill](http://cienokill.fr).
 
 ---------------------------------------------------
 
@@ -17,7 +17,7 @@ Fabien Banief, Bertrand Lenclos et Léon Lenclos, [Cie Nokill](http://cienokill.
 
 ---------------------------------------------------
 
-Vous pouvez retrouver les dates de Turing Test [ici](http://cienokill.fr/dates). Le spectacle contiue d'évoluer et la création se poursuit, notamment avec la conception et la fabrication de nouveaux robots. Nous avons très tôt décidés de rendre le processus de création ouvert. Vous trouverez donc ici un ensemble de textes, d'idées, de plans et de tout ce qui témoigne de l'évolution passée et future de Turing Test.
+Le spectacle contiue d'évoluer et la création se poursuit, notamment avec la conception et la fabrication de nouveaux robots. Nous avons très tôt décidés de rendre le processus de création ouvert. Vous trouverez donc ici un ensemble de textes, d'idées, de plans et de tout ce qui témoigne de l'évolution passée et future de Turing Test.
 
 ![warning-wip](/ressources/icons/warning-wip.png) Travail en cours. ![warning-wip](/ressources/icons/warning-wip.png)
 
@@ -37,6 +37,17 @@ et aussi
 -  [![organisation](/ressources/icons/organisation.png)L'organisation de la création](contenu/organisation)
 
 <small>L'ensemble de ces textes est placé sous [License Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Bonne lecture.</small>
+
+
+Liens externes
+--------------
+
+- [Les dates des spectacles](http://cienokill.fr/dates)
+- [Parler avec Alan](http://alan.cienokill.fr)
+- [Le site de la compagnie Nokill](http://cienokill.fr)
+- [La bande annonce sur Vimeo](https://vimeo.com/389225127)
+- [Le teaser sur Vimeo](https://vimeo.com/334768743)
+
 
 ---------------------------------------------------
 
