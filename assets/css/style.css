@@ -33,10 +33,15 @@ h3,
 h4,
 h5,
 h6 {
- margin-top:20px;
+ margin:40px 0px 0;
  color:black;
+ display:table;
+}
+
+h1,
+h2
+{
  border-bottom:4px solid black;
- display:table
 }
 header h1 {
  text-align:center
@@ -45,6 +50,7 @@ header a {
  text-decoration:none;
  margin:5px;
  display:block
+
 }
 header nav a:hover {
  background:white
@@ -58,7 +64,6 @@ nav {
 a,
 a:visited {
  color:inherit;
- font-weight:bold
 }
 a:hover {
  text-decoration:none
