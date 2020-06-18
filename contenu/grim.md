@@ -1,6 +1,6 @@
 # Le GRIM
 
-![GRIM](/sources/grim-logo/grim-logo-blanc.png)
+![GRIM](/sources/grim-logo/grim-logo-noir.png)
 
 Le GRIM est un groupe de trois chercheurs animés par la volonté de concevoir et fabriquer une créature artificielle qui serait tellement parfaite qu'on ne pourrait pas la distinguer d'un être humain.
 
