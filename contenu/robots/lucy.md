@@ -18,7 +18,7 @@ Carton, worbla, écran, divers electronique.
 
 ## Mise en scène
 
-Ce robot fait partie de la vie du labo, quelqu'un peut proposer de le mettre à jour mais cela pose des problèmes moraux aux autres qui se sont attachés à leur petit poisson pixellisé. En même temps ils s'en veulent aussi de maintenir en vie un poisson enfermé pour leur seul plaisir, ils résolvent le problème en adaptant le robot musicien pour qu'il nourisse le robot au lieu d'appuyer sur des touches de piano, ils se dédouanent ainsi de leurs responsabilités.
+Ce robot fait partie de la vie du labo, quelqu'un peut proposer de le mettre à jour mais cela pose des problèmes moraux aux autres qui se sont attachés à leur petit oiseau pixellisé. En même temps ils s'en veulent aussi de maintenir en vie un animal enfermé pour leur seul plaisir. Le problème pourrait être résolu par la création de [Dédo](/contenu/robots/dedo.md) qui en nourrissant Lucy de façon autonome permettrait aux chercheurs de se dédouaner de leurs responsabilités.
 
 ## Description technique
 
@@ -31,10 +31,5 @@ Le programme est lancé au demarrage du raspberry grâce à crontab (voir : `sud
 ## Améliorations
 
 - Mettre à jour la version de Lucy (depuis [son dépõt git](https://github.com/LeonLenclos/lucy))
-
-### Facultatif
-
-- Déporter le RJ45 en façade.
-- Mettre un schuko en façade pour l'alimentation.
 
 [Retour à la liste des robots du laboratoire](.)
