@@ -56,4 +56,4 @@ Atelier mobile du GRIM au centre Gérard Philipe / Graines de rue à Bessines.
 
 ![GRIM](/ressources/photos/GRIM_3_SMALL.jpg)
 
-
+Le GRIM en action.
