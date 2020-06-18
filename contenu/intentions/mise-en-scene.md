@@ -1,7 +1,7 @@
 Mise en scène
 =============
 
-Ce texte décrit les principales hypothèses de mise en scène envisagées dès avril 2019 (2 mois avant la première à Graines de Rue). La plupart de ces intentions ont été validées dans [la mise en scène finale](/contenu/scenes/deroule.md).
+Ce texte décrit les principales hypothèses de mise en scène envisagées dès avril 2019 (2 mois avant la première à Graines de Rue). La plupart de ces intentions ont été validées dans [la mise en scène finale](/contenu/scenes/deroule).
 
 L'espace est divisé en deux :
 - L'intérieur du Labo
