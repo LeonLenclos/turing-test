@@ -332,14 +332,7 @@ Travail de l'acte 1 + ébauche de l'acte 2. Beaucoiup de filage et travail de sc
 
 Mitigé : L'univers et les robots touchent le public mais problèmes de rythme et nombreux bugs.
 
-
-
-
 ----------------------------------------------------------
-
-
-
-
 
 ### 104 - Paris (75) - du 15 au 21 avril.
 
@@ -380,11 +373,7 @@ Peu de temps mais les objectifs ont étés remplis :
 - Séance prise de vue avec Thomas : Teaser en préparation
 - Sortie de résidence : RAS
 
-
 ----------------------------------------------------------
-
-
-
 
 ### MJC Rodez (12) du 29 avril au 3 mai 2019. restitution le 2 mai 2019.
 
@@ -446,7 +435,6 @@ Resitution le 23 à 19h.
 
 ### Avant-Première : Graines de rue - Bessines (87) - du 27 mai au 10 juin Théâtre Gérard Philipe à Bessines (87)
 
-
 #### Objectifs
 
 - Dernières finitions 
@@ -477,14 +465,12 @@ Resitution le 23 à 19h.
     2- Battles
     3- Vote du jury (composé de 2 humains et 2 robots)
     4- Alan vs le gagnant
- 
- 
+
 
 #### Bilan
 
 - Gros progrès grâce à Juliette
 - avant-premières chouettes
-
 
 ----------------------------------------------------------
 
