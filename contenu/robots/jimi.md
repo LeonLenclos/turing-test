@@ -6,7 +6,7 @@ Jimi est une intelligence machine qui joue de la guitare, il peut improviser ou 
 
 ## Allure
 
-![Jimi](/ressources/photos/jimi.JPG)
+![Jimi](/ressources/photos/JIMI_1_SMALL.jpg)
 
 ## Matériaux
 
@@ -32,6 +32,7 @@ Le code est entièrement séquentiel, les actions ne se déroulent jamais simult
 
 Quand on appuie sur le bouton, un générateur de nombres aléatoires tire au hasard un nombre entre 0 et 2. Si c'est 0 rien ne se passe, si c'est 1 Jimi joue une note et si c'est 2 il joue deux notes rapprochées.
 
+![Jimi détails](/ressources/photos/JIMI_2_SMALL.jpg)
 
 Le code de l'arduino est disponible [ici](../../sources/arduino/jimi).
 
