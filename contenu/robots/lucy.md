@@ -30,6 +30,6 @@ Le programme est lancé au demarrage du raspberry grâce à crontab (voir : `sud
 
 ## Améliorations
 
-- Mettre à jour la version de Lucy (depuis [son dépõt git](https://github.com/LeonLenclos/lucy))
+- Mettre à jour la version de Lucy (depuis [son dépôt git](https://github.com/LeonLenclos/lucy))
 
 [Retour à la liste des robots du laboratoire](.)
