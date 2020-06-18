@@ -34,7 +34,7 @@ Le code arduino de foot est disponible [ici](../../sources/arduino/foot).
 
 ![Foot](/ressources/photos/FOOT_2_SMALL.jpg)
 
-- Doter Foot d'une entrée jack permettrait de déclencher la lecture de samples lors de la réception d'un signal trig ou gate qui pourrait être émis depuis un synthétiseur.
+- Foot est doté d'une entrée mini-jack permettrait de déclencher la lecture de samples lors de la réception d'un signal trig ou gate émis depuis [Core](/contenu/robots/core.md).
 
 ## Moment envisagé pour la construction
 
