@@ -6,13 +6,13 @@ Jimi est une intelligence machine qui joue de la guitare, il peut improviser ou 
 
 ## Allure
 
-![](/ressources/photos/jimi.JPG)
+![Jimi](/ressources/photos/jimi.JPG)
 
 ## Matériaux
 
 Planche de bois comportant une corde de guitare, un micro de guitare, des mécaniques et un moteur pas à pas sur lequel est fixé un petit bras métallique qui enserre un médiator en plastique (plastique de couvercle de pot de cafés).
 
-![](/ressources/photos/jimi_moteur.JPG)
+![Jimi détails](/ressources/photos/jimi_moteur.JPG)
 
 Une fenêtre rectangulaire est découpée dans le bois et est cachée par une plaque métallique à l'arrière de laquelle est fixée toute l'électronique.
 
@@ -23,24 +23,19 @@ Deux jambes amovibles munies de pieds viennent se fixer derrière la planche, ce
 
 ## Hypothèses de construction, description technique
 
+
 Le bouton poussoir est maintenu à l'état haut par une résistance de pull-up interne à l'arduino. Pour maintenir un état bas sur l'entrée gate, une résistance 10k est soudée en pull down.
+
+
 Le code est entièrement séquentiel, les actions ne se déroulent jamais simultanément. Ainsi lorsque le moteur bouge, c'est la seule action que l'arduino puisse réaliser. Ainsi, par exemple, il ne peut pas détecter de gate ou d'information du bouton poussoir.
 
+
 Quand on appuie sur le bouton, un générateur de nombres aléatoires tire au hasard un nombre entre 0 et 2. Si c'est 0 rien ne se passe, si c'est 1 Jimi joue une note et si c'est 2 il joue deux notes rapprochées.
+
+
 Le code de l'arduino est disponible [ici](../../sources/arduino/jimi).
 
-![](/ressources/photos/jimi_dos.JPG)
+![Jime de dos](/ressources/photos/jimi_dos.JPG)
 
-
-
-## Améliorations envisagées
-
-- Déporter l'alimentation en façade
-- Améliorer le rangement 
-- Améliorer le système de maintien des médiators pour pouvoir en changer facilement.
-- Finir le support permettant d'accueillir une batterie
-- Scier vis à l'arrière
-
-## Moment envisagé pour la construction et/ou les améliorations
 
 [Retour à la liste des robots du laboratoire](.)
