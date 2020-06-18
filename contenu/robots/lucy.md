@@ -18,7 +18,7 @@ Carton, worbla, écran, divers electronique.
 
 ## Mise en scène
 
-Ce robot fait partie de la vie du labo, quelqu'un peut proposer de le mettre à jour mais cela pose des problèmes moraux aux autres qui se sont attachés à leur petit oiseau pixellisé. En même temps ils s'en veulent aussi de maintenir en vie un animal enfermé pour leur seul plaisir. Le problème pourrait être résolu par la création de [Dédo](/contenu/robots/dedo.md) qui en nourrissant Lucy de façon autonome permettrait aux chercheurs de se dédouaner de leurs responsabilités.
+Ce robot fait partie de la vie du labo, quelqu'un peut proposer de le mettre à jour mais cela pose des problèmes moraux aux autres qui se sont attachés à leur petit oiseau pixellisé. En même temps ils s'en veulent aussi de maintenir en vie un animal enfermé pour leur seul plaisir. Le problème pourrait être résolu par la création de [Dédo](/contenu/robots/dedo) qui en nourrissant Lucy de façon autonome permettrait aux chercheurs de se dédouaner de leurs responsabilités.
 
 ## Description technique
 
