@@ -31,9 +31,13 @@ Comme le carton doit recevoir des chocs, il faut éviter qu'il se désagrège et
 
 Trois capteurs piezo sont fixés sur la structure (sur les vis à la base des cordelettes, chaque cordelette a le même nombre de traits que le numéro du piezo placé à côté). 
 
-Au milieu de la structure est suspendue une section de tube PVC qui accueille l'arduino, 
+Au milieu de la structure est suspendue une section de tube PVC qui accueille :
 
-l'ampli de puissance et les deux enceintes cablées en opposition de phase pour un meilleur rendement.
+- l'arduino, 
+- l'ampli de puissance
+- les deux enceintes cablées en opposition de phase pour un meilleur rendement.
+- La batterie
+
 Le code arduino de foot est disponible [ici](../../sources/arduino/foot).
 
 ![Foot](/ressources/photos/FOOT_2_SMALL.jpg)
