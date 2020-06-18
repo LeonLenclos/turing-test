@@ -17,21 +17,22 @@ Une simple boite en carton.
 - Profilés alu pour la structure
 - Un carton
 - Un module arduino
-- Un shield audio avec des sorties amplifiées pour les enceintes 
 - Un micro contact piezo électrique
-- Deux enceintes
-- Une batterie usb pour l'alimentation
+- Un [shield audio](https://www.adafruit.com/product/1788) avec un lecteur de carte SD.
+- Un [module d'amplification de puissance](https://www.audiophonics.fr/fr/modules-amplificateur/wondom-aa-ab32178-module-amplificateur-tpa3116-class-d-2-x-50-watts-4-ohms-p-10052.html)
+- Deux enceintes haut rendement Celestion [TF1510](https://www.terredeson.com/tf01510.html)
+- Une batterie LI-ion pour l'alimentation
 
 ## Hypothèses de construction, description technique
 
 Comme le carton doit recevoir des chocs, il faut éviter qu'il se désagrège et que l'électronique embarquée se détériore. Nous avons donc choisi une structure alu légère.
 
-![Foot](/ressources/photos/FOOT_2_SMALL.jpg)
+![Foot](/ressources/photos/FOOT_1_SMALL.jpg)
 
 Trois capteurs piezo sont fixés sur la structure (sur les vis à la base des cordelettes, chaque cordelette a le même nombre de traits que le numéro du piezo placé à côté). Au milieu de la structure est suspendue une section de tube PVC qui accueille l'arduino, l'ampli de puissance et les deux enceintes cablées en opposition de phase pour un meilleur rendement.
 Le code arduino de foot est disponible [ici](../../sources/arduino/foot).
 
-![Foot](/ressources/photos/FOOT_1_SMALL.jpg)
+![Foot](/ressources/photos/FOOT_2_SMALL.jpg)
 
 - Doter Foot d'une entrée jack permettrait de déclencher la lecture de samples lors de la réception d'un signal trig ou gate qui pourrait être émis depuis un synthétiseur.
 
