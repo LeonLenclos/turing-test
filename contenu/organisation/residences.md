@@ -23,7 +23,7 @@ Les différentes résidences
 - Graines de rue - Bessines (87) - Théâtre Gérard Philipe à Bessines (87)- représentation le vendredi 7 et samedi 8 juin 2019.
 - MIMA - Mirepoix (09) - du 25 au 31 aout 2019 - représentation le 1 et 2 aout 2019.
 - Espace Bonnefoy - Toulouse (31) - du 23 au 27 septembre 2019. Reprise.
-- Odyssud - Théatre de St Expère - Blagnac (31) - du 6 au 10 janvier 2020. Reprise.
+- Odyssud - Théatre de St Exupère - Blagnac (31) - du 6 au 10 janvier 2020. Reprise.
 
 ## Programme des Résidences
 
@@ -523,7 +523,7 @@ Le 27 à 17h sortie de résidence avec des chercheurs de l'IRIT à laquelle sont
 
 ----------------------------------------------------------
 
-### - Odyssud - Théatre de St Expère - Blagnac (31) - du 6 au 10 janvier 2020. Reprise.
+### - Odyssud - Théatre de St Exupère - Blagnac (31) - du 6 au 10 janvier 2020. Reprise.
 
 #### Objectifs
 
