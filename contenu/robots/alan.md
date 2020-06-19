@@ -67,7 +67,7 @@ Plus de la moitié des logics adapters sont des **Rive Script Adapters**. Ils tr
 Par exemple, ce bout de code RiveScript
 
 ```
-   + j'aime le _
+   + j'aime le _  
    - Moi je n'aime pas le <star>
    - Moi aussi j'adore le <star>
 ```
