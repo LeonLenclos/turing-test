@@ -236,7 +236,7 @@ Léon :
 - Bertrand envoie la boite à rythmes TR808 et anime [Otto](../robots/otto.md).
 - Léon commence à danser avec [Dodo](../robots/dodo.md) et à jouer 
 - Léon envoie [Matt](../robots/matt.md) et [Mimi](../robots/mimi.md) à fond à travers le labo.
-- Fabien saute en l'air pour ne pas se faire découper les jambes par [Mimi](../robots/mimi.md).
+- Fabien danse avec [Jimi](../robots/jimi.md), fait tourner et joue avec Caro puis change l'angle de sa caméra en vue de son solo.
 
 ### Refrain 1
 
@@ -246,6 +246,7 @@ Léon :
 ### Couplet 1
 
 - Bertrand mute les Lalala et relance [Alan](../robots/alan.md).
+- Fabien saute en l'air pour ne pas se faire découper les jambes par [Mimi](../robots/mimi.md).
 - Fabien reprend une phrase improvisée d'Alan en boucle.
 
 ### Refrain 2
@@ -262,7 +263,7 @@ Léon :
 
 ### Solo 2
 
-- Caro en solo sur le clavier 2.
+- [Caro](../robots/caro.md) en solo sur le clavier 2.
 
 ### Couplet 3
 
