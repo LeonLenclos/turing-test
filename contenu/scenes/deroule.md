@@ -43,11 +43,11 @@ En cours d'écriture
 - Léon va cocher "Jouer avec Turc" sur la [todolist du paperboard](../scenes/todolist-du-paperboard.md).
 - Fabien se saisit de [Foot](../robots/foot.md) et l'installe dans son carton qu'il ferme avec du scotch.
 - Bertrand finit le montage de [Klan](../robots/klan.md)
-- Fabien frappe [Foot](../robots/foot.md) qui réagit en criant de plus en plus fort filmé par Caro](../robots/caro.md)
+- Fabien frappe [Foot](../robots/foot.md) qui réagit en criant de plus en plus fort filmé par [Caro](../robots/caro.md)
 - [Alan](../robots/alan.md) demande à Fabien d'arrêter d'embêter [Foot](../robots/foot.md).
 - Léon coche "Éprouver Foot" sur la [todolist du paperboard](../scenes/todolist-du-paperboard.md), tourne la page et inscrit "Ranger" sur la todolist. Puis, il va parler avec [Alan](../robots/alan.md) en lui demandant pourquoi il a dit ça ?
 - Bertrand récupère [Foot](../robots/foot.md) délicatement et le remet sur son étagère. Puis il finit le montage et les tests sur Klan et va cocher "Finir maquette Klan" sur la [todolist du paperboard](../scenes/todolist-du-paperboard.md).
-- Fabien entreprend le montage de [Otto](../robots/otto.md).Caro](../robots/caro.md) le suit à l'établi
+- Fabien entreprend le montage de [Otto](../robots/otto.md). [Caro](../robots/caro.md) le suit à l'établi
 
 ### Doutes
 
@@ -67,7 +67,7 @@ En cours d'écriture
 
 - Fabien fait le ménage.
 - Bertrand range [Matt](../robots/matt.md) dans [Mimi](../robots/mimi.md) et place [Turc](../robots/turc.md) et les cartons pour l'acte 3.
-- Léon présente à [Écho](../robots/echo.md) une série de figurines de différentes tailles. [Écho](../robots/echo.md) exprime son goût pour chaque objet.Caro](../robots/caro.md) le rejoint. Il coche "Tester le bon goût d'Écho" sur la [todolist du paperboard](../scenes/todolist-du-paperboard.md) 
+- Léon présente à [Écho](../robots/echo.md) une série de figurines de différentes tailles. [Écho](../robots/echo.md) exprime son goût pour chaque objet. [Caro](../robots/caro.md) le rejoint. Il coche "Tester le bon goût d'Écho" sur la [todolist du paperboard](../scenes/todolist-du-paperboard.md) 
 - Léon aligne les objets sur la table de la cuisine et les range par taille croissante en utilisant un algorithme de tri à bulles. Il coche "Ranger" sur la [todolist du paperboard](../scenes/todolist-du-paperboard.md) et quitte le labo.
 - Bertrand dévérouille [Klan](../robots/klan.md) et quitte le Labo.
 
