@@ -43,11 +43,11 @@ En cours d'écriture
 - Léon va cocher "Jouer avec Turc" sur la [todolist du paperboard](../scenes/todolist-du-paperboard.md).
 - Fabien se saisit de [Foot](../robots/foot.md) et l'installe dans son carton qu'il ferme avec du scotch.
 - Bertrand finit le montage de [Klan](../robots/klan.md)
-- Fabien frappe [Foot](../robots/foot.md) qui réagit en criant de plus en plus fort.
+- Fabien frappe [Foot](../robots/foot.md) qui réagit en criant de plus en plus fort filmé par Caro](../robots/caro.md)
 - [Alan](../robots/alan.md) demande à Fabien d'arrêter d'embêter [Foot](../robots/foot.md).
 - Léon coche "Éprouver Foot" sur la [todolist du paperboard](../scenes/todolist-du-paperboard.md), tourne la page et inscrit "Ranger" sur la todolist. Puis, il va parler avec [Alan](../robots/alan.md) en lui demandant pourquoi il a dit ça ?
 - Bertrand récupère [Foot](../robots/foot.md) délicatement et le remet sur son étagère. Puis il finit le montage et les tests sur Klan et va cocher "Finir maquette Klan" sur la [todolist du paperboard](../scenes/todolist-du-paperboard.md).
-- Fabien entreprend le montage de [Otto](../robots/otto.md).
+- Fabien entreprend le montage de [Otto](../robots/otto.md).Caro](../robots/caro.md) le suit à l'établi
 
 ### Doutes
 
@@ -55,7 +55,7 @@ En cours d'écriture
 
 - Léon installe [Matt](../robots/matt.md) sur la table de la cuisine.
 - Fabien coche "Assembler Otto" sur la [todolist du paperboard](../scenes/todolist-du-paperboard.md), entre dans un carton et s'immobilise.
-- Bertrand s'installe à l'établi pour souder Trig.
+- Bertrand s'installe à l'établi pour souder Trig.Caro](../robots/caro.md) filme [Lucy].
 - Léon entame avec [Matt](../robots/matt.md) une conversation sur la réalité de ses organes sensoriels et sa conscience d'exister.
 - Alan annonce que [Lucy](../robots/lucy.md) est morte.
 - Les trois chercheurs se lèvent, vont se saisir chacun d'un synthé portable et interprètent un requiem en traversant le labo.
@@ -67,7 +67,7 @@ En cours d'écriture
 
 - Fabien fait le ménage.
 - Bertrand range [Matt](../robots/matt.md) dans [Mimi](../robots/mimi.md) et place [Turc](../robots/turc.md) et les cartons pour l'acte 3.
-- Léon présente à [Écho](../robots/echo.md) une série de figurines de différentes tailles. [Écho](../robots/echo.md) exprime son goût pour chaque objet. Il coche "Tester le bon goût d'Écho" sur la [todolist du paperboard](../scenes/todolist-du-paperboard.md) 
+- Léon présente à [Écho](../robots/echo.md) une série de figurines de différentes tailles. [Écho](../robots/echo.md) exprime son goût pour chaque objet.Caro](../robots/caro.md) le rejoint. Il coche "Tester le bon goût d'Écho" sur la [todolist du paperboard](../scenes/todolist-du-paperboard.md) 
 - Léon aligne les objets sur la table de la cuisine et les range par taille croissante en utilisant un algorithme de tri à bulles. Il coche "Ranger" sur la [todolist du paperboard](../scenes/todolist-du-paperboard.md) et quitte le labo.
 - Bertrand dévérouille [Klan](../robots/klan.md) et quitte le Labo.
 
@@ -76,7 +76,7 @@ En cours d'écriture
 *Doux, lent*
 
 - Fabien sort un rouge à lèvres de sa trousse rose et s'installe à l'établi devant [Caro](../robots/caro.md) pour se maquiller. Il ferme sa trousse rose et la pose dans les bras de [Otto](../robots/otto.md) qui s'étonne. Il se dirige vers
-[Écho](../robots/echo.md) et se place en face de lui pour déclencher un commentaire. Puis il déplace Klan vers l'établi et sort du Labo en éteignant [Lucy](../robots/lucy.md) et la lumière.
+[Écho](../robots/echo.md) et se place en face de lui pour déclencher un commentaire.Caro](../robots/caro.md)le suit. Puis il déplace Klan vers l'établi et sort du Labo en éteignant [Lucy](../robots/lucy.md) et la lumière.
 
 # Acte 2
 
@@ -221,7 +221,7 @@ Léon :
 
 *Efficace, accelerando*
 
-- Léon entre dans le Labo et allume [Lucy](../robots/lucy.md). Il a un carton dans les bras. Il en extrait [Jimi](../robots/jimi.md) qu'il branche dans son ampli. Il connecte le trig en entrée et [Jimi](../robots/jimi.md) se met à jouer. La musique de l'acte 3 démarre.
+- Léon entre dans le Labo et allume [Lucy](../robots/lucy.md). Il a un carton dans les bras. Il en extrait [Jimi](../robots/jimi.md) qu'il branche dans son ampli. Il connecte le trig en entrée et [Jimi](../robots/jimi.md) se met à jouer. La musique de l'acte 3 démarre.Caro](../robots/caro.md) filme le guitar hérobot.
 - Bertrand entre dans le labo, replace [Klan](../robots/klan.md) au centre, et joue aux fléchettes sur la porte avec des aimants.
 - Léon suspend [Foot](../robots/foot.md) au lampadaire et branche le trig. [Foot](../robots/foot.md) se met à crier.
 - Fabien entre, observe [Foot](../robots/foot.md), et installe les claviers en bord de scène.
