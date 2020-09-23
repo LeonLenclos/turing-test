@@ -15,8 +15,8 @@ En cours d'écriture
 
 *Calme, lent*
 
-- Léon entre, surprend [Caro](../robots/caro.md), allume [Lucy](../robots/lucy.md) et se dirige en fredonnant vers le frigo pour en sortir un navet et un poireau qu'il pose à la cuisine. Puis, il va chercher la visseuse posée sur l'établi, allume la lumière du labo en pointant son pistolet/visseuse vers Fabien. De retour à la cuisine, il entame sa recette de la soupe (épluchage/découpage à la visseuse/infusion à la cafétière électrique) en chantant la chanson du troisième acte : Grand, moyen, petit.
-- Pendant ce temps Fabien se réveille, s'étire, salue Léon, range [Dodo](../robots/dodo.md), et se dirige vers l'établi pour nourrir [Lucy](../robots/lucy.md) et se mettre au travail sur [Mimi](../robots/mimi.md).
+- Léon entre, surprend [Caro](../robots/caro.md). Caro repart et se poste devant Lucy. Léon allume [Lucy](../robots/lucy.md) et se dirige en fredonnant vers le frigo pour en sortir un navet et un poireau qu'il pose à la cuisine. Puis, il va chercher la visseuse posée sur l'établi, allume la lumière du labo en pointant son pistolet/visseuse vers Fabien. Fabien se couvre le visage avec ses coudes. De retour à la cuisine, Léon entame sa recette de la soupe (épluchage/découpage à la visseuse/infusion à la cafétière électrique) en chantant la chanson du troisième acte : Grand, moyen, petit.
+- Pendant ce temps Fabien étend ses bras vers l'arrière, les ramène vers l'avant en s'étirant, se met en position assis par le côté, se lève en déroulant son corps, s'étire le cou, se tourne vers Léon, range [Dodo](../robots/dodo.md), et se dirige vers l'établi pour se mettre au travail sur [Mimi](../robots/mimi.md).
 - Bertrand entre, regarde ses collègues, nourrit [Lucy](../robots/lucy.md), enfile son bleu, récupère 2 verres de bouillon préparé par Léon, en apporte un à Fabien, et s'installe en face d'[Alan](../robots/alan.md). Il entame avec lui une conversation au sujet de sa peur de la mort, et de l'immortalité d'[Alan](../robots/alan.md).
 - Léon range la cuisine et prépare le plateau de morpions.
 
@@ -27,27 +27,30 @@ En cours d'écriture
 - À l'établi, Fabien a réussi à démarrer l'hélice de [Mimi](../robots/mimi.md) qui s'est emballée, emportant tout sur son passage. Il ramasse et balaye ce qu'il peut et va cocher "réparer hélice" sur la [todolist du paperboard](../scenes/todolist-du-paperboard.md).
 - Bertrand récupère les pièces détachées de [Mimi](../robots/mimi.md) et entreprend de les assembler au sol pour tester le robot qui traverse le labo en virevoltant sous l'oeil de [Caro](../robots/caro.md). Il range Mimi et va cocher "Fixer hélice sur carton" sur la [todolist du paperboard](../scenes/todolist-du-paperboard.md).
 - Léon accroche le plateau de morpion à [Caro](../robots/caro.md) qui vient le placer au centre du labo. Léon va nourrir [Lucy](../robots/lucy.md).
+- Léon et Bertrand récupèrent [Turc](../robots/turc.md) et l'installent devant le plateau de morpion.
 
 ### Pause
 
 *Réfléchi, lent*
 
 - Fabien entame avec [Alan](../robots/alan.md) une conversation sur le genre.
-- Léon et Bertrand récupèrent [Turc](../robots/turc.md) et l'installent devant le plateau de morpion. [Caro](../robots/caro.md) filme la partie qui commence entre Léon et [Turc](../robots/turc.md), commandé par Bertrand.
+- [Caro](../robots/caro.md) filme la partie qui commence entre Léon et [Turc](../robots/turc.md), commandé par Bertrand.
+- fabien termine sa conversation avec Alan et se dirige vers la partie de morpion.
 
 ### Travail
 
 *Rapide, efficace*
 
 - Voyant qu'il a perdu, [Turc](../robots/turc.md) fait tomber le plateau de jeu et les pions qui roulent au sol.
-- Léon va cocher "Jouer avec Turc" sur la [todolist du paperboard](../scenes/todolist-du-paperboard.md).
 - Fabien se saisit de [Foot](../robots/foot.md) et l'installe dans son carton qu'il ferme avec du scotch.
+- Léon va cocher "Jouer avec Turc" sur la [todolist du paperboard](../scenes/todolist-du-paperboard.md).
 - Bertrand finit le montage de [Klan](../robots/klan.md)
 - Fabien frappe [Foot](../robots/foot.md) qui réagit en criant de plus en plus fort filmé par [Caro](../robots/caro.md)
 - [Alan](../robots/alan.md) demande à Fabien d'arrêter d'embêter [Foot](../robots/foot.md).
-- Léon coche "Éprouver Foot" sur la [todolist du paperboard](../scenes/todolist-du-paperboard.md), tourne la page et inscrit "Ranger" sur la todolist. Puis, il va parler avec [Alan](../robots/alan.md) en lui demandant pourquoi il a dit ça ?
-- Bertrand récupère [Foot](../robots/foot.md) délicatement et le remet sur son étagère. Puis il finit le montage et les tests sur Klan et va cocher "Finir maquette Klan" sur la [todolist du paperboard](../scenes/todolist-du-paperboard.md).
 - Fabien entreprend le montage de [Otto](../robots/otto.md). [Caro](../robots/caro.md) le suit à l'établi
+- Léon coche "Éprouver Foot" sur la [todolist du paperboard](../scenes/todolist-du-paperboard.md), tourne la page et inscrit "Ranger" sur la todolist. Puis, il va parler avec [Alan](../robots/alan.md) en lui demandant pourquoi il a dit ça ?
+- Bertrand teste Klan et va cocher "Finir maquette Klan" sur la [todolist du paperboard](../scenes/todolist-du-paperboard.md).
+
 
 ### Doutes
 
@@ -55,7 +58,7 @@ En cours d'écriture
 
 - Léon installe [Matt](../robots/matt.md) sur la table de la cuisine.
 - Fabien coche "Assembler Otto" sur la [todolist du paperboard](../scenes/todolist-du-paperboard.md), entre dans un carton et s'immobilise.
-- Bertrand s'installe à l'établi pour souder Trig.Caro](../robots/caro.md) filme [Lucy].
+- Bertrand s'installe à l'établi pour souder Trig.[Caro](../robots/caro.md) filme [Lucy].
 - Léon entame avec [Matt](../robots/matt.md) une conversation sur la réalité de ses organes sensoriels et sa conscience d'exister.
 - Alan annonce que [Lucy](../robots/lucy.md) est morte.
 - Les trois chercheurs se lèvent, vont se saisir chacun d'un synthé portable et interprètent un requiem en traversant le labo.
@@ -235,7 +238,6 @@ Léon :
 - Fabien prend le micro et annonce : "Humains ! Robots ! C'est la fête..."
 - Bertrand envoie la boite à rythmes TR808 et anime [Otto](../robots/otto.md).
 - Léon commence à danser avec [Dodo](../robots/dodo.md) et à jouer 
-- Léon envoie [Matt](../robots/matt.md) et [Mimi](../robots/mimi.md) à fond à travers le labo.
 - Fabien danse avec [Jimi](../robots/jimi.md), fait tourner et joue avec Caro puis change l'angle de sa caméra en vue de son solo.
 
 ### Refrain 1
@@ -246,6 +248,7 @@ Léon :
 ### Couplet 1
 
 - Bertrand mute les Lalala et relance [Alan](../robots/alan.md).
+- Léon envoie [Matt](../robots/matt.md) et [Mimi](../robots/mimi.md) à fond à travers le labo.
 - Fabien saute en l'air pour ne pas se faire découper les jambes par [Mimi](../robots/mimi.md).
 - Fabien reprend une phrase improvisée d'Alan en boucle.
 
