@@ -3,9 +3,9 @@
 const int CALIBRAGE_VUMETRE = 7;
 const int NB_FICHIERS_JAIME = 7; //nbre de fichiers Jaime
 const int NB_FICHIERS_JAIMEPAS = 5; //nbre de fichiers Jaimepas
-const int COMPTEUR_MAX_ABSENT = 15; // nbre de détections avant de considérer qu'un objet est absent ou present
-const int COMPTEUR_MAX_PRESENT = 10; //distance de déclenchement en centimètres
-const int DISTANCE_SEUIL = 70; // en cm
+const int COMPTEUR_MAX_ABSENT = 15; // nbre de détections avant de considérer qu'un objet est absent
+const int COMPTEUR_MAX_PRESENT = 10; // nbre de détections avant de considérer qu'un objet est present
+const int DISTANCE_SEUIL = 70; // distance de déclenchement en cm
 
 
 //////////// PINS
