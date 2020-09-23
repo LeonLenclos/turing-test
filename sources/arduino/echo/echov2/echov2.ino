@@ -1,6 +1,5 @@
 ///////////// REGLAGES
-//niveau max de la sortie PWM vers le vumetre, c'est la tension minimale telle que l'aiguille soit à fond. Entre 0(0V) et 255(5V)
-const int CALIBRAGE_VUMETRE = 7;
+const int CALIBRAGE_VUMETRE = 7;//niveau max de la sortie PWM vers le vumetre, c'est la tension minimale telle que l'aiguille soit à fond. Entre 0(0V) et 255(5V)
 const int NB_FICHIERS_JAIME = 7; //nbre de fichiers Jaime
 const int NB_FICHIERS_JAIMEPAS = 5; //nbre de fichiers Jaimepas
 const int COMPTEUR_MAX_ABSENT = 15; // nbre de détections avant de considérer qu'un objet est absent
