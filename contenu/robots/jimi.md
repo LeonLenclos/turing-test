@@ -6,13 +6,14 @@ Jimi est une intelligence machine qui joue de la guitare, il peut improviser ou 
 
 ## Allure
 
-![Jimi](/ressources/photos/JIMI_4_SMALL.jpg)
+![Jimi](/ressources/photos/JIMI_3_SMALL.jpg)
 
 ## Matériaux
 
 Planche de bois comportant une corde de guitare, un micro de guitare, des mécaniques et un moteur pas à pas sur lequel est fixé un petit bras métallique qui enserre un médiator en plastique (plastique de couvercle de pot de cafés).
 
-![Jimi détails](/ressources/photos/jimi_moteur.JPG)
+![Jimi](/ressources/photos/JIMI_4_SMALL.jpg)
+
 
 Une fenêtre rectangulaire est découpée dans le bois et est cachée par une plaque métallique à l'arrière de laquelle est fixée toute l'électronique.
 
