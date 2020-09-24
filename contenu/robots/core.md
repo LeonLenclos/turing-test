@@ -22,6 +22,11 @@ Ses fonctions principales sont :
 - Composer un rythme qui peut être distribué aux machines du GRIM en Trig (minijack) ou en OSC (RJ45)
 - Connecter toutes les machines équipées d'une interface réseau sur un même réseau.
 
+
+![CORE V1](/ressources/photos/CORE_1_SMALL.jpg)
+
+
+
 ### Intégration au réseau
 
 Voilà le schéma du réseau :
