@@ -19,6 +19,8 @@ Une fenêtre rectangulaire est découpée dans le bois et est cachée par une pl
 
 En façade de la plaque on retrouve la sortie audio de Jimi en gros jack, une entrée petit jack pour la réception d'un signal de gate, une LED qui s'allume lorsque le moteur est actif, un potentiomètre de volume et un autre permettant d'ajuster la position du bras-médiator par rapport à la corde. A l'arrière est fixé l'arduino.
 
+![Jimi détails](/ressources/photos/JIMI_4_SMALL.jpg)
+
 Deux jambes amovibles munies de pieds viennent se fixer derrière la planche, cela lui donne l'air super cool.
 
 
