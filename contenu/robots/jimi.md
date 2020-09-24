@@ -19,13 +19,14 @@ Planche de bois comportant une corde de guitare, un micro de guitare, des mécan
 Une fenêtre rectangulaire est découpée dans le bois et est cachée par une plaque métallique à l'arrière de laquelle est fixée toute l'électronique.
 
 
-![Jime de dos](/ressources/photos/jimi_dos.JPG)
+![Jimi détails](/ressources/photos/JIMI_2_SMALL.jpg)
+
 
 
 En façade de la plaque on retrouve la sortie audio de Jimi en gros jack, une entrée petit jack pour la réception d'un signal de gate, une LED qui s'allume lorsque le moteur est actif, un potentiomètre de volume et un autre permettant d'ajuster la position du bras-médiator par rapport à la corde. A l'arrière est fixé l'arduino.
 
 
-![Jimi détails](/ressources/photos/JIMI_2_SMALL.jpg)
+![Jime de dos](/ressources/photos/jimi_dos.JPG)
 
 
 Deux jambes amovibles munies de pieds viennent se fixer derrière la planche, cela lui donne l'air super cool.
