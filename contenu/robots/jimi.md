@@ -6,7 +6,7 @@ Jimi est une intelligence machine qui joue de la guitare, il peut improviser ou 
 
 ## Allure
 
-![Jimi](/ressources/photos/JIMI_1_SMALL.jpg)
+![Jimi](/ressources/photos/JIMI_4_SMALL.jpg)
 
 ## Matériaux
 
