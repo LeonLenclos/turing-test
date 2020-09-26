@@ -124,13 +124,13 @@ Lorsque vous parlez avec Alan en ligne, la partie *client* est chargée par votr
 ### Organisation du dépot d'Alan
 
 
-[Le dépôt git de Alan](https://github.com/LeonLenclos/alan) contient differentes versions du projets dans ce qu'on appelle des **branches**
+[Le dépôt git de Alan](https://github.com/LeonLenclos/alan) contient différentes versions du projet dans ce qu'on appelle des **branches**
 
-- La branche **master** contient la version la plus stable d'Alan mais aussi la moins recente. C'est la version qui est utilisée sur scène. Nous la mettons rarement a jour de peur que des bugs qui nous auraient échapés surgissent en pleine représentation.
+- La branche **master** contient la version la plus stable d'Alan mais aussi la moins récente. C'est la version qui est utilisée sur scène. Nous la mettons rarement à jour de peur que des bugs qui nous auraient échappé surgissent en pleine représentation.
 
-- La branche **internet** contient la version d'Alan avec la quelle on peut discuter en ligne, l'ordinateur sur lequel Alan est hebergé télécharge la version la plus recente de cette branche toutes les nuits à 4h.
+- La branche **internet** contient la version d'Alan avec laquelle on peut discuter en ligne. L'ordinateur sur lequel Alan est hébergé télécharge la version la plus récente de cette branche toutes les nuits à 4h.
 
-- La branche **develop** est la branche sur la quelle nous travaillons, lorsque nous estimons qu'elle est prête nous l'utilisons pour mettre à jour la branche *internet*. Et quand nous en somme vraiment fier, nous faisont une *release* pour mettre à jour la branche *master*
+- La branche **develop** est la branche sur laquelle nous travaillons. Lorsque nous estimons qu'elle est prête nous l'utilisons pour mettre à jour la branche *internet*. Et quand nous en sommes vraiment fiers, nous faisons une *release* pour mettre à jour la branche *master*
 
 ## Intentions
 
