@@ -2,13 +2,13 @@
 
 ![alan](/ressources/photos/ALAN_104_1_CROP_SMALL.jpg)
 
-Alan est le robot sur le quel nous avons passés le plus de temps. Encore aujourd'hui, c'est le robot que nous continuons le plus à améliorer.
+Alan est le robot sur lequel nous avons passé le plus de temps. Encore aujourd'hui, c'est le robot que nous continuons le plus à améliorer.
 
 Vous pouvez le rencontrer en ligne à cette adresse : [alan.cienokill.fr](http://alan.cienokill.fr)
 
 ## Description générale
 
-Alan est un agent conversationel. C'est un robot spécialisé dans la communication verbale, conçu pour donner l'illusion d'être conscient.
+Alan est un agent conversationnel. C'est un robot spécialisé dans la communication verbale, conçu pour donner l'illusion d'être conscient.
 
 Il a été créé avec la collaboration de l'[IRIT](https://www.irit.fr/) (Institut de Recherche en Informatique de Toulouse) et plus particulièrement des équipes de recherche SAMoVA et MELODI.
 
@@ -36,7 +36,7 @@ Carte mère (avec le processeur et la carte graphique fixés dessus), refroidiss
 
 ### Software, Comment ça marche ?
 
-[Le dépôt github de Alan](https://github.com/LeonLenclos/alan) est consacré au code source d'alan.
+[Le dépôt github de Alan](https://github.com/LeonLenclos/alan) est consacré au code source d'Alan.
 
 Une grande partie de l'architecture d'Alan est basée sur le package python [chatterbot](https://github.com/gunthercox/ChatterBot). Le programme d'Alan est ainsi composé de modules, des bouts de programmes (appelés adapter) qui répondent à des taches précises.
 
@@ -44,11 +44,11 @@ Une grande partie de l'architecture d'Alan est basée sur le package python [cha
 
 Le message de l'interlocuteur est d'abord traitée par des **preprocesseurs**, ces derniers effectuent quelques modifications sur le message pour le préparer et l'uniformiser.
 
-Viens ensuite le tour des **logics adapters** dont le rôle est de construire la réponse. Le programme envoie une premère fois le message à tous les logics adapters pour leur demander s'ils pensent pouvoir trouver une réponse. Chaque adapter a une méthode **can process** qui permet de répondre à cette question.
+Vient ensuite le tour des **logics adapters** dont le rôle est de construire la réponse. Le programme envoie une premère fois le message à tous les logics adapters pour leur demander s'ils pensent pouvoir trouver une réponse. Chaque adapter a une méthode **can process** qui permet de répondre à cette question.
 
-Une fois qu'il a fait la liste de tous les logics adapters capables de répondre, il leur envoie de nouveau le message pour qu'ils construisent une **réponse**. La réponse est accompagnée d'un **indice de confiance** fournit par chaque logic adapter pour indiquer à quel point il considère sa réponse comme satisfaisante.
+Une fois qu'il a fait la liste de tous les logics adapters capables de répondre, il leur envoie de nouveau le message pour qu'ils construisent une **réponse**. La réponse est accompagnée d'un **indice de confiance** fourni par chaque logic adapter pour indiquer à quel point il considère sa réponse comme satisfaisante.
 
-Le progamme choisi ensuite la réponse avec le meilleur **indice de confiance** et la retourne à l'interlocuteur.
+Le progamme choisit ensuite la réponse avec le meilleur **indice de confiance** et la retourne à l'interlocuteur.
 
 #### Les logics adapters en détail.
 
@@ -58,11 +58,11 @@ Chaque adapter a un rôle défini et possède ses propres techniques pour trouve
 
 ##### Un exemple simple : le logic adapter *catch-human-repetition*
 
-Le rôle de cet adapter est de repérer si l'interlocuteur se répète. Lorsque l'interlocuteur dit deux fois de suite la même phrase, il propose une réponse du genre "Tu viens de me dire ça.", Si l'interlocuteur dit une phrase qu'il a déjà dit dans la conversation il répond, par exemple "Tu m'as déjà dit ça tout à l'heure." mais avec un indice de confiance deux fois plus faible.
+Le rôle de cet adapter est de repérer si l'interlocuteur se répète. Lorsque l'interlocuteur dit deux fois de suite la même phrase, il propose une réponse du genre "Tu viens de me dire ça.", Si l'interlocuteur dit une phrase qu'il a déjà dite dans la conversation il répond, par exemple "Tu m'as déjà dit ça tout à l'heure." mais avec un indice de confiance deux fois plus faible.
 
 ##### Les Rive Script Adapters
 
-Plus de la moitié des logics adapters sont des **Rive Script Adapters**. Ils trouvent une réponse en utilisant des scripts écrit avec le langage [RiveScript](https://www.rivescript.com/). Ce langage a été conçu spécialement pour programmer des chatbots. Il permet de traiter simplement beaucoup de variation de messages et de générer des réponses personnalisés. 
+Plus de la moitié des logics adapters sont des **Rive Script Adapters**. Ils trouvent une réponse en utilisant des scripts écrits avec le langage [RiveScript](https://www.rivescript.com/). Ce langage a été conçu spécialement pour programmer des chatbots. Il permet de traiter simplement beaucoup de variations de messages et de générer des réponses personnalisées. 
 
 Par exemple, ce bout de code RiveScript
 
@@ -74,50 +74,50 @@ Par exemple, ce bout de code RiveScript
 
 Permet de répondre à une phrase comme "J'aime le sport" en choisissant au hasard une réponse entre "Moi je n'aime pas le sport" et "Moi aussi j'adore le sport". Mais il marchera de la même manière avec les phrases "J'aime le rhum", "J'aime le printemps", "J'aime le brlghtkmkh", etc.
 
-Les Rive Script Adapters travaillent avec des fichiers contenant des centaines de lignes de RiveScript faits pour traiter tout un ensemble de message souvent liés à un thème ou à un type de phrase. Par exemple, le Rive Script Adaper *art* traite les questions et les afirmations de l'interlocuteur se raportant aux arts et à la carrière artistique de Alan.
+Les Rive Script Adapters travaillent avec des fichiers contenant des centaines de lignes de RiveScript, faits pour traiter tout un ensemble de message souvent liés à un thème ou à un type de phrases. Par exemple, le Rive Script Adaper *art* traite les questions et les affirmations de l'interlocuteur se rapportant aux arts et à la carrière artistique de Alan.
 
 ##### Calculer les indices de confiance
 
-La plus-part des adapters ont un indice de confiance fixe. On donnera des bons indices de confiance à des adapters quis se déclanchent rarement mais sont toujours pertinents et des faibles indices de confiance à des adapters qui se déclanchent toujours mais sont en général peu pertinents. Cet équilibre est très important. Nous devons travailler sur des adapters de confiance qui vont impressionner l'interlocuteur avec leur pertinance, mais comme ils couvreront toujours un petit spectre de message il est important d'avoir en dessous des adapteurs de faible confiance qui donnent des réponses larges, tentent d'esquiver la question ou de changer de sujet.
+La plupart des adapters ont un indice de confiance fixe. On donnera des bons indices de confiance à des adapters qui se déclenchent rarement mais sont toujours pertinents et des faibles indices de confiance à des adapters qui se déclenchent toujours mais sont en général peu pertinents. Cet équilibre est très important. Nous devons travailler sur des adapters de confiance qui vont impressionner l'interlocuteur avec leur pertinence, mais comme ils couvriront toujours un petit spectre de messages il est important d'avoir en dessous des adapters de faible confiance qui donnent des réponses larges, tentent d'esquiver la question ou de changer de sujet.
 
-Sur certains logic adapters nous utilisons des indices de confiance dynamique. Par exemple, le logic adapter *salutations* qui s'occupe des "Bonjour", "Comment ça va", "Comment tu t'appelle", etc. a un bon indice de confiance en début de conversation et il diminue par la suite. Certains adapters (comme le *catch-human-repetition* évoqué plus haut) sont aussi capable d'adapter leur indice de confiance en fonction du contexte.
+Sur certains logic adapters nous utilisons des indices de confiance dynamiques. Par exemple, le logic adapter *salutations* qui s'occupe des "Bonjour", "Comment ça va", "Comment tu t'appelles", etc. a un bon indice de confiance en début de conversation et il diminue par la suite. Certains adapters (comme le *catch-human-repetition* évoqué plus haut) sont aussi capables d'adapter leur indice de confiance en fonction du contexte.
 
-Voici un tableau qui repertoriais tous les logics adapter et leur indice de confiance au début du développement :
+Voici un tableau qui repertoriait tous les logics adapters et leur indice de confiance au début du développement :
 
 ![alan_logic](/ressources/photos/alan_logic.JPG)
 
 
 ##### Le Mode Impro 
 
-Un des logics adapters, **mvo chatbot adapter** utilise un programme développé par Michael Vo dans le cadre de notre partenariat avec l'IRIT. C'est adapter n'est chargé qu'en spectacle et il s'occupe de ce que nous apelons le **Mode Impro**.
+Un des logics adapters, **mvo chatbot adapter** utilise un programme développé par Michael Vo dans le cadre de notre partenariat avec l'IRIT. Cet adapter n'est chargé qu'en spectacle et il s'occupe de ce que nous appelons le **Mode Impro**.
 
-Cet adapter utilise des méthodes d'apprentissage profond (réseau de neuronne) pour créer des réponses originales grace à un corpus de sous-titre de film.
+Cet adapter utilise des méthodes d'apprentissage profond (réseau de neuronnes) pour créer des réponses originales grâce à un corpus de sous-titres de film.
 
 #### Entrées/Sorties
 
-En plus des preprocesseurs et des logics adapters, d'autres modules ont un rôle important dans le fonctionnement d'Alan. Ce sont les **Input Adapters** et les **Output Adapters** ils s'occupent respectivement de gérér la reception des messages de l'interlocuteur et le renvoie de la réponse.
+En plus des préprocesseurs et des logics adapters, d'autres modules ont un rôle important dans le fonctionnement d'Alan. Ce sont les **Input Adapters** et les **Output Adapters**. Ils s'occupent respectivement de gérer la réception des messages de l'interlocuteur et le renvoi de la réponse.
 
 #### Storage
 
-Le dernier type de module que l'on trouve dans Alan s'appelle **Storage Adapter**. Son rôle est essentiellement d'enregistrer la conversations dans une base de donnée. Mais certains logics Adapter s'en server pour stocker d'autres informations. Par exemple, si Alan vous demande "C'est quoi une pomme ?" et que vous répondez "C'est un fruit", il stockera cet information dans la base de donnée pour pouvoir être capable de dire que "Une pomme est un fruit" dans une future conversation.
+Le dernier type de modules que l'on trouve dans Alan s'appelle **Storage Adapter**. Son rôle est essentiellement d'enregistrer la conversation dans une base de données. Mais certains logics adapters s'en servent pour stocker d'autres informations. Par exemple, si Alan vous demande "C'est quoi une pomme ?" et que vous répondez "C'est un fruit", il stockera cette information dans la base de données pour pouvoir être capable de dire que "Une pomme est un fruit" dans une future conversation.
 
 #### Differents réglages
 
-Un des avantage de ce système est sa modularité. En fonction du contexte dans le quel on lance Alan, on peut charger differents adapters. Par exemple, en spectacle on charge le Output Adapter qui permet de produire la synthèse vocale à Alan. Mais sur internet on ne le charge pas. De la même manière, certains logics adapter ne sont chargés que pour le spectacle, mais pas quand on fait converser Alan au public.
+Un des avantages de ce système est sa modularité. En fonction du contexte dans lequel on lance Alan, on peut charger differents adapters. Par exemple, en spectacle on charge le Output Adapter qui permet de produire la synthèse vocale à Alan. Mais sur internet on ne le charge pas. De la même manière, certains logics adapters ne sont chargés que pour le spectacle, mais pas quand on fait converser Alan avec le public.
 
-Nous utilisons principalement quatre réglages different : **spectacle**, **local**, **internet** et **default**
+Nous utilisons principalement quatre réglages differents : **spectacle**, **local**, **internet** et **default**
 
 
-#### Client/Server
+#### Client/Serveur
 
-Un dernier point important du fonctionnement d'Alan est l'architecture client/server. Nous l'avons au départ développé pour avoir un meilleur control sur l'interface d'Alan en spectacle mais elle s'est ensuite avérée essentielle pour la mise en ligne.
+Un dernier point important du fonctionnement d'Alan est l'architecture client/serveur. Nous l'avons au départ développée pour avoir un meilleur contrôle sur l'interface d'Alan en spectacle mais elle s'est ensuite avérée essentielle pour la mise en ligne.
 
 L'idée est de séparer le programme en deux :
 
 - d'un côté la partie **client** qui s'occupe de tout ce que l'on a sous les yeux lorsque l'on parle avec Alan, afficher une page, y afficher la conversation, permettre à l'utilisateur d'entrer des messages, etc. 
-- de l'autre coté, il y a le **server**, il contient l'essentiel du programme (tout ce qui est expliqué ci-dessus). Le client informe le server des phrases entrées par l'utilisateur et il lui demande quel est l'état de la conversation.
+- de l'autre coté, il y a le **serveur**, il contient l'essentiel du programme (tout ce qui est expliqué ci-dessus). Le client informe le serveur des phrases entrées par l'utilisateur et il lui demande quel est l'état de la conversation.
 
-Lorsque vous parlez avec Alan en ligne, la partie *client* est chargé par votre ordinateur. Mais la partie *server* tourne chez nous.
+Lorsque vous parlez avec Alan en ligne, la partie *client* est chargée par votre ordinateur. Mais la partie *serveur* tourne chez nous.
 
 
 
