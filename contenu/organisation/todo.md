@@ -22,7 +22,6 @@ Liste des choses à faire avec leur degré de priorité. Les tâches sont suppri
 
 - (!!) Trouver une solution pour reprendre le son de foot dans acte 3.
 - (!!!) Courriel recommandé université de Caen (kali).
-- (!) Caisse d'Alan + rangement accessoires.
 - (!) Caisse F1 + rangement accessoires.
 - (!) Caisse Néons + rangement accessoires.
 - Prendre le control de MVO Chatbot (entrainement).
@@ -31,8 +30,8 @@ Liste des choses à faire avec leur degré de priorité. Les tâches sont suppri
 - tester l'implantation du speach to text de Samova dans Alan.
 - Continuer à enrichir Alan.
 - Faire un Klan qui marche
-- Foot rajouter une led
 - Foot rajouter un piezzo
+- Changer interrupteur de la manette défectueuse pour Caro
 - Robots pas fait :
     - Toto
     - Dedo
@@ -42,6 +41,5 @@ Liste des choses à faire avec leur degré de priorité. Les tâches sont suppri
 - Décors :
     - Finir les finitions des tissus.
         - ajouter des aimants a certains endroits
-        - finir d'agrandir / refaire les tissus à cour
         
 [Retour à l'organisation de la création](.)
