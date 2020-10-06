@@ -953,5 +953,33 @@ Jeudi 9 : (Leon, Fabien, Ber, Arthur, Florian) 
 Vendredi 10 : (Leon, Fabien, Ber, Martin) 
 		Démontage et rationalisation du Rangement + Liste
 
+----------------------------------------------------------
+
+### Présentation des robots au centre culture Henri Desbals avec le QDS - du 7 au 10 octobre 2020
+
+Matériel à prendre:
+
+- Valise communication avec affiches
+- VP + pied et cable video pour projeter le site
+- Chargeurs Li-ion (vieu modèle)
+- Valise batteries
+- Testeur batterie
+- Valise Echo
+- Flight Mimi + Turc
+- Pions morpion (Plateau ?)
+- Flight Jimi
+- Caro ????? (Caro + Ecran ?)
+- Flight Alan
+- Sac à Alan + clavier, souris et cordon d'alimentation
+- Carton Lucy
+- Carton Foot
+- Carton Otto Matt
+- Triplettes
+- Prolon
+- Klan ? 
+
+
+
+
 [Retour à l'organisation de la création](.)
 
