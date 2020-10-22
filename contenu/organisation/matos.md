@@ -5,7 +5,7 @@ Liste du matériel nécessaire et suffisant pour une représentation de Turing T
 ## Matériel commun à Turing Test et L'Envol
 
 - CAISSE 3
-        - TR 808 ROLAND (avec pédale)
+        - Tr 808 Roland (avec pédale)
 
 - CAISSE 4
         - Synthétiseur modulaire master
@@ -19,18 +19,18 @@ Liste du matériel nécessaire et suffisant pour une représentation de Turing T
         - KIT SOUDURE (poste, electrode, masque et sécurité)
 
 - SAC BRAS 1 
-        - divers CABLES MODULAIRES ALIM et CASQUE, 
+        - divers cables modulaire, alim et Casque DT48, 
 
-- SAC BRAS 2
-        - divers CABLES AUDIOS
+- VALISE CABLE
+        - divers cables audios
 
 - VALISE 11 (Communication)
         - affiches, cartes postales et dossiers du spectacle
 
 - VALISE MICS (30)
-        - MICROS + DI
+        - Micros + Di
 
-- VALISE 32 (VP SECOUR) (**AJOUTER UNE ROTULE**)
+- VALISE 32 (VP SECOUR)
         - Optoma Grand angle
         - convertisseur Blackmagic avec alim
         - Pied
@@ -46,7 +46,7 @@ Liste du matériel nécessaire et suffisant pour une représentation de Turing T
 
 - VALISE VP CARO
         - Optoma Grand angle + obturateur + chouko + télécommande
-        - RECEPTEUR TERADEK + alim + hdmi
+        - Récepteur Terradek + alim + hdmi
         - Rotule
 
 - VALISE VP ALAN
@@ -57,11 +57,11 @@ Liste du matériel nécessaire et suffisant pour une représentation de Turing T
         - Echo + enceinte + DI
         - Yeux + chapeau + trig
 
-- VALISE - console MIDAS
+- VALISE - CONSOLE MIDAS
         - console + Chouco + double XLR rouge
 
-- VALISE - synthétiseur modulaire 2
-        - SYNTHÉ MODULAIRE 2 (mini) avec alim
+- VALISE - SYNTHÉ MODULAIRE 2
+        - synthétiseur modulaire 2 (mini) avec alim
 
 ### Caisses
 
@@ -105,13 +105,18 @@ Liste du matériel nécessaire et suffisant pour une représentation de Turing T
 - FLIGHT METRO
         - 1 Jack + 2 Bananes
         - Reverb + Oscilloscope + Patch
-
+        
+- FLIGHT ALAN
+        - Alan
+        
 ### Cartons
 
-- CARTON CABLES 
+- CARTON VRAC
+        - Jouet
+        - scotcheuse
+        - pelle etc...
 
-- CARTON ALAN (**À TRANSFORMER EN CAISSE BIEN !**)
-        - Alan
+- CARTON de petits cartons
 
 - CARTON F1 (**À TRANSFORMER EN CAISSE BIEN !**)
         - ..
@@ -137,8 +142,7 @@ Liste du matériel nécessaire et suffisant pour une représentation de Turing T
         - pochette jaune (papier noir + cible + morts lucy +)
 
 - CARTON CABLE
-        - Câble plateau Toron
-
+        - Câble plateau Toron 2km
 - CARTON IYAMA
         - Ecran + Chouko + HDMI
 
@@ -198,23 +202,19 @@ Liste du matériel nécessaire et suffisant pour une représentation de Turing T
         - Cintre
         - Poche avec 3 paires de Chaussures
 
+- CARTON SOCLE CUISINE
 
-### Sacs Plastiques
+### Grands Sacs toile
 
-- SAC TRIPLETTES
+- SAC TRIPLETTES et PROLONG
         - 5 grandes Noires
         - 2 Petites Noires
         - 1 Marron pour Ail
         - 4 Blanches
         - 3 Doublettes de spare
         - 2 Chouko de spare
-
-- SAC PROLON
-        - 1 grand prolon avec triplette
         - 3 Prolon 10 m
         - 2 prolon de 2 m
-
-### Grands Sacs toile
 
 - 2 Sacs Noirs ferraille :
         - Croisillon Klan
