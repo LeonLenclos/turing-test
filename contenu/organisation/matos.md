@@ -11,10 +11,8 @@ Liste du matériel nécessaire et suffisant pour une représentation de Turing T
         - Synthétiseur modulaire master
 
 - MALE 8 (Outillage, dépannage)
-        - MAKITA visseuse avec alim et batteries SN:2016 752453
         - SAC scotch
         - SAC BIJOUTE (divers Clamp, spigot, pinces)
-        - CAISSE OUTIL ROUGE (divers outils avec Clé Klan et Pince étau)
         - CAISSE VIS BLEUE (vis et clous)
         - KIT SOUDURE (poste, electrode, masque et sécurité)
 
@@ -30,6 +28,8 @@ Liste du matériel nécessaire et suffisant pour une représentation de Turing T
 - VALISE MICS (30)
         - Micros + Di
 
+- VALISE HF
+
 - VALISE 32 (VP SECOUR)
         - Optoma Grand angle
         - convertisseur Blackmagic avec alim
@@ -39,6 +39,10 @@ Liste du matériel nécessaire et suffisant pour une représentation de Turing T
         - console
 
 - VENTILO
+
+- MAKITA visseuse avec alim et batteries SN:2016 752453
+
+- CAISSE OUTIL ROUGE (divers outils avec Clé Klan et Pince étau)
 
 ## Matériel spécifique à Turing Test
 
@@ -116,7 +120,7 @@ Liste du matériel nécessaire et suffisant pour une représentation de Turing T
         - scotcheuse
         - pelle etc...
 
-- CARTON de petits cartons
+- CARTON de petits cartons (carton léon final)
 
 - CARTON F1 (**À TRANSFORMER EN CAISSE BIEN !**)
         - ..
@@ -131,7 +135,13 @@ Liste du matériel nécessaire et suffisant pour une représentation de Turing T
 - CARTON ALIM LED
         - Alim LED
 
-- CARTON ACCESOIRES
+- CARTON DÉCORS
+        - W Y J etc.
+        - Cales
+        - Boite rouge des vis
+        - Paillasson
+
+- CARTON ACCESSOIRES
         - carton strobo
         - carton figurines
         - Trepied compteur
@@ -176,8 +186,8 @@ Liste du matériel nécessaire et suffisant pour une représentation de Turing T
         - Papier Craft
         - Affiches
 
-- CARTON DE JIMI
-        - carton du carton de Jimi
+- CARTON DU CARTON DE JIMI
+        - carton de Jimi
         - carton remorque
 
 - CARTON CUISINE
