@@ -9,6 +9,8 @@ Ces fichiers sont des outils qui nous permettent de nous organiser. Puisque nous
 
 - [![generique](/ressources/icons/generique.png)Générique](generique), liste des collaborateurs de la création.
 
+- [![matos](/ressources/icons/logistique.png)Matos](matos), Liste du matériel nécessaire et suffisant pour une représentation de Turing Test.
+
 - [![logistique](/ressources/icons/logistique.png)Logistique](logistique), organisation de la création :  planning résidences, transports et régie, listes de matériel, achats.
 
 - [![todo](/ressources/icons/todo.png)Todo](todo), Trucs à faire.
