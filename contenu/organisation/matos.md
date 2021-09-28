@@ -4,10 +4,10 @@ Liste du matériel nécessaire et suffisant pour une représentation de Turing T
 
 ## Matériel commun à Turing Test et L'Envol
 
-- CAISSE 3
+- FLIGHT 3
         - Tr 808 Roland (avec pédale)
 
-- CAISSE 4
+- FLIGHT 4
         - Synthétiseur modulaire master
 
 - MALE 8 (Outillage, dépannage)
@@ -35,7 +35,7 @@ Liste du matériel nécessaire et suffisant pour une représentation de Turing T
         - convertisseur Blackmagic avec alim
         - Pied
 
-- CONSOLE LIGHT
+- VALISE CONSOLE LIGHT
         - console
 
 - VENTILO
@@ -64,10 +64,7 @@ Liste du matériel nécessaire et suffisant pour une représentation de Turing T
 - VALISE - CONSOLE MIDAS
         - console + Chouco + double XLR rouge
 
-- VALISE - SYNTHÉ MODULAIRE 2
-        - synthétiseur modulaire 2 (mini) avec alim
-
-### Caisses
+### Flights
 
 - FLIGHT VALISE MUSIQUE
         - TT303 + alim
@@ -112,6 +109,16 @@ Liste du matériel nécessaire et suffisant pour une représentation de Turing T
         
 - FLIGHT ALAN
         - Alan
+
+- FLIGHT F1
+        - 2 barres de 4 x F1
+
+- FLIGHT NÉONS
+        - 3 néons
+        - chouko
+
+- TUBE BARRES LEDS
+        - 8 barres de leds
         
 ### Cartons
 
@@ -122,15 +129,6 @@ Liste du matériel nécessaire et suffisant pour une représentation de Turing T
 
 - CARTON de petits cartons (carton léon final)
 
-- CARTON F1 (**À TRANSFORMER EN CAISSE BIEN !**)
-        - ..
-
-- CARTON NÉONS (**À TRANSFORMER EN CAISSE BIEN !**)
-        - 3 néons
-        - chouko
-
-- CARTON BARRRE LEDS
-        - 8 barres de leds
 
 - CARTON ALIM LED
         - Alim LED
@@ -203,7 +201,7 @@ Liste du matériel nécessaire et suffisant pour une représentation de Turing T
         - Bleu de travail BBR
         - Veste Bleu BBR
         - Pantalon Rayé Noir BBR
-        - 3 Polaires rouges qui puent BBR
+        - 1 Polaire rouge qui pue BBR
         - Tshirt Blanc Léon
         - Caleçon rouge BBR
         - Chaussettes Noires BBR
