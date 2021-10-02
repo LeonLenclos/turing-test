@@ -275,7 +275,7 @@ Léon :
 
 ### Outro
 
-- Léon mute [Core](../robots/core.md), pose les cartons sur les têtes, dessine des visages, coupe [Klan](../robots/klan.md) et envoie le générique.
+- Léon stope [Core](../robots/core.md), pose les cartons sur les têtes, dessine des visages, coupe [Klan](../robots/klan.md) et envoie le générique.
 - Bertrand, Fabien et Léon font une chorégraphie plutôt chouette.
 - après que Alan ai dit "c’est fini à bientôt" , salut bien bas avec les cartons.
 - Bertrand, Fabien et Léon se releve avec les cartons = image de fin
