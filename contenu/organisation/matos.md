@@ -2,7 +2,7 @@ Matos TT
 ========
 Liste du matériel nécessaire et suffisant pour une représentation de Turing Test
 
-## Matériel commun à Turing Test et L'Envol
+## Matériel commun à Turing Test, Elektra et L'Envol
 
 - FLIGHT 3
         - Tr 808 Roland (avec pédale)
@@ -17,7 +17,23 @@ Liste du matériel nécessaire et suffisant pour une représentation de Turing T
         - KIT SOUDURE (poste, electrode, masque et sécurité)
 
 - SAC BRAS 1 
-        - divers cables modulaire, alim et Casque DT48, 
+        - divers cables modulaire, alim et Casque DT48
+
+- SAC TRIPLETTES et PROLONG
+        - 5 grandes Noires
+        - 2 Petites Noires
+        - 1 Marron pour Ail
+        - 4 Blanches
+        - 3 Doublettes de spare
+        - 2 Chouko de spare
+        - 3 Prolon 10 m
+        - 2 prolon de 2 m
+
+- SAC LED =====> à transformer en caisse
+        - PAR à LED
+        - STROBO
+        - GRADA
+        - ALIM LED
 
 - VALISE CABLE
         - divers cables audios
@@ -26,7 +42,7 @@ Liste du matériel nécessaire et suffisant pour une représentation de Turing T
         - affiches, cartes postales et dossiers du spectacle
 
 - VALISE MICS (30)
-        - Micros + Di
+        - Micros + Di + Pédale Autotune Electro harmonix V256
 
 - VALISE HF
 
@@ -43,6 +59,10 @@ Liste du matériel nécessaire et suffisant pour une représentation de Turing T
 - MAKITA visseuse avec alim et batteries SN:2016 752453
 
 - CAISSE OUTIL ROUGE (divers outils avec Clé Klan et Pince étau)
+
+- 2 PIEDS Manfrotto
+
+- VESTE SURVET bleue ber
 
 ## Matériel spécifique à Turing Test
 
@@ -63,6 +83,10 @@ Liste du matériel nécessaire et suffisant pour une représentation de Turing T
 
 - VALISE - CONSOLE MIDAS
         - console + Chouco + double XLR rouge
+        
+- VALISE THINK PAD OTTOMANN
+        -  avec alim
+
 
 ### Flights
 
@@ -129,10 +153,6 @@ Liste du matériel nécessaire et suffisant pour une représentation de Turing T
 
 - CARTON de petits cartons (carton léon final)
 
-
-- CARTON ALIM LED
-        - Alim LED
-
 - CARTON DÉCORS
         - W Y J etc.
         - Cales
@@ -140,7 +160,6 @@ Liste du matériel nécessaire et suffisant pour une représentation de Turing T
         - Paillasson
 
 - CARTON ACCESSOIRES
-        - carton strobo
         - carton figurines
         - Trepied compteur
         - Divers Accessoires décors 
@@ -151,6 +170,7 @@ Liste du matériel nécessaire et suffisant pour une représentation de Turing T
 
 - CARTON CABLE
         - Câble plateau Toron 2km
+        
 - CARTON IYAMA
         - Ecran + Chouko + HDMI
 
@@ -214,16 +234,6 @@ Liste du matériel nécessaire et suffisant pour une représentation de Turing T
 
 ### Grands Sacs toile
 
-- SAC TRIPLETTES et PROLONG
-        - 5 grandes Noires
-        - 2 Petites Noires
-        - 1 Marron pour Ail
-        - 4 Blanches
-        - 3 Doublettes de spare
-        - 2 Chouko de spare
-        - 3 Prolon 10 m
-        - 2 prolon de 2 m
-
 - 2 Sacs Noirs ferraille :
         - Croisillon Klan
         - 4 jambes
@@ -258,6 +268,5 @@ Liste du matériel nécessaire et suffisant pour une représentation de Turing T
 - Balais
 - Escabelle
 - Porte
-
 
 [Retour à l'organisation de la création](.)
