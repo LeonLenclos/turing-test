@@ -5,7 +5,7 @@
 const int buttonPin = 2;
 const int trigPin = 4;
 const int ledPin =  13;
-const int ServoPin = 9;
+const int ServoPin = 3;
 //delai en ms ajouté à la fin de la boucle pour éviter de rendre fou l'arduino
 const int delai = 1;
 
