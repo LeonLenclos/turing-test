@@ -24,10 +24,12 @@ Liste des choses à faire avec leur degré de priorité. Les tâches sont suppri
 - ajouter place pour dodo mise fab1
 - faire des dmx
 - ajouter le multiplier du qcd à 1 dans mise bbrt
-
+- jetons turc
+- trig Jimi
 
 ### autre t.a.f
 
+- kezako alan
 - Prendre le control de MVO Chatbot (entrainement).
 - Formater le corpus de sous-titres rassemblés par nous même.
 - tester l'implantation du speach to text de Samova dans Alan.
