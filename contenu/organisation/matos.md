@@ -14,7 +14,6 @@ Liste du matériel nécessaire et suffisant pour une représentation de Turing T
         - SAC scotch
         - SAC BIJOUTE (divers Clamp, spigot, pinces)
         - CAISSE VIS BLEUE (vis et clous)
-        - KIT SOUDURE (poste, electrode, masque et sécurité)
 
 - SAC BRAS 1 
         - divers cables modulaire, alim et Casque DT48
@@ -29,7 +28,7 @@ Liste du matériel nécessaire et suffisant pour une représentation de Turing T
         - 3 Prolon 10 m
         - 2 prolon de 2 m
 
-- SAC LED =====> à transformer en caisse
+- VALISE LUMIÈRE
         - PAR à LED
         - STROBO
         - GRADA
