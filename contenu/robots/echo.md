@@ -18,7 +18,7 @@ Assemblage de raccords en PVC avec l'électronique fixée dedans.
 ## Construction, description technique
 Arduino branché à une enceinte amplifiée et à un capteur ultrason qui permet de détecter la présence d'objets et de calculer leur distance. La lecture d'un échantillon 'commentaire élogieux' ou 'commentaire dépréciatif' est déclenchée aléatoirement quand un objet entre dans une gamme de distances par rapport au robot (entre 10cm et 50cm). Il faut alors que l'objet sorte du champ visuel du robot pour que l'introduction d'un autre objet déclenche un autre commentaire.  
 
-Le code de l'arduino est disponible [ici](../../sources/arduino/echo)
+Le code de l'arduino est disponible [ici](../../sources/arduino/echo/echov2/echov2.ino)
 
 ## Améliorations effectuées
 - Une LED informe si echo pense qu'il est en présence d'un objet ou pas.
