@@ -9,23 +9,22 @@ Liste des choses à faire avec leur degré de priorité. Les tâches sont suppri
 - `(!!)` prioritée haute
 - `(!!!)` urgent
 
-
 ### Courses
 
-- RAS
+- [ ] - barre métal pour pions
 
 ### Cablage
 
-- RAS
+- [ ] - réparer raccord ms 20
 
-### T.A.F avant mazades
+### T.A.F avant oddysud 2023
 
-- nouvelle mise f6
-- ajouter place pour dodo mise fab1
-- faire des dmx
-- ajouter le multiplier du qcd à 1 dans mise bbrt
-- jetons turc
-- trig Jimi
+- [ ] - ajouter le multiplier du qcd à 1 dans mise bbrt
+- [ ] - jeton métal morpion
+- [ ] - turc régler PB piston
+- [ ] - petits papiers
+- [ ] - refaire soudure cassée sur la table
+- [ ] - changer servo caro
 
 ### autre t.a.f
 
@@ -45,6 +44,6 @@ Liste des choses à faire avec leur degré de priorité. Les tâches sont suppri
     - Karl
 - Décors :
     - Finir les finitions des tissus.
-        - ajouter des aimants a certains endroits
+    - ajouter des aimants a certains endroits
         
 [Retour à l'organisation de la création](.)
