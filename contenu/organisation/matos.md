@@ -16,7 +16,7 @@ Liste du matériel nécessaire et suffisant pour une représentation de Turing T
         - CAISSE VIS BLEUE (vis et clous)
 
 - SAC BRAS 1 
-        - divers cables modulaire, alim et Casque DT48
+        - divers cables modulaire, alim modulaire et Casque HD25
 
 - SAC TRIPLETTES et PROLONG
         - 5 grandes Noires
@@ -33,6 +33,7 @@ Liste du matériel nécessaire et suffisant pour une représentation de Turing T
         - STROBO
         - GRADA
         - ALIM LED
+        - cables DMX
 
 - VALISE CABLE
         - divers cables audios
@@ -61,7 +62,13 @@ Liste du matériel nécessaire et suffisant pour une représentation de Turing T
 
 - 2 PIEDS Manfrotto
 
+- 2 pieds découpes
+
+- 2 découpes
+
 - VESTE SURVET bleue ber
+
+- gourdes
 
 ## Matériel spécifique à Turing Test
 
@@ -252,9 +259,9 @@ Liste du matériel nécessaire et suffisant pour une représentation de Turing T
         - Tiroir Léon (Marqueurs + Posca + Morpions)
         - Tiroir Fabi (petits papiers)
         - Compartiment Alan (sacs + clavier + souris + 2 mini claviers + chouko)
-        - tiroit chargeurs (chargeur 5V + chargeur accu + 2 chargeurs LIMA + SKY RC + alim usb + alim rpi + sony LION 2S + batterie USB)
+        - tiroir chargeurs (chargeur 5V + chargeur accu + 2 chargeurs LIMA + SKY RC + alim usb + alim rpi + sony LION 2S + batterie USB)
         - VALISE KLAN (cerveau de klan)
-        - VALISE BATTERY (1 lion 3s + 6 lion 2s + 2 lipo 3s)
+        - VALISE BATTERY (1 lion 3s + 8 lion 2s + 2 lipo 3s)
 
 ### Vrac
 
