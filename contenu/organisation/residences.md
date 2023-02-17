@@ -542,7 +542,7 @@ On reste ensemble l'après-midi en résidence.
 - Kiffer et faire kiffer les ados
 - Proposer une restitution avec un peu d'écriture et de mise en scène.
 - Fabriquer un robot chatbot
-
+https://stacklima.com/python-convertir-la-parole-en-texte-et-le-texte-en-parole/
 
 #### Résultats
 
