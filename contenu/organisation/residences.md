@@ -534,7 +534,10 @@ Le 27 à 17h sortie de résidence avec des chercheurs de l'IRIT à laquelle sont
 ----------------------------------------------------------
 
 ### - Le Kiwi - Ramonville (31) - du 24 au 28 avril 2023. Colo Kiwi.
-On accueille un groupe d'Ados 3 heures par jour au kiwi dans le cadre d'une colo Robots/Chatbot/musique electro/dessin/construction.
+
+#### Le projet
+
+Le matin on accueille un groupe d'Ados (9/13 ans) 3 heures par jour au kiwi dans le cadre d'une colo Robots/Chatbot/musique electro/dessin/construction.
 On reste ensemble l'après-midi en résidence.
 
 #### Objectifs avec les ados
