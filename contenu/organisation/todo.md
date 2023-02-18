@@ -11,7 +11,6 @@ Liste des choses à faire avec leur degré de priorité. Les tâches sont suppri
 
 ### Courses
 
-- [ ] - barre métal pour pions
 
 ### Cablage
 
