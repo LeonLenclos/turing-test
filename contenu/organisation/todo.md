@@ -24,7 +24,6 @@ Liste des choses à faire avec leur degré de priorité. Les tâches sont suppri
 - [ ] - turc régler PB piston
 - [ ] - petits papiers
 - [ ] - refaire soudure cassée sur la table
-- [ ] - changer servo caro
 
 ### autre t.a.f
 
