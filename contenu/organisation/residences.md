@@ -24,6 +24,7 @@ Les différentes résidences
 - MIMA - Mirepoix (09) - du 25 au 31 aout 2019 - représentation le 1 et 2 aout 2019.
 - Espace Bonnefoy - Toulouse (31) - du 23 au 27 septembre 2019. Reprise.
 - Odyssud - Théatre de St Exupère - Blagnac (31) - du 6 au 10 janvier 2020. Reprise.
+- Le Kiwi - Ramonville (31) - du 24 au 28 avril 2023. Colo Kiwi.
 
 ## Programme des Résidences
 
