@@ -540,9 +540,20 @@ On reste ensemble l'après-midi en résidence.
 #### Objectifs avec les ados
 
 - Kiffer et faire kiffer les ados
-- Proposer une restitution avec un peu d'écriture et de mise en scène.
-- Fabriquer un robot chatbot
-https://stacklima.com/python-convertir-la-parole-en-texte-et-le-texte-en-parole/
+- Proposer une restitution avec un peu d'écriture, de mise en scène, de musique improvisée.
+- Fabriquer un robot chatbot (KIWI ?). Le support pourrait être un robot fabriqué en carton/tissus sur la base de caro2 avec un raspberry embarqué plus micro et haut parleur.
+- Une piste pour le Speach to text  : https://stacklima.com/python-convertir-la-parole-en-texte-et-le-texte-en-parole/
+
+Les différents ateliers :
+1. dessins projets robots
+1. construction physique du robot
+1. programmation chatbot
+1. musique improvisée sur modulaire
+1. écriture/répétition restitution
+
+#### Objectifs sans les ados
+
+- enregistrer correctement les musiques de TT en vue d'une édition vinyle/plateforme
 
 #### Résultats
 
