@@ -548,6 +548,7 @@ Les différents ateliers :
 1. dessins projets robots
 1. construction physique du robot
 1. programmation chatbot
+1. construction autres robots (dédo, toto)
 1. musique improvisée sur modulaire
 1. écriture/répétition restitution
 
