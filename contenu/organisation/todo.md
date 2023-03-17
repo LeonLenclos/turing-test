@@ -34,6 +34,7 @@ Liste des choses à faire avec leur degré de priorité. Les tâches sont suppri
 - Faire un Klan qui marche
 - Foot rajouter un piezzo
 - Changer interrupteur de la manette défectueuse pour Caro
+- rajouter un cable reseau pour la console lumiere
 - Robots pas fait :
     - Toto
     - Dedo
