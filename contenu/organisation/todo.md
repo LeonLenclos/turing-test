@@ -21,6 +21,7 @@ Liste des choses à faire avec leur degré de priorité. Les tâches sont suppri
 - Acheter cafetière
 - Acheter rondelles Klan et Turc
 - Acheter piles AA et AAA
+- Acheter feutres
 - Réparer cafetière
 - Problème au demarrage d'Alan (bios) ??
 - Réparer Modulaire
