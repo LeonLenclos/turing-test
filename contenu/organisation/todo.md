@@ -19,13 +19,18 @@ Liste des choses à faire avec leur degré de priorité. Les tâches sont suppri
 - Acheter scratch
 - Acheter aimants
 - Acheter cafetière
-- Acheter rondelles Klan et Turc
+- Acheter rondelles Klan et Turc et Mimi
+- Meuler et fixer rondelles Mimi
 - Acheter piles AA et AAA
 - Acheter feutres
 - Réparer cafetière
 - Problème au demarrage d'Alan (bios) ??
 - Réparer Modulaire
 - Ajouter miroir F1 établis -> cible
+- Acheter Alim Spare MS20
+- Acheter poubelle
+- Mettre scratch sur tables
+- Destituer Macron
 
 
 ### autre t.a.f
