@@ -16,14 +16,11 @@ Liste des choses à faire avec leur degré de priorité. Les tâches sont suppri
 
 ### T.A.F avant stras 2023
 
-- Acheter cafetière
+- Acheter Audio shiel ada fruit
 - Acheter rondelles Klan et Turc et Mimi
 - Meuler et fixer rondelles Mimi
 - Acheter piles AA et AAA
-- Acheter feutres
-- Réparer cafetière
 - Problème au demarrage d'Alan (bios) ??
-- Acheter Alim Spare MS20
 - Acheter poubelle
 - Mettre scratch sur tables
 - Destituer Macron
