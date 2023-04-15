@@ -541,24 +541,32 @@ Le 27 à 17h sortie de résidence avec des chercheurs de l'IRIT à laquelle sont
 Le matin on accueille un groupe d'Ados (9/13 ans) 3 heures par jour au kiwi dans le cadre d'une colo Robots/Chatbot/musique electro/dessin/construction.
 On reste ensemble l'après-midi en résidence.
 
+L'atelier consiste à réaliser collectivement un robot et a mettre en scène sa présentation en vue de la restitution du Vendredi.
+Nous alterneront des moments de travail collectif pour effectuer les choix important concernant ce robot et des moments de travail en sous-groupe pour les détails de construction et de mise en scène. Les groupes se constituront en fonction des intérêt de chaque enfant pour les différents aspects de la création (dessin, musique, électronique, Écriture, fabrication, etc.) Les groupes seront fluides (possibilité de changer de groupe d'un jour à l'autre). En fonction des moment nous diviseront le groupe en 1,2 ou 3 sous-groupes.
+
 #### Objectifs avec les ados
 
 - Kiffer et faire kiffer les ados
 - Proposer une restitution avec un peu d'écriture, de mise en scène, de musique improvisée.
-- Fabriquer un robot chatbot (KIWI ?). Le support pourrait être un robot fabriqué en carton/tissus sur la base de caro2 avec un raspberry embarqué plus micro et haut parleur.
-- Une piste pour le Speach to text  : https://stacklima.com/python-convertir-la-parole-en-texte-et-le-texte-en-parole/
+- Fabriquer un robot chatbot (KIWI ?). Le support pourrait être un robot fabriqué en carton/tissus sur la base de caro2 avec un raspberry ou arduino embarqué plus audio shield et haut-parleur haut parleur, leds et servo qui animent le robots.
 
 Les différents ateliers :
-1. dessins projets robots
-1. construction physique du robot
-1. programmation chatbot
-1. construction autres robots (dédo, toto)
-1. musique improvisée sur modulaire
-1. écriture/répétition restitution
+1. dessins projet robot
+2. construction physique du robot
+3. musique improvisée sur modulaire
+4. écriture/répétition restitution
 
 #### Objectifs sans les ados
 
-- enregistrer correctement les musiques de TT en vue d'une édition vinyle/plateforme
+- enregistrer correctement les musiques de TT en vue d'une édition vinyle/plateforme, finitions robots, todo etc.
+
+#### Liste de matériel en plus de TT
+Scie, ponceuse
+carton robot en cours
+divers matériaux récup
+
+
+
 
 #### Résultats
 
