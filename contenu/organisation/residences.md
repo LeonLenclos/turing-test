@@ -561,10 +561,27 @@ Les différents ateliers :
 - enregistrer correctement les musiques de TT en vue d'une édition vinyle/plateforme, finitions robots, todo etc.
 
 #### Liste de matériel en plus de TT
-Scie, ponceuse
-carton robot en cours
-divers matériaux récup
+1. Scie, ponceuse
+2. carton robot en cours
+3. divers matériaux récup
 
+![recup](/ressources/photos/IMG_20230414_143349.jpg)
+
+![recup](/ressources/photos/IMG_20230414_143613.jpg)
+
+![recup](/ressources/photos/IMG_20230414_144149.jpg)
+
+![recup](/ressources/photos/IMG_20230414_145033.jpg)
+
+![recup](/ressources/photos/IMG_20230414_145134.jpg)
+
+![recup](/ressources/photos/IMG_20230414_145507.jpg)
+
+![recup](/ressources/photos/IMG_20230414_185943.jpg)
+
+![recup](/ressources/photos/IMG_20230415_121947.jpg)
+
+![recup](/ressources/photos/IMG_20230415_170052.jpg)
 
 
 
