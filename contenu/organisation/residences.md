@@ -564,6 +564,10 @@ Les différents ateliers :
 1. Scie, ponceuse
 2. carton robot en cours
 3. divers matériaux récup
+4. fer à souder
+5. modulaire 2
+6. Protools
+7. rack Master
 
 ![recup](/ressources/photos/IMG_20230414_143349.jpg)
 
