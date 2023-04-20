@@ -563,11 +563,12 @@ Les différents ateliers :
 #### Liste de matériel en plus de TT
 1. Scie, ponceuse
 2. carton robot en cours
-3. divers matériaux récup
-4. fer à souder
-5. modulaire 2
-6. Protools 2 + micro S80 + pied
-7. rack Master
+3. divers matériaux récup : TOTO, DEDO, carton, papier maché
+4. selection peinture pinceau
+5. fer à souder
+6. modulaire 2
+7. Protools 2 + micro S80 + pied
+8. rack Master
 
 ![recup](/ressources/photos/IMG_20230414_143349.jpg)
 
