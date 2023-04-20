@@ -566,7 +566,7 @@ Les différents ateliers :
 3. divers matériaux récup
 4. fer à souder
 5. modulaire 2
-6. Protools
+6. Protools 2 + micro S80 + pied
 7. rack Master
 
 ![recup](/ressources/photos/IMG_20230414_143349.jpg)
