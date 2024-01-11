@@ -165,7 +165,6 @@ Pour passer de la position 1 à 2 et inversement, il suffit d'appuyer sur le bou
  - 4 Alan out
 
 ![Cablage Core](/ressources/croquis/cablage-core.jpeg)
-Breadcrumbs
 
 [Retour à la liste des robots du laboratoire](.)
 
