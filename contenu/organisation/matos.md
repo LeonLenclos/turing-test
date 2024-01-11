@@ -12,13 +12,15 @@ Liste du matériel nécessaire et suffisant pour une représentation de Turing T
 
 - MALE 8 (Outillage, dépannage)
         - SAC scotch
-        - SAC BIJOUTE (divers Clamp, spigot, pinces)
-        - CAISSE VIS BLEUE (vis et clous)
+        - SAC BIJOUTE manfrotto (divers Clamp, spigot, pinces)
+        - SAC BIJOUTE Classique (collier, pinces)
+        - SAC pinces Stanley et serre-joints
+        - CAISSE VIS vrac (vis et clous)
 
 - SAC BRAS 1 
         - divers cables modulaire, alim modulaire et Casque HD25
 
-- SAC TRIPLETTES et PROLONG
+- VALISE TRIPLETTES et PROLONG
         - 5 grandes Noires
         - 2 Petites Noires
         - 1 Marron pour Ail
@@ -54,7 +56,7 @@ Liste du matériel nécessaire et suffisant pour une représentation de Turing T
 - VALISE CONSOLE LIGHT
         - console
 
-- VENTILO
+- CARTON VENTILO
 
 - MAKITA visseuse avec alim et batteries SN:2016 752453
 
@@ -145,7 +147,7 @@ Liste du matériel nécessaire et suffisant pour une représentation de Turing T
 
 - FLIGHT NÉONS
         - 3 néons
-        - chouko
+        - chouko spécial
 
 - TUBE BARRES LEDS
         - 8 barres de leds
