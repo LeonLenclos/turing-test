@@ -14,8 +14,9 @@ Liste des choses à faire avec leur degré de priorité. Les tâches sont suppri
 - ajouter le multiplier du qcd à 1 dans mise bbrt
 - Accord Jimi Si bémol
 
-### T.A.F avant stras 2023
+### T.A.F 
 
+- réparer bouton Lucy 
 - Meuler et fixer rondelles Mimi
 - Problème au demarrage d'Alan (bios) ??
 - Mettre scratch sur tables
