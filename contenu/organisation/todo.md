@@ -9,6 +9,14 @@ Liste des choses à faire avec leur degré de priorité. Les tâches sont suppri
 - `(!!)` prioritée haute
 - `(!!!)` urgent
 
+### Panes
+
+- son Jimi 
+- clavier ail (batterie morte il faut le brancher)
+- foot déconné quand il est branché en trig
+- PAR frigo
+- couteau noir disparu 🔪🫣
+
 ### Mise
 
 - ajouter le multiplier du qcd à 1 dans mise bbrt
@@ -16,7 +24,7 @@ Liste des choses à faire avec leur degré de priorité. Les tâches sont suppri
 
 ### T.A.F 
 
-- réparer bouton Lucy 
+- réparer bouton Lucy (écrou de 12)
 - Meuler et fixer rondelles Mimi
 - Problème au demarrage d'Alan (bios) ??
 - Mettre scratch sur tables
