@@ -17,7 +17,7 @@ Fabien Banief, [Bertrand Lenclos](http://bertrandlenclos.com/) et [Léon Lenclos
 
 ---------------------------------------------------
 
-Le spectacle contiue d'évoluer et la création se poursuit, notamment avec la conception et la fabrication de nouveaux robots. Nous avons très tôt décidés de rendre le processus de création ouvert. Vous trouverez donc ici un ensemble de textes, d'idées, de plans et de tout ce qui témoigne de l'évolution passée et future de Turing Test.
+Le spectacle est arrêté depuis 2025. Cette documentation reste accessible en archive. Nous avons très tôt décidés de rendre le processus de création ouvert. Vous trouverez donc ici un ensemble de textes, d'idées, de plans et de tout ce qui témoigne de l'évolution passée et future de Turing Test.
 
 ![warning-wip](/ressources/icons/warning-wip.png) Travail en cours. ![warning-wip](/ressources/icons/warning-wip.png)
 
